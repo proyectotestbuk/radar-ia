@@ -1,0 +1,33 @@
+name: Radar IA — cosecha diaria
+
+on:
+  schedule:
+    # 05:00 UTC = 07:00 en Madrid (verano). GitHub puede retrasarlo unos minutos: da igual.
+    - cron: "0 5 * * *"
+  workflow_dispatch:        # botón "Run workflow" para lanzarlo a mano cuando se quiera
+
+permissions:
+  contents: write           # necesario para que el bot pueda commitear la página del día
+
+jobs:
+  cosechar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Sin pip install: build.py usa solo la biblioteca estándar, a propósito.
+      - name: Cosechar titulares y generar la web
+        run: python build.py
+
+      - name: Publicar la página del día
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet && echo "Sin novedades hoy: no se commitea." && exit 0
+          git commit -m "Radar IA — $(date -u +%Y-%m-%d)"
+          git push

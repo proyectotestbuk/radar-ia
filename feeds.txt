@@ -1,0 +1,26 @@
+# Fuentes del Radar IA — una por línea
+#
+# formato:  nombre | idioma | url_del_feed | filtro_opcional
+#
+#   - filtro: palabras separadas por comas. Si se pone, SOLO pasan los titulares
+#     que contengan alguna. Sirve para fuentes generalistas (Xataka, Genbeta...).
+#     Si se deja vacío, pasa todo lo que publique el feed.
+#   - Añadir una fuente = añadir una línea. Si un feed cae, el build lo salta y lo avisa en la web.
+#   - Verificados el martes 14/07/2026 ejecutando build.py.
+
+# --- Español ---
+La Hora Maker (YouTube)  | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCUz9gFb4qX-FUZ03y2iEYBA |
+Xataka — IA              | es | https://www.xataka.com/tag/inteligencia-artificial/rss2.xml |
+Genbeta                  | es | https://feeds.weblogssl.com/genbeta | ia,inteligencia artificial,llm,chatgpt,claude,gemini,ollama,modelo
+Microsiervos             | es | https://www.microsiervos.com/index.xml | ia,inteligencia artificial,llm,chatgpt,claude,modelo
+
+# --- Inglés (donde se cuece antes) ---
+r/LocalLLaMA             | en | https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day |
+Simon Willison           | en | https://simonwillison.net/atom/everything/ |
+Hugging Face — Blog      | en | https://huggingface.co/blog/feed.xml |
+Hacker News — IA         | en | https://hnrss.org/newest?q=AI+OR+LLM+OR+Ollama&points=100 |
+Ollama — Releases        | en | https://github.com/ollama/ollama/releases.atom |
+vLLM — Releases          | en | https://github.com/vllm-project/vllm/releases.atom |
+
+# --- Descartadas (no sirven) ---
+# IA en Español (newsletter.iatoday.ai/feed): devuelve HTML, no RSS. Sin feed utilizable (14/07).
