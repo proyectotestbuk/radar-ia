@@ -2,7 +2,7 @@
 
 Una página web con los **titulares de IA del día**, generada sola, todas las mañanas.
 
-**Web:** https://proyectotestbuk.github.io/radar-ia/ *(rellenar tras activar Pages)*
+**Web:** https://proyectotestbuk.github.io/radar-ia/
 
 ## La idea
 
