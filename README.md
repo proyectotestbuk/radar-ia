@@ -9,9 +9,30 @@ Una página web con los **titulares de IA del día**, generada sola, todas las m
 No es un curador ni un resumidor: es un **agregador de titulares**. Trae el titular literal,
 su fuente y su enlace. **Nadie interpreta nada** — decide quien lo lee.
 
-- **Hoy** (`index.html`) — lo nuevo de las últimas 24 h.
-- **Archivo** — una página por día, para siempre. Nada se pierde.
-- **Buscar** — sobre todo el histórico acumulado, en el navegador, sin servidor.
+Funciona como una **bandeja de entrada**:
+
+- **Bandeja** (`index.html`) — lo que queda por leer, sea de hoy o de hace cuatro días.
+  **Abrir un titular = leerlo**: desaparece de la bandeja y pasa a *Leídos*.
+  La **✕** lo descarta sin abrirlo (y desde *Descartados* se puede devolver con **↺**).
+- **Filtros** — chips de **fuente** (con su favicon) y de **categoría**, con contadores. Se pulsan para apagar/encender.
+- **Archivo** — una página por día, inmutable. Nada se pierde.
+
+### Dónde se guarda lo leído
+
+En el **`localStorage` del navegador**. Es la única opción sin servidor, y tiene un precio que hay que saber:
+**el estado es por navegador**. Lo leído en el PC del trabajo no aparece leído en el móvil ni en casa.
+Para eso están los botones **Exportar / Importar** del pie.
+
+## Categorías
+
+Las define Juan en `categorias.txt` (clave · emoji · nombre · palabras). El **script etiqueta al cosechar**,
+no el navegador. Se aplica la primera regla que casa, así que **el orden del fichero es la prioridad**.
+Al cambiar una regla, el siguiente build **reetiqueta todo el histórico**.
+
+## Iconos de las fuentes
+
+`build.py` descarga el favicon real de cada fuente **una sola vez** y lo guarda en `docs/iconos/`.
+No se pide nada a terceros al abrir la página (ni rastreo, ni latencia). Sin favicon → iniciales.
 
 ## Cómo funciona
 

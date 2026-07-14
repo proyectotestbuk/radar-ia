@@ -1,0 +1,97 @@
+{
+ "fuentes": [
+  {
+   "id": "la-hora-maker-youtube",
+   "nombre": "La Hora Maker (YouTube)",
+   "idioma": "es"
+  },
+  {
+   "id": "xataka-ia",
+   "nombre": "Xataka — IA",
+   "idioma": "es"
+  },
+  {
+   "id": "genbeta",
+   "nombre": "Genbeta",
+   "idioma": "es"
+  },
+  {
+   "id": "microsiervos",
+   "nombre": "Microsiervos",
+   "idioma": "es"
+  },
+  {
+   "id": "r-localllama",
+   "nombre": "r/LocalLLaMA",
+   "idioma": "en"
+  },
+  {
+   "id": "simon-willison",
+   "nombre": "Simon Willison",
+   "idioma": "en"
+  },
+  {
+   "id": "hugging-face-blog",
+   "nombre": "Hugging Face — Blog",
+   "idioma": "en"
+  },
+  {
+   "id": "hacker-news-ia",
+   "nombre": "Hacker News — IA",
+   "idioma": "en"
+  },
+  {
+   "id": "ollama-releases",
+   "nombre": "Ollama — Releases",
+   "idioma": "en"
+  },
+  {
+   "id": "vllm-releases",
+   "nombre": "vLLM — Releases",
+   "idioma": "en"
+  }
+ ],
+ "iconos": {
+  "la-hora-maker-youtube": "la-hora-maker-youtube.png",
+  "xataka-ia": "xataka-ia.png",
+  "genbeta": "",
+  "microsiervos": "microsiervos.png",
+  "r-localllama": "r-localllama.png",
+  "simon-willison": "simon-willison.png",
+  "hugging-face-blog": "hugging-face-blog.png",
+  "hacker-news-ia": "hacker-news-ia.png",
+  "ollama-releases": "ollama-releases.png",
+  "vllm-releases": "vllm-releases.png"
+ },
+ "cats": {
+  "local": {
+   "emoji": "🖥️",
+   "nombre": "IA local"
+  },
+  "modelos": {
+   "emoji": "🧠",
+   "nombre": "Modelos"
+  },
+  "datos": {
+   "emoji": "📊",
+   "nombre": "Datos y RAG"
+  },
+  "herram": {
+   "emoji": "🔧",
+   "nombre": "Herramientas"
+  },
+  "legal": {
+   "emoji": "⚖️",
+   "nombre": "Legal y licencias"
+  },
+  "negocio": {
+   "emoji": "💼",
+   "nombre": "Negocio y dinero"
+  },
+  "otros": {
+   "emoji": "•",
+   "nombre": "Otros"
+  }
+ },
+ "sello": "14/07/2026 a las 13:49"
+}

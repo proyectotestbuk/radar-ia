@@ -1,11 +1,63 @@
 [
  {
+  "titulo": "La información es poder y Microsoft ha llegado a una conclusión: se ha cansado de regalarla a las Big Tech de la IA",
+  "url": "https://www.xataka.com/empresas-y-economia/informacion-poder-microsoft-ha-llegado-a-conclusion-se-ha-cansado-regalarla-a-big-tech-ia",
+  "fecha": "2026-07-14T10:30:07+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-14"
+ },
+ {
+  "titulo": "llama.cpp milestone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uw5p73/llamacpp_milestone/",
+  "fecha": "2026-07-14T11:14:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-14"
+ },
+ {
+  "titulo": "Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uw4vg1/google_deepminds_demis_hassabis_calls_for_usled/",
+  "fecha": "2026-07-14T10:31:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-14"
+ },
+ {
+  "titulo": "MCP…. Is bad?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvaqxp/mcp_is_bad/",
+  "fecha": "2026-07-13T12:54:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-14"
+ },
+ {
+  "titulo": "Production Qwen 3.6-27B VLLM config?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvacno/production_qwen_3627b_vllm_config/",
+  "fecha": "2026-07-13T12:36:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-14"
+ },
+ {
   "titulo": "Cómo usar ChatGPT en WhatsApp ahora que vuelve a estar disponible en la Unión Europea",
   "url": "https://www.xataka.com/basics/como-usar-chatgpt-whatsapp-vuelve-a-estar-disponible-union-europea",
   "fecha": "2026-07-13T14:59:01+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "A Meta le pareció buena idea que su IA generara imágenes a partir de tus fotos de Instagram. Días después ya ha dado marcha atrás",
@@ -13,7 +65,9 @@
   "fecha": "2026-07-13T09:16:06+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
@@ -21,7 +75,9 @@
   "fecha": "2026-07-12T09:01:57+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "Apple demanda a OpenAI por robar secretos comerciales: \"Lol, tengo acceso\", el mensaje del ingeniero que destapó el escándalo",
@@ -29,7 +85,9 @@
   "fecha": "2026-07-12T06:40:00+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "legal",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
@@ -37,7 +95,9 @@
   "fecha": "2026-07-10T19:31:57+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
@@ -45,7 +105,9 @@
   "fecha": "2026-07-10T19:01:58+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
@@ -53,7 +115,9 @@
   "fecha": "2026-07-10T15:31:57+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "Meta AI puede crear imágenes con tu cara sin permiso usando tus fotos de Instagram: cómo funciona y dos modos de evitarlo",
@@ -61,7 +125,9 @@
   "fecha": "2026-07-10T11:07:00+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
@@ -69,7 +135,9 @@
   "fecha": "2026-07-10T10:32:12+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "GPT-5.6 probablemente sea el mejor modelo de IA del mundo. Y precisamente por eso, la mayoría no lo necesita",
@@ -77,7 +145,9 @@
   "fecha": "2026-07-10T08:15:58+00:00",
   "fuente": "Xataka — IA",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "xataka-ia"
  },
  {
   "titulo": "Las anti-tipografías, un concepto interesante acerca de la lucha por la privacidad y contra la IA",
@@ -85,7 +155,9 @@
   "fecha": "2026-07-12T13:36:28+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "legal",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "Puedes enviar tu nombre al espacio con el telescopio espacial Nancy Grace Roman de la NASA",
@@ -93,7 +165,9 @@
   "fecha": "2026-07-12T12:00:00+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "War Atlas es un mapa interactivo de todas las guerras de la historia de la humanidad, que no son pocas (unas 10.584, más o menos)",
@@ -101,7 +175,9 @@
   "fecha": "2026-07-11T00:03:35+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "Ha muerto Wally Funk, pionera de la aviación y la única de las Mercury 13 en ir al espacio",
@@ -109,7 +185,9 @@
   "fecha": "2026-07-10T10:00:00+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "El desafío diario de completar 18 palabras letra a letra en 30 segundos",
@@ -117,7 +195,9 @@
   "fecha": "2026-07-09T23:48:37+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "Tomesphere: 8 millones de artículos científicos para alimentar a la IA, y para los humanos si eso ya tal",
@@ -125,7 +205,9 @@
   "fecha": "2026-07-09T23:19:02+00:00",
   "fuente": "Microsiervos",
   "idioma": "es",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "negocio",
+  "fuente_id": "microsiervos"
  },
  {
   "titulo": "This is why we need local models and opensource harnesses",
@@ -133,7 +215,9 @@
   "fecha": "2026-07-13T19:41:33+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
@@ -141,7 +225,9 @@
   "fecha": "2026-07-13T13:44:24+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "I benchmarked 15 \"E-Waste\" GPUs with Modern Workloads",
@@ -149,7 +235,9 @@
   "fecha": "2026-07-13T14:05:18+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "J-Wash: A novel way to brainwash and customize large language models based on Anthropic's Jacobian-Lens!",
@@ -157,7 +245,9 @@
   "fecha": "2026-07-13T22:12:52+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "FT: Companies Turn to Chinese Open Weight Models to Cut Costs",
@@ -165,7 +255,9 @@
   "fecha": "2026-07-13T15:23:49+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Joined the Dual RTX 6000 club",
@@ -173,7 +265,9 @@
   "fecha": "2026-07-13T20:08:38+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Zhipu founder backs open-source AI as global security debate intensifies",
@@ -181,7 +275,9 @@
   "fecha": "2026-07-13T13:23:29+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "I just don't get it. These big tech companies can illegally scrape the entire internet and gatekeep their better models behind higher prices. So it's natural that people look for affordable options, and there will be providers who apparently distill models from them.",
@@ -189,7 +285,9 @@
   "fecha": "2026-07-14T03:01:38+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "If Frontier AI is so Dangerous, Why should private companies be allowed to develop it?",
@@ -197,7 +295,9 @@
   "fecha": "2026-07-13T19:29:54+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Why aren't any American open-source AI labs even close to Chinese ones on benchmarks yet?",
@@ -205,7 +305,9 @@
   "fecha": "2026-07-14T02:34:56+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Colibri streaming for Hy3 (Run Hy3 on 10GB (V)RAM)",
@@ -213,7 +315,9 @@
   "fecha": "2026-07-13T11:18:50+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V2-GGUF",
@@ -221,7 +325,9 @@
   "fecha": "2026-07-13T18:35:20+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "GLM 5.2 running on MacBook Pro M5 48 GB Ram at between 2 - 2.8t/s",
@@ -229,7 +335,9 @@
   "fecha": "2026-07-13T19:26:45+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Mistral Community Feedback Survey",
@@ -237,7 +345,9 @@
   "fecha": "2026-07-13T19:26:20+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "New set of FP4 attention kernels for B300, achieving up to 1.69x speedup over FA4",
@@ -245,7 +355,9 @@
   "fecha": "2026-07-14T00:35:13+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "20GB VRAM + 64GB DDR5 - Qwen3.6 35B A3B still the best choice?",
@@ -253,7 +365,9 @@
   "fecha": "2026-07-13T10:08:11+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "model: add Hy3 (hy_v3) support with MTP speculative decoding by satindergrewal · Pull Request #25395 · ggml-org/llama.cpp",
@@ -261,7 +375,9 @@
   "fecha": "2026-07-14T02:46:34+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation",
@@ -269,7 +385,9 @@
   "fecha": "2026-07-13T14:33:59+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "OvisOCR2: a promising 0.8B local document parser",
@@ -277,7 +395,9 @@
   "fecha": "2026-07-13T10:55:51+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "FOSS NotebookLM connected to Reddit,YT,Google,IG,Tiktok etc",
@@ -285,7 +405,9 @@
   "fecha": "2026-07-14T07:47:51+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "[Study/Models] Flint: Compressing Reasoning Without Breaking It",
@@ -293,7 +415,9 @@
   "fecha": "2026-07-13T12:05:42+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "My Frankenbox: I mounted 3 GPUs in and on-top of my case only fits only one GPU. 9070xt + 1080 ti + 5700xt",
@@ -301,7 +425,9 @@
   "fecha": "2026-07-14T03:07:54+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Hermes Agent with local LLMs",
@@ -309,7 +435,9 @@
   "fecha": "2026-07-14T04:44:18+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Why does preserve thinking flag exist?",
@@ -317,7 +445,9 @@
   "fecha": "2026-07-14T05:41:42+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "CPTR is wonderful! open-webui/computer: Your Computer. Anywhere.",
@@ -325,7 +455,9 @@
   "fecha": "2026-07-14T03:00:07+00:00",
   "fuente": "r/LocalLLaMA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "r-localllama"
  },
  {
   "titulo": "Using uvx in GitHub Actions in a cache-friendly way",
@@ -333,7 +465,9 @@
   "fecha": "2026-07-14T00:56:20+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "DOOMQL",
@@ -341,7 +475,9 @@
   "fecha": "2026-07-13T22:34:41+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "datasette code-frequency chart on GitHub",
@@ -349,7 +485,9 @@
   "fecha": "2026-07-13T21:45:27+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Directly Responsible Individuals (DRI)",
@@ -357,7 +495,9 @@
   "fecha": "2026-07-12T23:57:14+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "shot-scraper 1.11",
@@ -365,7 +505,9 @@
   "fecha": "2026-07-12T23:46:52+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Fable gets another bump",
@@ -373,7 +515,9 @@
   "fecha": "2026-07-12T21:20:07+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "sqlite-utils 4.1.1",
@@ -381,7 +525,9 @@
   "fecha": "2026-07-12T20:55:30+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "sqlite-utils 4.1",
@@ -389,7 +535,9 @@
   "fecha": "2026-07-11T23:50:20+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Quoting Nilay Patel",
@@ -397,7 +545,9 @@
   "fecha": "2026-07-10T17:05:26+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Quoting OpenAI",
@@ -405,7 +555,9 @@
   "fecha": "2026-07-10T01:05:57+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "negocio",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "The new GPT-5.6 family: Luna, Terra, Sol",
@@ -413,7 +565,9 @@
   "fecha": "2026-07-09T19:46:38+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Introducing Muse Spark 1.1",
@@ -421,7 +575,9 @@
   "fecha": "2026-07-09T16:24:09+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "llm-meta-ai 0.1",
@@ -429,7 +585,9 @@
   "fecha": "2026-07-09T16:12:20+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "llm 0.31.1",
@@ -437,7 +595,9 @@
   "fecha": "2026-07-09T16:06:15+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Rewriting Bun in Rust",
@@ -445,7 +605,9 @@
   "fecha": "2026-07-08T23:57:21+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Introducing GPT‑Live",
@@ -453,7 +615,9 @@
   "fecha": "2026-07-08T23:20:48+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Quoting Kenton Varda",
@@ -461,7 +625,9 @@
   "fecha": "2026-07-08T20:03:34+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "sqlite-utils 4.0, now with database schema migrations",
@@ -469,7 +635,9 @@
   "fecha": "2026-07-07T19:32:57+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "sqlite-migrate 0.2",
@@ -477,7 +645,9 @@
   "fecha": "2026-07-07T16:33:55+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "github-code Web Component",
@@ -485,7 +655,9 @@
   "fecha": "2026-07-07T16:18:16+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "sqlite-utils 4.0",
@@ -493,7 +665,9 @@
   "fecha": "2026-07-07T15:42:43+00:00",
   "fuente": "Simon Willison",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "datos",
+  "fuente_id": "simon-willison"
  },
  {
   "titulo": "Profiling in PyTorch (Part 3): Attention is all you profile",
@@ -501,7 +675,9 @@
   "fecha": "2026-07-10T00:00:00+00:00",
   "fuente": "Hugging Face — Blog",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hugging-face-blog"
  },
  {
   "titulo": "Data for Agents",
@@ -509,7 +685,9 @@
   "fecha": "2026-07-08T17:16:05+00:00",
   "fuente": "Hugging Face — Blog",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "herram",
+  "fuente_id": "hugging-face-blog"
  },
  {
   "titulo": "Native-speed vLLM transformers modeling backend",
@@ -517,7 +695,9 @@
   "fecha": "2026-07-08T00:00:00+00:00",
   "fuente": "Hugging Face — Blog",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "local",
+  "fuente_id": "hugging-face-blog"
  },
  {
   "titulo": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -525,7 +705,9 @@
   "fecha": "2026-07-07T21:15:33+00:00",
   "fuente": "Hugging Face — Blog",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "herram",
+  "fuente_id": "hugging-face-blog"
  },
  {
   "titulo": "Hugging Face Models on Foundry Managed Compute",
@@ -533,7 +715,9 @@
   "fecha": "2026-07-07T15:20:06+00:00",
   "fuente": "Hugging Face — Blog",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "hugging-face-blog"
  },
  {
   "titulo": "Samsung Health app threatens data deletion if users opt out AI training",
@@ -541,7 +725,9 @@
   "fecha": "2026-07-13T20:01:43+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Ask HN: Add flag for AI-generated articles",
@@ -549,7 +735,9 @@
   "fecha": "2026-07-13T01:24:20+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
@@ -557,7 +745,9 @@
   "fecha": "2026-07-12T17:13:07+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI boosts research careers but narrow the span of ideas explored: study",
@@ -565,7 +755,9 @@
   "fecha": "2026-07-12T13:26:13+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Mesh LLM: distributed AI computing on iroh",
@@ -573,7 +765,9 @@
   "fecha": "2026-07-11T22:38:57+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Stop Telling Me to Ask an LLM",
@@ -581,7 +775,9 @@
   "fecha": "2026-07-11T22:28:48+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI 2040 and the cult of intelligence",
@@ -589,7 +785,9 @@
   "fecha": "2026-07-11T18:04:01+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Reverse centaurs are the answer to the AI paradox (2025)",
@@ -597,7 +795,9 @@
   "fecha": "2026-07-11T17:23:52+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Ghost Font: A font that humans can read but AI cannot",
@@ -605,7 +805,9 @@
   "fecha": "2026-07-11T09:36:53+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "How the terrorist group Boko Haram uses frontier AI",
@@ -613,7 +815,9 @@
   "fecha": "2026-07-10T18:49:26+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI-generated videos to maximally drive a target brain region",
@@ -621,7 +825,9 @@
   "fecha": "2026-07-10T07:39:11+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Building a real-time AI tutor for 5-year-olds",
@@ -629,7 +835,9 @@
   "fecha": "2026-07-09T20:51:06+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI 2040: Plan A",
@@ -637,7 +845,9 @@
   "fecha": "2026-07-09T16:21:44+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI content is everywhere on social media, especially LinkedIn",
@@ -645,7 +855,9 @@
   "fecha": "2026-07-09T15:50:09+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "AI changes the economics of software rewrites",
@@ -653,7 +865,9 @@
   "fecha": "2026-07-09T05:46:50+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "I think I have LLM burnout",
@@ -661,7 +875,9 @@
   "fecha": "2026-07-09T01:56:28+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
@@ -669,7 +885,9 @@
   "fecha": "2026-07-08T23:11:28+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
@@ -677,7 +895,9 @@
   "fecha": "2026-07-08T17:46:12+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "modelos",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
@@ -685,7 +905,9 @@
   "fecha": "2026-07-08T05:25:35+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "herram",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "We charge $10k a week to delete AI-generated code",
@@ -693,7 +915,9 @@
   "fecha": "2026-07-07T20:35:42+00:00",
   "fuente": "Hacker News — IA",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "hacker-news-ia"
  },
  {
   "titulo": "v0.32.0",
@@ -701,7 +925,9 @@
   "fecha": "2026-07-14T00:05:12+00:00",
   "fuente": "Ollama — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "ollama-releases"
  },
  {
   "titulo": "v0.32.0-rc0",
@@ -709,7 +935,9 @@
   "fecha": "2026-07-10T00:27:31+00:00",
   "fuente": "Ollama — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "ollama-releases"
  },
  {
   "titulo": "v0.31.2",
@@ -717,7 +945,9 @@
   "fecha": "2026-07-08T20:44:32+00:00",
   "fuente": "Ollama — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "ollama-releases"
  },
  {
   "titulo": "v0.31.2-rc2: llm: allow iGPU mmproj offload with fit padding (#16996)",
@@ -725,7 +955,9 @@
   "fecha": "2026-07-07T22:28:42+00:00",
   "fuente": "Ollama — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "ollama-releases"
  },
  {
   "titulo": "v0.25.1",
@@ -733,7 +965,9 @@
   "fecha": "2026-07-14T08:58:07+00:00",
   "fuente": "vLLM — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "vllm-releases"
  },
  {
   "titulo": "v0.25.0",
@@ -741,7 +975,9 @@
   "fecha": "2026-07-11T20:06:44+00:00",
   "fuente": "vLLM — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "vllm-releases"
  },
  {
   "titulo": "v0.25.0rc3",
@@ -749,7 +985,9 @@
   "fecha": "2026-07-09T10:24:39+00:00",
   "fuente": "vLLM — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "vllm-releases"
  },
  {
   "titulo": "v0.25.0rc2",
@@ -757,7 +995,9 @@
   "fecha": "2026-07-09T04:12:19+00:00",
   "fuente": "vLLM — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "vllm-releases"
  },
  {
   "titulo": "v0.25.0rc1",
@@ -765,6 +1005,8 @@
   "fecha": "2026-07-08T01:20:30+00:00",
   "fuente": "vLLM — Releases",
   "idioma": "en",
-  "dia": "2026-07-14"
+  "dia": "2026-07-14",
+  "cat": "otros",
+  "fuente_id": "vllm-releases"
  }
 ]

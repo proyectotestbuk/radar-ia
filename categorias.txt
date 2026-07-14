@@ -1,0 +1,14 @@
+# Categorías del Radar IA — las define Juan, no la IA
+#
+# formato:  clave | emoji | nombre visible | palabras clave (coma) — se buscan en el TITULAR
+#
+#   - Se aplica la PRIMERA que casa, de arriba abajo → el orden es la prioridad.
+#   - Si no casa ninguna, el titular cae en "otros".
+#   - Cambiar una categoría = editar esta línea. El próximo build reetiqueta todo el histórico.
+
+local     | 🖥️ | IA local          | ollama,llama.cpp,llama-server,vllm,gguf,cuantiz,quantiz,local llm,self-host,selfhost,rtx,vram,lm studio,localai,open webui,mlx,offline
+modelos   | 🧠 | Modelos           | gpt,claude,gemini,llama,qwen,mistral,deepseek,kimi,grok,phi,gemma,modelo,model,release,lanza,presenta,launch,sota,benchmark
+datos     | 📊 | Datos y RAG       | rag,embedding,vector,pgvector,chroma,chunk,rerank,retrieval,base de datos,database,sql,text-to-sql,fine-tun,lora,dataset
+herram    | 🔧 | Herramientas      | mcp,agente,agent,n8n,langchain,llamaindex,api,sdk,cli,plugin,integra,workflow,automat,copilot,cursor,claude code
+legal     | ⚖️ | Legal y licencias | licencia,license,ai act,rgpd,gdpr,privacidad,privacy,regula,ley,demanda,lawsuit,copyright,derechos,open source,apache,mit
+negocio   | 💼 | Negocio y dinero  | financia,funding,millones,billion,precio,pricing,coste,cost,gratis,free,suscripci,openai,anthropic,nvidia,acuerdo,deal,ipo
