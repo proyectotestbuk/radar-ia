@@ -1,0 +1,15 @@
+# Radar IA — ajustes generales (una tabla más del "backend de ficheros")
+#
+# clave = valor
+
+# Repo donde se guarda el estado (leído/descartado). Lo escribe la propia web por la API.
+repo = proyectotestbuk/radar-ia
+
+# MARCA DE CORTE: la web ignora todo lo anterior a esta fecha (YYYY-MM-DD).
+# El histórico sigue en el fichero, pero no se procesa ni se pinta. Subir esta fecha
+# = "borrón y cuenta nueva" sin perder nada.
+corte = 2026-07-01
+
+# Cuántos días conserva build.py en items.json antes de mover lo viejo a docs/archivo/.
+# Lo movido sigue estando (y buscable), pero no se carga en la bandeja de cada día.
+retencion_dias = 90

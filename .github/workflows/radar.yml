@@ -30,4 +30,7 @@ jobs:
           git add docs/
           git diff --staged --quiet && echo "Sin novedades hoy: no se commitea." && exit 0
           git commit -m "Radar IA — $(date -u +%Y-%m-%d)"
+          # La web tambien escribe en el repo (docs/estado.tsv) cuando Juan lee o descarta.
+          # Sin este rebase, un clic suyo mientras corre el cron haria fallar el push.
+          git pull --rebase origin main
           git push

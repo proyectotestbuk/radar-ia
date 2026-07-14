@@ -17,11 +17,34 @@ Funciona como una **bandeja de entrada**:
 - **Filtros** — chips de **fuente** (con su favicon) y de **categoría**, con contadores. Se pulsan para apagar/encender.
 - **Archivo** — una página por día, inmutable. Nada se pierde.
 
-### Dónde se guarda lo leído
+### El repo es la base de datos
 
-En el **`localStorage` del navegador**. Es la única opción sin servidor, y tiene un precio que hay que saber:
-**el estado es por navegador**. Lo leído en el PC del trabajo no aparece leído en el móvil ni en casa.
-Para eso están los botones **Exportar / Importar** del pie.
+No hay backend: **las tablas son ficheros de texto**, y el repo hace de servidor.
+
+| Fichero | Es la tabla de… | Quién la escribe |
+|---|---|---|
+| `feeds.txt` | fuentes | a mano (o Claude) |
+| `categorias.txt` | categorías | a mano (o Claude) |
+| `config.txt` | ajustes y **marca de corte** | a mano |
+| `docs/items.json` | titulares (crece) | `build.py`, cada mañana |
+| `docs/estado.tsv` | **leído / descartado** | **la propia web**, al hacer clic |
+
+`estado.tsv` es literal: `url <TAB> leido|descartado <TAB> fecha`. Lo que **no** aparece ahí, está en la bandeja.
+Se puede editar a mano perfectamente.
+
+**Cómo escribe la web en el repo, si no hay servidor:** con un **token de GitHub tuyo**, que pegas una vez
+en cada navegador (botón 🔑). Los clics se acumulan y, tras 1,5 s de calma, se commitea `estado.tsv` por la
+API. Si dos equipos escriben a la vez, el segundo detecta el conflicto, **fusiona** (gana la marca más
+reciente, no se pierde ninguna) y reintenta.
+
+> **El token:**  *fine-grained*, con acceso **solo a este repo** y permiso **Contents: Read and write**.
+> Se guarda en el `localStorage` de ese navegador y **nunca** en el repo. Lo peor que puede hacer si se
+> filtra es escribir en tu lista de titulares. Sin token, la web funciona en **solo lectura** y avisa de ello.
+
+### Marca de corte
+
+`config.txt` → `corte = 2026-07-01`. La web **ignora todo lo anterior** a esa fecha: el histórico sigue
+entero en el fichero, pero no se procesa ni se pinta. Subir la fecha = borrón y cuenta nueva sin perder nada.
 
 ## Categorías
 

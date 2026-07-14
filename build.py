@@ -28,7 +28,8 @@ RAIZ = Path(__file__).parent
 WEB = RAIZ / "docs"          # GitHub Pages publica esta carpeta tal cual
 ICONOS = WEB / "iconos"
 ITEMS = WEB / "items.json"
-META = WEB / "meta.json"     # fuentes y categorias, para que la web las pinte
+META = WEB / "meta.json"      # fuentes, categorias y config, para que la web las pinte
+ESTADO = WEB / "estado.tsv"   # la tabla de estado: la escribe la WEB, no el build
 
 UA = "Mozilla/5.0 (compatible; RadarIA/1.0; +https://github.com/proyectotestbuk/radar-ia)"
 TIMEOUT = 25
@@ -67,6 +68,17 @@ def leer_feeds():
             "filtro": [p.strip().lower() for p in filtro.split(",") if p.strip()],
         })
     return fuentes
+
+
+def leer_config():
+    cfg = {"repo": "", "corte": "1970-01-01", "retencion_dias": "90"}
+    for linea in (RAIZ / "config.txt").read_text(encoding="utf-8").splitlines():
+        linea = linea.strip()
+        if not linea or linea.startswith("#") or "=" not in linea:
+            continue
+        k, v = linea.split("=", 1)
+        cfg[k.strip()] = v.strip()
+    return cfg
 
 
 def leer_categorias():
@@ -352,34 +364,103 @@ APP = """
 <footer>
   <div style="margin-bottom:8px">
     <button id="todo">Marcar todo como leído</button>
-    <button id="exp">Exportar mi estado</button>
-    <button id="imp">Importar</button>
-    <input type="file" id="file" accept=".json" hidden>
+    <button id="llave">🔑 Conectar con GitHub</button>
+    <button id="salir" hidden>Desconectar</button>
   </div>
   Titulares tal cual llegan de la fuente — nadie los resume ni los ordena por interés.
-  Lo leído y lo descartado se guarda <b>en este navegador</b> (no se sincroniza con otros equipos).
-  <span id="sello"></span>
+  El estado (leído / descartado) vive en <code>docs/estado.tsv</code>, <b>dentro del repo</b>:
+  se sincroniza entre todos tus equipos. <span id="sello"></span>
 </footer>
 <script>
-const K='radarIA.v1';
-const S=JSON.parse(localStorage.getItem(K)||'{"leidos":{},"borrados":{}}');
-const guarda=()=>localStorage.setItem(K,JSON.stringify(S));
-let D=[],M={},vista='pendientes',fOff=new Set(),cOff=new Set();
+// ---------------------------------------------------------------- estado
+// El repo ES la base de datos. estado.tsv es la tabla:  url <TAB> leido|descartado <TAB> fecha
+// Se lee por la API de GitHub (siempre la última version + su sha, que hace falta para escribir).
+// Se escribe con el token del usuario, guardado solo en ESTE navegador y jamas en el repo.
 
+const TK='radarIA.token';
+let D=[],M={},E={},sha=null,vista='pendientes',fOff=new Set(),cOff=new Set(),pend=null;
+
+const token=()=>localStorage.getItem(TK)||'';
+const cabeceras=()=>token()?{Authorization:'Bearer '+token()}:{};
+const api=p=>`https://api.github.com/repos/${M.repo}/contents/${p}`;
 const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const bandera=l=>l==='en'?'\\uD83C\\uDDEC\\uD83C\\uDDE7':'\\uD83C\\uDDEA\\uD83C\\uDDF8';
 const icono=i=>M.iconos[i.fuente_id]
   ? `<img class="ico" src="iconos/${M.iconos[i.fuente_id]}" alt="" loading="lazy">`
   : `<div class="ini">${esc(i.fuente.slice(0,2).toUpperCase())}</div>`;
 
+const aviso=t=>{document.getElementById('sello').textContent=t;};
+
+function parseTSV(txt){
+  const e={};
+  txt.split('\\n').forEach(l=>{
+    if(!l.trim()||l.startsWith('#'))return;
+    const [url,est,fecha]=l.split('\\t');
+    if(url&&est) e[url.trim()]={est:est.trim(),fecha:(fecha||'').trim()};
+  });
+  return e;
+}
+const aTSV=e=>['# Radar IA — estado.  url <TAB> leido|descartado <TAB> fecha',
+  ...Object.entries(e).map(([u,v])=>`${u}\\t${v.est}\\t${v.fecha}`)].join('\\n')+'\\n';
+
+async function cargarEstado(){
+  try{
+    const r=await fetch(api('docs/estado.tsv')+'?ref=main',
+      {headers:{...cabeceras(),Accept:'application/vnd.github+json'},cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const j=await r.json();
+    sha=j.sha;
+    E=parseTSV(decodeURIComponent(escape(atob(j.content.replace(/\\n/g,'')))));
+  }catch(err){ console.warn('estado.tsv no leído:',err); E={}; sha=null; }
+}
+
+// Un commit por rafaga, no por clic: se espera 1,5 s de calma antes de escribir.
+function programaGuardado(){
+  if(!token()){ aviso('⚠️ Sin conectar: estos cambios NO se guardan.'); return; }
+  clearTimeout(pend);
+  aviso('Guardando…');
+  pend=setTimeout(()=>guardar(),1500);
+}
+
+async function guardar(reintento){
+  const cuerpo=btoa(unescape(encodeURIComponent(aTSV(E))));
+  const r=await fetch(api('docs/estado.tsv'),{
+    method:'PUT',
+    headers:{...cabeceras(),Accept:'application/vnd.github+json','Content-Type':'application/json'},
+    body:JSON.stringify({message:'estado: '+new Date().toISOString().slice(0,16).replace('T',' '),
+                         content:cuerpo, sha:sha||undefined, branch:'main'})
+  });
+  if(r.ok){ sha=(await r.json()).content.sha; aviso('✔ Guardado en el repo.'); return; }
+  if(r.status===409 && !reintento){        // otro equipo escribió antes: fusionar y reintentar
+    const mio={...E};
+    await cargarEstado();
+    Object.entries(mio).forEach(([u,v])=>{                 // gana la marca mas reciente
+      if(!E[u] || (v.fecha||'') >= (E[u].fecha||'')) E[u]=v;
+    });
+    return guardar(true);
+  }
+  aviso(r.status===401||r.status===403
+    ? '❌ Token rechazado (¿caducado o sin permiso de escritura?).'
+    : '❌ No se pudo guardar (HTTP '+r.status+').');
+}
+
+function marca(url,est){
+  if(est) E[url]={est,fecha:new Date().toISOString().slice(0,10)};
+  else delete E[url];
+  programaGuardado();
+}
+
+// ---------------------------------------------------------------- vistas
+
 function base(){
-  if(vista==='leidos')   return D.filter(i=>S.leidos[i.url]);
-  if(vista==='borrados') return D.filter(i=>S.borrados[i.url]);
-  return D.filter(i=>!S.leidos[i.url] && !S.borrados[i.url]);   // la bandeja
+  const vivo=i=>i.dia>=M.corte;                      // marca de corte de config.txt
+  if(vista==='leidos')   return D.filter(i=>vivo(i)&&E[i.url]?.est==='leido');
+  if(vista==='borrados') return D.filter(i=>vivo(i)&&E[i.url]?.est==='descartado');
+  return D.filter(i=>vivo(i)&&!E[i.url]);            // la bandeja: lo que no tiene marca
 }
 function visibles(){
   const q=document.getElementById('q').value.toLowerCase().trim();
-  return base().filter(i=>!fOff.has(i.fuente_id) && !cOff.has(i.cat)
+  return base().filter(i=>!fOff.has(i.fuente_id)&&!cOff.has(i.cat)
     && (q.length<2 || i.titulo.toLowerCase().includes(q)));
 }
 
@@ -397,41 +478,37 @@ function pinta(){
       ? 'Bandeja vacía. Todo leído \\u2014 vuelve mañana.'
       : 'Nada por aquí.'}</p>`;
 
-  // Abrir un titular = leerlo: desaparece de la bandeja y pasa a Leídos.
+  // Abrir un titular = leerlo: sale de la bandeja y pasa a Leídos.
   document.querySelectorAll('.abrir').forEach(a=>a.onclick=e=>{
-    const u=e.target.closest('li').dataset.u;
-    if(vista==='pendientes'){ S.leidos[u]=Date.now(); guarda(); setTimeout(pinta,150); }
+    if(vista!=='pendientes') return;
+    marca(e.target.closest('li').dataset.u,'leido');
+    setTimeout(pinta,150);
   });
   document.querySelectorAll('.x').forEach(b=>b.onclick=e=>{
     const u=e.target.closest('li').dataset.u;
-    if(vista==='pendientes'){ S.borrados[u]=Date.now(); }
-    else { delete S.borrados[u]; delete S.leidos[u]; }   // devolver a la bandeja
-    guarda(); pinta();
+    marca(u, vista==='pendientes' ? 'descartado' : null);   // en las otras vistas, devuelve
+    pinta();
   });
   chips();
 }
 
 function chips(){
-  const b=base();
-  const cuenta=(k,v)=>b.filter(i=>i[k]===v).length;
-  document.getElementById('chipsF').innerHTML = M.fuentes.map(f=>{
-    const n=cuenta('fuente_id',f.id);
+  const b=base(), cuenta=(k,v)=>b.filter(i=>i[k]===v).length;
+  document.getElementById('chipsF').innerHTML=M.fuentes.map(f=>{
     const ic=M.iconos[f.id]?`<img src="iconos/${M.iconos[f.id]}" alt="">`:'';
     return `<span class="chip ${fOff.has(f.id)?'off':''}" data-f="${f.id}">${ic}
-      ${esc(f.nombre)} <span class="n">${n}</span></span>`;
+      ${esc(f.nombre)} <span class="n">${cuenta('fuente_id',f.id)}</span></span>`;
   }).join('');
-  document.getElementById('chipsC').innerHTML = Object.entries(M.cats).map(([id,c])=>{
-    const n=cuenta('cat',id);
-    return `<span class="chip ${cOff.has(id)?'off':''}" data-c="${id}">${c.emoji}
-      ${esc(c.nombre)} <span class="n">${n}</span></span>`;
-  }).join('');
+  document.getElementById('chipsC').innerHTML=Object.entries(M.cats).map(([id,c])=>
+    `<span class="chip ${cOff.has(id)?'off':''}" data-c="${id}">${c.emoji}
+      ${esc(c.nombre)} <span class="n">${cuenta('cat',id)}</span></span>`).join('');
   document.querySelectorAll('[data-f]').forEach(el=>el.onclick=()=>{
-    const f=el.dataset.f; fOff.has(f)?fOff.delete(f):fOff.add(f); pinta();
-  });
+    const f=el.dataset.f; fOff.has(f)?fOff.delete(f):fOff.add(f); pinta(); });
   document.querySelectorAll('[data-c]').forEach(el=>el.onclick=()=>{
-    const c=el.dataset.c; cOff.has(c)?cOff.delete(c):cOff.add(c); pinta();
-  });
+    const c=el.dataset.c; cOff.has(c)?cOff.delete(c):cOff.add(c); pinta(); });
 }
+
+// ---------------------------------------------------------------- controles
 
 document.querySelectorAll('nav button[data-v]').forEach(b=>b.onclick=()=>{
   vista=b.dataset.v;
@@ -441,24 +518,33 @@ document.querySelectorAll('nav button[data-v]').forEach(b=>b.onclick=()=>{
 document.getElementById('q').addEventListener('input',pinta);
 document.getElementById('todo').onclick=()=>{
   if(!confirm('¿Marcar como leídos todos los titulares de la bandeja?'))return;
-  base().forEach(i=>S.leidos[i.url]=Date.now()); guarda(); pinta();
+  base().forEach(i=>E[i.url]={est:'leido',fecha:new Date().toISOString().slice(0,10)});
+  programaGuardado(); pinta();
 };
-document.getElementById('exp').onclick=()=>{
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([JSON.stringify(S)],{type:'application/json'}));
-  a.download='radar-ia-estado.json'; a.click();
+document.getElementById('llave').onclick=()=>{
+  const t=prompt('Pega tu token de GitHub (fine-grained, permiso Contents: write SOLO en radar-ia).\\n'
+    +'Se guarda únicamente en este navegador.');
+  if(t){ localStorage.setItem(TK,t.trim()); arranca(); }
 };
-document.getElementById('imp').onclick=()=>document.getElementById('file').click();
-document.getElementById('file').onchange=e=>{
-  const r=new FileReader();
-  r.onload=()=>{ const x=JSON.parse(r.result);
-    Object.assign(S.leidos,x.leidos||{}); Object.assign(S.borrados,x.borrados||{});
-    guarda(); pinta(); };
-  r.readAsText(e.target.files[0]);
+document.getElementById('salir').onclick=()=>{
+  localStorage.removeItem(TK);
+  location.reload();
 };
 
-Promise.all([fetch('items.json').then(r=>r.json()),fetch('meta.json').then(r=>r.json())])
-  .then(([d,m])=>{ D=d; M=m; document.getElementById('sello').textContent='Última cosecha: '+M.sello+'.'; pinta(); });
+async function arranca(){
+  const conectado=!!token();
+  document.getElementById('llave').hidden=conectado;
+  document.getElementById('salir').hidden=!conectado;
+  await cargarEstado();
+  pinta();
+  aviso(conectado
+    ? 'Conectado · última cosecha: '+M.sello
+    : '⚠️ Solo lectura: conecta con GitHub para que lo que leas se guarde.');
+}
+
+Promise.all([fetch('items.json',{cache:'no-store'}).then(r=>r.json()),
+             fetch('meta.json',{cache:'no-store'}).then(r=>r.json())])
+  .then(([d,m])=>{ D=d; M=m; arranca(); });
 </script>
 """
 
@@ -487,10 +573,22 @@ def main():
     ICONOS.mkdir(exist_ok=True)
 
     print(f"Radar IA — cosecha del {hoy}")
+    cfg = leer_config()
     fuentes, cats = leer_feeds(), leer_categorias()
     cosecha, caidos = cosechar(fuentes, cats)
     frescos, historico = fusionar(cosecha, hoy, cats)
     print(f"\n  {len(frescos)} titulares nuevos · {len(historico)} en el histórico")
+
+    # La tabla de estado la escribe la WEB (por la API). El build solo la crea la primera vez:
+    # si la borrase o la reescribiera, se perderia lo leido.
+    if not ESTADO.exists():
+        ESTADO.write_text(
+            "# Radar IA — estado.  url <TAB> leido|descartado <TAB> fecha\n"
+            "# Lo escribe la web al hacer clic. Se puede editar a mano: lo que no aparece aqui,\n"
+            "# esta en la bandeja.\n",
+            encoding="utf-8",
+        )
+        print("  estado.tsv creado (vacío)")
 
     iconos = {f["id"]: f.get("icono", "") for f in fuentes}
     cats_map = {c["id"]: {"emoji": c["emoji"], "nombre": c["nombre"]} for c in cats}
@@ -498,6 +596,8 @@ def main():
         "fuentes": [{"id": f["id"], "nombre": f["nombre"], "idioma": f["idioma"]} for f in fuentes],
         "iconos": iconos,
         "cats": cats_map,
+        "repo": cfg["repo"],
+        "corte": cfg["corte"],
         "sello": sello,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
 
