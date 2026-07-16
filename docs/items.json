@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
+  "url": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
+  "fecha": "2026-07-15T19:01:55+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Los centros de datos necesitan mucha agua, luz y dinero. Lo que no necesitan son trabajadores",
+  "url": "https://www.xataka.com/empresas-y-economia/argumento-creacion-empleo-ha-sido-gran-baza-para-levantar-centros-datos-estaria-bien-fuera-cierto",
+  "fecha": "2026-07-15T07:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Mira hacia arriba con estos mapas del cielo, las estrellas y los satélites",
+  "url": "http://www.microsiervos.com/archivo/espacio/cosmodial-sky-atlas-satellitemap-space-planetario-estrella.html",
+  "fecha": "2026-07-15T13:05:45+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Ni tanto monta ni monta tanto con la IA generativa y la información",
+  "url": "http://www.microsiervos.com/archivo/frases-citas/ia-genera-palabras-no-informacion.html",
+  "fecha": "2026-07-15T12:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Linus Torvalds tells people to stop attacking others for using AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxbrw4/linus_torvalds_tells_people_to_stop_attacking/",
+  "fecha": "2026-07-15T16:59:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "The best model is the one you can actually run",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux9xze/the_best_model_is_the_one_you_can_actually_run/",
+  "fecha": "2026-07-15T15:57:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Thinking Machines releases first open-weight model “Inkling”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxdv34/thinking_machines_releases_first_openweight_model/",
+  "fecha": "2026-07-15T18:12:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Google is updating Gemma 4's chat templates, bringing major fixes to tool calling and reducing \"laziness\", and enabling Flash Attention 4 on Hopper GPUs, plus an interactive guide on how to work with and improve its vision!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxfu4k/google_is_updating_gemma_4s_chat_templates/",
+  "fecha": "2026-07-15T19:26:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Apple in talks with startup PrismML that shrinks AI models to run on an iPhone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux4cn2/apple_in_talks_with_startup_prismml_that_shrinks/",
+  "fecha": "2026-07-15T12:23:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "ExLlamaV3 v1.0.0 - Major Performance Upgrades",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uwylut/exllamav3_v100_major_performance_upgrades/",
+  "fecha": "2026-07-15T07:17:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Grok Build open sourced under Apache 2.0 license",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxi5mf/grok_build_open_sourced_under_apache_20_license/",
+  "fecha": "2026-07-15T20:59:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxao7y/german_ai_consortium_releases_soofi_s_an_open_30b/",
+  "fecha": "2026-07-15T16:21:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Inkling by Thinking Machines is the #1 US open weight model now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxhpws/inkling_by_thinking_machines_is_the_1_us_open/",
+  "fecha": "2026-07-15T20:40:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Bonsai-27B & Ternary-Bonsai-27B - Updates (on PRs)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux4wrx/bonsai27b_ternarybonsai27b_updates_on_prs/",
+  "fecha": "2026-07-15T12:48:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "tencent/Hy-Embodied-RxBrain-1.0 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux0x0v/tencenthyembodiedrxbrain10_hugging_face/",
+  "fecha": "2026-07-15T09:30:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Hy3 1Bit 89-93 GB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxm2d8/hy3_1bit_8993_gb/",
+  "fecha": "2026-07-15T23:28:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "RL post-training on 14 Macs across 4 countries",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxb3zn/rl_posttraining_on_14_macs_across_4_countries/",
+  "fecha": "2026-07-15T16:36:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Current efficient frontier of open models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux41ue/current_efficient_frontier_of_open_models/",
+  "fecha": "2026-07-15T12:10:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "kimi.ai teasing a video with lots of 3's in it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxm627/kimiai_teasing_a_video_with_lots_of_3s_in_it/",
+  "fecha": "2026-07-15T23:32:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "PSA: Nvidia's CMP 170HX Full Compute and Memory(80GB) may be unlockable via exploit",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxqccx/psa_nvidias_cmp_170hx_full_compute_and_memory80gb/",
+  "fecha": "2026-07-16T02:40:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "The Benchmarks of Thinking Machine's first open-source model Inkling",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxgi4c/the_benchmarks_of_thinking_machines_first/",
+  "fecha": "2026-07-15T19:53:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Qwen3.5 122B-A10B · ROCmFP4 iMatrix",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxqgke/qwen35_122ba10b_rocmfp4_imatrix/",
+  "fecha": "2026-07-16T02:45:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Recent llama.cpp updates for SYCL/Intel",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux08xo/recent_llamacpp_updates_for_syclintel/",
+  "fecha": "2026-07-15T08:52:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "New wave of miniboss models you can run on dual DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxkl8u/new_wave_of_miniboss_models_you_can_run_on_dual/",
+  "fecha": "2026-07-15T22:29:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "RWKV is an RNN with great LLM performance and parallelizable like a Transformer.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxe3tj/rwkv_is_an_rnn_with_great_llm_performance_and/",
+  "fecha": "2026-07-15T18:21:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Agents-A1-4B (Qwen3.7-4B ???) : Scaling the Horizon, Not the Parameters",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxb9zv/agentsa14b_qwen374b_scaling_the_horizon_not_the/",
+  "fecha": "2026-07-15T16:42:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Has anyone using antirez ds4 compared to the unsloth GGUF?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxil7b/has_anyone_using_antirez_ds4_compared_to_the/",
+  "fecha": "2026-07-15T21:15:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "AMD ROCm 7.14 \"TheRock\" tech preview tagged for latest AMD GPU compute stack",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxq4kb/amd_rocm_714_therock_tech_preview_tagged_for/",
+  "fecha": "2026-07-16T02:30:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "ggml-zendnn : add Q8_0 quantization support by z-sachin · Pull Request #23414 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux4co7/ggmlzendnn_add_q8_0_quantization_support_by/",
+  "fecha": "2026-07-15T12:23:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Mermaid to Unicode box art (grok-mermaid)",
+  "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+  "fecha": "2026-07-16T00:33:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "xai-org/grok-build, now open source",
+  "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+  "fecha": "2026-07-15T23:59:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "How I tricked Claude into leaking your deepest, darkest secrets",
+  "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+  "fecha": "2026-07-15T14:21:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "What building Shippy taught us about building agents",
+  "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "fecha": "2026-07-15T17:29:41+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Model Routing Is Simple. Until It Isn’t.",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "fecha": "2026-07-15T17:27:01+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Welcome Inkling by Thinking Machines",
+  "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "fecha": "2026-07-15T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "url": "https://huggingface.co/blog/real-world-voiceeq",
+  "fecha": "2026-07-15T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "v0.32.1",
+  "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1",
+  "fecha": "2026-07-16T05:53:59+00:00",
+  "fuente": "Ollama — Releases",
+  "fuente_id": "ollama-releases",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
+  "titulo": "v0.32.1-rc0",
+  "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1-rc0",
+  "fecha": "2026-07-15T19:10:28+00:00",
+  "fuente": "Ollama — Releases",
+  "fuente_id": "ollama-releases",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-16"
+ },
+ {
   "titulo": "Madrid va a abrir un túnel que vigila el tráfico con IA en tiempo real: así funcionará el nuevo subterráneo de la Castellana",
   "url": "https://www.xataka.com/movilidad/madrid-va-a-abrir-tunel-que-vigila-trafico-ia-tiempo-real-asi-funcionara-nuevo-subterraneo-castellana",
   "fecha": "2026-07-14T14:16:06+00:00",

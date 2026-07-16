@@ -59,7 +59,7 @@
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
-  "hacker-news-ia": "hacker-news-ia.png",
+  "hacker-news-ia": "",
   "ollama-releases": "ollama-releases.png",
   "vllm-releases": "vllm-releases.png"
  },
@@ -95,5 +95,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "15/07/2026 a las 09:07"
+ "sello": "16/07/2026 a las 09:15"
 }
