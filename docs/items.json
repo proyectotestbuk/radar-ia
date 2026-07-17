@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
+  "fecha": "2026-07-16T21:48:47+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "China, te necesitamos: solo los fabricantes chinos de memorias pueden devolver la cordura al mercado del hardware",
+  "url": "https://www.xataka.com/empresas-y-economia/china-te-necesitamos-solo-fabricantes-chinos-memorias-pueden-devolver-cordura-al-mercado-hardware",
+  "fecha": "2026-07-16T11:45:55+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Los datos del Mundial 2026 convierten 102 partidos y 153.000 eventos en una forma artístico-matemática de ver el fútbol",
+  "url": "http://www.microsiervos.com/archivo/arte-y-diseno/datos-mundial-2026-futbol-partidos-eventos-artistico-matematicas.html",
+  "fecha": "2026-07-17T00:03:19+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "KIMI K3 Beats Claude Fable and GPT 5.6 sol in arena.ai!!!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uydii0/kimi_k3_beats_claude_fable_and_gpt_56_sol_in/",
+  "fecha": "2026-07-16T19:57:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 Benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy9cft/kimi_k3_benchmarks/",
+  "fecha": "2026-07-16T17:25:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 achieves 3rd Place on ArtificalAnalysis, beating out Claude Opus 4.8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uycepz/kimi_k3_achieves_3rd_place_on_artificalanalysis/",
+  "fecha": "2026-07-16T19:16:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 released on web and app",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy3a0q/kimi_k3_released_on_web_and_app/",
+  "fecha": "2026-07-16T13:43:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Anthropic and OpenAI don't have secret sauce",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uygxt3/anthropic_and_openai_dont_have_secret_sauce/",
+  "fecha": "2026-07-16T22:04:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 weights to be released on the 27th.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyb88e/kimi_k3_weights_to_be_released_on_the_27th/",
+  "fecha": "2026-07-16T18:32:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 Shows Open-Weight Models Are About to Overtake the Frontier",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uydbmc/kimi_k3_shows_openweight_models_are_about_to/",
+  "fecha": "2026-07-16T19:50:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 Blogpost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uya5xn/kimi_k3_blogpost/",
+  "fecha": "2026-07-16T17:55:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash (98GB) on 1x 4060ti + CPU got 300% faster this week [ 2->7t/s]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy33fw/deepseek_v4_flash_98gb_on_1x_4060ti_cpu_got_300/",
+  "fecha": "2026-07-16T13:35:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "DFlash makes Qwen3.6 27B 2.2x faster with no quality loss",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyay0w/dflash_makes_qwen36_27b_22x_faster_with_no/",
+  "fecha": "2026-07-16T18:22:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "How long before Dario Amodei Continue to sound the Alarm of how Dangerous Open Weights after Kimi K3 release",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyfhfd/how_long_before_dario_amodei_continue_to_sound/",
+  "fecha": "2026-07-16T21:12:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Anyone else completely tuning out these massive \"open weight\" drops?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uylutc/anyone_else_completely_tuning_out_these_massive/",
+  "fecha": "2026-07-17T01:36:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Looks like Hugging face is down",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxwjl9/looks_like_hugging_face_is_down/",
+  "fecha": "2026-07-16T08:10:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Will we have a 27B model with Fable capabilities in 5 months? History says yes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyhdaf/will_we_have_a_27b_model_with_fable_capabilities/",
+  "fecha": "2026-07-16T22:21:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3 Release Video [Made with Kimi K3]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyaiw2/kimi_k3_release_video_made_with_kimi_k3/",
+  "fecha": "2026-07-16T18:07:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Filings: Dario Amodei gave $1M in May to Public First, a super PAC advocating for AI safety regulations, seemingly his first seven-figure political donation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy06cd/filings_dario_amodei_gave_1m_in_may_to_public/",
+  "fecha": "2026-07-16T11:30:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Added SearXNG and I don't even know what to say anymore.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyjdfg/added_searxng_and_i_dont_even_know_what_to_say/",
+  "fecha": "2026-07-16T23:45:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Qwen 3.6 35B A3B Q8_0 \"Create an SVG of a Darth Vader.\" at various expert counts.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxyjw3/qwen_36_35b_a3b_q8_0_create_an_svg_of_a_darth/",
+  "fecha": "2026-07-16T10:05:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "tried predicting which MoE experts get used next token to speed up cpu/gpu offload, got some real numbers, is this actually implementable or am i wasting my time (30tg/s -> 150-200tg/s)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uybm8y/tried_predicting_which_moe_experts_get_used_next/",
+  "fecha": "2026-07-16T18:47:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "NVIDIA H200 Disassembly & Liquid-Cooling Installation with EK-Pro H200 NVL Water Block",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy0k62/nvidia_h200_disassembly_liquidcooling/",
+  "fecha": "2026-07-16T11:48:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi k3 is 2.8t! Will need to have an aggressive iQ2_XXS or IQ1.8!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy8dlg/kimi_k3_is_28t_will_need_to_have_an_aggressive/",
+  "fecha": "2026-07-16T16:51:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Does K3 really live up to the hype (real world tasks)?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uymonq/does_k3_really_live_up_to_the_hype_real_world/",
+  "fecha": "2026-07-17T02:14:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Mozilla’s State of Open Source AI Report",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy35n6/mozillas_state_of_open_source_ai_report/",
+  "fecha": "2026-07-16T13:38:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "OpenLLM-France/Luciole-23B-Instruct-1.1 (Apache 2.0 license, 8B and 1B also available)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy9a8f/openllmfranceluciole23binstruct11_apache_20/",
+  "fecha": "2026-07-16T17:23:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "I tested all llama.cpp's speculative decoding methods on Qwen 3.6 27B: MTP ~2.7x, DFlash ~3.7x, n-gram stack ~6x on real coding. Local AI win. My findings on RTX 6000 PRO.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyg3za/i_tested_all_llamacpps_speculative_decoding/",
+  "fecha": "2026-07-16T21:35:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Spot birds not golf",
+  "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+  "fecha": "2026-07-17T02:58:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Firefox in WebAssembly",
+  "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+  "fecha": "2026-07-16T23:34:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Kimi K3, and what we can still learn from the pelican benchmark",
+  "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+  "fecha": "2026-07-16T20:19:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Quoting Thibault Sottiaux",
+  "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+  "fecha": "2026-07-16T17:45:59+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Inkling: Our open-weights model",
+  "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+  "fecha": "2026-07-16T15:35:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Mermaid to ASCII art (mermaid-ascii)",
+  "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+  "fecha": "2026-07-16T14:57:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Quoting Linus Torvalds",
+  "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+  "fecha": "2026-07-16T13:26:10+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "fecha": "2026-07-16T16:01:21+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Newer Models, Same Advantage",
+  "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+  "fecha": "2026-07-16T11:49:48+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-17"
+ },
+ {
+  "titulo": "Security incident disclosure — July 2026",
+  "url": "https://huggingface.co/blog/security-incident-july-2026",
+  "fecha": "2026-07-16T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-17"
+ },
+ {
   "titulo": "China acaba de reunir 100.000 aceleradores nacionales en un superclúster. El desafío ahora es que trabajen juntos con eficiencia",
   "url": "https://www.xataka.com/robotica-e-ia/china-acaba-reunir-100-000-aceleradores-nacionales-supercluster-desafio-trabajen-juntos-eficiencia",
   "fecha": "2026-07-15T19:01:55+00:00",
