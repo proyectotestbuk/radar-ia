@@ -1,5 +1,485 @@
 [
  {
+  "titulo": "El nuevo modelo chino Kimi K3 ya es número uno en Frontend Code Arena. Y está desatando una locura en Internet",
+  "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
+  "fecha": "2026-07-17T18:58:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sienten menos útiles",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-cambia-modo-trabajar-como-se-sienten-personas-30-trabajadores-se-sienten-utiles",
+  "fecha": "2026-07-17T11:46:06+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "OpenAI lanza un hardware de IA que es una mini-consola de control con aspiraciones de convertirse en el nuevo iPhone (o algo así)",
+  "url": "http://www.microsiervos.com/archivo/gadgets/openai-codex-micro-hardware-ia.html",
+  "fecha": "2026-07-17T09:34:02+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uytamy/chinese_president_xi_jinping_speaks_at_world_ai/",
+  "fecha": "2026-07-17T08:00:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Kimi K3 is top of nextjs eval",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uza5wb/kimi_k3_is_top_of_nextjs_eval/",
+  "fecha": "2026-07-17T19:48:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Bonsai 27B runs locally on an iPhone - a 27B model in 3.9GB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyz9n2/bonsai_27b_runs_locally_on_an_iphone_a_27b_model/",
+  "fecha": "2026-07-17T13:08:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Trellis.cpp now produces high quality assets",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyw64s/trelliscpp_now_produces_high_quality_assets/",
+  "fecha": "2026-07-17T10:45:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Soofi S - 30B-A3B European Open Source Model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyysg1/soofi_s_30ba3b_european_open_source_model/",
+  "fecha": "2026-07-17T12:49:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Kimi K3 (max) beats Sonnet 5 on Simple Bench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz419i/kimi_k3_max_beats_sonnet_5_on_simple_bench/",
+  "fecha": "2026-07-17T16:07:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Kimi moment. I think the writing is on the wall for Anthropic and OpenAi",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uziqyt/kimi_moment_i_think_the_writing_is_on_the_wall/",
+  "fecha": "2026-07-18T01:50:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Gemma4-31b better than Qwen3.6-27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz8532/gemma431b_better_than_qwen3627b/",
+  "fecha": "2026-07-17T18:34:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Kimi K3 is currently at the top of the leaderboard for Text Arena filtered for science queries.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzh17f/kimi_k3_is_currently_at_the_top_of_the/",
+  "fecha": "2026-07-18T00:28:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "China’s Xi Touts Open-Source AI and Takes a Swipe at U.S. Dominance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uysngh/chinas_xi_touts_opensource_ai_and_takes_a_swipe/",
+  "fecha": "2026-07-17T07:22:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "DeepSeek v4 Flash on 5090 in llama.cpp with 1 Million context",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz5w3y/deepseek_v4_flash_on_5090_in_llamacpp_with_1/",
+  "fecha": "2026-07-17T17:14:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "[RESEARCH] Breaking the 1-bit Floor: Achieving \"Negative-Bit Quantization\" (NBQ) via Phase-Inverted Tensor Embedding (satire)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz80b4/research_breaking_the_1bit_floor_achieving/",
+  "fecha": "2026-07-17T18:29:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "User experience of Bonsai-Ternary-27B on 4060Ti 16GB for KB management and productivity assistant use cases",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz0z0t/user_experience_of_bonsaiternary27b_on_4060ti/",
+  "fecha": "2026-07-17T14:14:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "When will we get more small LLMs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz56hl/when_will_we_get_more_small_llms/",
+  "fecha": "2026-07-17T16:49:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Will we get accessible open-source models again?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyt8zc/will_we_get_accessible_opensource_models_again/",
+  "fecha": "2026-07-17T07:58:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "internlm/Intern-S2-Preview-397B • HuggingFace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzifq8/internlminterns2preview397b_huggingface/",
+  "fecha": "2026-07-18T01:35:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "basaltlabsai/monolith-1.0 • HuggingFace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzjnnb/basaltlabsaimonolith10_huggingface/",
+  "fecha": "2026-07-18T02:33:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "One MacBook vs 2× DGX Spark: DeepSeek-V4-Flash scored 54% vs 52% on Terminal-Bench 2.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzaf54/one_macbook_vs_2_dgx_spark_deepseekv4flash_scored/",
+  "fecha": "2026-07-17T19:58:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "A year ago you told me my open-source screen-watching app was flaky. You were right, so I spent the year fixing it with your feedback. Thank you r/LocalLLaMA c: !!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz8596/a_year_ago_you_told_me_my_opensource/",
+  "fecha": "2026-07-17T18:34:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash | IQ3_XXS-AS & IQ2_S Bench | mainline b10064 vs fairydreaming | 1xRTX 3090 + 128GB DDR4 | 250PP/11TG on 50K CTX",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz76sp/deepseek_v4_flash_iq3_xxsas_iq2_s_bench_mainline/",
+  "fecha": "2026-07-17T18:00:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "GPT-OSS-120B, Qwen 30B and Gemma 26B on an Android phone at 1-5 tok/s: +60GB model, 11GB of RAM, CPU only",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz5n2j/gptoss120b_qwen_30b_and_gemma_26b_on_an_android/",
+  "fecha": "2026-07-17T17:05:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Has anyone tried running an LLM from a raid0 of a bunch of SSDs.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uytlvw/has_anyone_tried_running_an_llm_from_a_raid0_of_a/",
+  "fecha": "2026-07-17T08:19:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "What small models have you guys been using?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz6388/what_small_models_have_you_guys_been_using/",
+  "fecha": "2026-07-17T17:21:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Welcome to 2014 - my new rig",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyzfyn/welcome_to_2014_my_new_rig/",
+  "fecha": "2026-07-17T13:16:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzm202/the_amd_instinct_mi350p_is_a_hbm_pcie_ai/",
+  "fecha": "2026-07-18T04:34:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Claude make Fable 5 permanent",
+  "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+  "fecha": "2026-07-18T06:00:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "nascheme/quixote",
+  "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+  "fecha": "2026-07-18T05:27:49+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Quoting Kimi K3",
+  "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+  "fecha": "2026-07-17T13:43:53+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "LLM cliché highlighter",
+  "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+  "fecha": "2026-07-17T12:11:11+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+  "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "fecha": "2026-07-17T15:57:54+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+  "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+  "fecha": "2026-07-17T22:26:30+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "The state of open source AI",
+  "url": "https://stateofopensource.ai/",
+  "fecha": "2026-07-17T14:31:10+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "LM Studio Bionic: the AI agent for open models",
+  "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "fecha": "2026-07-16T20:18:15+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+  "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+  "fecha": "2026-07-16T20:03:23+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+  "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+  "fecha": "2026-07-16T17:44:46+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "fecha": "2026-07-16T16:41:37+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+  "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+  "fecha": "2026-07-16T15:13:00+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Generative AI Is an Engineering Disaster",
+  "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+  "fecha": "2026-07-16T13:12:24+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "The LLM Critics Are Right. I Use LLMs Anyway",
+  "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+  "fecha": "2026-07-16T11:59:01+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Stop saying that AI is just a tool and it only matters how it is used",
+  "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+  "fecha": "2026-07-16T04:31:01+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "LLM Networking with MikroTik",
+  "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "fecha": "2026-07-15T22:23:27+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "We don't use AI in any of our design or production processes",
+  "url": "https://mass-driver.com/article/from-human-hands",
+  "fecha": "2026-07-15T21:36:49+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+  "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+  "fecha": "2026-07-15T21:16:36+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "Inkling – Open-Weights 975B Parameter LLM",
+  "url": "https://thinkingmachines.ai/inkling/",
+  "fecha": "2026-07-15T18:14:23+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
+  "titulo": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+  "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+  "fecha": "2026-07-15T13:18:15+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-18"
+ },
+ {
   "titulo": "“Nadie sabe con certeza qué va a ocurrir”: Demis Hassabis, premio Nobel, advierte del riesgo de perder el control de la IA",
   "url": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia",
   "fecha": "2026-07-16T21:48:47+00:00",
