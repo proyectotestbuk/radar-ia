@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
+  "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
+  "fecha": "2026-07-18T18:00:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "What kind of dark magic is Deepseek using?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
+  "fecha": "2026-07-18T08:58:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "head of strategic futures from openai on open-weight chinese models.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0czbk/head_of_strategic_futures_from_openai_on/",
+  "fecha": "2026-07-19T01:15:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Kimi K3 ranks #1 on @AfterQuery's SpreadsheetBench 2, surpassing Claude Fable 5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzzecz/kimi_k3_ranks_1_on_afterquerys_spreadsheetbench_2/",
+  "fecha": "2026-07-18T15:50:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Deepseek V4 soon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v04jq2/deepseek_v4_soon/",
+  "fecha": "2026-07-18T19:11:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "\"Basalt Labs\" pulling a generationally dumb scam. Incredibly stupid lmao. Claiming 99.44% on HLE with tools. Model they released is based on Qwen2.5-7B-Instruct and the model they're serving on their website is DeepSeek.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uztylz/basalt_labs_pulling_a_generationally_dumb_scam/",
+  "fecha": "2026-07-18T11:58:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "[Model] catmind-1.2b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzxov4/model_catmind12b/",
+  "fecha": "2026-07-18T14:41:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Bring back Qwen team!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzpd80/bring_back_qwen_team/",
+  "fecha": "2026-07-18T07:33:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "If you're building a harness, here is a simple tool to catch cache invalidation in your calls to LLMs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uztipo/if_youre_building_a_harness_here_is_a_simple_tool/",
+  "fecha": "2026-07-18T11:34:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "model: add openPangu-2.0-Flash (92B-A6B) with MLA-latent cache, DSA/SWA, mHC, and multi-head MTP by joelfarthing · Pull Request #2065 · ikawrakow/ik_llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v03psf/model_add_openpangu20flash_92ba6b_with_mlalatent/",
+  "fecha": "2026-07-18T18:38:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Are you guys buying huge HDDs to store the best open models just in case?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0g429/are_you_guys_buying_huge_hdds_to_store_the_best/",
+  "fecha": "2026-07-19T03:53:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Byte exact KV cache grafting on frozen Gemma 4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v07tib/byte_exact_kv_cache_grafting_on_frozen_gemma_4/",
+  "fecha": "2026-07-18T21:24:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "How are y’all stomaching the “AI Boom” prices?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v07ell/how_are_yall_stomaching_the_ai_boom_prices/",
+  "fecha": "2026-07-18T21:06:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Qwen vs Gemma",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0dksm/qwen_vs_gemma/",
+  "fecha": "2026-07-19T01:45:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "FastFlowLM Joins AMD to Advance AI Inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0axkk/fastflowlm_joins_amd_to_advance_ai_inference/",
+  "fecha": "2026-07-18T23:40:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "why minimax M3 branch not merged to main?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzvzyn/why_minimax_m3_branch_not_merged_to_main/",
+  "fecha": "2026-07-18T13:31:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "German SooFi team launches Soofi S 30B-A3B , an open-source Mixture-of-Experts (MoE) hybrid Mamba–Transformer foundation model for German and English.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0cyix/german_soofi_team_launches_soofi_s_30ba3b_an/",
+  "fecha": "2026-07-19T01:14:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Qwen and Gemma providers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzr4ia/qwen_and_gemma_providers/",
+  "fecha": "2026-07-18T09:17:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "CMP 170HX 8gb — Perf + Memory + PCIe Gen2 Unlock - NVIDIA Driver 610.43.03 (patched open kernel modules)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v088us/cmp_170hx_8gb_perf_memory_pcie_gen2_unlock_nvidia/",
+  "fecha": "2026-07-18T21:42:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "What’s your favorite underrated local model?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0eszf/whats_your_favorite_underrated_local_model/",
+  "fecha": "2026-07-19T02:46:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Sharing MiniBot v2, this is what I'm currently using I gave it a major update so I thought I'd share. I make things that do work for me, always have... and this is the latest.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0a9jn/sharing_minibot_v2_this_is_what_im_currently/",
+  "fecha": "2026-07-18T23:10:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Deepseek v4 Flash on 80 GB VRAM and 128 GB DDR4 RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0etj2/deepseek_v4_flash_on_80_gb_vram_and_128_gb_ddr4/",
+  "fecha": "2026-07-19T02:47:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "i couldnt find anyone making full movies locally on a mac, so heres what that looks like right now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ibu2/i_couldnt_find_anyone_making_full_movies_locally/",
+  "fecha": "2026-07-19T05:54:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "I tried fine-tuning a ternary model, Bonsai 8b, on metal",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0egoi/i_tried_finetuning_a_ternary_model_bonsai_8b_on/",
+  "fecha": "2026-07-19T02:29:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Serving a fleet of Qwen3.5 122b sessions on a single Mac Studio (96GB) without losing your sanity",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzpk4g/serving_a_fleet_of_qwen35_122b_sessions_on_a/",
+  "fecha": "2026-07-18T07:44:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "192GB gang - what are you running?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0hw0s/192gb_gang_what_are_you_running/",
+  "fecha": "2026-07-19T05:29:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "AI Mania Is Eviscerating Global Decision-Making",
+  "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+  "fecha": "2026-07-19T05:06:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Claude Code uses Bun written in Rust now",
+  "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+  "fecha": "2026-07-19T03:54:09+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "SQLite Query Explainer",
+  "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+  "fecha": "2026-07-18T17:19:10+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "AI Mania Is Eviscerating Global Decision-Making",
+  "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+  "fecha": "2026-07-19T01:29:19+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+  "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+  "fecha": "2026-07-18T22:13:39+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "What AI did to stackoverflow in a graph",
+  "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "fecha": "2026-07-18T11:12:46+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
+  "titulo": "Why do AI company logos look like buttholes? (2025)",
+  "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+  "fecha": "2026-07-18T11:06:50+00:00",
+  "fuente": "Hacker News — IA",
+  "fuente_id": "hacker-news-ia",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-19"
+ },
+ {
   "titulo": "El nuevo modelo chino Kimi K3 ya es número uno en Frontend Code Arena. Y está desatando una locura en Internet",
   "url": "https://www.xataka.com/robotica-e-ia/nuevo-modelo-chino-kimi-k3-numero-uno-frontend-code-arena-esta-desatando-locura-internet",
   "fecha": "2026-07-17T18:58:00+00:00",
