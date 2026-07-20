@@ -13,11 +13,18 @@ La Hora Maker (YouTube)  | es | https://www.youtube.com/feeds/videos.xml?channel
 Xataka — IA              | es | https://www.xataka.com/tag/inteligencia-artificial/rss2.xml |
 Genbeta                  | es | https://feeds.weblogssl.com/genbeta | ia,inteligencia artificial,llm,chatgpt,claude,gemini,ollama,modelo
 Microsiervos             | es | https://www.microsiervos.com/index.xml | ia,inteligencia artificial,llm,chatgpt,claude,modelo
+IA en Español            | es | https://iaenespanol.substack.com/feed |
 
-# --- Inglés (donde se cuece antes) ---
+# --- Inglés (stack de análisis técnico) ---
 r/LocalLLaMA             | en | https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day |
 Simon Willison           | en | https://simonwillison.net/atom/everything/ |
 Hugging Face — Blog      | en | https://huggingface.co/blog/feed.xml |
+Import AI (Jack Clark)   | en | https://importai.substack.com/feed |
+Latent Space             | en | https://latent.space/feed |
+Ahead of AI (Raschka)    | en | https://sebastianraschka.substack.com/feed |
+One Useful Thing (Mollick) | en | https://oneusefulthing.substack.com/feed |
+ChinAI (Jeffrey Ding)    | en | https://chinai.substack.com/feed |
+The Gradient (Stanford)  | en | https://thegradient.pub/feed/ |
 
 # --- Descartadas (no sirven) ---
 # IA en Español (newsletter.iatoday.ai/feed): devuelve HTML, no RSS. Sin feed utilizable (14/07).
