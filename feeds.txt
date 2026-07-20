@@ -18,7 +18,6 @@ Microsiervos             | es | https://www.microsiervos.com/index.xml | ia,inte
 r/LocalLLaMA             | en | https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day |
 Simon Willison           | en | https://simonwillison.net/atom/everything/ |
 Hugging Face — Blog      | en | https://huggingface.co/blog/feed.xml |
-Hacker News — IA         | en | https://hnrss.org/newest?q=AI+OR+LLM+OR+Ollama&points=100 |
 
 # --- Descartadas (no sirven) ---
 # IA en Español (newsletter.iatoday.ai/feed): devuelve HTML, no RSS. Sin feed utilizable (14/07).
