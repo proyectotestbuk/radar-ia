@@ -19,8 +19,6 @@ r/LocalLLaMA             | en | https://www.reddit.com/r/LocalLLaMA/top/.rss?t=d
 Simon Willison           | en | https://simonwillison.net/atom/everything/ |
 Hugging Face — Blog      | en | https://huggingface.co/blog/feed.xml |
 Hacker News — IA         | en | https://hnrss.org/newest?q=AI+OR+LLM+OR+Ollama&points=100 |
-Ollama — Releases        | en | https://github.com/ollama/ollama/releases.atom |
-vLLM — Releases          | en | https://github.com/vllm-project/vllm/releases.atom |
 
 # --- Descartadas (no sirven) ---
 # IA en Español (newsletter.iatoday.ai/feed): devuelve HTML, no RSS. Sin feed utilizable (14/07).
