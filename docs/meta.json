@@ -34,39 +34,25 @@
    "id": "hugging-face-blog",
    "nombre": "Hugging Face — Blog",
    "idioma": "en"
-  },
-  {
-   "id": "hacker-news-ia",
-   "nombre": "Hacker News — IA",
-   "idioma": "en"
-  },
-  {
-   "id": "ollama-releases",
-   "nombre": "Ollama — Releases",
-   "idioma": "en"
-  },
-  {
-   "id": "vllm-releases",
-   "nombre": "vLLM — Releases",
-   "idioma": "en"
   }
  ],
  "iconos": {
   "la-hora-maker-youtube": "la-hora-maker-youtube.png",
   "xataka-ia": "xataka-ia.png",
   "genbeta": "",
-  "microsiervos": "microsiervos.png",
+  "microsiervos": "",
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
-  "hugging-face-blog": "hugging-face-blog.png",
-  "hacker-news-ia": "hacker-news-ia.png",
-  "ollama-releases": "ollama-releases.png",
-  "vllm-releases": "vllm-releases.png"
+  "hugging-face-blog": "hugging-face-blog.png"
  },
  "cats": {
   "local": {
    "emoji": "🖥️",
    "nombre": "IA local"
+  },
+  "llm-eng": {
+   "emoji": "🔨",
+   "nombre": "LLM Engineering"
   },
   "modelos": {
    "emoji": "🧠",
@@ -95,5 +81,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "19/07/2026 a las 09:22"
+ "sello": "20/07/2026 a las 09:51"
 }

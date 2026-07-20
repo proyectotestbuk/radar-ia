@@ -1,5 +1,295 @@
 [
  {
+  "titulo": "Andreas Prins, experto en soberanía digital: \"El sentimiento es uniforme: ya no confiamos en los hiperescaladores de EEUU\"",
+  "url": "https://www.xataka.com/legislacion-y-derechos/andreas-prins-experto-soberania-digital-sentimiento-uniforme-no-confiamos-hiperescaladores-eeuu",
+  "fecha": "2026-07-19T17:00:32+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Meta avisa: \"Llevamos 20 años construyendo infraestructura para humanos, quizás tengamos 20 meses para reconstruirla para los agentes\"",
+  "url": "https://www.xataka.com/robotica-e-ia/meta-avisa-llevamos-20-anos-construyendo-infraestructura-para-humanos-quizas-tengamos-20-meses-para-reconstruirlo-para-agentes",
+  "fecha": "2026-07-19T10:16:06+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "El salario de los junior lleva años en caída libre. Un nuevo estudio sugiere que el impacto de la IA no es tan obvio",
+  "url": "https://www.xataka.com/robotica-e-ia/llevamos-dos-anos-culpando-a-ia-destrozo-empleo-junior-estudio-nominas-reales-que-dice-que-a-medias",
+  "fecha": "2026-07-19T09:00:07+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Prepare your (v)ram - Qwen3.8 is coming!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/",
+  "fecha": "2026-07-19T08:52:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "HuggingFace security incident report: \"the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/",
+  "fecha": "2026-07-19T19:00:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Please Qwen, can we have more 3.x-35B-a3B please 🙏",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/",
+  "fecha": "2026-07-19T15:09:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Ahem! Qwen is on the move again",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0kqnn/ahem_qwen_is_on_the_move_again/",
+  "fecha": "2026-07-19T08:12:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "OSS gathering in Shanghai",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0nm43/oss_gathering_in_shanghai/",
+  "fecha": "2026-07-19T11:02:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "How long before Chinese models fully surpass US models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t6w4/how_long_before_chinese_models_fully_surpass_us/",
+  "fecha": "2026-07-19T15:15:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Hey Qwen Team: We Need a 100B MoE Model for Spark!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/",
+  "fecha": "2026-07-19T14:47:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "With all the Kimi drama I feel like I want to download all the current best models in case there is a ridiculous knee jerk political move pulled",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v170vg/with_all_the_kimi_drama_i_feel_like_i_want_to/",
+  "fecha": "2026-07-20T00:52:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "[Paper] Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0vp9k/paper_automated_tensor_scheduling_for_hybrid/",
+  "fecha": "2026-07-19T16:54:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "It could have been Meta",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0rmz4/it_could_have_been_meta/",
+  "fecha": "2026-07-19T14:12:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "How do we benefits from 2+ T models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0py81/how_do_we_benefits_from_2_t_models/",
+  "fecha": "2026-07-19T12:58:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "poor man's way to local inference on the go",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0pnqd/poor_mans_way_to_local_inference_on_the_go/",
+  "fecha": "2026-07-19T12:44:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Kimi k3 on cybersecurity",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0xm6r/kimi_k3_on_cybersecurity/",
+  "fecha": "2026-07-19T18:08:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "My thoughts on qwen 3.8 so far with agentic coding.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v16r8d/my_thoughts_on_qwen_38_so_far_with_agentic_coding/",
+  "fecha": "2026-07-20T00:39:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Qwen3.6 35B A3B KV cavhe quantizations memory footprint",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0rzci/qwen36_35b_a3b_kv_cavhe_quantizations_memory/",
+  "fecha": "2026-07-19T14:26:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Tested the new Qwen 3.8 model (2.4T parameters)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0xanm/tested_the_new_qwen_38_model_24t_parameters/",
+  "fecha": "2026-07-19T17:56:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Neural Drive, a SuperTuxKart World Model that runs in your browser",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v19z5a/neural_drive_a_supertuxkart_world_model_that_runs/",
+  "fecha": "2026-07-20T03:16:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Fractale-350M-base: memory as trained behaviour instead of long context, a fully open research release",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v174ql/fractale350mbase_memory_as_trained_behaviour/",
+  "fecha": "2026-07-20T00:57:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "given the increasing likelihood of an open source AI ban, what are the alternative channels for downloading models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v15oi3/given_the_increasing_likelihood_of_an_open_source/",
+  "fecha": "2026-07-19T23:52:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ltno/introducing_asciitermdraw_bench_testing_the/",
+  "fecha": "2026-07-19T09:17:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Gemma 4 is still lazy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1ccun/gemma_4_is_still_lazy/",
+  "fecha": "2026-07-20T05:22:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "BeeLlama.cpp v0.4.0: KVarN, KV precision tail, q2_0-q3_1 KV cache, upstream rebase",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0xjw6/beellamacpp_v040_kvarn_kv_precision_tail_q2_0q3_1/",
+  "fecha": "2026-07-19T18:06:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Qwen 3.6 27B + Opencode: what am i doing wrong?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0pp3s/qwen_36_27b_opencode_what_am_i_doing_wrong/",
+  "fecha": "2026-07-19T12:46:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Good ASR and TTS models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1auga/good_asr_and_tts_models/",
+  "fecha": "2026-07-20T04:01:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "How did I do boys?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1bnmc/how_did_i_do_boys/",
+  "fecha": "2026-07-20T04:45:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
+  "titulo": "Quoting Sam Altman",
+  "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+  "fecha": "2026-07-20T03:47:59+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-20"
+ },
+ {
   "titulo": "China ha encontrado un nuevo filón turístico lejos de su muralla: las fábricas de robots, coches eléctricos y IA",
   "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia",
   "fecha": "2026-07-18T18:00:08+00:00",
@@ -236,7 +526,7 @@
   "fuente": "r/LocalLLaMA",
   "fuente_id": "r-localllama",
   "idioma": "en",
-  "cat": "modelos",
+  "cat": "llm-eng",
   "dia": "2026-07-19"
  },
  {
@@ -656,7 +946,7 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "modelos",
+  "cat": "llm-eng",
   "dia": "2026-07-18"
  },
  {
