@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
+  "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
+  "fecha": "2026-07-21T17:31:14+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "ASML vende las máquinas más importantes de la industria del chip. Ahora todo apunta a que serán más caras",
+  "url": "https://www.xataka.com/empresas-y-economia/asml-vende-maquinas-importantes-industria-chip-ahora-todo-apunta-a-que-seran-caras",
+  "fecha": "2026-07-21T16:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Anthropic fue acusada de robar libros para entrenar sus modelos de IA. Su solución ha sido sencilla: pagar",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-fue-acusada-robar-libros-para-entrenar-sus-modelos-ia-su-solucion-ha-sido-sencilla-pagar",
+  "fecha": "2026-07-21T15:45:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "\"¿De verdad necesitamos tantos matemáticos?\": Fable 5 ayuda a refutar una conjetura de casi un siglo",
+  "url": "https://www.xataka.com/robotica-e-ia/verdad-necesitamos-matematicos-fable-5-ayuda-a-refutar-conjetura-casi-siglo",
+  "fecha": "2026-07-21T14:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "\"Podría debilitar la competitividad de EEUU\": Kimi K3 obliga a Trump a retomar su plan para frenar la IA china",
+  "url": "https://www.xataka.com/robotica-e-ia/podria-debilitar-competitividad-eeuu-kimi-k3-obliga-a-trump-a-retomar-su-plan-para-frenar-ia-china",
+  "fecha": "2026-07-21T10:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "CEO of Hugging Face: Banning open-source AI would hurt defenders 10x more than attackers, which would make the world 10x more dangerous and this is a good example why!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2g9bc/ceo_of_hugging_face_banning_opensource_ai_would/",
+  "fecha": "2026-07-21T11:55:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "US gov't lobbied by major US labs is about to ban open source models.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2bf3t/us_govt_lobbied_by_major_us_labs_is_about_to_ban/",
+  "fecha": "2026-07-21T07:30:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2w7jl/openai_admits_responsibility_for_huggingface/",
+  "fecha": "2026-07-21T21:40:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Anthropic claims local models are stealing from it, meanwhile it pays $1.5B for theft",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2ky1e/anthropic_claims_local_models_are_stealing_from/",
+  "fecha": "2026-07-21T15:00:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2pg99/laguna_s_21_released_cheaper_than_deepseek_v4/",
+  "fecha": "2026-07-21T17:39:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "poolside/Laguna-S-2.1 released! Finally an interesting 120B contender!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2orhb/poolsidelagunas21_released_finally_an_interesting/",
+  "fecha": "2026-07-21T17:16:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Mistral is a Fish - It always swim against current",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2gqnf/mistral_is_a_fish_it_always_swim_against_current/",
+  "fecha": "2026-07-21T12:16:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Unpopular(?) opinion. The distillation claim is overblown.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2eses/unpopular_opinion_the_distillation_claim_is/",
+  "fecha": "2026-07-21T10:42:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "New Model: Nanbeige4.2-3B (Looped Transformer, outperforms 4x size)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2n7l6/new_model_nanbeige423b_looped_transformer/",
+  "fecha": "2026-07-21T16:21:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "I ran Laguna-S-2.1 through my private agentic eval vs Qwen3.5-122B on an RTX Pro 6000 (96GB). Fastest 100B+ I've tested and the best tool calling, but it invents facts under pressure.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2ua8g/i_ran_lagunas21_through_my_private_agentic_eval/",
+  "fecha": "2026-07-21T20:29:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Felix Rieseberg (Anthropic, ElectronJS) has released a free Mac app designed to help people build their own LLMs from scratch.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v32ob7/felix_rieseberg_anthropic_electronjs_has_released/",
+  "fecha": "2026-07-22T02:11:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Updated Gemma-4 chat template witchcraft: Gemma-4-26B-a4B shows dominance over Qwen3.6-MoE and Qwen3.5-MoE fine tunes (Instruct mode and Reasoning efficiency)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2rqbd/updated_gemma4_chat_template_witchcraft/",
+  "fecha": "2026-07-21T18:58:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Gigatoken: A new open source tokenizer ~100x faster than Tiktoken, -500-1000x faster than Huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2yfqp/gigatoken_a_new_open_source_tokenizer_100x_faster/",
+  "fecha": "2026-07-21T23:08:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "DRAM shortage will last another 10 years, warns ADATA chairman",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2duio/dram_shortage_will_last_another_10_years_warns/",
+  "fecha": "2026-07-21T09:51:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Unsloth Quantization of Laguna S 2.1 Is Out",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v34ob0/unsloth_quantization_of_laguna_s_21_is_out/",
+  "fecha": "2026-07-22T03:42:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Bessent says U.S. could sanction China over AI model 'theft'",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2t67m/bessent_says_us_could_sanction_china_over_ai/",
+  "fecha": "2026-07-21T19:49:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "pi 0.81.0 adds support for llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2lszl/pi_0810_adds_support_for_llamacpp/",
+  "fecha": "2026-07-21T15:31:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Torrents arrived",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2glcx/torrents_arrived/",
+  "fecha": "2026-07-21T12:10:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Today was the perfect day for Poolside to drop Laguna S 2.1 because I just got these in! Finally have a half decent amount of VRAM. 3x V620 = 96 GB.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v353sh/today_was_the_perfect_day_for_poolside_to_drop/",
+  "fecha": "2026-07-22T04:03:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "20B Looping model (paper) matches or beats Qwen3 Coder 30B at 10% of pre-training tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2mhmi/20b_looping_model_paper_matches_or_beats_qwen3/",
+  "fecha": "2026-07-21T15:55:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "FlightSimulatorBench: Small MoE edition",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v33dlq/flightsimulatorbench_small_moe_edition/",
+  "fecha": "2026-07-22T02:42:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Today I learnt the power of LocalLlama",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2c341/today_i_learnt_the_power_of_localllama/",
+  "fecha": "2026-07-21T08:09:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "SenseNova-U1-8b-MoT-Infographic-V3 has been released (2 weeks after V2)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2mszh/sensenovau18bmotinfographicv3_has_been_released_2/",
+  "fecha": "2026-07-21T16:06:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "mindlab-research/Macaron-V1-Venti • HuggingFace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2k5hv/mindlabresearchmacaronv1venti_huggingface/",
+  "fecha": "2026-07-21T14:31:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "you can now fine tune Prism-ML's ternary Bonsai models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2egi3/you_can_now_fine_tune_prismmls_ternary_bonsai/",
+  "fecha": "2026-07-21T10:24:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Nativ: Run AI models locally on your Mac",
+  "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+  "fecha": "2026-07-21T14:22:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+  "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+  "fecha": "2026-07-21T12:54:02+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "The State of Simulation for Physical AI: An Overview",
+  "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "fecha": "2026-07-21T20:00:27+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
+  "titulo": "Grabette: an open system to record robot-manipulation data",
+  "url": "https://huggingface.co/blog/grabette",
+  "fecha": "2026-07-21T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-22"
+ },
+ {
   "titulo": "Cuando la IA se equivoca, nosotros seguimos confiando: un estudio revela que ya no sabemos decir \"no lo sé\"",
   "url": "https://www.xataka.com/robotica-e-ia/cuando-ia-se-equivoca-nosotros-seguimos-confiando-estudio-revela-que-no-sabemos-decir-no-se",
   "fecha": "2026-07-21T06:01:15+00:00",
