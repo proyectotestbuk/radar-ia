@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
+  "url": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
+  "fecha": "2026-07-22T17:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Un modelo de IA no tenía acceso a internet. Así que consideró que era mejor tenerlo y decidió hackear algo por el camino",
+  "url": "https://www.xataka.com/robotica-e-ia/modelo-ia-no-tenia-acceso-a-internet-asi-que-considero-que-era-mejor-tenerlo-decidio-hackear-algo-camino",
+  "fecha": "2026-07-22T11:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Solve the CyberGym benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3ba1z/solve_the_cybergym_benchmark/",
+  "fecha": "2026-07-22T09:39:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Sanctions on Open Source. hope they don’t do anything stupid here.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3v75j/sanctions_on_open_source_hope_they_dont_do/",
+  "fecha": "2026-07-22T22:22:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "OpenAI hacking HuggingFace in one meme",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3k0ei/openai_hacking_huggingface_in_one_meme/",
+  "fecha": "2026-07-22T15:48:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Instead of panicking about the Hugging Face attack, people need to start questioning OpenAI's insecure sandboxes.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3lo6k/instead_of_panicking_about_the_hugging_face/",
+  "fecha": "2026-07-22T16:46:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "🇦🇹 Austria is rolling out a government AI-platform using Mistral models and Open WebUI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3hra4/austria_is_rolling_out_a_government_aiplatform/",
+  "fecha": "2026-07-22T14:28:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "microsoft/Fara1.5-27B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3ny84/microsoftfara1527b_hugging_face/",
+  "fecha": "2026-07-22T18:04:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Got these baddies in the mail today (2X 3080 20GB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3jrc2/got_these_baddies_in_the_mail_today_2x_3080_20gb/",
+  "fecha": "2026-07-22T15:40:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "China’s Kimi K3 fuels fears safety curbs are holding back US AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3us2p/chinas_kimi_k3_fuels_fears_safety_curbs_are/",
+  "fecha": "2026-07-22T22:06:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3nw3j/cactus_hybrid_we_taught_gemma_4_to_know_when_its/",
+  "fecha": "2026-07-22T18:01:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "+1 if you are friend of open weight models and would rather pay $20 for Kimi rather than closed cloud providers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3uoo1/1_if_you_are_friend_of_open_weight_models_and/",
+  "fecha": "2026-07-22T22:02:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "upstage/Solar-Open2-250B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3b58h/upstagesolaropen2250b_hugging_face/",
+  "fecha": "2026-07-22T09:31:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "MindControl - llama.cpp fork to guide the reasoning process via injection during sampling",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3ms3c/mindcontrol_llamacpp_fork_to_guide_the_reasoning/",
+  "fecha": "2026-07-22T17:24:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Despite not being trained to, it turns out the Pearson correlation between a models AA Intelligence Index score and its ability to generate Base64 encoded responses is 0.91",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3dpsk/despite_not_being_trained_to_it_turns_out_the/",
+  "fecha": "2026-07-22T11:43:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Session-Adaptive Orthogonal Distillation (SAOD)? Technology compresses 744B (1.5TB) to under 100GB?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3shir/sessionadaptive_orthogonal_distillation_saod/",
+  "fecha": "2026-07-22T20:41:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Genesis-Science-1 (GS1), 1T open-weight model later this year from Arcee AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3q47x/genesisscience1_gs1_1t_openweight_model_later/",
+  "fecha": "2026-07-22T19:19:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Llama.cpp just added support for Laguna XS.2 & M.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3cz6e/llamacpp_just_added_support_for_laguna_xs2_m1/",
+  "fecha": "2026-07-22T11:09:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Laguna S 2.1 looping fix incoming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3s95n/laguna_s_21_looping_fix_incoming/",
+  "fecha": "2026-07-22T20:32:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Model \"distillation\" accusations are getting way overblown at this point",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v44aa6/model_distillation_accusations_are_getting_way/",
+  "fecha": "2026-07-23T05:12:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Tokenizer Expansion: Upgrading a Model's Tokenizer in Place - LFM2.5-8B-A1B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3c6hx/tokenizer_expansion_upgrading_a_models_tokenizer/",
+  "fecha": "2026-07-22T10:28:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Startup founders urge Trump not to shut off Chinese open weight AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v43935/startup_founders_urge_trump_not_to_shut_off/",
+  "fecha": "2026-07-23T04:19:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Mage-Flow - An Efficient Native-Resolution Foundation Model for Image Generation and Editing - Microsoft",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3o024/mageflow_an_efficient_nativeresolution_foundation/",
+  "fecha": "2026-07-22T18:05:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "We built NeuTTS-2E, an open-source on-device TTS model with 7 controllable emotions",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3h4ni/we_built_neutts2e_an_opensource_ondevice_tts/",
+  "fecha": "2026-07-22T14:04:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Laguna S 2.1 Thinking mode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3sgon/laguna_s_21_thinking_mode/",
+  "fecha": "2026-07-22T20:40:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "A caveman qwen3.6 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v45hy5/a_caveman_qwen36_27b/",
+  "fecha": "2026-07-23T06:17:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "TIL Why my dual 5060 Ti setup refuses to go past 50% usage and no, it's not broken.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3gctp/til_why_my_dual_5060_ti_setup_refuses_to_go_past/",
+  "fecha": "2026-07-22T13:34:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Quoting Seth Larson",
+  "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+  "fecha": "2026-07-23T04:50:36+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Quoting Thomas Ptacek",
+  "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+  "fecha": "2026-07-22T23:59:01+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+  "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+  "fecha": "2026-07-22T23:51:33+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Are AI labs pelicanmaxxing?",
+  "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+  "fecha": "2026-07-22T23:01:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "Orchestrions",
+  "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+  "fecha": "2026-07-22T14:48:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
+  "titulo": "California Sea Lion",
+  "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+  "fecha": "2026-07-21T19:51:03+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-23"
+ },
+ {
   "titulo": "\"Está diezmando el tráfico de búsqueda\": así es como la IA de Google está absorbiendo al resto de internet",
   "url": "https://www.xataka.com/robotica-e-ia/esta-diezmando-trafico-busqueda-asi-como-ia-google-esta-absorbiendo-al-resto-internet",
   "fecha": "2026-07-21T17:31:14+00:00",
