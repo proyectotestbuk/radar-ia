@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
+  "url": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
+  "fecha": "2026-07-24T07:00:39+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Google tiene chips de sobra para vender. Prefiere quedárselos para no quedarse atrás en la carrera de la AGI",
+  "url": "https://www.xataka.com/empresas-y-economia/google-tiene-chips-sobra-para-vender-prefiere-quedarselos-para-no-quedarse-atras-carrera-agi",
+  "fecha": "2026-07-23T15:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Los genios chinos de la IA podrían ser multimillonarios en EEUU. Lo malo para EEUU es que prefieren volver a China",
+  "url": "https://www.xataka.com/robotica-e-ia/genios-chinos-ia-podrian-ser-multimillonarios-eeuu-malo-para-eeuu-que-prefieren-volver-a-china",
+  "fecha": "2026-07-23T14:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "IncendiosEspaña.es muestra datos oficiales y de satélites en un mapa que se actualiza cada 5 minutos",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/incendiosespana-es-datos-oficiales-satelites-mapa-actualiza.html",
+  "fecha": "2026-07-24T08:05:44+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Así funciona la máquina de vapor de Watt, explicado con diagramas interactivos",
+  "url": "http://www.microsiervos.com/archivo/ciencia/como-funciona-maquina-vapor-watt-diagramas-interactivos.html",
+  "fecha": "2026-07-24T00:03:05+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4avga/ceo_of_hugging_face_heading_to_san_francisco_to/",
+  "fecha": "2026-07-23T11:13:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "The LLM distillation process simplified for politicians:",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/",
+  "fecha": "2026-07-23T18:41:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Absurd claim: the distilled model outperforms the originals",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v49zi9/absurd_claim_the_distilled_model_outperforms_the/",
+  "fecha": "2026-07-23T10:29:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "DeepSeek Founder’s 4-hour investor meeting: DeepSeek is prioritizing AGI over user growth and commercialisation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v49lxp/deepseek_founders_4hour_investor_meeting_deepseek/",
+  "fecha": "2026-07-23T10:09:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Model \"distillation\" accusations are getting way overblown at this point",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v47kp4/model_distillation_accusations_are_getting_way/",
+  "fecha": "2026-07-23T08:13:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "AntLing-3.0-flash is now live on OpenRouter, and free to use through August 3, 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4m5cr/antling30flash_is_now_live_on_openrouter_and_free/",
+  "fecha": "2026-07-23T18:23:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4b5nc/the_little_tech_association_a_new_group_of_200/",
+  "fecha": "2026-07-23T11:27:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Apple M5 isn't making full use of its matmul cores yet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4iw0n/apple_m5_isnt_making_full_use_of_its_matmul_cores/",
+  "fecha": "2026-07-23T16:28:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Arcee AI has spoken out against the ban on open Chinese models in US",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4a10b/arcee_ai_has_spoken_out_against_the_ban_on_open/",
+  "fecha": "2026-07-23T10:31:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Benchmarks: AntLing-3.0-flash a hybrid-reasoning MoE model built for production-scale agents.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4mltt/benchmarks_antling30flash_a_hybridreasoning_moe/",
+  "fecha": "2026-07-23T18:38:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "[audio.cpp] Release 0.4: Higgs Audio v3 TTS 4B (10x real time)+ Fish Audio S2 Pro in C++/GGML, full GGUF loading, Q8 speed and VRAM gains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4w5cj/audiocpp_release_04_higgs_audio_v3_tts_4b_10x/",
+  "fecha": "2026-07-24T00:44:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Kwaipilot/KAT-Coder-V2.5-Dev · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4b9a8/kwaipilotkatcoderv25dev_hugging_face/",
+  "fecha": "2026-07-23T11:31:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "PSA on Laguna S-2.1 - Use the updated chat template and GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4iqjx/psa_on_laguna_s21_use_the_updated_chat_template/",
+  "fecha": "2026-07-23T16:23:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "I compared local models and different quants / config on a subset of swe-verified bench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4qq4x/i_compared_local_models_and_different_quants/",
+  "fecha": "2026-07-23T21:05:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "The \"distillation\" claim is just ridiculous in nature",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v52t2d/the_distillation_claim_is_just_ridiculous_in/",
+  "fecha": "2026-07-24T06:04:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Deepseek V4 Flash ~105 t/s on two Nvidia 4090d 48G (ada) in vLLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4n8wj/deepseek_v4_flash_105_ts_on_two_nvidia_4090d_48g/",
+  "fecha": "2026-07-23T19:01:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "UPDATE - HuggingHack Is Now On Github",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4yljf/update_hugginghack_is_now_on_github/",
+  "fecha": "2026-07-24T02:37:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "I trained a 0.5M model on 1B tokens of Fineweb-edu dataset.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4hrtz/i_trained_a_05m_model_on_1b_tokens_of_finewebedu/",
+  "fecha": "2026-07-23T15:50:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "inclusionAI/LLaDA2.2-flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4csnj/inclusionaillada22flash_hugging_face/",
+  "fecha": "2026-07-23T12:41:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "How much are RTX PRO 6000s going for in your country/state?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4vsiq/how_much_are_rtx_pro_6000s_going_for_in_your/",
+  "fecha": "2026-07-24T00:29:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "I \"learned\" electronics to build a PWM fan controller for my ghetto server",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4o5yr/i_learned_electronics_to_build_a_pwm_fan/",
+  "fecha": "2026-07-23T19:33:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "CPU-only inference on a Celeron N5095 SBC: 6 models from 0.6B to 8B, benchmarked",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4lgo3/cpuonly_inference_on_a_celeron_n5095_sbc_6_models/",
+  "fecha": "2026-07-23T17:59:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Minimax 2.7 vs DSv4 flash vs laguna S 2.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4bazy/minimax_27_vs_dsv4_flash_vs_laguna_s_21/",
+  "fecha": "2026-07-23T11:34:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Running Qwen 3.6 35B MoE (Q4_K_M) on a Zeus (Xiaomi 12 Pro, 12GB RAM)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4q5gm/running_qwen_36_35b_moe_q4_k_m_on_a_zeus_xiaomi/",
+  "fecha": "2026-07-23T20:44:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "If MOEs have small experts (3B/4B/9B etc), then why can’t we have small expert models as a whole rather than one large model with multiple experts? Like Qwen3.6-3B Coding Expert or something",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4x3k0/if_moes_have_small_experts_3b4b9b_etc_then_why/",
+  "fecha": "2026-07-24T01:27:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "The first known runaway AI agent - or a very bad marketing stunt?",
+  "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+  "fecha": "2026-07-23T22:53:08+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-24"
+ },
+ {
+  "titulo": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "fecha": "2026-07-23T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-24"
+ },
+ {
   "titulo": "La startup china de IA que lanzó el sorprendente modelo GLM-5.2 acaba de alcanzar otro hito: crear su propio centro de datos",
   "url": "https://www.xataka.com/robotica-e-ia/startup-china-ia-que-lanzo-sorprendente-modelo-glm-5-2-acaba-alcanzar-otro-hito-crear-su-propio-centro-datos",
   "fecha": "2026-07-22T17:15:15+00:00",
