@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "Mientras el sector tecnológico se desangra por los despidos, ASML camina en la dirección opuesta: 20.000 euros por quedarse",
+  "url": "https://www.xataka.com/empresas-y-economia/sector-tecnologico-se-desangra-despidos-asml-camina-direccion-opuesta-20-000-euros-quedarse",
+  "fecha": "2026-07-24T16:00:40+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "EEUU está acusando a China de plagiar los modelos de Anthropic. Tenemos tres problemas con esa acusación",
+  "url": "https://www.xataka.com/robotica-e-ia/eeuu-esta-acusando-a-china-plagiar-modelos-anthropic-tenemos-tres-problemas-esa-acusacion",
+  "fecha": "2026-07-24T13:16:38+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Mistral está muy lejos en la carrera de la IA. A Samsung eso le importa bien poco y planea invertir una fortuna en ella",
+  "url": "https://www.xataka.com/robotica-e-ia/mistral-esta-muy-lejos-carrera-ia-a-samsung-eso-le-importa-bien-poco-planea-invertir-fortuna-ella",
+  "fecha": "2026-07-24T12:30:38+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5c3vt/more_than_20_companies_including_nvidia_meta/",
+  "fecha": "2026-07-24T13:55:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "It appears that the anti opensource AI lobby is far outgunned already",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5g4tl/it_appears_that_the_anti_opensource_ai_lobby_is/",
+  "fecha": "2026-07-24T16:22:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Why won't he sign the letter then?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5gh22/why_wont_he_sign_the_letter_then/",
+  "fecha": "2026-07-24T16:34:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Hugging Face releases The Stack v3 – largest open code dataset yet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v59aek/hugging_face_releases_the_stack_v3_largest_open/",
+  "fecha": "2026-07-24T11:57:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "I released Inflect v2: two ultra-tiny complete TTS models under 4M and 10M parameters",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5ve6v/i_released_inflect_v2_two_ultratiny_complete_tts/",
+  "fecha": "2026-07-25T02:17:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "[Paper] Statistically-Lossless Quantization of Large Language Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5j35f/paper_statisticallylossless_quantization_of_large/",
+  "fecha": "2026-07-24T18:06:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Laguna s.2.1 updated 2 hours ago. A post to show appreciation for the work they are doing.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5ahaz/laguna_s21_updated_2_hours_ago_a_post_to_show/",
+  "fecha": "2026-07-24T12:50:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5l9m6/stripe_eyes_10_billion_deal_for_ai_model/",
+  "fecha": "2026-07-24T19:24:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v56kja/flux_3_real_world_models_towards_multimodal_flow/",
+  "fecha": "2026-07-24T09:35:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "AMD Instella-MoE-16B-A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5sb5b/amd_instellamoe16ba3b/",
+  "fecha": "2026-07-24T23:58:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "[BIG DATASET RELEASE] - SupraLabs/reasoning-corpus-4K-5M-v1 - Train your tiny SLMs to think!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v58oni/big_dataset_release/",
+  "fecha": "2026-07-24T11:28:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Asking Laguna S 2.1: \"I want to wash my car. The car wash is 69 meters away. Should I walk or drive?\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5l75x/asking_laguna_s_21_i_want_to_wash_my_car_the_car/",
+  "fecha": "2026-07-24T19:21:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "PSA: DO NOT use Intel consumer platforms for multi-GPU setups",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5x1h0/psa_do_not_use_intel_consumer_platforms_for/",
+  "fecha": "2026-07-25T03:35:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "CachyLLama’s: llama.cpp fork with persistent KV cache that makes long local-agent sessions much less painful",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5k08a/cachyllamas_llamacpp_fork_with_persistent_kv/",
+  "fecha": "2026-07-24T18:39:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Using the Bonsai 27b 1b quant locally - regularly.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5etch/using_the_bonsai_27b_1b_quant_locally_regularly/",
+  "fecha": "2026-07-24T15:35:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "I'm impressed by Laguna S 2.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5qb9b/im_impressed_by_laguna_s_21/",
+  "fecha": "2026-07-24T22:33:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "How Laguna team even passed any benchmark?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5leqb/how_laguna_team_even_passed_any_benchmark/",
+  "fecha": "2026-07-24T19:29:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "3x3090 on msi 700",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5nj18/3x3090_on_msi_700/",
+  "fecha": "2026-07-24T20:46:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Microsoft's website shows OpenAI as one of the signatories of the open weight AI letter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5uqa3/microsofts_website_shows_openai_as_one_of_the/",
+  "fecha": "2026-07-25T01:46:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Gemma 4 26B A4B running on iPhone 17 Pro via model paging",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5p5sf/gemma_4_26b_a4b_running_on_iphone_17_pro_via/",
+  "fecha": "2026-07-24T21:47:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Spent two weeks on a kernel that benchmarked 29x faster. End to end it's maybe 6-10%, and it's not even wired in yet.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5hphx/spent_two_weeks_on_a_kernel_that_benchmarked_29x/",
+  "fecha": "2026-07-24T17:18:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Attention Survey July 2026: 23 Model Open Weight 20B-500B Architecture Analysis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5luta/attention_survey_july_2026_23_model_open_weight/",
+  "fecha": "2026-07-24T19:45:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Can LLMs solve mazes?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5rvuq/can_llms_solve_mazes/",
+  "fecha": "2026-07-24T23:39:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Zagreus-0.4B-por a small open source language model for Portuguese",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5d86e/zagreus04bpor_a_small_open_source_language_model/",
+  "fecha": "2026-07-24T14:37:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "If you're running Laguna S 2.1 and it feels \"stupid\" or isn't reasoning properly, are you using quantization worse than Q8?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v56o1h/if_youre_running_laguna_s_21_and_it_feels_stupid/",
+  "fecha": "2026-07-24T09:41:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Quoting Boris Cherny",
+  "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+  "fecha": "2026-07-25T00:42:59+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-25"
+ },
+ {
+  "titulo": "Introducing Claude Opus 5",
+  "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+  "fecha": "2026-07-24T23:48:50+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-25"
+ },
+ {
   "titulo": "La generación Z no aguanta más de un año en sus empleos: no es por deslealtad ni salarios, es para ser mejores profesionales",
   "url": "https://www.xataka.com/empresas-y-economia/generacion-z-no-aguanta-ano-sus-empleos-no-deslealtad-salarios-para-ser-mejores-profesionales",
   "fecha": "2026-07-24T07:00:39+00:00",
