@@ -1,5 +1,285 @@
 [
  {
+  "titulo": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
+  "url": "https://www.xataka.com/empresas-y-economia/espana-quiere-tener-su-propia-ia-soberana-primer-paso-se-llama-sherpa-ai-estado-accionista",
+  "fecha": "2026-07-25T08:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "El histórico pacto de 25 gigantes tecnológicos para salvar la IA abierta: \"Depender solo de modelos cerrados no es seguro\"",
+  "url": "https://www.xataka.com/servicios/depender-unicamente-modelos-cerrados-no-seguro-25-empresas-tecnologicas-salen-defensa-ia-open-source",
+  "fecha": "2026-07-25T07:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
+  "fecha": "2026-07-25T15:12:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Karparthy removed Anthropic from his bio",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6pkji/karparthy_removed_anthropic_from_his_bio/",
+  "fecha": "2026-07-26T01:12:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Great Arguments by Member of Technical Staff at Anthropic :D",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6dy7w/great_arguments_by_member_of_technical_staff_at/",
+  "fecha": "2026-07-25T17:12:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Seriously, what do you do with them?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6hosb/seriously_what_do_you_do_with_them/",
+  "fecha": "2026-07-25T19:35:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Turns out open AI is a coalition, not a company.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6drdx/turns_out_open_ai_is_a_coalition_not_a_company/",
+  "fecha": "2026-07-25T17:04:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "I've seen this movie before",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6ihwf/ive_seen_this_movie_before/",
+  "fecha": "2026-07-25T20:06:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Llama.cpp now has full MCP support!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6n33i/llamacpp_now_has_full_mcp_support/",
+  "fecha": "2026-07-25T23:18:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Who ONLY use local models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v62z48/who_only_use_local_models/",
+  "fecha": "2026-07-25T08:51:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Deepseek V4 flash - Hy3 or is Qwen3.6 27B still the most solid for agentic/coding?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6jlva/deepseek_v4_flash_hy3_or_is_qwen36_27b_still_the/",
+  "fecha": "2026-07-25T20:51:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Kimi Linear 48B A3B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6f5vf/kimi_linear_48b_a3b/",
+  "fecha": "2026-07-25T17:58:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Is it worth getting 128GB MacBook Pro? Will it ever be comparable to today’s frontier models for coding?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6jpvn/is_it_worth_getting_128gb_macbook_pro_will_it/",
+  "fecha": "2026-07-25T20:56:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "How much are you actually using your local models these days? Which ones do you reach for the most?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6dk8t/how_much_are_you_actually_using_your_local_models/",
+  "fecha": "2026-07-25T16:57:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "LFM 2.5 230M running at 1440 tok/s in-browser through a custom backend",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6e0uq/lfm_25_230m_running_at_1440_toks_inbrowser/",
+  "fecha": "2026-07-25T17:14:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Benchmarks: TensorSharp vs. llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6ect8/benchmarks_tensorsharp_vs_llamacpp/",
+  "fecha": "2026-07-25T17:27:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Best chat model that fits in 128gb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6ig61/best_chat_model_that_fits_in_128gb/",
+  "fecha": "2026-07-25T20:04:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "hwatu: a verification browser for local coding agents. Headless WebKit, DOM eval, pixel-diff with real match %, no Chromium (MIT, Rust)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v63nip/hwatu_a_verification_browser_for_local_coding/",
+  "fecha": "2026-07-25T09:28:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "MI50 power curve tests",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6ns73/mi50_power_curve_tests/",
+  "fecha": "2026-07-25T23:50:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Will small model intelligence be limited by parameter count?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6q22t/will_small_model_intelligence_be_limited_by/",
+  "fecha": "2026-07-26T01:35:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "M2 Ultra 64gb vs m1 ultra 128gb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6s2dh/m2_ultra_64gb_vs_m1_ultra_128gb/",
+  "fecha": "2026-07-26T03:13:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Old Coder Needs help with New AI Development and wants to get up to speed to understand it all.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6ks08/old_coder_needs_help_with_new_ai_development_and/",
+  "fecha": "2026-07-25T21:39:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Mobile Offline LLMs: What do you use them for?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6fq6p/mobile_offline_llms_what_do_you_use_them_for/",
+  "fecha": "2026-07-25T18:19:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Got a 27B model running locally on a Jetson Orin NX 16GB (1-bit). still kind of amazed it works",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6evbe/got_a_27b_model_running_locally_on_a_jetson_orin/",
+  "fecha": "2026-07-25T17:47:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "4x 3090, 96gb vram what Model to drive Hermes?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6lrre/4x_3090_96gb_vram_what_model_to_drive_hermes/",
+  "fecha": "2026-07-25T22:20:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "My GX10 died",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v67tzg/my_gx10_died/",
+  "fecha": "2026-07-25T13:02:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "GLM 5.2 and ik_llama.ccp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6uira/glm_52_and_ik_llamaccp/",
+  "fecha": "2026-07-26T05:18:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-26"
+ },
+ {
+  "titulo": "Ruff v0.16.0",
+  "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+  "fecha": "2026-07-25T22:44:05+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-26"
+ },
+ {
   "titulo": "Mientras el sector tecnológico se desangra por los despidos, ASML camina en la dirección opuesta: 20.000 euros por quedarse",
   "url": "https://www.xataka.com/empresas-y-economia/sector-tecnologico-se-desangra-despidos-asml-camina-direccion-opuesta-20-000-euros-quedarse",
   "fecha": "2026-07-24T16:00:40+00:00",
