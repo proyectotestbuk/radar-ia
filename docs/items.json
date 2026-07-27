@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
+  "url": "https://www.xataka.com/robotica-e-ia/mit-ha-disenado-robot-que-vuela-bucea-como-ave-marina-patas-truco-esta-angulo-despegue",
+  "fecha": "2026-07-26T16:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "El 'prompt injection' ya tiene su propio contraataque: inyectar falsas instrucciones también a los hackers",
+  "url": "https://www.xataka.com/robotica-e-ia/prompt-injection-tiene-su-propio-contraataque-inyectar-falsas-instrucciones-tambien-a-hackers",
+  "fecha": "2026-07-26T11:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "llm-eng",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "La \"revolución\" de la IA va por barrios: el mapa que muestra quién manda y quién se ha quedado fuera",
+  "url": "https://www.xataka.com/servicios/revolucion-ia-va-barrios-mapa-que-muestra-quien-manda-quien-se-ha-quedado-fuera",
+  "fecha": "2026-07-26T08:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Francia usa por primera vez un avión Airbus A400M como apagafuegos aunque con una sola descarga",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/francia-primera-descarga-retardante-incendio-airbus-a400m.html",
+  "fecha": "2026-07-26T17:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "CEO of Hugging Face: \"In the spirit of transparency, here’s what I asked OpenAI\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v72jft/ceo_of_hugging_face_in_the_spirit_of_transparency/",
+  "fecha": "2026-07-26T12:27:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/",
+  "fecha": "2026-07-26T13:53:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Do you want new Gemma?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v770ee/do_you_want_new_gemma/",
+  "fecha": "2026-07-26T15:29:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Kimi K3 gets open weighted tomorrow!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/",
+  "fecha": "2026-07-26T12:05:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Kimi K3 countdown has been released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7e5ck/kimi_k3_countdown_has_been_released/",
+  "fecha": "2026-07-26T19:51:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "We could really use Qwen3.8 in 27B, 35B, 122B and 397B sizes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7nrfm/we_could_really_use_qwen38_in_27b_35b_122b_and/",
+  "fecha": "2026-07-27T02:34:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "MiniMax (official) on X: \"Open weights. Open research. Open innovation.🫶 Marching for an open future.🤍",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7bwg7/minimax_official_on_x_open_weights_open_research/",
+  "fecha": "2026-07-26T18:28:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Harness showdown: Claude Code vs OpenCode vs Pi with DeepSeek V4 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7d8px/harness_showdown_claude_code_vs_opencode_vs_pi/",
+  "fecha": "2026-07-26T19:17:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "World's First(?) Underwhelming AMD Ryzen AI Halo Cluster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v783ii/worlds_first_underwhelming_amd_ryzen_ai_halo/",
+  "fecha": "2026-07-26T16:09:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Minimax M3 support with MSA has been merged into llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7ay5h/minimax_m3_support_with_msa_has_been_merged_into/",
+  "fecha": "2026-07-26T17:54:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Kat Coder 2.5 is insane. Especially considering I ran it at Q4_K_M",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7oueu/kat_coder_25_is_insane_especially_considering_i/",
+  "fecha": "2026-07-27T03:26:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "23 Gemma4-E4B models compared with abliterlitics: the most downloaded one is also the most broken",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v73ux4/23_gemma4e4b_models_compared_with_abliterlitics/",
+  "fecha": "2026-07-26T13:25:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "~20s that you'll never get back",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7fquf/20s_that_youll_never_get_back/",
+  "fecha": "2026-07-26T20:51:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "ai-sage/GigaChat3.1-Audio-10B-A1.8B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6zksb/aisagegigachat31audio10ba18b_hugging_face/",
+  "fecha": "2026-07-26T09:59:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Macaron-V1 family, built on Qwen3.6-35B-A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v704o2/macaronv1_family_built_on_qwen3635ba3b/",
+  "fecha": "2026-07-26T10:28:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "My Ollama box picks the music now: an agentic DJ running on a 9B model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7mmgg/my_ollama_box_picks_the_music_now_an_agentic_dj/",
+  "fecha": "2026-07-27T01:42:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Meta has confirmed that it will release an open source model in the future",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7smm5/meta_has_confirmed_that_it_will_release_an_open/",
+  "fecha": "2026-07-27T06:46:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Will prices finally go down?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7jat5/will_prices_finally_go_down/",
+  "fecha": "2026-07-26T23:13:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Vision Support for Minimax-M3 has been merged into llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7k5r1/vision_support_for_minimaxm3_has_been_merged_into/",
+  "fecha": "2026-07-26T23:50:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "What local model do you still use after the hype wore off?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7r87j/what_local_model_do_you_still_use_after_the_hype/",
+  "fecha": "2026-07-27T05:28:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "whats happening on llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7mjr8/whats_happening_on_llamacpp/",
+  "fecha": "2026-07-27T01:38:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "BeeLlama.cpp v0.4.1: KVarN, KV precision tail, q2_0-q3_1 KV cache, improved support. KLD benchmarks: tail 1024 makes kvarn5 and q6_0 match q8_0, for much less VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v78me1/beellamacpp_v041_kvarn_kv_precision_tail_q2_0q3_1/",
+  "fecha": "2026-07-26T16:28:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Built a system with four P100 GPUs.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v72s1f/built_a_system_with_four_p100_gpus/",
+  "fecha": "2026-07-26T12:38:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "90 agentic bakeoff runs: ThinkingCap vs Fable Fusion vs stock Qwen3.6-27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v78dzr/90_agentic_bakeoff_runs_thinkingcap_vs_fable/",
+  "fecha": "2026-07-26T16:19:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "Unexpected use of local llm",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7l1ly/unexpected_use_of_local_llm/",
+  "fecha": "2026-07-27T00:29:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-27"
+ },
+ {
+  "titulo": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+  "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+  "fecha": "2026-07-26T19:30:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-27"
+ },
+ {
   "titulo": "España quiere tener su propia IA \"soberana\". El primer paso se llama Sherpa.ai, y el Estado ya es accionista",
   "url": "https://www.xataka.com/empresas-y-economia/espana-quiere-tener-su-propia-ia-soberana-primer-paso-se-llama-sherpa-ai-estado-accionista",
   "fecha": "2026-07-25T08:30:27+00:00",
