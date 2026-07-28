@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
+  "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+  "fecha": "2026-07-27T21:57:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
+  "url": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
+  "fecha": "2026-07-27T14:31:36+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Nvidia está dispuesta a avalar 250.000 millones de dólares para que OpenAI tenga su propio centro de datos, según WSJ",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-esta-dispuesta-a-avalar-250-000-millones-dolares-openai-tenga-su-propio-centro-datos-wsj",
+  "fecha": "2026-07-27T12:01:36+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "La estación de seguimiento de misiones espaciales de la Agencia Espacial Europea en Cebreros vuelve a operar con normalidad tras su evacuación",
+  "url": "http://www.microsiervos.com/archivo/espacio/estacio-estrak-esa-cebreror-vuelve-operar-normalidad.html",
+  "fecha": "2026-07-27T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Dos juegos rápidos y sencillos para pasar un rato (¡ojo que vician!)",
+  "url": "http://www.microsiervos.com/archivo/juegos-y-diversion/dos-juegos-rapidos-sencillos.html",
+  "fecha": "2026-07-27T14:21:59+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Kimi K3 weights now released.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
+  "fecha": "2026-07-27T15:11:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/",
+  "fecha": "2026-07-27T11:59:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Anthropic is calling for a ban on open-weights models by proposing mandatory requirements they will probably never be able to meet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/",
+  "fecha": "2026-07-27T23:54:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "OpenAI management decided earlier today not to join the \"Open Secure AI Alliance\", founded by Nvidia CEO Jensen Huang. The decision was shared internally and reportedly met with backlash from employees.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8e36c/openai_management_decided_earlier_today_not_to/",
+  "fecha": "2026-07-27T21:37:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Kimi K3 weights drop today. We're deploying on A100s, H200s and B300s this week and the A100 math is already rough",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v81qw0/kimi_k3_weights_drop_today_were_deploying_on/",
+  "fecha": "2026-07-27T14:18:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Funny how wide the spectrum has gotten",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v895mm/funny_how_wide_the_spectrum_has_gotten/",
+  "fecha": "2026-07-27T18:40:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "A user has managed to run Kimi K3 on 80xRTX 5090, via 25GbE Ethernet.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hli2/a_user_has_managed_to_run_kimi_k3_on_80xrtx_5090/",
+  "fecha": "2026-07-27T23:56:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Chinese Chipmaker CXMT's market capitalization surpassed Intel",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7vdvg/chinese_chipmaker_cxmts_market_capitalization/",
+  "fecha": "2026-07-27T09:26:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Our position on open-weights models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8f90d/our_position_on_openweights_models/",
+  "fecha": "2026-07-27T22:21:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Nvidia CEO Jensen Huang defends Open Source AI by saying distillation is fundamental to learning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v81nqt/nvidia_ceo_jensen_huang_defends_open_source_ai_by/",
+  "fecha": "2026-07-27T14:15:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "First evidence of a pending qwen3.7 open weights release. Qwen3.7-flash is on open router. They referred to Qwen3.6-35b-a3b as Qwen3.6 flash so this is likely a small MoE. The prices are substantially cheaper than 3.6 flash with a native 1M context window.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8kbwn/first_evidence_of_a_pending_qwen37_open_weights/",
+  "fecha": "2026-07-28T01:52:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Kimi K3 on HF Viewer!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8ab72/kimi_k3_on_hf_viewer/",
+  "fecha": "2026-07-27T19:20:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "The entire tech industry (save for Anthropic) has come out in favor of open source AI. So what happens next? Will Anthropic change its lobbying efforts? Not likely. Now the gaslighting begins: “Nobody is trying to ban open source.”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7vts0/the_entire_tech_industry_save_for_anthropic_has/",
+  "fecha": "2026-07-27T09:52:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Nifer is insane. 700t/s with Qwen 3.6 35B (no thinking). Purpose build for RTX5090. Full 250k context too.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8a7wb/nifer_is_insane_700ts_with_qwen_36_35b_no/",
+  "fecha": "2026-07-27T19:17:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Dario still afraid of Chinese Open weight models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8g0bi/dario_still_afraid_of_chinese_open_weight_models/",
+  "fecha": "2026-07-27T22:51:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "AI labs are about to have a blast of a day. (Composer v3 coming soon lmfao)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v843yk/ai_labs_are_about_to_have_a_blast_of_a_day/",
+  "fecha": "2026-07-27T15:45:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Do Qwen 3.6 27B quantizations break the pelican?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7ycpd/do_qwen_36_27b_quantizations_break_the_pelican/",
+  "fecha": "2026-07-27T12:01:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Ling-3.0-flash weights: SGLang says day-0, vLLM says when they land, llama.cpp closed the 2.6 request as not_planned",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v85hnf/ling30flash_weights_sglang_says_day0_vllm_says/",
+  "fecha": "2026-07-27T16:33:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Kimi K3 text-only for llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v87v71/kimi_k3_textonly_for_llamacpp/",
+  "fecha": "2026-07-27T17:57:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Why Anthropic's battle is meant to poison the wells of open weight models, in 3 steps.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8idkc/why_anthropics_battle_is_meant_to_poison_the/",
+  "fecha": "2026-07-28T00:27:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "NYT: Protect America’s lead in the A.I. race.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v81guk/nyt_protect_americas_lead_in_the_ai_race/",
+  "fecha": "2026-07-27T14:08:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Viable ways to run K3 locally",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v866sg/viable_ways_to_run_k3_locally/",
+  "fecha": "2026-07-27T16:58:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Qwen3.6-27B speculative decoding gets better on heavier quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7wh6g/qwen3627b_speculative_decoding_gets_better_on/",
+  "fecha": "2026-07-27T10:27:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "Kimi K3 is like an F1 machine inside a show window.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8gum2/kimi_k3_is_like_an_f1_machine_inside_a_show_window/",
+  "fecha": "2026-07-27T23:25:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "You can now fine-tune my 3.96M-parameter TTS on your own voice or language",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v83537/you_can_now_finetune_my_396mparameter_tts_on_your/",
+  "fecha": "2026-07-27T15:10:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "moonshotai/Kimi-K3",
+  "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+  "fecha": "2026-07-27T23:39:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "An opinionated guide to which AI to use to do stuff",
+  "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+  "fecha": "2026-07-27T21:55:53+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-28"
+ },
+ {
+  "titulo": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "fecha": "2026-07-27T09:32:20+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-07-28"
+ },
+ {
   "titulo": "El MIT ha diseñado un robot que vuela y bucea como un ave marina, pero sin patas: el truco está en el ángulo de despegue",
   "url": "https://www.xataka.com/robotica-e-ia/mit-ha-disenado-robot-que-vuela-bucea-como-ave-marina-patas-truco-esta-angulo-despegue",
   "fecha": "2026-07-26T16:30:27+00:00",
