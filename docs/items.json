@@ -1,5 +1,375 @@
 [
  {
+  "titulo": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
+  "fecha": "2026-07-29T07:01:36+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Satya Nadella sobre el futuro del empleo:\"La falacia de la cantidad fija de trabajo y la falta de imaginación nos impiden avanzar\"",
+  "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-futuro-empleo-falacia-cantidad-fija-trabajo-falta-imaginacion-nos-impiden-avanzar",
+  "fecha": "2026-07-28T17:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Studio by Spotify Labs: qué es, qué puedes hacer con este agente de IA y quién puede acceder a ella",
+  "url": "https://www.xataka.com/basics/studio-by-spotify-labs-que-que-puedes-hacer-este-agente-ia-quien-puede-acceder-a-ella",
+  "fecha": "2026-07-28T10:05:52+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "En busca del último continente, la apasionante historia de supervivencia de los miembros del equipo norte de la Expedición Ártica Canadiense",
+  "url": "http://www.microsiervos.com/archivo/libros/busca-ultimo-continente-historia-expedicion-artica-canadiense.html",
+  "fecha": "2026-07-28T17:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Sorry, but did Dario just say that closed-weights, in-secret models are worse than open-weights ones?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8tny9/sorry_but_did_dario_just_say_that_closedweights/",
+  "fecha": "2026-07-28T09:50:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Gemini Distillation Service",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v911as/gemini_distillation_service/",
+  "fecha": "2026-07-28T15:02:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Should we be calling Elon a liar?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v99nlk/should_we_be_calling_elon_a_liar/",
+  "fecha": "2026-07-28T20:06:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash, up to 32 tok/s on AMD Ryzen AI MAX+ 395",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9100b/deepseek_v4_flash_up_to_32_toks_on_amd_ryzen_ai/",
+  "fecha": "2026-07-28T15:00:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Unsloth has begun dropping Kimi K3 GGUFs. The MXFP4 (it's 1.5 TB) and mmproj are already there.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9c77r/unsloth_has_begun_dropping_kimi_k3_ggufs_the/",
+  "fecha": "2026-07-28T21:43:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/",
+  "fecha": "2026-07-29T01:05:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "A 5B-active model doesn't know much, and I've stopped counting that as a flaw",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v952ka/a_5bactive_model_doesnt_know_much_and_ive_stopped/",
+  "fecha": "2026-07-28T17:25:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "SK Hynix stock fell some 40% in the last 30 days, finally cheap RAM and GPUs again?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9dm4u/sk_hynix_stock_fell_some_40_in_the_last_30_days/",
+  "fecha": "2026-07-28T22:37:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Zuck's opinion: The AI Future Is for Everyone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9fetk/zucks_opinion_the_ai_future_is_for_everyone/",
+  "fecha": "2026-07-28T23:49:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "White-hat hacking IS the defense to black-hat hacking. The techniques are the same. How does Dario expect companies to do it if their models refuse?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v96yn8/whitehat_hacking_is_the_defense_to_blackhat/",
+  "fecha": "2026-07-28T18:31:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "A.X-K2 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9hpac/axk2_released/",
+  "fecha": "2026-07-29T01:27:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "I got Kimi-k3 running.....",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9cwfz/i_got_kimik3_running/",
+  "fecha": "2026-07-28T22:09:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "SWE-rebench Multilingual Update (Go, Java, Python, Rust, TS). Evaluated: GLM-5.2, DeepSeek-V4 Pro, Qwen3.6-27B and others",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v93phk/swerebench_multilingual_update_go_java_python/",
+  "fecha": "2026-07-28T16:37:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "spec: add DSpark speculative decoding by wjinxu · Pull Request #25173 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8w91b/spec_add_dspark_speculative_decoding_by_wjinxu/",
+  "fecha": "2026-07-28T11:52:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Appreciation for Gemma 4 26b A4b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v95tka/appreciation_for_gemma_4_26b_a4b/",
+  "fecha": "2026-07-28T17:52:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "microsoft/Mage-VL · Hugging Face - An Efficient Codec-Native Streaming Multimodal Foundation Model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v97f8d/microsoftmagevl_hugging_face_an_efficient/",
+  "fecha": "2026-07-28T18:47:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Now, this: 1,100 current/former frontier-AI employees sign a petition calling for US gov't to step in for \"pacing\" frontier development",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9bflp/now_this_1100_currentformer_frontierai_employees/",
+  "fecha": "2026-07-28T21:14:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "I tried running a 1.56TB MoE model on a 6GB RTX 4050 Laptop, Here’s the result",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9hd9u/i_tried_running_a_156tb_moe_model_on_a_6gb_rtx/",
+  "fecha": "2026-07-29T01:12:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Who is LoRA?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9c1fw/who_is_lora/",
+  "fecha": "2026-07-28T21:37:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "CohereLabs/North-Mini-Code-1.0-eagle · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v90f4e/coherelabsnorthminicode10eagle_hugging_face/",
+  "fecha": "2026-07-28T14:39:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "What would it take for the frontier labs to open the weights of their old, deprecated proprietary models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v92c7h/what_would_it_take_for_the_frontier_labs_to_open/",
+  "fecha": "2026-07-28T15:49:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "current state of the CMP 170hx",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8uad7/current_state_of_the_cmp_170hx/",
+  "fecha": "2026-07-28T10:23:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Anyone tried the Q1 Kimi K3 yet? (555GB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9kmis/anyone_tried_the_q1_kimi_k3_yet_555gb/",
+  "fecha": "2026-07-29T03:40:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "[PAPER] GPQA, MMLU-Pro, and MMMU-Pro were audited for broken questions, and up to 12% of them had to be removed. New drop in clean versions released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v99f6m/paper_gpqa_mmlupro_and_mmmupro_were_audited_for/",
+  "fecha": "2026-07-28T19:58:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "I've been tracking RTX 5090 prices across EU stores since March, it's up €1,061 and still climbing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8vkmm/ive_been_tracking_rtx_5090_prices_across_eu/",
+  "fecha": "2026-07-28T11:23:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Discovering cryptographic weaknesses with Claude",
+  "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+  "fecha": "2026-07-28T22:45:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Quoting Akshat Bubna",
+  "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+  "fecha": "2026-07-28T22:05:55+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "uv 0.12.0",
+  "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+  "fecha": "2026-07-28T21:51:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+  "fecha": "2026-07-28T21:28:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "sqlite-utils 3.39.1",
+  "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
+  "fecha": "2026-07-26T04:38:46+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "fecha": "2026-07-28T16:27:42+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+  "fecha": "2026-07-28T15:01:45+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-29"
+ },
+ {
+  "titulo": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "fecha": "2026-07-27T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-29"
+ },
+ {
   "titulo": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida de un vecindario en una pesadilla",
   "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
   "fecha": "2026-07-27T21:57:00+00:00",
