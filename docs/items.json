@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "La paradoja de Apple: la empresa más valiosa del mundo no tiene interés en invertir en la fiebre de los centros de datos",
+  "url": "https://www.xataka.com/robotica-e-ia/paradoja-apple-empresa-valiosa-mundo-no-tiene-interes-invertir-fiebre-centros-datos",
+  "fecha": "2026-07-29T07:31:38+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "The open-weights carousel never stops.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/",
+  "fecha": "2026-07-29T19:54:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "First Kimi K3 results on home lab ~ 4t/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
+  "fecha": "2026-07-29T16:13:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Kimi K3 for local use (1.56TB → 594GB) compressed and released by Unsloth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6ot2/kimi_k3_for_local_use_156tb_594gb_compressed_and/",
+  "fecha": "2026-07-29T19:39:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "I keep coming back to Qwen... Over and Over. Is there really nothing better under 120B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9xsi8/i_keep_coming_back_to_qwen_over_and_over_is_there/",
+  "fecha": "2026-07-29T14:27:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "\"Uncensored\" LLMs are measurably more optimistic than their base models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vwev/uncensored_llms_are_measurably_more_optimistic/",
+  "fecha": "2026-07-29T13:15:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Microsoft did it .... again! (404 for their Mage-Flow models on HF)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9swx1/microsoft_did_it_again_404_for_their_mageflow/",
+  "fecha": "2026-07-29T11:02:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/",
+  "fecha": "2026-07-29T20:13:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/",
+  "fecha": "2026-07-29T23:16:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/",
+  "fecha": "2026-07-29T18:45:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Everyone posts day-one impressions. What's still in your stack a month later?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/",
+  "fecha": "2026-07-29T16:56:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Ilintar's Official Guide To Model Selection",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va4i9e/ilintars_official_guide_to_model_selection/",
+  "fecha": "2026-07-29T18:23:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "A slide deck you can edit with a local model or in Chrome — the whole deck is a JSON block in one HTML file (~640KB with editor and viewer included)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vewv/a_slide_deck_you_can_edit_with_a_local_model_or/",
+  "fecha": "2026-07-29T12:56:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Understand Kimi K3 from first principles: a recommended order for anyone trying to understand this beast",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vnpk/understand_kimi_k3_from_first_principles_a/",
+  "fecha": "2026-07-29T13:05:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vaaqdl/quantizing_kimi_k3_28t_a50b_to_gguf_ourselves_q3/",
+  "fecha": "2026-07-29T22:08:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "I pre-trained a 700m on 18B tokens optimized for Python and Wikitext | TheOneWhoWill/Shibai-700M-Base · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6dvv/i_pretrained_a_700m_on_18b_tokens_optimized_for/",
+  "fecha": "2026-07-29T19:29:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "I built a GBNF grammar compiler that makes 8B models reliably call tools - here's how it works (deep dive)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9qvn3/i_built_a_gbnf_grammar_compiler_that_makes_8b/",
+  "fecha": "2026-07-29T09:14:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "The idea: on a CPU the decode speed depends on the active params per token, not the total. My objective is trying to run a 10B at 100tok/s on a mid level PC (No GPU).",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vo75/the_idea_on_a_cpu_the_decode_speed_depends_on_the/",
+  "fecha": "2026-07-29T13:06:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Is Laguna s2.1 fixed?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9p47o/is_laguna_s21_fixed/",
+  "fecha": "2026-07-29T07:33:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Has anyone tried Qwen3.7 flash on openrouter? How does it compare to our Qwen 3.6 27B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va118v/has_anyone_tried_qwen37_flash_on_openrouter_how/",
+  "fecha": "2026-07-29T16:22:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "5060ti Chads, vllm updates and nvfp4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9zbcr/5060ti_chads_vllm_updates_and_nvfp4/",
+  "fecha": "2026-07-29T15:23:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "model: add NextN/MTP speculative decoding support for GLM_DSA (GLM-5.2)- #25980 MERGED!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9ur6i/model_add_nextnmtp_speculative_decoding_support/",
+  "fecha": "2026-07-29T12:27:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Anyone tested the IQ1_M 342GB Pruned Kimi K3? Is it usable?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakvmg/anyone_tested_the_iq1_m_342gb_pruned_kimi_k3_is/",
+  "fecha": "2026-07-30T05:51:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "I tested proven orchestration techniques on small local models. 90% failed. The 10% that survived roughly doubled task completion.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0cj4/i_tested_proven_orchestration_techniques_on_small/",
+  "fecha": "2026-07-29T15:59:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Those who use many layers in CPU/RAM and some in GPU - what are your specs and speeds?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9yitp/those_who_use_many_layers_in_cpuram_and_some_in/",
+  "fecha": "2026-07-29T14:54:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Extracting MoE experts from Kimi K3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vac9e9/extracting_moe_experts_from_kimi_k3/",
+  "fecha": "2026-07-29T23:09:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Quoting D. Richard Hipp",
+  "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+  "fecha": "2026-07-29T21:15:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "AI Worming through Word",
+  "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+  "fecha": "2026-07-29T18:43:03+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Quoting Matthew Green",
+  "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+  "fecha": "2026-07-29T18:18:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-30"
+ },
+ {
+  "titulo": "Adding a custom MCP server to Claude and ChatGPT",
+  "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+  "fecha": "2026-07-29T00:13:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-30"
+ },
+ {
   "titulo": "\"A menos que veamos ese amplio crecimiento económico, esta película no va a terminar bien\": Satya Nadella, sobre la burbuja de la IA",
   "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia",
   "fecha": "2026-07-29T07:01:36+00:00",
