@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "Sam Altman: \"no vemos que la promesa de la semana laboral de cuatro horas llegue a la sociedad. No espero que la IA lo cambie\"",
+  "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-vemos-que-promesa-semana-laboral-cuatro-horas-llegue-a-sociedad-no-espero-que-ia-cambie",
+  "fecha": "2026-07-30T17:31:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Conseguir un electricista o un carpintero en EEUU es casi imposible. Están todos construyendo centros de datos de IA",
+  "url": "https://www.xataka.com/robotica-e-ia/conseguir-electricista-carpintero-eeuu-casi-imposible-estan-todos-construyendo-centros-datos-ia",
+  "fecha": "2026-07-30T16:01:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Mi teclado de 30 euros puede hacer lo mismo que el nuevo teclado IA de OpenAI de 230 dólares",
+  "url": "https://www.xataka.com/teclados/mi-teclado-30-euros-puede-hacer-tu-teclado-para-ia-openai-230-dolares",
+  "fecha": "2026-07-30T15:01:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Si eres cliente de Revolut, puedes conseguir hasta un año gratis de ChatGPT Go: estas son las condiciones",
+  "url": "https://www.xataka.com/empresas-y-economia/eres-cliente-revolut-puedes-conseguir-ano-gratis-chatgpt-go-estas-condiciones",
+  "fecha": "2026-07-30T09:31:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "La Poste saca una colección de ocho sellos de correo dedicados al Ariane 6",
+  "url": "http://www.microsiervos.com/archivo/espacio/sellos-dedicados-ariane-6.html",
+  "fecha": "2026-07-30T11:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Récord histórico: más de 150.000 vuelos comerciales en un solo día",
+  "url": "http://www.microsiervos.com/archivo/curiosidades/record-historico-150000-vuelos-comerciales-dia.html",
+  "fecha": "2026-07-29T10:17:39+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Think of the children, another excuse for them to go after open source AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/",
+  "fecha": "2026-07-30T10:28:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Anthropic “our models hacked three different external companies, months before OpenAI’s model was able to do the same\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbcmtn/anthropic_our_models_hacked_three_different/",
+  "fecha": "2026-07-31T01:29:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Inkling-Small by thinkingmachines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb16gj/inklingsmall_by_thinkingmachines/",
+  "fecha": "2026-07-30T18:01:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidkp/deepseekv4flash_has_been_updated_the_official/",
+  "fecha": "2026-07-31T06:04:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Software Engineers: Do you honestly get anything useful out of LLMs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vavh2h/software_engineers_do_you_honestly_get_anything/",
+  "fecha": "2026-07-30T14:37:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "What actually happened to the whole Openclaw frenzy?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb8d2v/what_actually_happened_to_the_whole_openclaw/",
+  "fecha": "2026-07-30T22:26:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Minimax-H3 video model released, open weights coming in the next few days",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdsmz/minimaxh3_video_model_released_open_weights/",
+  "fecha": "2026-07-31T02:22:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "LG AI Research releases K-EXAONE 2.0 750B A37B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazdxp/lg_ai_research_releases_kexaone_20_750b_a37b/",
+  "fecha": "2026-07-30T16:59:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "The official release Deepseek V4 flash is live on the API",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidxt/the_official_release_deepseek_v4_flash_is_live_on/",
+  "fecha": "2026-07-31T06:05:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "My second Inspur AGX-2 with another x8 v100 arrived!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbft9q/my_second_inspur_agx2_with_another_x8_v100_arrived/",
+  "fecha": "2026-07-31T03:56:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Inkling-Small-276B-12B, effort \"max\" VS Qwen3.6-27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbajj8/inklingsmall276b12b_effort_max_vs_qwen3627b/",
+  "fecha": "2026-07-30T23:58:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vasnys/turbofieldfare_opensource_engine_running_gemma_4/",
+  "fecha": "2026-07-30T12:46:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "GLM 5.2 with vision on Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapetj/glm_52_with_vision_on_hugging_face/",
+  "fecha": "2026-07-30T10:08:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "America Needs An Open-Source AI Strategy — CNBC",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb332c/america_needs_an_opensource_ai_strategy_cnbc/",
+  "fecha": "2026-07-30T19:10:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbjdby/deepseekv4flash0731_is_going_to_cause_another/",
+  "fecha": "2026-07-31T06:57:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "The real Flash？AntLing 3.0 flash VS. MiniMax M2.7 VS. Step 3.7 flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazgc0/the_real_flashantling_30_flash_vs_minimax_m27_vs/",
+  "fecha": "2026-07-30T17:01:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Is it just me, or are current LLM benchmarks failing to capture actual usability? (Gemma 4 vs. Gemini/Claude Opus)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdpcz/is_it_just_me_or_are_current_llm_benchmarks/",
+  "fecha": "2026-07-31T02:18:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Benchmarked: MindControl for Llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapbnl/benchmarked_mindcontrol_for_llamacpp/",
+  "fecha": "2026-07-30T10:03:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Want to see all oneshot slops in one place?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbc3kw/want_to_see_all_oneshot_slops_in_one_place/",
+  "fecha": "2026-07-31T01:05:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "DeepSeek v4 Flash has a nice bump in Capability",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbimop/deepseek_v4_flash_has_a_nice_bump_in_capability/",
+  "fecha": "2026-07-31T06:18:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "All oneshots from Kimi-K3, looks better than opus4.8.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf4bp/all_oneshots_from_kimik3_looks_better_than_opus48/",
+  "fecha": "2026-07-31T03:23:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Huawei opensouced openPangu-2.0-Pro, 505B-A18B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbj6uf/huawei_opensouced_openpangu20pro_505ba18b/",
+  "fecha": "2026-07-31T06:47:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Nanbeige4.2-3B: I'm not impressed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vayzwm/nanbeige423b_im_not_impressed/",
+  "fecha": "2026-07-30T16:45:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "PR for running Ternary-Bonsai-8B-Q2_0.gguf in llama.cpp with CUDA support just got merged",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vau4dh/pr_for_running_ternarybonsai8bq2_0gguf_in/",
+  "fecha": "2026-07-30T13:46:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Local LLMs for non-coding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb4s1n/local_llms_for_noncoding/",
+  "fecha": "2026-07-30T20:11:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Advancing the price-performance frontier with GPT‑5.6",
+  "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+  "fecha": "2026-07-30T23:58:42+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+  "fecha": "2026-07-30T23:41:29+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "llm 0.32rc2",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+  "fecha": "2026-07-30T22:52:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "Quoting Bruce Schneier",
+  "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+  "fecha": "2026-07-30T18:25:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "llm-chat-completions-server 0.1a0",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+  "fecha": "2026-07-30T15:43:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "llm 0.32rc1",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+  "fecha": "2026-07-30T15:30:20+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
+  "titulo": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "fecha": "2026-07-30T15:09:09+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-07-31"
+ },
+ {
   "titulo": "La paradoja de Apple: la empresa más valiosa del mundo no tiene interés en invertir en la fiebre de los centros de datos",
   "url": "https://www.xataka.com/robotica-e-ia/paradoja-apple-empresa-valiosa-mundo-no-tiene-interes-invertir-fiebre-centros-datos",
   "fecha": "2026-07-29T07:31:38+00:00",
