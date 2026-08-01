@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "Las grandes tecnológicas ya se han gastado un billón de dólares en IA. El problema es que en la caja sólo les queda calderilla",
+  "url": "https://www.xataka.com/empresas-y-economia/grandes-tecnologicas-se-han-gastado-billon-dolares-ia-problema-que-caja-solo-les-queda-calderilla",
+  "fecha": "2026-07-31T17:01:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "La nueva Siri se vende como gratis. Tim Cook ha dejado caer que usarla mucho costará dinero",
+  "url": "https://www.xataka.com/robotica-e-ia/nueva-siri-se-vende-como-gratis-tim-cook-ha-dejado-caer-que-usarla-mucho-costara-dinero",
+  "fecha": "2026-07-31T11:31:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Un modelo de OpenAI escapó del entorno de pruebas y hackeó una empresa. La respuesta de Anthropic: sujétame el cubata",
+  "url": "https://www.xataka.com/robotica-e-ia/modelo-openai-escapo-entorno-pruebas-hackeo-empresa-respuesta-anthropic-sujetame-cubata",
+  "fecha": "2026-07-31T09:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/",
+  "fecha": "2026-07-31T13:36:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbk5ob/new_deepseek_v4flash_achieves_50_on/",
+  "fecha": "2026-07-31T07:41:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbp7kb/deepseekaideepseekv4flash0731_on_huggingface/",
+  "fecha": "2026-07-31T12:12:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbx39u/deepseek_v4_flash_ga_ranks_the_same_as_sonnet_5/",
+  "fecha": "2026-07-31T17:14:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbkvau/deepseekv4flash0731_now_far_surpassing_the/",
+  "fecha": "2026-07-31T08:21:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Unsloth Deepseek V4 0731 GGUF's are UP!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbtdok/unsloth_deepseek_v4_0731_ggufs_are_up/",
+  "fecha": "2026-07-31T15:00:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Me: Worn out from all the new model drops this week, but still hyped for all the great new releases.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcav6l/me_worn_out_from_all_the_new_model_drops_this/",
+  "fecha": "2026-08-01T02:29:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Meituan just dropped LongCat-Flash-Lite-Sparse",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbsztw/meituan_just_dropped_longcatflashlitesparse/",
+  "fecha": "2026-07-31T14:46:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbzicu/with_release_of_deepseek_v4_i_wanted_see_how_the/",
+  "fecha": "2026-07-31T18:42:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc6xbu/deepseek_v4_flash_for_ds4_dwarfstar_gguf_w_dspark/",
+  "fecha": "2026-07-31T23:31:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Deepseek V4 Flash is now ~#2 open weight model to Kimi K3 and >50x cheaper",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4041/deepseek_v4_flash_is_now_2_open_weight_model_to/",
+  "fecha": "2026-07-31T21:32:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Rule Suggestion: \"Open\" models without weight releases should be tagged [no weights]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbpi44/rule_suggestion_open_models_without_weight/",
+  "fecha": "2026-07-31T12:25:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "I ported TurboFieldfare to Qwen 3.6 35B and it runs in 1.4 GB of RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbp8te/i_ported_turbofieldfare_to_qwen_36_35b_and_it/",
+  "fecha": "2026-07-31T12:14:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 unsloth gguf on A100",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbwuq0/deepseekv4flash0731_unsloth_gguf_on_a100/",
+  "fecha": "2026-07-31T17:06:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Deepseek V4 Flash on SlopCodeBench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbtiy7/deepseek_v4_flash_on_slopcodebench/",
+  "fecha": "2026-07-31T15:05:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "What speeds are everyone getting with deepseek v4 flash 0731?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcaztx/what_speeds_are_everyone_getting_with_deepseek_v4/",
+  "fecha": "2026-08-01T02:35:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Deepseek v4 flash MXFP4 (original quality) ggufs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vburcs/deepseek_v4_flash_mxfp4_original_quality_ggufs/",
+  "fecha": "2026-07-31T15:50:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "60-82% accuracy swing on 4B model classification task: the only variable was harness design",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4e00/6082_accuracy_swing_on_4b_model_classification/",
+  "fecha": "2026-07-31T21:47:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "[audio.cpp] Release 0.5: DramaBox expressive TTS, Confucius4 cross-lingual voice transfer, plus 7 more models and ROCm/HIP",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc8lpl/audiocpp_release_05_dramabox_expressive_tts/",
+  "fecha": "2026-08-01T00:43:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Uncensored Multi-Model Releases, LongCat-Flash-Lite with MTPs, Jamba2-Mini, Qwen3.5-9B-Nikusui-v1 with MTPs and Qwen3.5-27B-Nikusui-v1 with MTPs, Available in Safetensors and GGUF Formats!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbwcrr/uncensored_multimodel_releases_longcatflashlite/",
+  "fecha": "2026-07-31T16:48:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "SenseNova U1.5 Lite preview just dropped",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbtdyk/sensenova_u15_lite_preview_just_dropped/",
+  "fecha": "2026-07-31T15:00:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-Q4KExperts-F16HC-F16Compressor-F16Indexer-Q8Attn-Q8Shared-Q8Out-chat-v2-imatrix-0731.gguf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc8zbo/deepseekv4flashq4kexpertsf16hcf16compressorf16inde/",
+  "fecha": "2026-08-01T01:01:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "A lesson about retries, hidden in the DeepSeek-V4 paper",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbtvmd/a_lesson_about_retries_hidden_in_the_deepseekv4/",
+  "fecha": "2026-07-31T15:18:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "We've gotten some great medium sized models lately (DSV4 Flash 0731, Inkling Small, Laguna S 2.1, Step 3.7 Flash) but does anybody else want to see some new 70-80b contenders?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4d23/weve_gotten_some_great_medium_sized_models_lately/",
+  "fecha": "2026-07-31T21:46:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Why are AI model tests always the same generic prompts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbm1tc/why_are_ai_model_tests_always_the_same_generic/",
+  "fecha": "2026-07-31T09:29:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4-Flash-0731",
+  "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+  "fecha": "2026-07-31T23:59:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+  "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+  "fecha": "2026-07-31T23:13:22+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "llm-mcp-client 0.1a0",
+  "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+  "fecha": "2026-07-31T23:03:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+  "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+  "fecha": "2026-07-31T21:33:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+  "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+  "fecha": "2026-07-31T21:15:23+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-01"
+ },
+ {
+  "titulo": "datasette-agent 0.4a0",
+  "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+  "fecha": "2026-07-31T14:14:23+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-01"
+ },
+ {
   "titulo": "Sam Altman: \"no vemos que la promesa de la semana laboral de cuatro horas llegue a la sociedad. No espero que la IA lo cambie\"",
   "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-vemos-que-promesa-semana-laboral-cuatro-horas-llegue-a-sociedad-no-espero-que-ia-cambie",
   "fecha": "2026-07-30T17:31:43+00:00",
