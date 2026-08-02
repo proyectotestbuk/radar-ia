@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Mark Zuckerberg: \"Es literalmente imposible tener una única superinteligencia benevolente que esté alineada con todos a la vez\"",
+  "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-literalmente-imposible-tener-unica-superinteligencia-benevolente-que-este-alineada-todos-a-vez",
+  "fecha": "2026-08-01T09:31:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Avances en inteligencia para robots hábiles y capaces: Gemini Robotics 2 camina, colabora y sabe hacer nudos",
+  "url": "http://www.microsiervos.com/archivo/robots/gemini-robotics-2-avances-inteligencia-robots-habiles-capaces.html",
+  "fecha": "2026-07-31T12:04:11+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/",
+  "fecha": "2026-08-01T08:27:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "EU AI Act takes effect tomorrow, August 2, 2026. 🤡",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcqpn4/eu_ai_act_takes_effect_tomorrow_august_2_2026/",
+  "fecha": "2026-08-01T15:44:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "New DeepSeek V4 Flash 0731 vs ChatGPT Luna comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcj0hh/new_deepseek_v4_flash_0731_vs_chatgpt_luna/",
+  "fecha": "2026-08-01T09:44:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Weight-Aware Streaming Tensor Engine: run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vche00/weightaware_streaming_tensor_engine_run_kimi_k3/",
+  "fecha": "2026-08-01T08:09:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "I pushed Kimi K3 onto one CPU with 8 GB of RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd874t/i_pushed_kimi_k3_onto_one_cpu_with_8_gb_of_ram/",
+  "fecha": "2026-08-02T04:26:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Deepseek v4 flash 0731 still not holding up.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vct09w/deepseek_v4_flash_0731_still_not_holding_up/",
+  "fecha": "2026-08-01T17:16:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcz61x/deepseekv4flash0731_udiq3_s_125_toks_on_rtx_3090/",
+  "fecha": "2026-08-01T21:22:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/",
+  "fecha": "2026-08-01T13:20:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DS4 flash 0731 - Acquarium Panel Failure - Q3_K_XL Unsloth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vckcue/ds4_flash_0731_acquarium_panel_failure_q3_k_xl/",
+  "fecha": "2026-08-01T11:00:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwaag/fix_for_deep_seek_v4_flash_0731_tool_calling_has/",
+  "fecha": "2026-08-01T19:26:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "LongCat-Flash-Lite-Sparse Is Now Available for Download",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpv6u/longcatflashlitesparse_is_now_available_for/",
+  "fecha": "2026-08-01T15:10:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Is there a point where models just cannot get any smaller without losing intelligence?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwl43/is_there_a_point_where_models_just_cannot_get_any/",
+  "fecha": "2026-08-01T19:39:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcrd6d/deepseek_v4_flash_0731_iq2_m_benchmark_for_dual/",
+  "fecha": "2026-08-01T16:10:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Koboldcpp v1.118 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd13uv/koboldcpp_v1118_released/",
+  "fecha": "2026-08-01T22:45:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Ran DS V4-Flash-0731 Locally on 3xMI50 32GB @ ~15 t/s TG",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd51ey/ran_ds_v4flash0731_locally_on_3xmi50_32gb_15_ts_tg/",
+  "fecha": "2026-08-02T01:49:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Why are almost all new benchmarks and leaderboards coding focused?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd2yk9/why_are_almost_all_new_benchmarks_and/",
+  "fecha": "2026-08-02T00:08:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Expert-only IQ3 requant of DeepSeek-V4-Flash-0731: better KLD than UD-IQ3_S, 1.4x decode on a CPU-spill rig",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd44uv/expertonly_iq3_requant_of_deepseekv4flash0731/",
+  "fecha": "2026-08-02T01:05:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "I'm kinda tired of obsession for one-shot tests in coding, there are good tests for multi-step debugging with analyzing output/images/videos?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpsml/im_kinda_tired_of_obsession_for_oneshot_tests_in/",
+  "fecha": "2026-08-01T15:07:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd6tpq/deepseekv4flash0731_udq8_k_xl_1720_ts_on_a6000/",
+  "fecha": "2026-08-02T03:16:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "What’s next for Qwen open-source releases?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcx7ns/whats_next_for_qwen_opensource_releases/",
+  "fecha": "2026-08-01T20:03:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn0w2/gemma4_31b_bf16_constantly_fails_to_edit_files/",
+  "fecha": "2026-08-01T13:09:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Are 1B LLMs Going Away in 2026?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vchmmj/are_1b_llms_going_away_in_2026/",
+  "fecha": "2026-08-01T08:24:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vczae3/deepseekv4flash0731_on_bosgame_m5_with_rtx_pro/",
+  "fecha": "2026-08-01T21:27:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Qwen 3.6 27B Q5 on 3x2080ti: 55tps with llama.cpp. Can I squeeze out more?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vch2vl/qwen_36_27b_q5_on_3x2080ti_55tps_with_llamacpp/",
+  "fecha": "2026-08-01T07:52:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Tomte - super fast harness for Gemma 4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcq2gi/tomte_super_fast_harness_for_gemma_4/",
+  "fecha": "2026-08-01T15:18:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Open letters about AI development",
+  "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+  "fecha": "2026-08-02T04:16:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "July 2026 newsletter",
+  "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+  "fecha": "2026-08-02T04:12:41+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Quoting Greg Brockman",
+  "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+  "fecha": "2026-08-01T22:29:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "datasette-apps 0.2a0",
+  "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+  "fecha": "2026-08-01T21:23:56+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Ten advances in mathematics and theoretical computer science",
+  "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+  "fecha": "2026-08-01T20:34:49+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
+  "titulo": "Slack Emoji Maker",
+  "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+  "fecha": "2026-07-31T20:18:05+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-02"
+ },
+ {
   "titulo": "Las grandes tecnológicas ya se han gastado un billón de dólares en IA. El problema es que en la caja sólo les queda calderilla",
   "url": "https://www.xataka.com/empresas-y-economia/grandes-tecnologicas-se-han-gastado-billon-dolares-ia-problema-que-caja-solo-les-queda-calderilla",
   "fecha": "2026-07-31T17:01:43+00:00",
