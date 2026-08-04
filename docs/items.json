@@ -1,5 +1,295 @@
 [
  {
+  "titulo": "More Qwen 3.8 sizes coming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
+  "fecha": "2026-08-04T01:05:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/",
+  "fecha": "2026-08-03T16:04:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Only 3 days ago...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqt03/only_3_days_ago/",
+  "fecha": "2026-08-03T21:37:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/",
+  "fecha": "2026-08-03T16:42:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Qwen3.8-Max matches Kimi K3 and DeepSeek V4 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vellf2/qwen38max_matches_kimi_k3_and_deepseek_v4_flash/",
+  "fecha": "2026-08-03T18:25:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "GLM 5.3 Spotted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve9ms0/glm_53_spotted/",
+  "fecha": "2026-08-03T10:27:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Quantization hurts knowledge nonlinearly - Qwen3.6 27B case study",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vef79c/quantization_hurts_knowledge_nonlinearly_qwen36/",
+  "fecha": "2026-08-03T14:35:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "DeepSeek V4-Flash (284B MoE) at 33 tok/s single / 68 tok/s aggregate on 2× RTX 3090 + a used quad-Xeon DDR4 server — full config",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veow4b/deepseek_v4flash_284b_moe_at_33_toks_single_68/",
+  "fecha": "2026-08-03T20:25:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "\"Data center in a Box (on Wheels)\" 256Gb VRAM/512Gb RAM AI Server 6-8 Month Operational Review, Stability Write Up, Benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veg9uq/data_center_in_a_box_on_wheels_256gb_vram512gb/",
+  "fecha": "2026-08-03T15:14:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "V4-Flash-0731 - vibes after first weekend of use",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vee1ob/v4flash0731_vibes_after_first_weekend_of_use/",
+  "fecha": "2026-08-03T13:51:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B · Hugging Face (full duplex)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1verzxx/nvidianvidianemotronlabsvoicechat11b_hugging_face/",
+  "fecha": "2026-08-03T22:24:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "KAT Coder 2.5 dev: Do yourself a favor and try it!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve9r2q/kat_coder_25_dev_do_yourself_a_favor_and_try_it/",
+  "fecha": "2026-08-03T10:34:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "NousResearch keeps doing things on hermes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veswt9/nousresearch_keeps_doing_things_on_hermes/",
+  "fecha": "2026-08-03T23:02:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "model: MTP support for Qwen3-Next by yomaytk · Pull Request #25589 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veca9y/model_mtp_support_for_qwen3next_by_yomaytk_pull/",
+  "fecha": "2026-08-03T12:39:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "G9v3-39A5B: Agentic heavy MOE with low hallucination",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqj1j/g9v339a5b_agentic_heavy_moe_with_low_hallucination/",
+  "fecha": "2026-08-03T21:26:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "AI9Stars released G9v3-39A5B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve9eo3/ai9stars_released_g9v339a5b/",
+  "fecha": "2026-08-03T10:15:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "I compared MinerU, Granite-Docling, and PaddleOCR-VL on 12 PDF-parsing capabilities using 6 document types",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vecxhw/i_compared_mineru_granitedocling_and_paddleocrvl/",
+  "fecha": "2026-08-03T13:07:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "an espresso Q/A model running fully offline on an ESP32S3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegzd6/an_espresso_qa_model_running_fully_offline_on_an/",
+  "fecha": "2026-08-03T15:40:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 - Happy Numbers (700pp/18tg) and Thoughts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegedy/deepseek_v4_flash_0731_happy_numbers_700pp18tg/",
+  "fecha": "2026-08-03T15:19:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "can someone create a website where people share specific hardware specs with specific llama cpp flags so we see what works?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veyxkf/can_someone_create_a_website_where_people_share/",
+  "fecha": "2026-08-04T03:28:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "[RELEASE] SupraBrain-50M-v0.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve7vo1/release_suprabrain50mv01/",
+  "fecha": "2026-08-03T08:49:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Is LM Studio abandoning their core product?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf2hhp/is_lm_studio_abandoning_their_core_product/",
+  "fecha": "2026-08-04T06:38:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "All DeepSeek model oneshots: 242 outputs to look at and compare!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegkq5/all_deepseek_model_oneshots_242_outputs_to_look/",
+  "fecha": "2026-08-03T15:25:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "70-class VRAM stagnation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ved2o0/70class_vram_stagnation/",
+  "fecha": "2026-08-03T13:13:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Ling-3.0-flash is another potential model to test before qwen3.8 27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqd5c/ling30flash_is_another_potential_model_to_test/",
+  "fecha": "2026-08-03T21:20:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Quoting Steve Yegge",
+  "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+  "fecha": "2026-08-04T00:42:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Don't be a meat proxy",
+  "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+  "fecha": "2026-08-03T23:45:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Quoting David Crawshaw's prompt",
+  "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+  "fecha": "2026-08-03T16:15:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-04"
+ },
+ {
+  "titulo": "Devtools must be open source (exe.dev)",
+  "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+  "fecha": "2026-08-03T15:30:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-04"
+ },
+ {
   "titulo": "Las gafas inteligentes tienen una luz que avisa de que están grabando. Para la Agencia de Protección de Datos eso no basta",
   "url": "https://www.xataka.com/wearables/gafas-inteligentes-tienen-luz-que-avisa-que-estan-grabando-para-agencia-proteccion-datos-eso-no-basta",
   "fecha": "2026-08-03T08:01:43+00:00",
