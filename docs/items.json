@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Una universidad de México usó IA para evitar trampas. Lo que pasó fue justamente lo contrario",
+  "url": "https://www.xataka.com/robotica-e-ia/universidad-mexico-uso-ia-para-evitar-trampas-que-paso-fue-justamente-contrario",
+  "fecha": "2026-08-04T19:01:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "DeepSeek ha lanzado un modelo de IA 100 veces más barato que Fable 5. El truco está en lo que no cuenta",
+  "url": "https://www.xataka.com/robotica-e-ia/deepseek-ha-lanzado-modelo-ia-100-veces-barato-que-fable-5-truco-esta-que-no-cuenta",
+  "fecha": "2026-08-04T14:31:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Dario Amodei construyó Anthropic alrededor de una misión. Ahora teme que sus empleados lleguen por el dinero",
+  "url": "https://www.xataka.com/robotica-e-ia/dario-amodei-construyo-anthropic-alrededor-mision-ahora-teme-que-sus-empleados-lleguen-dinero",
+  "fecha": "2026-08-04T11:15:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "La IA ha resuelto uno de los grandes problemas de la ciberseguridad: encontrar fallos. Ahora tenemos otro mucho mayor",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-ha-resuelto-uno-grandes-problemas-ciberseguridad-encontrar-fallos-ahora-tenemos-otro-mucho-mayor",
+  "fecha": "2026-08-04T06:01:43+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Cuando EEUU restringió la venta de chips IA a China sabía que era una medida desesperada. Alibaba acaba de confirmarlo",
+  "url": "https://www.xataka.com/robotica-e-ia/eeuu-restringio-chips-para-frenar-ia-china-alibaba-acaba-ensenar-poco-que-ha-funcionado",
+  "fecha": "2026-08-03T10:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "La UE acaba de aprobar el etiquetado obligatorio para todo el contenido IA: cuestión distinta es que la industria obedezca",
+  "url": "https://www.xataka.com/legislacion-y-derechos/arranca-era-etiquetado-obligatorio-ia-europa-industria-avisa-que-nadie-va-a-hacerle-caso",
+  "fecha": "2026-08-03T08:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "El Manifiesto offpunk son una serie de principios que reivindican la no dependencia de la tecnología y de la conexión permanente",
+  "url": "http://www.microsiervos.com/archivo/tecnologia/manifiesto-offpunk-principios-no-dependencia-tecnologia-conexion-permanente.html",
+  "fecha": "2026-08-04T23:50:11+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Castlemap: un mapa con 6.412 castillos del mundo, clasificados por su «fama» en la Wikipedia. Numancia triunfa",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/castlemap-mapa-castillos-mundo-wikipedia-numancia.html",
+  "fecha": "2026-08-03T11:54:12+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/",
+  "fecha": "2026-08-04T19:56:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3q7/hugging_face_ceo_says_china_is_winning_the_ai/",
+  "fecha": "2026-08-04T18:42:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfa3tq/sk_hynix_in_collaboration_with_sandisk_unveils/",
+  "fecha": "2026-08-04T13:17:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfirld/has_anyone_tried_mach1_additive_95_of_performance/",
+  "fecha": "2026-08-04T18:30:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "No more SLM open-source??",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhhpq/no_more_slm_opensource/",
+  "fecha": "2026-08-04T17:45:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfqqdb/white_house_ai_guidelines_exempt_us_open_models/",
+  "fecha": "2026-08-04T23:35:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "A llama.cpp PR caches “hot” MoE experts on the GPU — 33 → 56 tok/s reported with 8GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhns3/a_llamacpp_pr_caches_hot_moe_experts_on_the_gpu/",
+  "fecha": "2026-08-04T17:52:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Introducing Shieldstral. | Mistral AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3me/introducing_shieldstral_mistral_ai/",
+  "fecha": "2026-08-04T18:42:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "inclusionAI/Ling-3.0-flash weights are up on Hugging Face — MIT, BF16 plus an official FP8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdeek/inclusionailing30flash_weights_are_up_on_hugging/",
+  "fecha": "2026-08-04T15:21:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Gemma 4 on 500MB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfeick/gemma_4_on_500mb/",
+  "fecha": "2026-08-04T16:01:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "China’s Open-Weight Models Will Be Spared US Safety Tests",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfujnc/chinas_openweight_models_will_be_spared_us_safety/",
+  "fecha": "2026-08-05T02:25:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfn9vc/a_26b_model_with_tool_calling_and_128k_context/",
+  "fecha": "2026-08-04T21:15:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Llama.cpp PR 8% speed boost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf8obs/llamacpp_pr_8_speed_boost/",
+  "fecha": "2026-08-04T12:16:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "inclusionAI/Ling-3.0-flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdcd7/inclusionailing30flash_hugging_face/",
+  "fecha": "2026-08-04T15:19:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "LFM2.5-2.6B is out",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfh1sn/lfm2526b_is_out/",
+  "fecha": "2026-08-04T17:30:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "GPT-OSS has turned one year old today!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfo8be/gptoss_has_turned_one_year_old_today/",
+  "fecha": "2026-08-04T21:52:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Time to finally migrate from LM Studio -> llama.cpp, your experience?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf5gpp/time_to_finally_migrate_from_lm_studio_llamacpp/",
+  "fecha": "2026-08-04T09:30:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "[Deepseek-V4-Flash-0731] Full 1M context on a single RTX5090 + DDR5 Desktop Setup with VLLM CPU/Ram Offloading, ~800 tps pp & 15+ tps decode [Agentic Coding]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfbcgx/deepseekv4flash0731_full_1m_context_on_a_single/",
+  "fecha": "2026-08-04T14:06:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Maple-Preview: 20B-A1B ternary-weight reasoning open-weight LLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfrr5t/maplepreview_20ba1b_ternaryweight_reasoning/",
+  "fecha": "2026-08-05T00:19:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Deepseek V4 Flash 2-bit quant is the first model I can run locally that achieves 100% in this SQL benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfctwf/deepseek_v4_flash_2bit_quant_is_the_first_model_i/",
+  "fecha": "2026-08-04T15:00:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "VibeVoice 1.5B Running Locally...On an iPhone! Only ~2.2 GB of Memory and Up to 1.28× Real-Time Speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfuawi/vibevoice_15b_running_locallyon_an_iphone_only_22/",
+  "fecha": "2026-08-05T02:14:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "GPT-X2.5-135M scores 3rd place on Open SLM Leaderboard on Huggingface, Beating Facebook's MobileLLM-R1-140M",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfuo9d/gptx25135m_scores_3rd_place_on_open_slm/",
+  "fecha": "2026-08-05T02:31:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Thinking of buying more DRAM right now...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfstpj/thinking_of_buying_more_dram_right_now/",
+  "fecha": "2026-08-05T01:07:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731GGUFs with updated template (supports reasoning levels)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf8944/deepseek_v4_flash_0731ggufs_with_updated_template/",
+  "fecha": "2026-08-04T11:57:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Design systems from code alone - Without external images, Ling-3.0-flash generated webpages across Bauhaus, Bohemian, acid design, and more—using CSS gradients, SVG paths, typography, and layout to preserve each visual language.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfem5v/design_systems_from_code_alone_without_external/",
+  "fecha": "2026-08-04T16:05:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+  "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+  "fecha": "2026-08-04T23:58:24+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "llm-anthropic 0.26",
+  "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+  "fecha": "2026-08-04T22:00:58+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "PipeNetwork/minimax-h3-mlx",
+  "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+  "fecha": "2026-08-04T19:10:09+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "llm 0.32",
+  "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+  "fecha": "2026-08-04T17:15:33+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "condense-json 1.1",
+  "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+  "fecha": "2026-08-03T04:56:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-05"
+ },
+ {
+  "titulo": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "fecha": "2026-08-04T13:58:29+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-05"
+ },
+ {
   "titulo": "More Qwen 3.8 sizes coming",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
   "fecha": "2026-08-04T01:05:43+00:00",
