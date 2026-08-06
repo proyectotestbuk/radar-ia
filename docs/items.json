@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "En la era de la IA, las grandes empresas están nadando en dinero de los inversores. Y las pequeñas están quedándose sin él",
+  "url": "https://www.xataka.com/empresas-y-economia/era-ia-grandes-empresas-estan-nadando-dinero-inversores-pequenas-estan-quedandose",
+  "fecha": "2026-08-05T19:30:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Bern Bornich, CEO de 1X: \"Estoy seguro de que estamos a menos de una década del despegue definitivo de los humanoides\"",
+  "url": "https://www.xataka.com/robotica-e-ia/estoy-absolutamente-seguro-que-estamos-a-decada-despegue-definitivo-humanoides-bern-bornich-ceo-1x",
+  "fecha": "2026-08-05T12:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Las grandes tecnológicas chinas reclutan investigadores antes de que se gradúen: la carrera de la IA empieza en las aulas",
+  "url": "https://www.xataka.com/robotica-e-ia/grandes-tecnologicas-chinas-reclutan-investigadores-se-graduen-carrera-ia-empieza-aulas",
+  "fecha": "2026-08-05T12:00:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Mythos y GPT-5.6 actuaron como peligrosos hackers. El problema es que los expertos les dejaron la puerta abierta",
+  "url": "https://www.xataka.com/robotica-e-ia/mythos-gpt-5-6-actuaron-como-peligrosos-hackers-problema-que-expertos-les-dejaron-puerta-abierta",
+  "fecha": "2026-08-05T11:16:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Un avión de Iberia va a hacer un vuelo especial para observar el eclipse de Sol del 12 de agosto",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/vuelo-iberia-eclipse-12-agosto.html",
+  "fecha": "2026-08-05T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "He conseguido hacer funcionar el DNI electrónico en mi Mac utilizando el procedimiento oficial y mucha paciencia, y también con un clic usando McDNIe",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/funcionar-dni-electronico-mac-aplicacion-ncdnie.html",
+  "fecha": "2026-08-05T08:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "you can now buy llm's at your local supermarket",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgj0h8/you_can_now_buy_llms_at_your_local_supermarket/",
+  "fecha": "2026-08-05T20:27:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "MiniMax issues",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg5ugz/minimax_issues/",
+  "fecha": "2026-08-05T12:22:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Qwen3-TTS voice cloning is now in mainline llama.cpp — the old demo finally became real support",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg0q6r/qwen3tts_voice_cloning_is_now_in_mainline/",
+  "fecha": "2026-08-05T07:47:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Qwen Developers' responses from their recent Twitter/X AMA",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg569y/qwen_developers_responses_from_their_recent/",
+  "fecha": "2026-08-05T11:51:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Meta Model, Muse Spark 1.1 Hacked Another Company During Cybersecurity Testing, Breaching Systems and Making Changes to Internal Systems - The Information",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgm2h6/meta_model_muse_spark_11_hacked_another_company/",
+  "fecha": "2026-08-05T22:25:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "LFM2.5-2.6B on a OnePlus 13 at 17 tok/s ~ Pure CPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8qfv/lfm2526b_on_a_oneplus_13_at_17_toks_pure_cpu/",
+  "fecha": "2026-08-05T14:20:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Zuck will \"share more on open source\" soon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgp8y8/zuck_will_share_more_on_open_source_soon/",
+  "fecha": "2026-08-06T00:40:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Prime Agent - a new coding harness surpassing Codex/CC/PI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgnmny/prime_agent_a_new_coding_harness_surpassing/",
+  "fecha": "2026-08-05T23:30:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Given the MiniMax H3 LoRAs Debacle - Some Important Context for Censorship enforcement and laws in China",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8fi1/given_the_minimax_h3_loras_debacle_some_important/",
+  "fecha": "2026-08-05T14:09:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "DGX Spark now sells for 6000-8000 euros. I still remember when it was just 4000.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8g9z/dgx_spark_now_sells_for_60008000_euros_i_still/",
+  "fecha": "2026-08-05T14:09:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "I updated my localy run benchmark with DeepSeek V4 Flash 0731",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg41ot/i_updated_my_localy_run_benchmark_with_deepseek/",
+  "fecha": "2026-08-05T10:55:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "40% speedup of MoE training with faster megakernel, by cursor, of all people (for B200s)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgio2p/40_speedup_of_moe_training_with_faster_megakernel/",
+  "fecha": "2026-08-05T20:15:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Ling-3.0-flash MXFP4 released and running locally on one DGX Spark.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgawrk/ling30flash_mxfp4_released_and_running_locally_on/",
+  "fecha": "2026-08-05T15:40:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Inkling-Small 276B-A12B at ~2.9 tok/s on <10gb memory",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgfuyg/inklingsmall_276ba12b_at_29_toks_on_10gb_memory/",
+  "fecha": "2026-08-05T18:35:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "How many people in this sub try to train their own AI from scratch on their systems just for fun and to test out techniques from research papers?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgswl5/how_many_people_in_this_sub_try_to_train_their/",
+  "fecha": "2026-08-06T03:30:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "I remember a time when 'flash' meant 32B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgn82g/i_remember_a_time_when_flash_meant_32b/",
+  "fecha": "2026-08-05T23:13:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Scenema Audio Comes to ComfyUI, Runs on 8GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgfmee/scenema_audio_comes_to_comfyui_runs_on_8gb_vram/",
+  "fecha": "2026-08-05T18:27:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Building a Fully Local PDF Read-Aloud & PDF-to-Audiobook Desktop App with Kokoro 82M, Qwen, and llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg1dqw/building_a_fully_local_pdf_readaloud/",
+  "fecha": "2026-08-05T08:26:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Could we have a --disk-moe or --n-disk-moe like --cpu-moe or --n-cpu-moe so we can use disk/cpu/gpu ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgldw6/could_we_have_a_diskmoe_or_ndiskmoe_like_cpumoe/",
+  "fecha": "2026-08-05T21:58:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 at 10–17 t/s (nothink) on MacBook M5 Pro **64GB***, partly via SSD streaming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vge4l5/deepseek_v4_flash_0731_at_1017_ts_nothink_on/",
+  "fecha": "2026-08-05T17:34:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "jabbatheduck/DeepSeek-v4-flash-mini · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg7gq9/jabbatheduckdeepseekv4flashmini_hugging_face/",
+  "fecha": "2026-08-05T13:31:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "bootai",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vginkn/bootai/",
+  "fecha": "2026-08-05T20:14:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "The Session You Cannot Take With You | EARENDIL",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg9jo8/the_session_you_cannot_take_with_you_earendil/",
+  "fecha": "2026-08-05T14:51:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "MoE CPU-offload benchmark on Deepseek V4/Gemma4/Qwen/GPT-OSS — TensorSharp vs llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg71ci/moe_cpuoffload_benchmark_on_deepseek/",
+  "fecha": "2026-08-05T13:13:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Anyone interested in building a harness-only benchmark?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg40w8/anyone_interested_in_building_a_harnessonly/",
+  "fecha": "2026-08-05T10:54:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "An AI model from Meta also hacked another company during testing",
+  "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+  "fecha": "2026-08-06T00:25:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Introducing Muse Code and Muse Spark 1.2",
+  "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+  "fecha": "2026-08-05T23:58:35+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Third-party cyber evaluations involving OpenAI models",
+  "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+  "fecha": "2026-08-05T23:45:32+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "Incident Report: unsanctioned agent behaviour during cyber testing",
+  "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+  "fecha": "2026-08-05T23:32:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-06"
+ },
+ {
+  "titulo": "One-shotting a Raccoon Heist game using Claude Fable 5",
+  "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+  "fecha": "2026-08-05T19:42:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-06"
+ },
+ {
   "titulo": "Una universidad de México usó IA para evitar trampas. Lo que pasó fue justamente lo contrario",
   "url": "https://www.xataka.com/robotica-e-ia/universidad-mexico-uso-ia-para-evitar-trampas-que-paso-fue-justamente-contrario",
   "fecha": "2026-08-04T19:01:43+00:00",
