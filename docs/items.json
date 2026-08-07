@@ -1,5 +1,355 @@
 [
  {
+  "titulo": "\"Estamos cerca que la IA resuelva un problema y los humanos no puedan explicarlo\": los matemáticos opinan sobre la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/estamos-cerca-que-ia-resuelva-problema-humanos-no-puedan-explicarlo-matematicos-opinan-ia",
+  "fecha": "2026-08-06T16:30:53+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Un país de Europa está descubriendo lo que significa llenarlo todo de centros de datos: entregarles el 23% de tu energía",
+  "url": "https://www.xataka.com/energia/pais-europa-esta-descubriendo-que-significa-llenarlo-todo-centros-datos-entregarles-23-tu-energia",
+  "fecha": "2026-08-06T15:30:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
+  "url": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
+  "fecha": "2026-08-06T11:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Google fue la única tecnológica que apostó realmente por una IA basada en la ciencia. Ahora sabe que va perdiendo",
+  "url": "https://www.xataka.com/robotica-e-ia/google-fue-unica-tecnologica-que-aposto-realmente-ia-basada-ciencia-ahora-sabe-que-va-perdiendo",
+  "fecha": "2026-08-06T11:16:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Nvidia gastó 4.000 millones para cambiar el paradigma de la IA. Acaba de activar su plan para seguir liderando el sector",
+  "url": "https://www.xataka.com/componentes/nvidia-gasto-4-000-millones-para-cambiar-paradigma-ia-acaba-activar-su-plan-para-seguir-liderando-sector",
+  "fecha": "2026-08-06T10:30:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Ya es oficial: Google Assistant ya tiene fecha de caducidad y será sustituido por Gemini en tu móvil",
+  "url": "https://www.xataka.com/moviles/oficial-google-assistant-tiene-fecha-caducidad-sera-sustituido-gemini-tu-movil",
+  "fecha": "2026-08-06T09:16:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Friday humor",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhmyje/friday_humor/",
+  "fecha": "2026-08-07T01:31:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
+  "fecha": "2026-08-06T18:50:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "They almost catched up on Frontier performance, so now catching up on prices",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh2pss/they_almost_catched_up_on_frontier_performance_so/",
+  "fecha": "2026-08-06T12:22:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
+  "fecha": "2026-08-06T07:23:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "I ported vLLM's serving stack to C++20: 66 MiB binary, no Python at inference, output checked token-for-token against vLLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh9lx4/i_ported_vllms_serving_stack_to_c20_66_mib_binary/",
+  "fecha": "2026-08-06T16:45:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "cant wait for llms to be benchmaxxed on this /s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhpamn/cant_wait_for_llms_to_be_benchmaxxed_on_this_s/",
+  "fecha": "2026-08-07T03:22:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "BBC is running article titled \"Artificial Intelligence used to design brand new viruses\" ... cue the \"We must regulate Open Weights Models to prevent the next Covid or worse\" articles in 3... 2..",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhn36d/bbc_is_running_article_titled_artificial/",
+  "fecha": "2026-08-07T01:37:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "I compared even more parsers on 14 PDF-parsing capabilities using different types",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7bxu/i_compared_even_more_parsers_on_14_pdfparsing/",
+  "fecha": "2026-08-06T15:23:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "🟩 NVIDIA's whole speech stack just went local. ASR + TTS + codec, quantized to GGUF, running on-device via NeMo-Speech.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhjeqy/nvidias_whole_speech_stack_just_went_local_asr/",
+  "fecha": "2026-08-06T22:54:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Scotoma-2: Gemma4, but with less annoying slop and better writing.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhf70c/scotoma2_gemma4_but_with_less_annoying_slop_and/",
+  "fecha": "2026-08-06T20:07:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "AI clickbait",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh9k14/ai_clickbait/",
+  "fecha": "2026-08-06T16:43:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-Parse-2.0 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7lzy/nvidianvidianemotronparse20_hugging_face/",
+  "fecha": "2026-08-06T15:34:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "KV cache quantization benchmarks: 413 pairs tested on Qwen 3.6 27B, Gemma 4 31B. KLD with BeeLlama.cpp v0.4.0: KVarN 6-bit beats q8_0, precision tail 1024 dominates",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhaabz/kv_cache_quantization_benchmarks_413_pairs_tested/",
+  "fecha": "2026-08-06T17:09:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "i just spent weeks rewriting my webUI from scratch, getting rid of all AI slop within the codebase and switching it over to a proper lightweight framework (alpine.js). i am now comfortable suggesting it as an alternative to openwebUI, librechat and the like! it is made for local models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx9m5/i_just_spent_weeks_rewriting_my_webui_from/",
+  "fecha": "2026-08-06T07:24:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "How come artificialanalysis.ai ranks Gemma4 above Qwen3.6 27b in SciCode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh4490/how_come_artificialanalysisai_ranks_gemma4_above/",
+  "fecha": "2026-08-06T13:21:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Auto-fit vs tuned MoE offload: 564 → 1330 pp tok/s, unchanged decode (Qwen3.6-35B-A3B Q6 / RTX 3090)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh22c8/autofit_vs_tuned_moe_offload_564_1330_pp_toks/",
+  "fecha": "2026-08-06T11:52:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "The death of SLMs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh4275/the_death_of_slms/",
+  "fecha": "2026-08-06T13:19:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "My issue with Artificial Analysis's 'intelligence index'",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhoyw1/my_issue_with_artificial_analysiss_intelligence/",
+  "fecha": "2026-08-07T03:06:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Final optimization: from ~10 tok/s to ~15 tok/s on DeepSeek-V4-Flash-0731 at 128K ctx - 1 RTX 3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh1qn3/final_optimization_from_10_toks_to_15_toks_on/",
+  "fecha": "2026-08-06T11:36:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhqihc/eschalabsqwen3635ba3beschaw2_hugging_face/",
+  "fecha": "2026-08-07T04:23:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "nvidias nemotron omni only loads its text half on a mac, so i wrote the vision and audio towers in mlx",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhb69g/nvidias_nemotron_omni_only_loads_its_text_half_on/",
+  "fecha": "2026-08-06T17:41:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Echo Dot 2 can run 28M LLM at decent speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhocl8/echo_dot_2_can_run_28m_llm_at_decent_speed/",
+  "fecha": "2026-08-07T02:36:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Knowledge vs. hallucination rate: what is your favorite model?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh3ani/knowledge_vs_hallucination_rate_what_is_your/",
+  "fecha": "2026-08-06T12:47:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Best llama cpp flags to run Deepseek-flash 0731",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgzp0q/best_llama_cpp_flags_to_run_deepseekflash_0731/",
+  "fecha": "2026-08-06T09:48:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "2 x 5070ti Qwen 27B full config / stats",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh8ol0/2_x_5070ti_qwen_27b_full_config_stats/",
+  "fecha": "2026-08-06T16:11:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "datasette 1.0a38",
+  "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+  "fecha": "2026-08-06T18:24:34+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "datasette 0.65.3",
+  "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+  "fecha": "2026-08-06T18:22:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Simon Willison on Technical Blogging",
+  "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+  "fecha": "2026-08-06T18:04:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
+  "titulo": "Baseten on Hugging Face Inference Providers 🔥",
+  "url": "https://huggingface.co/blog/baseten",
+  "fecha": "2026-08-06T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-07"
+ },
+ {
   "titulo": "En la era de la IA, las grandes empresas están nadando en dinero de los inversores. Y las pequeñas están quedándose sin él",
   "url": "https://www.xataka.com/empresas-y-economia/era-ia-grandes-empresas-estan-nadando-dinero-inversores-pequenas-estan-quedandose",
   "fecha": "2026-08-05T19:30:51+00:00",

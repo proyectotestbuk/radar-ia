@@ -37,10 +37,10 @@
   }
  ],
  "iconos": {
-  "la-hora-maker-youtube": "la-hora-maker-youtube.png",
+  "la-hora-maker-youtube": "",
   "xataka-ia": "xataka-ia.png",
   "genbeta": "",
-  "microsiervos": "microsiervos.png",
+  "microsiervos": "",
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png"
@@ -81,5 +81,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "06/08/2026 a las 09:33"
+ "sello": "07/08/2026 a las 08:04"
 }
