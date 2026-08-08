@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "La IA ha creado un virus que la naturaleza no había creado antes. Son (sobre todo) buenas noticias",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-ha-creado-virus-que-naturaleza-no-habia-creado-antes-todo-buenas-noticias",
+  "fecha": "2026-08-07T15:45:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Tener chips propios de IA es la última gran obsesión de las grandes tecnológicas. Anthropic no va a ser menos",
+  "url": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
+  "fecha": "2026-08-07T13:31:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "ChatGPT da más razones para no pagar: OpenAI lo hace ilimitado en el plan gratuito, la trampa está en el asterisco",
+  "url": "https://www.xataka.com/robotica-e-ia/chatgpt-da-razones-para-no-pagar-openai-hace-ilimitado-plan-gratuito-trampa-esta-asterisco",
+  "fecha": "2026-08-07T13:15:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "El \"iPhone de la IA\" de OpenAI no será un iPhone: será un dispositivo sin pantalla y con forma de donut, según Bloomberg",
+  "url": "https://www.xataka.com/robotica-e-ia/iphone-ia-openai-no-sera-iphone-sera-dispositivo-pantalla-forma-donut-bloomberg",
+  "fecha": "2026-08-07T12:45:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "“DeepMind ya no es un laboratorio frontera”: los expertos de SemiAnalysis creen que Google ganará la IA aunque Gemini pierda",
+  "url": "https://www.xataka.com/robotica-e-ia/deepmind-no-laboratorio-frontera-expertos-semianalysis-creen-que-google-ganara-ia-gemini-pierda",
+  "fecha": "2026-08-07T11:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"ninguna persona a primera vista podría estar 100% segura de si es IA o no es IA\"",
+  "url": "https://www.xataka.com/robotica-e-ia/daniel-pua-jefe-seguridad-magnific-ninguna-persona-a-primera-vista-podria-estar-100-segura-ia-no-ia",
+  "fecha": "2026-08-07T11:00:52+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Empezó como un experimento para su abuelo y hoy se trata de uno de los dispositivos de IA más curiosos para personas mayores: así es Ato",
+  "url": "https://www.xataka.com/robotica-e-ia/empezo-como-experimento-para-su-abuelo-hoy-se-trata-uno-dispositivos-ia-curiosos-para-personas-mayores-asi-ato",
+  "fecha": "2026-08-07T07:00:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "TypeStax, un generador de escalas tipográficas con diales y botones",
+  "url": "http://www.microsiervos.com/archivo/arte-y-diseno/typestax-generador-escalas-tipograficas.html",
+  "fecha": "2026-08-07T18:50:36+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "La lista de los más listos de la clase: el análisis de la «inteligencia» de las IA (y sus precios) en una sola página",
+  "url": "http://www.microsiervos.com/archivo/ia/inteligencia-artificial-chatgpt-tareas-creatividad-imagenes.html",
+  "fecha": "2026-08-07T10:44:42+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "An open-weight model too, Moonshot joins the race (gently this time)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhwilp/an_openweight_model_too_moonshot_joins_the_race/",
+  "fecha": "2026-08-07T10:08:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Got job as Director of AI and Systems development self-taught",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi8jlr/got_job_as_director_of_ai_and_systems_development/",
+  "fecha": "2026-08-07T18:24:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "A llama.cpp PR makes Q2_0 3.0–3.6x faster on x86 CPUs, 8B decode goes 2.39 → 8.20 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/",
+  "fecha": "2026-08-07T12:27:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "DS4 Flash incoming price increase \"we've been able to reproduce their current prices even on rented GPUs\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv2bz/ds4_flash_incoming_price_increase_weve_been_able/",
+  "fecha": "2026-08-07T08:43:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9zls/deepseek_v4_flash_0731_arcagi_results/",
+  "fecha": "2026-08-07T19:17:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Wan-Animate-2: Pushing the Application Boundaries of Character Animation Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi1r6t/wananimate2_pushing_the_application_boundaries_of/",
+  "fecha": "2026-08-07T14:12:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "LFM2.5-2.6B model+KV cache quantization report",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/",
+  "fecha": "2026-08-07T13:15:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "RTX 5090 Owner Built An Open-Source Tool That Shuts Down PC If It Detects The 12VHPWR Cable Drawing Too Much Power, But It Can Only Work On Specific GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhy2e6/rtx_5090_owner_built_an_opensource_tool_that/",
+  "fecha": "2026-08-07T11:31:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi6hmw/llamacpp_pr_reports_up_to_169_faster_quantizedkv/",
+  "fecha": "2026-08-07T17:09:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "U.S. Department of Energy Launches the Genesis Open Models Initiative and, with Arcee, Unveils Genesis-Science-1 — Its First Open-Weight Model for Scientific Research",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vijp8y/us_department_of_energy_launches_the_genesis_open/",
+  "fecha": "2026-08-08T02:16:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "what will be the future of LocalLLaMA?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhugh3/what_will_be_the_future_of_localllama/",
+  "fecha": "2026-08-07T08:06:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Gemma 4 QAT could be improved further by Google aligning the QAT model to modern q4_k instead of q4_0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhw4f5/gemma_4_qat_could_be_improved_further_by_google/",
+  "fecha": "2026-08-07T09:46:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv8ka/black_hat_usa_2026_the_breaking_news_the/",
+  "fecha": "2026-08-07T08:53:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "IS GLM 5.2, Kimi 2.7 still worth it?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhugot/is_glm_52_kimi_27_still_worth_it/",
+  "fecha": "2026-08-07T08:07:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vikgrj/is_anyone_else_finding_deepseekv4flash_unreliable/",
+  "fecha": "2026-08-08T02:53:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Qwen 3.6 27B flags/settings in llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vida0h/qwen_36_27b_flagssettings_in_llamacpp/",
+  "fecha": "2026-08-07T21:25:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "parakeet.wgsl – Fast, accurate ASR in the browser, via raw WebGPU & SIMD WASM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi77dr/parakeetwgsl_fast_accurate_asr_in_the_browser_via/",
+  "fecha": "2026-08-07T17:35:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Custom Water Cooled Quad 7900 XTX Build 96 GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhs70b/custom_water_cooled_quad_7900_xtx_build_96_gb_vram/",
+  "fecha": "2026-08-07T05:54:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vig3tw/serving_deepseek_v4_flash_0731_on_2x_dgx_spark_57/",
+  "fecha": "2026-08-07T23:25:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "New Unsloth KImi K3 drops! Q1_0 (466GB), TQ1_0(509GB), IQ1_M(649),TQ2_0(551GB)!!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv4ws/new_unsloth_kimi_k3_drops_q1_0_466gb_tq1_0509gb/",
+  "fecha": "2026-08-07T08:47:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "I got tired of my 300GB model loads taking 5min on RPC. PR 26291 speeds it 300% to 1min30sec (4060ti+ddr4) + (4060ti+ddr5)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vilcil/i_got_tired_of_my_300gb_model_loads_taking_5min/",
+  "fecha": "2026-08-08T03:37:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Which model would be best for Delphi development?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viajy6/which_model_would_be_best_for_delphi_development/",
+  "fecha": "2026-08-07T19:39:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "How to even compare quants from various sources?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9s64/how_to_even_compare_quants_from_various_sources/",
+  "fecha": "2026-08-07T19:10:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Am I just hallucinating",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi5627/am_i_just_hallucinating/",
+  "fecha": "2026-08-07T16:20:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Anyone running DeepSeek-V4-Flash-0731 on MI325X with vLLM? Mine is behaving completely broken",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhxtoy/anyone_running_deepseekv4flash0731_on_mi325x_with/",
+  "fecha": "2026-08-07T11:19:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Quoting John Gruber",
+  "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+  "fecha": "2026-08-08T00:10:40+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+  "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+  "fecha": "2026-08-07T23:55:58+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+  "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+  "fecha": "2026-08-07T19:18:09+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+  "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+  "fecha": "2026-08-07T16:18:51+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
+  "titulo": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "url": "https://huggingface.co/blog/allenai/tutormoments",
+  "fecha": "2026-08-07T17:53:32+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-08"
+ },
+ {
   "titulo": "\"Estamos cerca que la IA resuelva un problema y los humanos no puedan explicarlo\": los matemáticos opinan sobre la IA",
   "url": "https://www.xataka.com/robotica-e-ia/estamos-cerca-que-ia-resuelva-problema-humanos-no-puedan-explicarlo-matematicos-opinan-ia",
   "fecha": "2026-08-06T16:30:53+00:00",
