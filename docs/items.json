@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
+  "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
+  "fecha": "2026-08-09T16:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Reward hacking: el término que explica por qué las IA mienten y hacen trampas para cumplir un objetivo",
+  "url": "https://www.xataka.com/robotica-e-ia/reward-hacking-termino-que-explica-que-ia-mienten-hackean-hacen-trampas-para-cumplir-objetivo",
+  "fecha": "2026-08-09T10:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "El fundador de Anthropic no quiere títulos para sus hijos. Prefiere que aprendan algo más valioso: creatividad y curiosidad",
+  "url": "https://www.xataka.com/robotica-e-ia/fundador-anthropic-no-quiere-titulos-para-sus-hijos-prefiere-que-aprendan-algo-valioso-creatividad-curiosidad",
+  "fecha": "2026-08-09T07:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "The Gemma team will host a special event on August 20",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk0o98/the_gemma_team_will_host_a_special_event_on/",
+  "fecha": "2026-08-09T20:40:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Lophius: A workbench for language model research, from the creator of Heretic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/",
+  "fecha": "2026-08-09T15:43:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/",
+  "fecha": "2026-08-09T08:39:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Open Model: Google Weather Next 2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/",
+  "fecha": "2026-08-09T18:12:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "ByteDance vows to avoid AI distillation, develop new model its own way",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk7o93/bytedance_vows_to_avoid_ai_distillation_develop/",
+  "fecha": "2026-08-10T01:48:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Tencent announce WorldClaw",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjnqmh/tencent_announce_worldclaw/",
+  "fecha": "2026-08-09T11:42:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "So... did we give up on the rule against AI posts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk8mxt/so_did_we_give_up_on_the_rule_against_ai_posts/",
+  "fecha": "2026-08-10T02:35:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "KPMG Says Nearly Half Of Executives Pulled Back AI Agents Over Cost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk60uz/kpmg_says_nearly_half_of_executives_pulled_back/",
+  "fecha": "2026-08-10T00:31:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjmay5/amd_llamacpp_reducing_mtp_buffer_overhead_gave_me/",
+  "fecha": "2026-08-09T10:21:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Best Embedding + Reranking Model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjk57h/best_embedding_reranking_model/",
+  "fecha": "2026-08-09T08:10:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Underestimated budget solution: radeon 780m iGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjs3sf/underestimated_budget_solution_radeon_780m_igpu/",
+  "fecha": "2026-08-09T15:01:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "[NEW MODEL] SupraElegans-500K",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk3xpb/new_model_supraelegans500k/",
+  "fecha": "2026-08-09T22:57:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "DeepSeek v4 Flash 0731 locally on CPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjsysx/deepseek_v4_flash_0731_locally_on_cpu/",
+  "fecha": "2026-08-09T15:36:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Two flags took the official Ling-3.0-flash INT4 from 20.8 to 38.7 tok/s on one DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjttcc/two_flags_took_the_official_ling30flash_int4_from/",
+  "fecha": "2026-08-09T16:10:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "omlab/VLX-Seek-1.5-10B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkaypz/omlabvlxseek1510b_hugging_face/",
+  "fecha": "2026-08-10T04:32:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "KLQ: Training-free measured rotation quantization. Beats all training-free rotation-based quantization methods on W4A4KV4-bits. Llama 3.2 1B KLQ-quantized beats SpinQuant and gets close to ReSpinQuant without GPTQ/LDLQ rounding.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk2n2k/klq_trainingfree_measured_rotation_quantization/",
+  "fecha": "2026-08-09T22:01:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "[2606.05682] Beyond Output Matching: Preserving Internal Geometry in NVFP4 LLM Distillation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk08zl/260605682_beyond_output_matching_preserving/",
+  "fecha": "2026-08-09T20:22:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "300b on 32gb MoE-streaming findings + optimisations",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjm6dn/300b_on_32gb_moestreaming_findings_optimisations/",
+  "fecha": "2026-08-09T10:14:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Updated benchmark: Deepseek V4 Flash on SlopCodeBench (local)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjiypj/updated_benchmark_deepseek_v4_flash_on/",
+  "fecha": "2026-08-09T07:01:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "endless-frontier/BigBang-v1 - qwen 3.5 finetunes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk1p9s/endlessfrontierbigbangv1_qwen_35_finetunes/",
+  "fecha": "2026-08-09T21:22:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-0731 Q8_K_XL sometimes stops mid-task in OpenCode - anyone else seeing this?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjw0xg/deepseekv4flash0731_q8_k_xl_sometimes_stops/",
+  "fecha": "2026-08-09T17:37:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Open-weight video gen that actually delivers. Five days with MiniMax H3 on local hardware.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjvafx/openweight_video_gen_that_actually_delivers_five/",
+  "fecha": "2026-08-09T17:08:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Trustfactor in training data?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjim3i/trustfactor_in_training_data/",
+  "fecha": "2026-08-09T06:42:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Running Qwen 3.5 35B A3B-Q8_0 gguf on a cheap radeon 7600 at 18 token/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkbe48/running_qwen_35_35b_a3bq8_0_gguf_on_a_cheap/",
+  "fecha": "2026-08-10T04:56:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Add a amd 9700 ai pro to a 3x5090 system vs buy a 5070ti for general useage.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwjbo/add_a_amd_9700_ai_pro_to_a_3x5090_system_vs_buy_a/",
+  "fecha": "2026-08-09T17:57:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Quoting OpenClaw",
+  "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+  "fecha": "2026-08-10T02:05:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "Quoting Claude Opus 5 system prompt",
+  "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+  "fecha": "2026-08-09T23:31:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "GitHub Models is now retired",
+  "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+  "fecha": "2026-08-09T22:48:05+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "SQLite compressed text-history prototypes",
+  "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+  "fecha": "2026-08-09T22:05:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-10"
+ },
+ {
+  "titulo": "datasette-auth-tokens 0.4a13",
+  "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything",
+  "fecha": "2026-08-06T23:07:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-10"
+ },
+ {
   "titulo": "Una forma de pelar una patata instantáneamente un tanto estrambótica, mediante vapor, alta presión, tecnología (y dinero)",
   "url": "http://www.microsiervos.com/archivo/tecnologia/pelar-patata-instantaneamente-vapor-alta-presion-tecnologia.html",
   "fecha": "2026-08-08T10:59:22+00:00",
