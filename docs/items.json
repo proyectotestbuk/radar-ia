@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
+  "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
+  "fecha": "2026-08-10T19:31:18+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "EEUU sigue siendo superior en modelos de IA para generar texto o código. Si hablamos de vídeo, hay un rey absoluto: China",
+  "url": "https://www.xataka.com/robotica-e-ia/eeuu-sigue-siendo-superior-modelos-ia-para-generar-texto-codigo-hablamos-video-hay-rey-absoluto-china",
+  "fecha": "2026-08-10T17:01:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "El gasto en IA se ha salido de la escala nivel: este año, tres empresas gastarán el equivalente a tres misiones Apolo a la Luna",
+  "url": "https://www.xataka.com/empresas-y-economia/gasto-ia-se-ha-salido-escala-nivel-este-ano-tres-empresas-gastaran-equivalente-a-tres-misiones-apolo-a-luna",
+  "fecha": "2026-08-10T14:31:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Mark Zuckerberg on releases",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
+  "fecha": "2026-08-10T13:00:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkgsum/introducing_muse_glimmer_an_openweight_model/",
+  "fecha": "2026-08-10T10:14:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "unsloth/Muse-Glimmer-30B-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkhbuc/unslothmuseglimmer30bgguf_hugging_face/",
+  "fecha": "2026-08-10T10:43:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkm42m/muse_glimmer_actually_fits_on_a_single_rtx_3090/",
+  "fecha": "2026-08-10T14:16:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "inclusionAI/Ling-3.0-tiny · 8B A1.3B MoE· Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkqwso/inclusionailing30tiny_8b_a13b_moe_hugging_face/",
+  "fecha": "2026-08-10T17:11:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Muse glimmer benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkxpnd/muse_glimmer_benchmark/",
+  "fecha": "2026-08-10T21:19:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "I trained a 1B-parameter LLM from scratch on 20B tokens for about $200",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkydi5/i_trained_a_1bparameter_llm_from_scratch_on_20b/",
+  "fecha": "2026-08-10T21:44:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 is the ‘killer app’ that is going to sell A LOT of DGX Sparks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkpm5p/deepseek_v4_flash_0731_is_the_killer_app_that_is/",
+  "fecha": "2026-08-10T16:25:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Early signs that Muse-Glimmer-30B might quantize *very* well? Share your experiences.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkn16q/early_signs_that_museglimmer30b_might_quantize/",
+  "fecha": "2026-08-10T14:51:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Glimmer seems pretty censored?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkkw6n/glimmer_seems_pretty_censored/",
+  "fecha": "2026-08-10T13:29:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Best Local LLMs - August 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
+  "fecha": "2026-08-10T14:31:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "1 Day in and I feel okay saying Muse-Glimmer-30B finally beats 3.6-27B for the size in some use-cases",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl64et/1_day_in_and_i_feel_okay_saying_museglimmer30b/",
+  "fecha": "2026-08-11T03:25:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "DiffusionGemma Technical Report",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkqqjx/diffusiongemma_technical_report/",
+  "fecha": "2026-08-10T17:05:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Please Share Your Experience About Muse Glimmer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vku03t/please_share_your_experience_about_muse_glimmer/",
+  "fecha": "2026-08-10T19:02:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Best open-source harness like Claude Code?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vktpl2/best_opensource_harness_like_claude_code/",
+  "fecha": "2026-08-10T18:51:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Muse Spark 1.2 Open Source before Llama 4 Behemoth!!?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkw0f7/muse_spark_12_open_source_before_llama_4_behemoth/",
+  "fecha": "2026-08-10T20:15:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "I compared GGUF quants of Qwen3.6 27B to NVFP4, AWQ, AutoRound, and FP8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vksqju/i_compared_gguf_quants_of_qwen36_27b_to_nvfp4_awq/",
+  "fecha": "2026-08-10T18:16:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "1M context with 17 GB model in 24 GB VRAM: \"for the first time I was able to load a context of almost 1M tokens and extract 7 needles from various parts of the text\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkicyd/1m_context_with_17_gb_model_in_24_gb_vram_for_the/",
+  "fecha": "2026-08-10T11:38:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "I made a web-design benchmark for local models (Muse Glimmer 30B vs Qwen 3.6 27b vs Deepseek V4 Flash 0731)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkvdg0/i_made_a_webdesign_benchmark_for_local_models/",
+  "fecha": "2026-08-10T19:52:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Needle 2: 14MB agentic LLM for phones, wearables, smart home and robots.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkqy66/needle_2_14mb_agentic_llm_for_phones_wearables/",
+  "fecha": "2026-08-10T17:12:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "model: Muse Glimmer Support by pcuenca · Pull Request #26841 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkjul1/model_muse_glimmer_support_by_pcuenca_pull/",
+  "fecha": "2026-08-10T12:45:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Motif-Technologies/Motif-3 official realese",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkl6cs/motiftechnologiesmotif3_official_realese/",
+  "fecha": "2026-08-10T13:40:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Observations on Muse-Glimmer reasoning traces being noticeably different from qwen / gemma models and questions for you guys",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl2iio/observations_on_museglimmer_reasoning_traces/",
+  "fecha": "2026-08-11T00:38:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "I gave DeepSeek V4 Flash basic vision by training a 40M connector on 100K examples",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl6ior/i_gave_deepseek_v4_flash_basic_vision_by_training/",
+  "fecha": "2026-08-11T03:45:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Tested Muse Glimmer locally on coding with OpenCode & agentic work",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkvc1z/tested_muse_glimmer_locally_on_coding_with/",
+  "fecha": "2026-08-10T19:51:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Introducing Muse Glimmer",
+  "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+  "fecha": "2026-08-10T23:56:03+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+  "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "fecha": "2026-08-10T16:25:36+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "fecha": "2026-08-10T10:05:36+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-11"
+ },
+ {
+  "titulo": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "url": "https://huggingface.co/blog/muse-glimmer",
+  "fecha": "2026-08-10T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-11"
+ },
+ {
   "titulo": "El nuevo Silicon Valley del hardware no está en Asia: la (gran tapada) megafábrica de la IA habla español",
   "url": "https://www.xataka.com/componentes/mexico-se-ha-convertido-gran-fabrica-para-ia-solo-china-le-supera",
   "fecha": "2026-08-09T16:30:00+00:00",
