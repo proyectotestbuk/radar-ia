@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando primero a otra persona de la lista",
+  "url": "https://www.xataka.com/robotica-e-ia/usuario-le-pidio-a-su-agente-ia-que-le-reservase-hora-gimnasio-logro-expulsando-primero-a-otra-persona-lista",
+  "fecha": "2026-08-11T21:56:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "El 2027 ni siquiera ha comenzado y la IA ya ha hecho de las suyas: todo apunta a que la DRAM y HBM del año ya se han vendido",
+  "url": "https://www.xataka.com/componentes/2027-siquiera-ha-comenzado-ia-ha-hecho-suyas-todo-apunta-a-que-dram-hbm-ano-se-han-vendido",
+  "fecha": "2026-08-11T19:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Nvidia acaba de lanzar su propio modelo de IA gratuito. Que lo haga justo ahora tiene todo el sentido",
+  "url": "https://www.xataka.com/robotica-e-ia/nvidia-acaba-lanzar-su-propio-modelo-ia-gratuito-que-haga-justo-ahora-tiene-todo-sentido",
+  "fecha": "2026-08-11T15:21:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Mark Zuckerberg se ha propuesto ser el único CEO no-apocalíptico y humanista de la IA. Otra cosa es que le creamos",
+  "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-se-ha-propuesto-ser-unico-ceo-no-apocaliptico-humanista-ia-otra-cosa-que-le-creamos",
+  "fecha": "2026-08-11T13:45:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Los modelos abiertos de IA de China siempre han presumido de ser un absoluto chollo. Había gato encerrado",
+  "url": "https://www.xataka.com/robotica-e-ia/modelos-abiertos-ia-china-siempre-han-presumido-ser-absoluto-chollo-habia-gato-encerrado",
+  "fecha": "2026-08-11T13:01:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Claude va a dejar una marca invisible en todo lo que escriba. El problema es que ni siquiera demuestra que lo haya escrito Claude",
+  "url": "https://www.xataka.com/robotica-e-ia/claude-va-a-dejar-marca-invisible-todo-que-escriba-problema-que-siquiera-demuestra-que-haya-escrito-claude",
+  "fecha": "2026-08-11T11:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "\"El 99% de mi tráfico ahora es de bots\": la IA sigue llevándoselo todo de internet",
+  "url": "https://www.xataka.com/robotica-e-ia/99-mi-trafico-ahora-bots-ia-sigue-llevandoselo-todo-internet-hay-formas-contraatacar",
+  "fecha": "2026-08-11T11:01:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Ser el más malote de la clase parece el marketing perfecto para la IA. Admitir que tu modelo hackeó a otra empresa sale caro",
+  "url": "https://www.xataka.com/robotica-e-ia/ser-malote-clase-parece-marketing-perfecto-para-ia-admitir-que-tu-modelo-hackeo-a-otra-empresa-sale-caro",
+  "fecha": "2026-08-11T08:01:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "SpaceX quiere desplegar 10 GW de IA en apenas un año. SemiAnalysis ha hecho las cuentas y dice que no es una locura",
+  "url": "https://www.xataka.com/robotica-e-ia/spacex-quiere-desplegar-10-gw-ia-apenas-ano-semianalysis-ha-hecho-cuentas-dice-que-no-locura",
+  "fecha": "2026-08-11T06:01:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Introducing Unsloth Desktop app",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlj87v/introducing_unsloth_desktop_app/",
+  "fecha": "2026-08-11T14:36:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/",
+  "fecha": "2026-08-11T19:18:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlh9fg/nvidianvidianemotron35lightning30ba3bbf16_hugging/",
+  "fecha": "2026-08-11T13:19:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "The small open weight models are scarier in AI development",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlfyn4/the_small_open_weight_models_are_scarier_in_ai/",
+  "fecha": "2026-08-11T12:23:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Luth-2: New State-of-the-Art French Small Language Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/",
+  "fecha": "2026-08-11T08:41:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/",
+  "fecha": "2026-08-12T00:28:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Encrypted reasoning from ClosedAI et al 100% recoverable",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vllbjh/encrypted_reasoning_from_closedai_et_al_100/",
+  "fecha": "2026-08-11T15:52:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "I ran Muse Glimmer @ 1M context - All tests passed.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl9adk/i_ran_muse_glimmer_1m_context_all_tests_passed/",
+  "fecha": "2026-08-11T06:13:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "We even got a fgn manifesto!! Meta is on a run!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlemgr/we_even_got_a_fgn_manifesto_meta_is_on_a_run/",
+  "fecha": "2026-08-11T11:19:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "I will be parting with my 4x Spark Cluster.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlrqd4/i_will_be_parting_with_my_4x_spark_cluster/",
+  "fecha": "2026-08-11T19:41:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "366 t/s Qwen3.6 27B NVFP4 on v100s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlt0lj/366_ts_qwen36_27b_nvfp4_on_v100s/",
+  "fecha": "2026-08-11T20:28:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlurlv/we_quantized_deepseek_v4_0731_and_benchmarked_it/",
+  "fecha": "2026-08-11T21:34:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash acting as my Linux sysadmin",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlb90f/deepseekv4flash_acting_as_my_linux_sysadmin/",
+  "fecha": "2026-08-11T08:07:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Tested in Coding: BF16 Muse Glimmer vs BF16 Qwen3.6 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vldngi/tested_in_coding_bf16_muse_glimmer_vs_bf16_qwen36/",
+  "fecha": "2026-08-11T10:27:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "I built a weird, low-power llama.cpp server using an Intel N100 + RTX 5060Ti",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vljtv2/i_built_a_weird_lowpower_llamacpp_server_using_an/",
+  "fecha": "2026-08-11T14:58:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "I put Gemma 4 E4B and E2B into an e-reader so I can ask my weird questions and share my thoughts in private directly in app.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlicb0/i_put_gemma_4_e4b_and_e2b_into_an_ereader_so_i/",
+  "fecha": "2026-08-11T14:02:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Rumored 50-series Super refresh bumps everything +50% VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlad91/rumored_50series_super_refresh_bumps_everything/",
+  "fecha": "2026-08-11T07:15:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Local Benchmark : Muse Glimmer 30B vs Qwen 3.6 27B vs Gemma4 31B (and many other models and finetunes)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlsixl/local_benchmark_muse_glimmer_30b_vs_qwen_36_27b/",
+  "fecha": "2026-08-11T20:10:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Why have 8B-12B models been dropped?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlazx6/why_have_8b12b_models_been_dropped/",
+  "fecha": "2026-08-11T07:52:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "DeepSeek V4 Flash 0731 at 27+ t/s decode on Strix Halo — Vulkan + DSpark full guide",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlmh0b/deepseek_v4_flash_0731_at_27_ts_decode_on_strix/",
+  "fecha": "2026-08-11T16:33:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Revision Prompting: Trades slow (decoded) output tokens for cheap (prefilled) input tokens.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlfxr3/revision_prompting_trades_slow_decoded_output/",
+  "fecha": "2026-08-11T12:22:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "New Muse-Glimmer-30B SoTA Quants - hopefully a new lineup :)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm2116/new_museglimmer30b_sota_quants_hopefully_a_new/",
+  "fecha": "2026-08-12T02:49:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "What can us 8 GB VRAM poors do?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlc4wn/what_can_us_8_gb_vram_poors_do/",
+  "fecha": "2026-08-11T08:59:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "RTX 6000 PRO price raised to $16,000 USD on the Nvidia website",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm5e14/rtx_6000_pro_price_raised_to_16000_usd_on_the/",
+  "fecha": "2026-08-12T05:42:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "[llama.cpp PR #26608] Ling-3.0 support (unmerged)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr0gd/llamacpp_pr_26608_ling30_support_unmerged/",
+  "fecha": "2026-08-11T19:14:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "There are no lossless transformations of natural-language text",
+  "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+  "fecha": "2026-08-11T23:48:35+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+  "fecha": "2026-08-11T22:40:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "datasette-upload-dbs 0.5a0",
+  "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+  "fecha": "2026-08-11T20:35:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-12"
+ },
+ {
+  "titulo": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "fecha": "2026-08-11T13:37:10+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-12"
+ },
+ {
   "titulo": "Meta quiere plantar cara a OpenAI y Google con un arma muy particular: una IA potente que funciona offline en tu ordenador",
   "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador",
   "fecha": "2026-08-10T19:31:18+00:00",
