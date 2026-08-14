@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
+  "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
+  "fecha": "2026-08-13T20:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Gemini ya tiene 1.000 millones de usuarios al mes. La pregunta es cuántos saben que lo están usando",
+  "url": "https://www.xataka.com/robotica-e-ia/gemini-tiene-1-000-millones-usuarios-al-mes-pregunta-cuantos-saben-que-estan-usando",
+  "fecha": "2026-08-13T18:01:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Hasta ahora, toda la industria IA se ha financiado a sí misma de forma circular. Nvidia acaba de romper con esa dinámica",
+  "url": "https://www.xataka.com/empresas-y-economia/ahora-toda-industria-ia-se-ha-financiado-a-forma-circular-nvidia-acaba-romper-esa-dinamica",
+  "fecha": "2026-08-13T15:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+  "url": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
+  "fecha": "2026-08-13T13:31:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en precio",
+  "url": "https://www.xataka.com/robotica-e-ia/grok-4-6-acaba-entrar-club-mejores-modelos-mundo-ha-hecho-compitiendo-precio",
+  "fecha": "2026-08-13T11:15:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
+  "fecha": "2026-08-13T19:39:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "MiniMax-Music3 released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/",
+  "fecha": "2026-08-13T17:14:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
+  "fecha": "2026-08-13T12:37:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "DeepSeek: We’re launching DeepSeek-V4-Pro today!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/",
+  "fecha": "2026-08-13T11:56:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "The countdown to Qwen3.8-27B starts now!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4020/the_countdown_to_qwen3827b_starts_now/",
+  "fecha": "2026-08-13T07:36:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Deepseek Harness is Up!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnb66j/deepseek_harness_is_up/",
+  "fecha": "2026-08-13T13:45:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "GLM 5.3 Released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+  "fecha": "2026-08-14T05:23:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Fixed Jinja chat template for Qwen 3.5, 3.6, and the new 3.8 release",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnm7le/fixed_jinja_chat_template_for_qwen_35_36_and_the/",
+  "fecha": "2026-08-13T20:22:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Doom running on an LLM -- Hugging Face checkpoint included",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjtyh/doom_running_on_an_llm_hugging_face_checkpoint/",
+  "fecha": "2026-08-13T18:56:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Qwen/Qwen3.8-27B · Official Countdown · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn6lri/qwenqwen3827b_official_countdown_hugging_face/",
+  "fecha": "2026-08-13T10:10:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/",
+  "fecha": "2026-08-13T19:02:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Minimax Music 3 open weight release soon?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4syf/minimax_music_3_open_weight_release_soon/",
+  "fecha": "2026-08-13T08:24:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndovb/unslothdeepseekv4pro0813gguf_hugging_face/",
+  "fecha": "2026-08-13T15:19:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Is waiting for Qwen 3.8 27B like waiting for Star War Episode one?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnp2ni/is_waiting_for_qwen_38_27b_like_waiting_for_star/",
+  "fecha": "2026-08-13T22:14:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "How AI text watermarking works",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/",
+  "fecha": "2026-08-14T00:13:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "OpenAI vs. Anthropic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn7ku6/openai_vs_anthropic/",
+  "fecha": "2026-08-13T11:03:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4-Pro-0813 (Available again) · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnervw/deepseekaideepseekv4pro0813_available_again/",
+  "fecha": "2026-08-13T15:58:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndd6p/sensenovavision_a_7b_open_model_that_does/",
+  "fecha": "2026-08-13T15:07:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Deepseek new pricing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnb3nd/deepseek_new_pricing/",
+  "fecha": "2026-08-13T13:42:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "dots-studio/dots3-note-prev · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnod14/dotsstudiodots3noteprev_hugging_face/",
+  "fecha": "2026-08-13T21:46:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Open Models - July 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnginv/open_models_july_2026/",
+  "fecha": "2026-08-13T17:00:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "The Qwen team is going live!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn7x0r/the_qwen_team_is_going_live/",
+  "fecha": "2026-08-13T11:21:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "EXPERIMENT: Qwen3.8-2.4T-A95B running locally on an RTX 5090 + RTX 5060 Ti at ~0.80 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjpju/experiment_qwen3824ta95b_running_locally_on_an/",
+  "fecha": "2026-08-13T18:52:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "The White House is going to expand its AI policy: open models may soon be added to an updated AI framework",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4pky/the_white_house_is_going_to_expand_its_ai_policy/",
+  "fecha": "2026-08-13T08:18:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Gemma 4 12B Q3: +8.55% Coding Performance From Tensor-Level Quantization Allocation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnltec/gemma_4_12b_q3_855_coding_performance_from/",
+  "fecha": "2026-08-13T20:08:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "sqlite-utils 4.2.1",
+  "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+  "fecha": "2026-08-13T23:53:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "sqlite-utils 4.2",
+  "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+  "fecha": "2026-08-13T20:11:29+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "llm-gemini 0.33",
+  "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+  "fecha": "2026-08-13T19:37:34+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "alchemy-utils 0.1a1",
+  "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+  "fecha": "2026-08-13T03:03:17+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "fecha": "2026-08-13T17:16:04+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-14"
+ },
+ {
+  "titulo": "What We Learned by Reproducing 2,200 papers from ICML",
+  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "fecha": "2026-08-13T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-14"
+ },
+ {
   "titulo": "Claude no ha resuelto la hipótesis de Riemann. Lo inquietante es lo que consiguió mientras lo intentaba",
   "url": "https://www.xataka.com/robotica-e-ia/claude-no-ha-resuelto-hipotesis-riemann-inquietante-que-consiguio-intentaba",
   "fecha": "2026-08-12T18:31:15+00:00",
