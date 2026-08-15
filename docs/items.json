@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
+  "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
+  "fecha": "2026-08-14T21:43:49+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "La contrahistoria de lo malos que son los centros de datos la tienen en un pueblecito de EEUU que ha revivido gracias a uno de ellos",
+  "url": "https://www.xataka.com/robotica-e-ia/contrahistoria-malos-que-centros-datos-tienen-pueblecito-eeuu-que-ha-revivido-gracias-a-uno-ellos",
+  "fecha": "2026-08-14T12:31:14+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Apple lleva años haciendo excepciones para vender iPhone en China. La última es enorme: una IA exclusiva para el país",
+  "url": "https://www.xataka.com/robotica-e-ia/apple-lleva-anos-haciendo-excepciones-para-vender-iphone-china-ultima-enorme-ia-exclusiva-para-pais",
+  "fecha": "2026-08-14T11:45:14+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Avances en robots que limpian: los de Tau Robotics te apañan la casa o la oficina por 30 dólares la hora",
+  "url": "http://www.microsiervos.com/archivo/robots/avances-robots-limpian-casa.html",
+  "fecha": "2026-08-14T15:16:16+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Estudiar los eclipses hace 350 años sirvió para deducir que la luz no se transmite de forma instantánea",
+  "url": "http://www.microsiervos.com/archivo/ciencia/eclipse-1676-ole-rommer-velocidad-luz.html",
+  "fecha": "2026-08-14T09:15:18+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "IT'S OUT",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
+  "fecha": "2026-08-14T14:59:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen/Qwen3.8-27B · released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9nn7/qwenqwen3827b_released/",
+  "fecha": "2026-08-14T15:00:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen3.8-27B is identical to Qwen3.6-27B!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voblcs/qwen3827b_is_identical_to_qwen3627b/",
+  "fecha": "2026-08-14T16:12:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "A preliminary Qwen3.8-27B model card is live!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo2iiz/a_preliminary_qwen3827b_model_card_is_live/",
+  "fecha": "2026-08-14T09:30:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen 3.8 27B Released! Please Share Your Experience",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/qwen_38_27b_released_please_share_your_experience/",
+  "fecha": "2026-08-14T15:16:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Local uncensored Opus 4.6 at home - Qwen3.8 27B heretic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voix4o/local_uncensored_opus_46_at_home_qwen38_27b/",
+  "fecha": "2026-08-14T20:41:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Muse Glimmer was frontier In the model class around 30b models for four days.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vofnnf/muse_glimmer_was_frontier_in_the_model_class/",
+  "fecha": "2026-08-14T18:39:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Unsloth Qwen 3.8 27b Weights Released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9qjv/unsloth_qwen_38_27b_weights_released/",
+  "fecha": "2026-08-14T15:03:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "It's actually crazy how good DSv4 Flash 0731 is",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/",
+  "fecha": "2026-08-14T05:37:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "A modest community proposal for desloppification",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo4tim/a_modest_community_proposal_for_desloppification/",
+  "fecha": "2026-08-14T11:37:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Alright, We got Qwen3.8-27B. Now it's community's turn to make it more better & faster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voc15b/alright_we_got_qwen3827b_now_its_communitys_turn/",
+  "fecha": "2026-08-14T16:28:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Stop shitting on 9B models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh7lk/stop_shitting_on_9b_models/",
+  "fecha": "2026-08-14T19:36:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen 3.8 - 27B is a game changer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vonuu0/qwen_38_27b_is_a_game_changer/",
+  "fecha": "2026-08-15T00:09:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Less Than a Month: Kimi K3, Qwen3.8, DeepSeek-V4-Pro-0813, GLM-5.3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9k39/less_than_a_month_kimi_k3_qwen38/",
+  "fecha": "2026-08-14T14:57:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "bitsandbytes creator teasing new quantization method: GLM 5.3 on a single DGX Spark at 7t/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo6vvs/bitsandbytes_creator_teasing_new_quantization/",
+  "fecha": "2026-08-14T13:10:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "[Megathread] Qwen 3.8 27B Release Day",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voojjz/megathread_qwen_38_27b_release_day/",
+  "fecha": "2026-08-15T00:41:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen 3.8 27B - Aquarium Burst Sample Test",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/",
+  "fecha": "2026-08-14T18:07:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "A hunch: Qwen3.8-27B's general knowledge got pruned (good, if true)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokpw6/a_hunch_qwen3827bs_general_knowledge_got_pruned/",
+  "fecha": "2026-08-14T21:52:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Are we getting Qwen 3.8 35-A3B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo63d4/are_we_getting_qwen_38_35a3b/",
+  "fecha": "2026-08-14T12:36:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/",
+  "fecha": "2026-08-14T19:55:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Poll results 6 months later: When will we have Opus level with 30b model? Optimists win!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vob107/poll_results_6_months_later_when_will_we_have/",
+  "fecha": "2026-08-14T15:51:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen3.8 Benchmarks Converted to Charts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vobndt/qwen38_benchmarks_converted_to_charts/",
+  "fecha": "2026-08-14T16:14:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokrcy/qwen3827b_is_now_up_to_3_faster_on_apple_silicon/",
+  "fecha": "2026-08-14T21:54:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "RetroCraft - Qwen 3.8 27B Q8, one shot with exact performance data on dual 3090s.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voj571/retrocraft_qwen_38_27b_q8_one_shot_with_exact/",
+  "fecha": "2026-08-14T20:50:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Northern Gannet",
+  "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+  "fecha": "2026-08-15T03:22:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "Don't classify. Hallucinate!",
+  "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+  "fecha": "2026-08-14T21:54:35+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-15"
+ },
+ {
+  "titulo": "State of Open Models: Summer 2026 Observations",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "fecha": "2026-08-14T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-15"
+ },
+ {
   "titulo": "Mistral quiere ser el campeón europeo de la IA. Para conseguirlo ha empezado a servir modelos chinos",
   "url": "https://www.xataka.com/robotica-e-ia/mistral-quiere-ser-campeon-europeo-ia-para-conseguirlo-ha-empezado-a-servir-modelos-chinos",
   "fecha": "2026-08-13T20:31:15+00:00",
