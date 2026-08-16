@@ -1,5 +1,275 @@
 [
  {
+  "titulo": "Las predicciones de Elon Musk, el moderno «Casandra», para el futuro cercano. Tú aguanta 10 años, que va a ser mejor que jubiliarse",
+  "url": "http://www.microsiervos.com/archivo/tecnologia/predicciones-elon-musk-entrevista.html",
+  "fecha": "2026-08-16T02:45:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Qwen 3.8 35BA3B spotted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+  "fecha": "2026-08-15T08:49:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Aged like fine wine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
+  "fecha": "2026-08-15T13:17:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "If you would have told me half a year ago that a local model running in my office would be able to one-shot a Super Mario clone, I would have called you nuts. Qwen3.8-27B is a different beast.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp438p/if_you_would_have_told_me_half_a_year_ago_that_a/",
+  "fecha": "2026-08-15T14:19:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Fable 5 refuses to touch Qwen deployments?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voynzn/fable_5_refuses_to_touch_qwen_deployments/",
+  "fecha": "2026-08-15T09:47:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
+  "fecha": "2026-08-16T00:45:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpf8j1/the_perfect_way_for_google_to_screw_over_oai_and/",
+  "fecha": "2026-08-15T21:53:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "US to tell partners they must pick sides in AI race with China",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp7qrc/us_to_tell_partners_they_must_pick_sides_in_ai/",
+  "fecha": "2026-08-15T16:49:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "A nice local vision test",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3zqc/a_nice_local_vision_test/",
+  "fecha": "2026-08-15T14:15:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "GPU prices haven't stopped climbing for 3 weeks straight across the EU, here's the data",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vowi2d/gpu_prices_havent_stopped_climbing_for_3_weeks/",
+  "fecha": "2026-08-15T07:35:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "SOTA Apple Silicon Inference (August 15, 2026)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vphr8u/sota_apple_silicon_inference_august_15_2026/",
+  "fecha": "2026-08-15T23:48:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Show-off Saturday: Intel Arc B140 build.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpkomt/showoff_saturday_intel_arc_b140_build/",
+  "fecha": "2026-08-16T02:10:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Try out this \"high\" reasoning mode for 27B (tested on VLLM)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vox89e/try_out_this_high_reasoning_mode_for_27b_tested/",
+  "fecha": "2026-08-15T08:19:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2x49/gemma_4_e4b_iq2_xxs_14054_reasoning_performance/",
+  "fecha": "2026-08-15T13:29:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "model: add Kimi-K3 text model by pwilkin · Pull Request #26185 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp6haw/model_add_kimik3_text_model_by_pwilkin_pull/",
+  "fecha": "2026-08-15T15:59:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "How many people have 24gb over gpu here?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpm70f/how_many_people_have_24gb_over_gpu_here/",
+  "fecha": "2026-08-16T03:27:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/",
+  "fecha": "2026-08-15T06:26:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Agentic harness for small models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpcj2j/agentic_harness_for_small_models/",
+  "fecha": "2026-08-15T19:59:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Which Harness for Local Coding (Qwen 3.8 27b) do you Recommend?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpdrxl/which_harness_for_local_coding_qwen_38_27b_do_you/",
+  "fecha": "2026-08-15T20:51:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "club-5060ti refresh: tested RTX 5060 Ti presets, a proper high-context harness, and Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vper67/club5060ti_refresh_tested_rtx_5060_ti_presets_a/",
+  "fecha": "2026-08-15T21:32:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Deepseek v4 flash Q2 on a single 4090 😅",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vozg7c/deepseek_v4_flash_q2_on_a_single_4090/",
+  "fecha": "2026-08-15T10:34:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Recommend harness for local coding?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vov2an/recommend_harness_for_local_coding/",
+  "fecha": "2026-08-15T06:13:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "(Newbie) what do you use local models for?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vozm0d/newbie_what_do_you_use_local_models_for/",
+  "fecha": "2026-08-15T10:43:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "llama.cpp Windows Manager",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpfrxw/llamacpp_windows_manager/",
+  "fecha": "2026-08-15T22:17:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "RTX Pro 4500 vs. A100 (x4) - purchase being made today",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpax07/rtx_pro_4500_vs_a100_x4_purchase_being_made_today/",
+  "fecha": "2026-08-15T18:54:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "Best llm at understaning middle eastern languages? Arabic/Persian etc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp6nc7/best_llm_at_understaning_middle_eastern_languages/",
+  "fecha": "2026-08-15T16:05:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
+  "titulo": "CORS Chat",
+  "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+  "fecha": "2026-08-15T14:49:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-16"
+ },
+ {
   "titulo": "Z.ai entrenó GLM-5.3 para programar mejor. El modelo aprendió de paso a ser mucho mejor en ciberseguridad",
   "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad",
   "fecha": "2026-08-14T21:43:49+00:00",
