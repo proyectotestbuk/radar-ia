@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "Si se hace realidad, el proyecto Terafab de Elon Musk será la estructura interior más grande del planeta. Lo importante es el “si se hace realidad”",
+  "url": "https://www.xataka.com/robotica-e-ia/se-hace-realidad-proyecto-terafab-elon-musk-sera-estructura-interior-grande-planeta-importante-se-hace-realidad",
+  "fecha": "2026-08-16T15:30:48+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Nos vendieron las redes 5G como la forma más rápida de conectarnos con el móvil. Ahora resulta que también pueden detectar drones",
+  "url": "https://www.xataka.com/moviles/nos-vendieron-redes-5g-como-forma-rapida-conectarnos-movil-ahora-resulta-que-tambien-pueden-detectar-drones",
+  "fecha": "2026-08-16T11:30:47+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Daniel Púa, jefe de seguridad en Magnific: \"Si Claude Opus 4.8 podía ser una navaja, Mythos es un machete\"",
+  "url": "https://www.xataka.com/seguridad/daniel-pua-jefe-seguridad-magnific-claude-opus-4-8-podia-ser-navaja-mythos-machete",
+  "fecha": "2026-08-16T09:30:48+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Wall Street ya se frota las manos con la salida a bolsa de Anthropic: algunos inversores la valoran en dos billones de dólares, según FT",
+  "url": "https://www.xataka.com/empresas-y-economia/wall-street-se-frota-manos-salida-a-bolsa-anthropic-algunos-inversores-valoran-dos-billones-dolares-ft",
+  "fecha": "2026-08-16T09:00:49+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "llm-eng",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Anthropic explica cómo funciona la nueva marca de agua de Claude: no se ve, no se nota, (casi) no se puede borrar y no prueba nada",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-explica-como-funciona-nueva-marca-agua-claude-no-se-ve-no-se-nota-casi-no-se-puede-borrar-no-prueba-nada",
+  "fecha": "2026-08-16T08:30:47+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Las marcas de agua de la IA: huellas invisibles que no demuestran quién escribió algo pero puede parecer que lo dicen todo",
+  "url": "http://www.microsiervos.com/archivo/ia/marcas-agua-ia-huellas-invisibles.html",
+  "fecha": "2026-08-16T20:12:13+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
+  "fecha": "2026-08-16T16:33:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Newer commits removed the Qwen 35B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/",
+  "fecha": "2026-08-16T13:39:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/",
+  "fecha": "2026-08-16T11:21:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq279o/based_on_an_accelerating_frontier_local/",
+  "fecha": "2026-08-16T16:55:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 distillations",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3gig/qwen_38_distillations/",
+  "fecha": "2026-08-16T17:44:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "The dream is to reach 200GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwcnf/the_dream_is_to_reach_200gb_vram/",
+  "fecha": "2026-08-16T12:55:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "…and I’m not afraid of losing my social credits.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqgt0x/and_im_not_afraid_of_losing_my_social_credits/",
+  "fecha": "2026-08-17T03:16:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 9b?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq8rsf/qwen_38_9b/",
+  "fecha": "2026-08-16T21:10:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen3.8 27B reasoning effort low/medium/xhigh comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuh7m/qwen38_27b_reasoning_effort_lowmediumxhigh/",
+  "fecha": "2026-08-16T11:20:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 27b vs 3.6 27b - how good is with a Turtle library.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9zc8/qwen_38_27b_vs_36_27b_how_good_is_with_a_turtle/",
+  "fecha": "2026-08-16T22:01:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Why are RTX 6000 PROs still getting bought at 16000+ USD? And who are buying them?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6bs5/why_are_rtx_6000_pros_still_getting_bought_at/",
+  "fecha": "2026-08-16T19:34:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen3.8-27B Hybrid IQ4_XS quantization for 16GB gang",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpzhws/qwen3827b_hybrid_iq4_xs_quantization_for_16gb_gang/",
+  "fecha": "2026-08-16T15:09:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 27b with DSH(DeepSeek Harness) is Amazing!! Experiences so far and perfomance.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpv12b/qwen_38_27b_with_dshdeepseek_harness_is_amazing/",
+  "fecha": "2026-08-16T11:50:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen3.8-27b on RTX 3090 - 82 tps single request, up to 672 tps peak",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6fdj/qwen3827b_on_rtx_3090_82_tps_single_request_up_to/",
+  "fecha": "2026-08-16T19:38:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Dario Amodei defends his policy proposals, warns open weights won't decentralize power, endorses pre-launch vetting, says real accomplishments will earn trust",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9sdv/dario_amodei_defends_his_policy_proposals_warns/",
+  "fecha": "2026-08-16T21:53:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 2.4T at 288k tokens/s on Nvidia GB300 NVL72",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3ssg/qwen_38_24t_at_288k_tokenss_on_nvidia_gb300_nvl72/",
+  "fecha": "2026-08-16T17:57:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/",
+  "fecha": "2026-08-16T11:24:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Koboldcpp v1.119 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpztfu/koboldcpp_v1119_released/",
+  "fecha": "2026-08-16T15:22:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "If you are at the lowest budget, which you can think of.Which hardware would you recommend to run? qwen 3.8 27b oWith like 50 tokens per second. I currently have a RTX 5070 Ti.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vprm64/if_you_are_at_the_lowest_budget_which_you_can/",
+  "fecha": "2026-08-16T08:29:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
+  "fecha": "2026-08-16T22:33:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "I'm still running Qwen 3.5 122B. Should I switch to Qwen 3.8 27B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpszpm/im_still_running_qwen_35_122b_should_i_switch_to/",
+  "fecha": "2026-08-16T09:55:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "[audio.cpp] Release 0.6: dots.tts, MiniMax-H3 text2audio (up to 3x realtime), MiniMax-Music3 (preview), and more new audio models. 5+ demos included.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqasuk/audiocpp_release_06_dotstts_minimaxh3_text2audio/",
+  "fecha": "2026-08-16T22:36:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq60on/qwen38_27b_q2_vs_q3_vs_qwen36_35ba3b_moe_on_12gb/",
+  "fecha": "2026-08-16T19:21:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Quick PSA: Qwen3.8-27B reasoning effort vs reasoning budget in llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwfpe/quick_psa_qwen3827b_reasoning_effort_vs_reasoning/",
+  "fecha": "2026-08-16T12:59:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Anyone else get a kick out of Qwen 3.8 27B Reasoning Dialogue?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9lsl/anyone_else_get_a_kick_out_of_qwen_38_27b/",
+  "fecha": "2026-08-16T21:45:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Markdown SVG upgrades",
+  "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+  "fecha": "2026-08-16T23:59:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+  "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+  "fecha": "2026-08-16T22:00:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-17"
+ },
+ {
+  "titulo": "Quoting Dario Amodei",
+  "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+  "fecha": "2026-08-16T15:05:36+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-17"
+ },
+ {
   "titulo": "Las predicciones de Elon Musk, el moderno «Casandra», para el futuro cercano. Tú aguanta 10 años, que va a ser mejor que jubiliarse",
   "url": "http://www.microsiervos.com/archivo/tecnologia/predicciones-elon-musk-entrevista.html",
   "fecha": "2026-08-16T02:45:00+00:00",
