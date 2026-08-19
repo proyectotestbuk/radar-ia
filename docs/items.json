@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
+  "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
+  "fecha": "2026-08-18T19:00:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Un vídeo filtrado muestra en acción los nuevos AirPods con cámara de Apple",
+  "url": "https://www.xataka.com/auriculares/video-filtrado-muestra-accion-nuevos-airpods-camara-apple",
+  "fecha": "2026-08-18T13:00:24+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "“La IA tiende a concentrar el poder”: el CEO de Anthropic cree que la solución es regular a empresas como la suya",
+  "url": "https://www.xataka.com/empresas-y-economia/ia-tiende-a-concentrar-poder-ceo-anthropic-cree-que-solucion-regular-a-empresas-como-suya",
+  "fecha": "2026-08-18T13:00:24+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "China está obligando a cortar a parejas. Eso sí: sólo si uno de los dos es una IA",
+  "url": "https://www.xataka.com/robotica-e-ia/china-esta-obligando-a-cortar-a-parejas-eso-solo-uno-dos-ia",
+  "fecha": "2026-08-18T12:00:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "HappyRobot es la startup de Guadalajara que ya es un unicornio. Su promesa entusiasma a las empresas e inquieta a los trabajadores",
+  "url": "https://www.xataka.com/robotica-e-ia/happyrobot-startup-guadalajara-que-unicornio-su-promesa-entusiasma-a-empresas-e-inquieta-a-trabajadores",
+  "fecha": "2026-08-18T11:30:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Computer History de ChatGPT: qué es y cómo esta función para que la IA sepa todo lo que haces en el ordenador",
+  "url": "https://www.xataka.com/basics/computer-history-chatgpt-que-como-esta-funcion-ia-sepa-todo-que-haces-ordenador",
+  "fecha": "2026-08-18T10:30:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Running DeepSeek V4 Flash Q4_K_XL at ~100 tok/s prompt processing on 4× RTX 3060 12GB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrqf4f/running_deepseek_v4_flash_q4_k_xl_at_100_toks/",
+  "fecha": "2026-08-18T14:15:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices - 128GB of DDR5 now $3,399",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwsfl/memory_prices_climb_500_in_12_months_up_to_10x/",
+  "fecha": "2026-08-18T17:59:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/",
+  "fecha": "2026-08-18T20:24:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Linux Improves VRAM Management in 7.3 Kernel 🥳",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/",
+  "fecha": "2026-08-18T12:43:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "and here we are",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vry2ns/and_here_we_are/",
+  "fecha": "2026-08-18T18:43:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
+  "fecha": "2026-08-18T21:36:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Qwen3.8-27B: slower tokens, faster and better results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vru16d/qwen3827b_slower_tokens_faster_and_better_results/",
+  "fecha": "2026-08-18T16:23:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Hugging Face just surpassed 3 million models on the Hub",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnckt/hugging_face_just_surpassed_3_million_models_on/",
+  "fecha": "2026-08-18T12:09:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "tencent/UI-Mate-27B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/",
+  "fecha": "2026-08-18T06:42:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Qwen3.8 2.4T open weights made a Call of Duty clone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwn1f/qwen38_24t_open_weights_made_a_call_of_duty_clone/",
+  "fecha": "2026-08-18T17:53:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
+  "fecha": "2026-08-19T02:44:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "GLM5.3 Artificial Analysis Benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs3joh/glm53_artificial_analysis_benchmarks/",
+  "fecha": "2026-08-18T22:05:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "local models fear my tests",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vryd3q/local_models_fear_my_tests/",
+  "fecha": "2026-08-18T18:53:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Qwen 3.8 27b saved me $650+ in API costs this evening",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrjk4m/qwen_38_27b_saved_me_650_in_api_costs_this_evening/",
+  "fecha": "2026-08-18T08:47:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "I pushed Qwen3.8-27B to 124 tps on a single request on a RTX 3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrw4sz/i_pushed_qwen3827b_to_124_tps_on_a_single_request/",
+  "fecha": "2026-08-18T17:35:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Qwen 3.8 27B xhigh vs medium small comparison (+ others for fun)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrg907/qwen_38_27b_xhigh_vs_medium_small_comparison/",
+  "fecha": "2026-08-18T05:36:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Idea: massively compress Qwen 3.8 KV cache by using a single bit for the token \"wait\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxgiu/idea_massively_compress_qwen_38_kv_cache_by_using/",
+  "fecha": "2026-08-18T18:22:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "DFlash 2: Keep Drafting Parallel",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tz1/dflash_2_keep_drafting_parallel/",
+  "fecha": "2026-08-18T21:37:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Don't ignore llama.cpp RPC with old hardware. Results of a 5070 Ti and 1080 Ti over gigabit ethernet: it's actually functional.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrkxdt/dont_ignore_llamacpp_rpc_with_old_hardware/",
+  "fecha": "2026-08-18T10:07:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "OpenCode overrides the samplers for Qwen models to the wrong values",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vroao0/opencode_overrides_the_samplers_for_qwen_models/",
+  "fecha": "2026-08-18T12:51:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "1-bit / 2-bit / Ternary / Bitnet Models - Updates & Tracking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vryaid/1bit_2bit_ternary_bitnet_models_updates_tracking/",
+  "fecha": "2026-08-18T18:51:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Ling-3.0 (BailingMoE3) lands in llama.cpp mainline - Quick benchmarks on Intel Arc B580",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxoxy/ling30_bailingmoe3_lands_in_llamacpp_mainline/",
+  "fecha": "2026-08-18T18:30:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "What sandbox are you all using for AI agents?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrps78/what_sandbox_are_you_all_using_for_ai_agents/",
+  "fecha": "2026-08-18T13:51:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "I tested DFlash2 for Qwen3.8 27B on a 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
+  "fecha": "2026-08-18T22:26:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Is Ling 3 tiny underrated for its size?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrq3na/is_ling_3_tiny_underrated_for_its_size/",
+  "fecha": "2026-08-18T14:03:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Mojo🔥 is now open source",
+  "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+  "fecha": "2026-08-18T21:39:20+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "How Much Memory Does Your Agent Actually Need?",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "fecha": "2026-08-18T18:09:38+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-19"
+ },
+ {
+  "titulo": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "url": "https://huggingface.co/blog/multi-vector-encoder",
+  "fecha": "2026-08-18T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-19"
+ },
+ {
   "titulo": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
   "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-construido-modelo-mejor-que-mythos-tambien-ha-decidido-que-mundo-no-pueda-usarlo",
   "fecha": "2026-08-17T17:30:22+00:00",
