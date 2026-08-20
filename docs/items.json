@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a un científico de IA de origen chino",
+  "url": "https://www.xataka.com/magnet/mansion-record-silicon-valley-tiene-nuevo-dueno-70-millones-4-9-hectareas-todo-apunta-a-cientifico-ia-origen-chino",
+  "fecha": "2026-08-19T19:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron contra 14",
+  "url": "https://www.xataka.com/robotica-e-ia/claude-diseno-proteinas-15-objetivos-cuando-fabricaron-laboratorio-funcionaron-14",
+  "fecha": "2026-08-19T15:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Es oficial: ChatGPT con anuncios llegará a España el próximo lunes 24 de agosto",
+  "url": "https://www.xataka.com/robotica-e-ia/oficial-chatgpt-anuncios-llegara-a-espana-proximo-lunes-24-agosto",
+  "fecha": "2026-08-19T10:51:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Los hiperescaladores tienen miles de chips de IA sin sacar de la caja por una sencilla razón: los centros de datos no se levantan en un día",
+  "url": "https://www.xataka.com/empresas-y-economia/hiperescaladores-tienen-miles-chips-ia-sacar-sus-cajas-sencilla-razon-centros-datos-no-se-levantan-dia",
+  "fecha": "2026-08-19T10:30:21+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs/",
+  "fecha": "2026-08-19T16:21:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Thoughts About Scaling Law - Z.ai",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsf9eg/thoughts_about_scaling_law_zai/",
+  "fecha": "2026-08-19T07:18:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens/",
+  "fecha": "2026-08-19T11:09:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/",
+  "fecha": "2026-08-19T13:53:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "updated unsloth/Qwen3.8-27B-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsmdni/updated_unslothqwen3827bgguf_hugging_face/",
+  "fecha": "2026-08-19T13:25:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/",
+  "fecha": "2026-08-19T14:58:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "DFlash2 speeds Qwen 3.8 27B up to 4 times",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsuaoj/dflash2_speeds_qwen_38_27b_up_to_4_times/",
+  "fecha": "2026-08-19T18:10:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+  "fecha": "2026-08-20T02:45:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq3zg/nvfp4_on_volta_despite_being_built_for_blackwell/",
+  "fecha": "2026-08-19T15:44:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps/",
+  "fecha": "2026-08-19T20:28:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsinej/am_i_doing_something_wrong_qwen_38_27b_seems/",
+  "fecha": "2026-08-19T10:32:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsqfmj/antlingve_opensourced_6_base_model_checkpoints/",
+  "fecha": "2026-08-19T15:56:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb/",
+  "fecha": "2026-08-19T23:19:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "LFM 2.5 QAD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vss944/lfm_25_qad/",
+  "fecha": "2026-08-19T16:59:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Waiting for a 122B because of world knowledge?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vskdwf/waiting_for_a_122b_because_of_world_knowledge/",
+  "fecha": "2026-08-19T11:59:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Ornith 1.5: 9B dense and 35B/397B MoEs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsnllv/ornith_15_9b_dense_and_35b397b_moes/",
+  "fecha": "2026-08-19T14:12:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Qwen3.8-27B took a serious hit to *knowledge* vs 3.6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36/",
+  "fecha": "2026-08-20T03:02:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "ling 3.0 flash/tiny base models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq7gh/ling_30_flashtiny_base_models/",
+  "fecha": "2026-08-19T15:47:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Anyone NOT on full auto when coding with local LLMs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt0y1g/anyone_not_on_full_auto_when_coding_with_local/",
+  "fecha": "2026-08-19T22:14:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Finally found a really solid suno-like minimax music UI!!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsl0hv/finally_found_a_really_solid_sunolike_minimax/",
+  "fecha": "2026-08-19T12:27:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Ornith-1.5 9B might not be bad at all",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsvr7f/ornith15_9b_might_not_be_bad_at_all/",
+  "fecha": "2026-08-19T19:01:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "I might have found the perfect config parameters for qwen 3.8 27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vstyge/i_might_have_found_the_perfect_config_parameters/",
+  "fecha": "2026-08-19T17:59:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "[Open PR] llama : add --n-cpu-ffn option by John-194 · Pull Request #26622 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjz2n/open_pr_llama_add_ncpuffn_option_by_john194_pull/",
+  "fecha": "2026-08-19T11:40:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsh04u/251107885_intelligence_per_watt_measuring/",
+  "fecha": "2026-08-19T09:01:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "We quantized the new Ornith 1.5 9B and 35B-A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsx94f/we_quantized_the_new_ornith_15_9b_and_35ba3b/",
+  "fecha": "2026-08-19T19:56:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+  "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+  "fecha": "2026-08-19T23:16:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Quoting Jeremy Morrell",
+  "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+  "fecha": "2026-08-19T22:56:31+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "Conceptual integrity and counting lines of code",
+  "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+  "fecha": "2026-08-19T22:46:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-20"
+ },
+ {
+  "titulo": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "url": "https://huggingface.co/blog/LiquidAI/qad",
+  "fecha": "2026-08-19T13:48:49+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-20"
+ },
+ {
   "titulo": "China ha levantado el mayor edificio del mundo para centros de datos de IA: bajo su techo cabrán hasta un millón de aceleradores",
   "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-ha-levantado-mayor-edificio-mundo-para-centros-datos-ia-su-techo-cabran-millon-aceleradores",
   "fecha": "2026-08-18T19:00:22+00:00",
