@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
+  "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
+  "fecha": "2026-08-21T16:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Todos los modelos de IA hacen trampas si les das ocasión. Decirles “no hagas trampas” no basta",
+  "url": "https://www.xataka.com/robotica-e-ia/todos-modelos-ia-hacen-trampas-les-das-ocasion-decirles-no-hagas-trampas-no-basta",
+  "fecha": "2026-08-21T12:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Alexa+ costaba 20 dólares al mes. Amazon acaba de encontrar algo más valioso que la suscripción: meterla gratis en tu TV",
+  "url": "https://www.xataka.com/robotica-e-ia/alexa-costaba-20-dolares-al-mes-amazon-acaba-encontrar-algo-valioso-que-suscripcion-meterla-gratis-tu-tv",
+  "fecha": "2026-08-21T10:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-Vision-Exp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
+  "fecha": "2026-08-21T09:22:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen3.8-27B Q6 is a beast at agentic coding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
+  "fecha": "2026-08-21T18:41:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen 3.8 Low and Medium are goated",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vus4ko/qwen_38_low_and_medium_are_goated/",
+  "fecha": "2026-08-21T20:45:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "NVIDIA AVO got 100% on ARC-AGI-3. It completed all 183 levels across all 25 public environments, figuring out what to do with no instructions, explicit rules, or stated goals.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all/",
+  "fecha": "2026-08-21T14:01:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "DeepSeek Harness v0.1.1 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+  "fecha": "2026-08-21T13:51:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen3.8-27B different thinking levels",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vusds8/qwen3827b_different_thinking_levels/",
+  "fecha": "2026-08-21T20:55:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Fastest NVFP4 quant of Qwen3.8 27B out there",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub9od/fastest_nvfp4_quant_of_qwen38_27b_out_there/",
+  "fecha": "2026-08-21T09:19:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen 3.8 27b is strong even at Q3_xxs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs/",
+  "fecha": "2026-08-21T13:43:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "I tried to do agenic coding with Qwen 3.8 27B 3bit quant on a macbook air m2 24gb. It took 63 hours, but amazingly, the flight simulator worked.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuvx0t/i_tried_to_do_agenic_coding_with_qwen_38_27b_3bit/",
+  "fecha": "2026-08-21T23:19:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "New stealth model on OpenRouter: Ox Alph",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu8n8i/new_stealth_model_on_openrouter_ox_alph/",
+  "fecha": "2026-08-21T06:45:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Ornith-1.5-35B-A3B-NInfer - 250 tok/s, 5-8k prefill, 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090/",
+  "fecha": "2026-08-21T10:21:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
+  "fecha": "2026-08-21T16:05:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen3.8-27B at 262K context on a Strix Halo + RTX 3090 Ti: 9.5 -> 153 tok/s, and it beats a dual-3090 vLLM box on HumanEval",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx/",
+  "fecha": "2026-08-21T06:06:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i/",
+  "fecha": "2026-08-21T09:45:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "What’s the best local AI harness for coding + general use?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
+  "fecha": "2026-08-21T16:11:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Buying a V100/older NVIDIA GPU? Run this to check for older memory issues",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuf4pb/buying_a_v100older_nvidia_gpu_run_this_to_check/",
+  "fecha": "2026-08-21T12:34:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "16 GB VRAM purgatory discussion thread",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/",
+  "fecha": "2026-08-22T02:24:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "This is why I run locally.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv1qfs/this_is_why_i_run_locally/",
+  "fecha": "2026-08-22T03:52:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "model: add dots3-note by ngxson · Pull Request #27060 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunrrp/model_add_dots3note_by_ngxson_pull_request_27060/",
+  "fecha": "2026-08-21T18:03:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuwwww/qwen_38_27b_pi_agent_vs_opencode_another_smaple/",
+  "fecha": "2026-08-22T00:02:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Qwen 3.8 vs 3.6 27b low reasoning loops way less now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vulsom/qwen_38_vs_36_27b_low_reasoning_loops_way_less_now/",
+  "fecha": "2026-08-21T16:51:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio/",
+  "fecha": "2026-08-21T16:01:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Does PCIe matter much for inference?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub1ff/does_pcie_matter_much_for_inference/",
+  "fecha": "2026-08-21T09:06:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Strix Halo (8060S / gfx1151), Qwen-3.8-27B @ Q8 and Q6 UD v3, up to 256K ctx, llama.cpp, DFlash2, vision, real workloads quality and steady performances, optimized recipes, ...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuqwd8/strix_halo_8060s_gfx1151_qwen3827b_q8_and_q6_ud/",
+  "fecha": "2026-08-21T19:58:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Fastest qwen 3.8 27b for AMD gpu?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7m53/fastest_qwen_38_27b_for_amd_gpu/",
+  "fecha": "2026-08-21T05:47:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "llm 0.32.1",
+  "url": "https://simonwillison.net/2026/Aug/21/llm/",
+  "fecha": "2026-08-21T17:16:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "llm-openrouter 0.7",
+  "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+  "fecha": "2026-08-21T16:58:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Stop Making TUIs",
+  "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+  "fecha": "2026-08-21T16:07:32+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Quoting Matt Webb",
+  "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+  "fecha": "2026-08-21T15:06:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-22"
+ },
+ {
+  "titulo": "Measuring benchmark optimization in speech recognition",
+  "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "fecha": "2026-08-21T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-22"
+ },
+ {
   "titulo": "Silicon Valley ha copiado de China la jornada 996 para trabajar más. DeepSeek está logrando lo mismo haciendo justo lo contrario",
   "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-copiado-china-jornada-996-para-trabajar-deepseek-esta-logrando-haciendo-justo-contrario",
   "fecha": "2026-08-20T16:31:34+00:00",
