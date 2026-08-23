@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
+  "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
+  "fecha": "2026-08-22T15:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "LG y Nvidia llegan a un acuerdo para fabricar robots humanoides. Empiezan por unos con ruedas en una fábrica de lavadoras",
+  "url": "https://www.xataka.com/robotica-e-ia/lg-nvidia-llegan-a-acuerdo-para-fabricar-robots-humanoides-empiezan-unos-ruedas-fabrica-lavadoras",
+  "fecha": "2026-08-22T10:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "El Zhuque 3 se convierte en el primer cohete comercial chino que logra recuperar su primera etapa",
+  "url": "http://www.microsiervos.com/archivo/espacio/zhuque-3-primer-cohete-comercial-chino-recupera-primera-etapa.html",
+  "fecha": "2026-08-22T13:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "InfoSondas, una biblioteca para perderse por la exploración espacial que incluye una cuenta atrás para las Voyager",
+  "url": "http://www.microsiervos.com/archivo/espacio/infosondas-cuenta-atras-voyager-biblioteca-exploracion-espacial.html",
+  "fecha": "2026-08-22T11:26:29+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "llm-eng",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "La NASA da por fracasada la misión de rescate del observatorio espacial Swift",
+  "url": "http://www.microsiervos.com/archivo/espacio/fracasa-mision-rescate-observatorio-espacial-swift.html",
+  "fecha": "2026-08-22T11:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "La astronauta de la ESA Sophie Adenot se convierte en la primera mujer francesa en hacer un paseo espacial",
+  "url": "http://www.microsiervos.com/archivo/espacio/astronauta-sohpie-adenot-primera-mujer-francesa-paseo-espacial.html",
+  "fecha": "2026-08-22T09:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "This is a great sub, regardless of what complaints people have about it.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vveabg/this_is_a_great_sub_regardless_of_what_complaints/",
+  "fecha": "2026-08-22T14:44:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think/",
+  "fecha": "2026-08-22T09:52:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "New 100B Liquid AI model coming soon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
+  "fecha": "2026-08-22T20:24:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
+  "fecha": "2026-08-23T02:38:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Artificial Analysis \"Intelligence\": A meaningless benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/",
+  "fecha": "2026-08-22T09:43:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Llama.cpp version 0.2.0 is out!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out/",
+  "fecha": "2026-08-22T06:23:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "How to remove trendy speech from llms?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
+  "fecha": "2026-08-22T15:26:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
+  "fecha": "2026-08-23T01:30:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
+  "fecha": "2026-08-22T20:41:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "AntLing released a dspark draft model for Ling-3.0-flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv71pg/antling_released_a_dspark_draft_model_for/",
+  "fecha": "2026-08-22T08:46:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Freetokens project is impressive",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv6v00/freetokens_project_is_impressive/",
+  "fecha": "2026-08-22T08:34:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Tested in Coding: Q8_K_XL Qwen3.8 27B vs BF16 Qwen3.6 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16/",
+  "fecha": "2026-08-23T00:34:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvljbz/glm_and_i_created_a_llamacpp_fork_optimized_for/",
+  "fecha": "2026-08-22T19:29:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
+  "fecha": "2026-08-22T15:46:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
+  "fecha": "2026-08-22T19:16:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Has anyone actually made 64k feel like 300k+ with recursive local agents?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt3c4/has_anyone_actually_made_64k_feel_like_300k_with/",
+  "fecha": "2026-08-23T00:54:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Watching that wattage, in your terminal.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvkgs6/watching_that_wattage_in_your_terminal/",
+  "fecha": "2026-08-22T18:47:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Best harness for long autonomous tasks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsgsp/best_harness_for_long_autonomous_tasks/",
+  "fecha": "2026-08-23T00:24:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvjxg1/i_forked_ninfer_3090_and_converted_it_to_run_on/",
+  "fecha": "2026-08-22T18:27:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Your own GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvf7tk/your_own_gguf/",
+  "fecha": "2026-08-22T15:22:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Anyone else tried out KV cache blending?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv9oe2/anyone_else_tried_out_kv_cache_blending/",
+  "fecha": "2026-08-22T11:14:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Create tts voice from actual animal sound recording",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvnfy4/create_tts_voice_from_actual_animal_sound/",
+  "fecha": "2026-08-22T20:45:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vviy88/current_best_model_for_narrative_chat_prompt/",
+  "fecha": "2026-08-22T17:49:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "web_search tool in deepseek harness needs api key from deepseek and deepseek charges you as deepseek-v4-flash usage.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vva30g/web_search_tool_in_deepseek_harness_needs_api_key/",
+  "fecha": "2026-08-22T11:35:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Qwen 3.5 4B IQ2_XS: +16.67% Reasoning Performance From Tensor-Level Allocation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvc6pw/qwen_35_4b_iq2_xs_1667_reasoning_performance_from/",
+  "fecha": "2026-08-22T13:15:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "Quoting Linus Torvalds",
+  "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+  "fecha": "2026-08-22T21:04:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "llm 0.33",
+  "url": "https://simonwillison.net/2026/Aug/22/llm/",
+  "fecha": "2026-08-22T17:01:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
+  "titulo": "More than just code review",
+  "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+  "fecha": "2026-08-22T15:56:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-23"
+ },
+ {
   "titulo": "Hasta ahora había que entrenar a un robot para cada tarea nueva. La nueva idea es mucho más simple: que te mire unos segundos",
   "url": "https://www.xataka.com/robotica-e-ia/ahora-habia-que-entrenar-a-robot-para-cada-tarea-nueva-nueva-idea-mucho-simple-que-te-mire-unos-segundos",
   "fecha": "2026-08-21T16:31:33+00:00",
