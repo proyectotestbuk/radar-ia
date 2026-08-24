@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
+  "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
+  "fecha": "2026-08-23T10:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "El profesorado se las prometía muy felices con la marca de agua de Anthropic. En un día ya la habían hackeado (y no hacía falta)",
+  "url": "https://www.xataka.com/robotica-e-ia/profesorado-se-prometia-muy-felices-marca-agua-anthropic-dia-habian-hackeado-no-falta",
+  "fecha": "2026-08-23T08:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Los viajes de los libros y películas, convertidos en mapas interactivos",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/viajes-libros-peliculas-mapas-interactivos.html",
+  "fecha": "2026-08-23T12:48:49+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/",
+  "fecha": "2026-08-23T09:13:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/",
+  "fecha": "2026-08-23T17:32:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+  "fecha": "2026-08-23T08:25:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "DeepSeek Harness is Insanely Good",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+  "fecha": "2026-08-23T07:55:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
+  "fecha": "2026-08-23T08:02:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/",
+  "fecha": "2026-08-23T19:52:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen 3.8 27B for actual local programming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw8vuh/qwen_38_27b_for_actual_local_programming/",
+  "fecha": "2026-08-23T14:38:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Nvidia Poolside deal to compete with Chinese Open Weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
+  "fecha": "2026-08-23T07:31:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwdsx8/nvidia_customers_notified_about_airelated_price/",
+  "fecha": "2026-08-23T17:47:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "you can now use MTP in GLM-Air",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair/",
+  "fecha": "2026-08-23T20:08:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
+  "fecha": "2026-08-23T20:01:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "1/100 → 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
+  "fecha": "2026-08-23T15:04:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
+  "fecha": "2026-08-24T01:22:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen3.8-27B KLDs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds/",
+  "fecha": "2026-08-23T09:10:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen3.5-9B Triple-Loop",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6nba/qwen359b_tripleloop/",
+  "fecha": "2026-08-23T13:02:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Any upcoming models to be excited about?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
+  "fecha": "2026-08-23T22:07:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Best harness for Qwen 3.8 27b ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvzzlm/best_harness_for_qwen_38_27b/",
+  "fecha": "2026-08-23T06:56:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Qwen3.8-27B NVFP4 with vision + 451K token KV-cache on one RTX 5090 (power limited to 400W) at 120 tokens/s average",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on/",
+  "fecha": "2026-08-23T12:19:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
+  "fecha": "2026-08-24T03:19:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "GMKtec is going to launch new hardware with Ryzen AI Max+ PRO 495 at IFA Berlin 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw55zn/gmktec_is_going_to_launch_new_hardware_with_ryzen/",
+  "fecha": "2026-08-23T11:51:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "ConvRot Quant method now in llama-cpp-turboquant",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+  "fecha": "2026-08-24T01:16:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "What is your worst sandboxing fail?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw3rjp/what_is_your_worst_sandboxing_fail/",
+  "fecha": "2026-08-23T10:36:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "deepseek-v4-flash-0731 - surprisingly usable",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable/",
+  "fecha": "2026-08-24T04:20:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Ling Tiny, King of Speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9lp9/ling_tiny_king_of_speed/",
+  "fecha": "2026-08-23T15:06:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwbyzr/benchmark_results_what_is_the_best_and_fastest/",
+  "fecha": "2026-08-23T16:37:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+  "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+  "fecha": "2026-08-23T20:24:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-24"
+ },
+ {
+  "titulo": "Quoting Drew Breunig",
+  "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+  "fecha": "2026-08-23T19:55:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-24"
+ },
+ {
   "titulo": "El Tribunal Superior de Justicia de Canarias multa a un abogado por citar hasta 48 sentencias falsas. Se las había sugerido la IA",
   "url": "https://www.xataka.com/magnet/tribunal-superior-justicia-canarias-multa-a-abogado-citar-48-sentencias-falsas-se-habia-sugerido-ia",
   "fecha": "2026-08-22T15:31:33+00:00",
