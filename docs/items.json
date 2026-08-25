@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
+  "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
+  "fecha": "2026-08-24T16:31:34+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Cómo conseguir Gemini Plus gratis durante un año si eres estudiante: qué incluye, requisitos y cómo solicitarlo",
+  "url": "https://www.xataka.com/basics/como-conseguir-gemini-plus-gratis-durante-ano-eres-estudiante-que-incluye-requisitos-como-solicitarlo",
+  "fecha": "2026-08-24T15:28:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Los alumnos que usan IA hacen mejor los deberes. El problema llega en los exámenes",
+  "url": "https://www.xataka.com/robotica-e-ia/alumnos-que-usan-ia-hacen-mejor-deberes-problema-llega-examenes",
+  "fecha": "2026-08-24T14:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Ya hay gente nostálgica de la IA del pasado: el pequeño lamento por todo lo que DALL-E 2 nos dio y se perdió por el camino",
+  "url": "https://www.xataka.com/robotica-e-ia/hay-gente-nostalgica-ia-pasado-pequeno-lamento-todo-que-dall-e-2-nos-dio-se-perdio-camino",
+  "fecha": "2026-08-24T12:01:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "\"Me equivoqué en muchas cosas, pero sobre todo en una: la economía tiene mucha inercia\": Sam Altman reconoce que las empresas no han adoptado IA tanto como imaginaba",
+  "url": "https://www.xataka.com/robotica-e-ia/me-equivoque-muchas-cosas-todo-economia-tiene-mucha-inercia-sam-altman-reconoce-que-empresas-no-han-adoptado-ia-como-imaginaba",
+  "fecha": "2026-08-24T11:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Ox Alpha es el nuevo y misterioso modelo de IA del que todos hablan. Nadie sabe quién está detrás",
+  "url": "https://www.xataka.com/robotica-e-ia/ox-alpha-nuevo-misterioso-modelo-ia-que-todos-hablan-nadie-sabe-quien-esta-detras",
+  "fecha": "2026-08-24T09:31:33+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
+  "fecha": "2026-08-24T07:04:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Apple M5 Server",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/",
+  "fecha": "2026-08-24T15:47:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "I irradiated LLMs and found that they die really quickly",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx2fhz/i_irradiated_llms_and_found_that_they_die_really/",
+  "fecha": "2026-08-24T13:11:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4/",
+  "fecha": "2026-08-24T16:29:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Copilot you say?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say/",
+  "fecha": "2026-08-24T20:39:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Who would buy HuggingFace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface/",
+  "fecha": "2026-08-24T12:17:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "[Paper] ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language/",
+  "fecha": "2026-08-24T13:54:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium/",
+  "fecha": "2026-08-24T13:38:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "llama.cpp docs now have a new home ❤️",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx4969/llamacpp_docs_now_have_a_new_home/",
+  "fecha": "2026-08-24T14:22:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Please join r/LowEndLocalAI, a community for running local LLMs on low spec hardware",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxd6yb/please_join_rlowendlocalai_a_community_for/",
+  "fecha": "2026-08-24T19:41:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "JetBrains local AI (using Qwen3.6 27B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b/",
+  "fecha": "2026-08-24T20:06:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Do not blindly delete your older models, some are still precious",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx9xt0/do_not_blindly_delete_your_older_models_some_are/",
+  "fecha": "2026-08-24T17:48:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Bart: A vintage llm",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7aci/bart_a_vintage_llm/",
+  "fecha": "2026-08-24T16:14:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "This is what Qwen 3.8 27b is capable of",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx9302/this_is_what_qwen_38_27b_is_capable_of/",
+  "fecha": "2026-08-24T17:18:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "I just tried DeepSeek Harness and it escaped from its workspace folder",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from/",
+  "fecha": "2026-08-24T22:50:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Hugging Face for sales? 👀",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwv6j1/hugging_face_for_sales/",
+  "fecha": "2026-08-24T06:48:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "At a certain point, speed >> smartness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwyh1k/at_a_certain_point_speed_smartness/",
+  "fecha": "2026-08-24T10:02:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Qwen 3.8 27B Aider score",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwwc31/qwen_38_27b_aider_score/",
+  "fecha": "2026-08-24T07:56:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Best AI Voice Cloning in 2026: How to Clone Your Voice With AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwus60/best_ai_voice_cloning_in_2026_how_to_clone_your/",
+  "fecha": "2026-08-24T06:24:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Qwen-3.8-27B, Nemotron-3.5-Lightning-30B-A3B, Ornith-1.5-35B-A3B, Muse-Glimmer-30B oQ8e comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxg4vd/qwen3827b_nemotron35lightning30ba3b/",
+  "fecha": "2026-08-24T21:29:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "GPU Poor - Don't overlook Laguna XS 2.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx09za/gpu_poor_dont_overlook_laguna_xs_21/",
+  "fecha": "2026-08-24T11:35:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "What are all the things qwen 3.8 27B is NOT good for?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwumiu/what_are_all_the_things_qwen_38_27b_is_not_good/",
+  "fecha": "2026-08-24T06:16:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "MobileMoE - a facebook Collection",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxbpcc/mobilemoe_a_facebook_collection/",
+  "fecha": "2026-08-24T18:49:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "The journey of letting Qwen 3.6/3.8 autonomously coding a c compiler.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxg8be/the_journey_of_letting_qwen_3638_autonomously/",
+  "fecha": "2026-08-24T21:32:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "What's the best local model you've found for 8 GB of VRAM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx4k9g/whats_the_best_local_model_youve_found_for_8_gb/",
+  "fecha": "2026-08-24T14:34:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "llm-anthropic 0.27",
+  "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+  "fecha": "2026-08-24T16:27:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Your executable is a SQLite database",
+  "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+  "fecha": "2026-08-24T11:38:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-25"
+ },
+ {
+  "titulo": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "fecha": "2026-08-25T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-25"
+ },
+ {
   "titulo": "Los becarios en la banca ya vienen con la IA bajo el brazo: ahora le enseñan cómo funciona a sus jefes",
   "url": "https://www.xataka.com/empresas-y-economia/becarios-banca-vienen-ia-brazo-ahora-le-ensenan-como-funciona-a-sus-jefes",
   "fecha": "2026-08-23T10:31:33+00:00",
