@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "En las entrevistas de Anthropic preguntan qué harías si la acción se va a cero por no construir IA peligrosa. No hay contraoferta",
+  "url": "https://www.xataka.com/robotica-e-ia/entrevistas-anthropic-preguntan-que-harias-accion-se-va-a-cero-no-construir-ia-peligrosa-no-hay-contraoferta",
+  "fecha": "2026-08-25T15:31:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "\"Es como una droga\": los agentes de IA nunca duermen, así que los fundadores de las startups tampoco",
+  "url": "https://www.xataka.com/robotica-e-ia/como-droga-agentes-ia-nunca-duermen-asi-que-fundadores-startups-tampoco",
+  "fecha": "2026-08-25T15:01:03+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Un hombre quería tener el control total sobre una tableta Amazon, algo que parecía imposible. Hasta que apareció la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/mi-dispositivo-asi-como-tres-modelos-ia-liberaron-tablet-amazon-que-parecia-imposible-rootear",
+  "fecha": "2026-08-25T09:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
+  "fecha": "2026-08-25T13:11:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next tomorrow",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+  "fecha": "2026-08-25T11:13:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Apple releases M5 ultra at 1.2TB/s bandwith",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzgyt/apple_releases_m5_ultra_at_12tbs_bandwith/",
+  "fecha": "2026-08-25T13:12:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/",
+  "fecha": "2026-08-25T17:42:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next day 0 support from unsloth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+  "fecha": "2026-08-25T12:23:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "ibm-granite/granite-4.2-30b · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face/",
+  "fecha": "2026-08-25T15:10:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "me to the model I spent all weekend fine-tuning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy0knv/me_to_the_model_i_spent_all_weekend_finetuning/",
+  "fecha": "2026-08-25T13:55:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "It's here!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vycbqw/its_here/",
+  "fecha": "2026-08-25T20:57:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Intel Arc Pro B60 Dual 48G spotted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1g90/intel_arc_pro_b60_dual_48g_spotted/",
+  "fecha": "2026-08-25T14:29:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Mac Studio M5 Max Cost Analysis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy3lsp/mac_studio_m5_max_cost_analysis/",
+  "fecha": "2026-08-25T15:49:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy09xv/apple_unveils_a_more_powerful_mac_mini_featuring/",
+  "fecha": "2026-08-25T13:44:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Granite Speech 5.0 Turbo CTC: Extremely Fast and Accurate Transcription",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vya9ok/granite_speech_50_turbo_ctc_extremely_fast_and/",
+  "fecha": "2026-08-25T19:44:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "New: Llama.cpp adaptive speculation for faster inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
+  "fecha": "2026-08-25T11:35:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
+  "fecha": "2026-08-26T01:04:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and/",
+  "fecha": "2026-08-26T03:10:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxyiko/quantizationaware_healing_a_compressed_4bit_model/",
+  "fecha": "2026-08-25T12:31:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Glm 5.3 flash?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxvth7/glm_53_flash/",
+  "fecha": "2026-08-25T10:21:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "35B-A3B tool calling benchmark: Original Qwen vs. KAT Coder, Ornith and Tiel-Coder",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyaxip/35ba3b_tool_calling_benchmark_original_qwen_vs/",
+  "fecha": "2026-08-25T20:07:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1q1l/12_abliterated_gemma_4_12b_variants_one_base_165/",
+  "fecha": "2026-08-25T14:39:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "M5 Ultra 96GB vs M5 Max 128GB — is 2x bandwidth worth losing 32GB of RAM, with Qwen3.8-Flash-Next dropping tomorrow?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyfved/m5_ultra_96gb_vs_m5_max_128gb_is_2x_bandwidth/",
+  "fecha": "2026-08-25T23:16:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Qwen 3.8 27b has ThreeJs locked down.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyewwd/qwen_38_27b_has_threejs_locked_down/",
+  "fecha": "2026-08-25T22:37:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "How to run LLMs as regular guy with low resources?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyajjd/how_to_run_llms_as_regular_guy_with_low_resources/",
+  "fecha": "2026-08-25T19:54:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "tencent/WeMM-Embedding 9B/4B/2B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxv1iv/tencentwemmembedding_9b4b2b/",
+  "fecha": "2026-08-25T09:36:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "You think they could have tweaked the typeface a bit?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy7i5b/you_think_they_could_have_tweaked_the_typeface_a/",
+  "fecha": "2026-08-25T18:07:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Peak Portable Personal Datacenter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyephx/peak_portable_personal_datacenter/",
+  "fecha": "2026-08-25T22:28:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "EVE Online: The Move to Python 3 Begins!",
+  "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+  "fecha": "2026-08-25T22:59:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Granite 4.2 LLMs: How They're Built",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "fecha": "2026-08-25T15:14:14+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "fecha": "2026-08-25T11:39:24+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-26"
+ },
+ {
+  "titulo": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "url": "https://huggingface.co/blog/pwc-search",
+  "fecha": "2026-08-21T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-26"
+ },
+ {
   "titulo": "Las aerolíneas están a un paso de empezar a meter precios dinámicos utilizando la IA: el caso de Delta y lo que dice de nosotros",
   "url": "https://www.xataka.com/movilidad/aerolineas-estan-a-paso-empezar-a-meter-precios-dinamicos-utilizando-ia-caso-delta-que-dice-nosotros",
   "fecha": "2026-08-24T16:31:34+00:00",
