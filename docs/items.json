@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
+  "url": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
+  "fecha": "2026-08-27T14:45:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Wall Street está haciendo con la deuda de los centros de datos lo mismo que hizo con las hipotecas basura antes de 2008",
+  "url": "https://www.xataka.com/empresas-y-economia/wall-street-esta-buscando-a-quien-colocarle-riesgo-centros-datos-destinatario-tu-fondo-pensiones",
+  "fecha": "2026-08-27T14:15:05+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Nvidia lanza DLSS 4.5 Ray Reconstruction: así es la nueva IA que mejora la imagen de tus juegos sin tener que cambiar de gráfica",
+  "url": "https://www.xataka.com/videojuegos/nvidia-lanza-dlss-4-5-ray-reconstruction-asi-nueva-ia-que-mejora-imagen-tus-juegos-tener-que-cambiar-grafica",
+  "fecha": "2026-08-27T13:21:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Mark Zuckerberg quiso convertir a Meta en \"nativa de IA\" reduciendo un 60% el tamaño de sus equipos. Ha sido un completo desastre",
+  "url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-quiso-convertir-a-meta-nativa-ia-reduciendo-60-tamano-sus-equipos-ha-sido-completo-desastre",
+  "fecha": "2026-08-27T13:15:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "OpenAI ya tiene listo su chip de inferencia. Se llama Jalapeño y ha conseguido algo inesperado: superar a Nvidia",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-su-chip-inferencia-se-llama-jalapeno-ha-conseguido-algo-inesperado-superar-a-nvidia",
+  "fecha": "2026-08-27T10:45:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Destapan una trama de contrabando de chips de NVIDIA a China: la dirigía un alto cargo de la propia NVIDIA",
+  "url": "https://www.xataka.com/robotica-e-ia/destapan-trama-contrabando-chips-nvidia-a-china-dirigia-alto-cargo-propia-nvidia",
+  "fecha": "2026-08-27T08:01:05+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "NVIDIA va a comprar Hugging Face por 12.900 millones. Ahí es donde entrenan quienes quieren dejar de depender de sus chips",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-va-a-comprar-hugging-face-12-900-millones-ahi-donde-entrenan-quienes-quieren-dejar-depender-sus-chips",
+  "fecha": "2026-08-27T08:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Los centros de datos de EEUU ya gastan el triple de agua que hace casi una década. Y la cifra es de antes del boom de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/centros-datos-eeuu-gastan-triple-agua-que-hace-casi-decada-cifra-antes-boom-ia",
+  "fecha": "2026-08-27T06:31:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Taiwán acusa a ocho personas por el presunto desvío de servidores con tecnología NVIDIA hacia China",
+  "url": "https://www.xataka.com/componentes/nvidia-fabrica-sus-chips-eeuu-taiwan-problema-que-algunos-servidores-ia-acabaron-donde-no-debian",
+  "fecha": "2026-08-26T19:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "El NAS es el pasado: el futuro que asoma es instalar tu propio \"centro de datos\" en casa para sostener tu consumo de IA",
+  "url": "https://www.xataka.com/robotica-e-ia/apple-esta-perdiendo-guerra-modelos-ia-paradojicamente-puede-estar-ganando-ejecutarlos-casa",
+  "fecha": "2026-08-26T14:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "NVIDIA buying HF isn't a good thing for open source",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source/",
+  "fecha": "2026-08-27T07:07:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+  "fecha": "2026-08-27T01:19:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Can we reconsider the megathreads?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
+  "fecha": "2026-08-26T17:40:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next better then DeepSeek V4 Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzowwo/qwen38flashnext_better_then_deepseek_v4_pro/",
+  "fecha": "2026-08-27T09:17:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Are models with N-Gram tables going to completely change the AI race?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3cvg/are_models_with_ngram_tables_going_to_completely/",
+  "fecha": "2026-08-26T17:17:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "GLM-5.3 weights will be released tomorrow",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow/",
+  "fecha": "2026-08-27T04:12:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "N-gram vs Experts explained",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtqf/ngram_vs_experts_explained/",
+  "fecha": "2026-08-27T02:00:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3ieu/benchmarking_qwen38_27b_quantizations_4bit_holds/",
+  "fecha": "2026-08-26T17:22:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "friendly reminder you can legally torrent ai models.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vztoyi/friendly_reminder_you_can_legally_torrent_ai/",
+  "fecha": "2026-08-27T13:15:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Lemonade end-of-summer project update, now serving 15 engines!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz7095/lemonade_endofsummer_project_update_now_serving/",
+  "fecha": "2026-08-26T19:25:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next: Time to Update Those Benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzspz6/qwen38flashnext_time_to_update_those_benchmarks/",
+  "fecha": "2026-08-27T12:34:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "and then they came for the used server RAM.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzvsx0/and_then_they_came_for_the_used_server_ram/",
+  "fecha": "2026-08-27T14:38:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "llama : add --n-cpu-ffn option by John-194 · Pull Request #26622 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzp4c9/llama_add_ncpuffn_option_by_john194_pull_request/",
+  "fecha": "2026-08-27T09:29:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "How to Fine-Tune an LLM: An End-to-End Guide",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9dvn/how_to_finetune_an_llm_an_endtoend_guide/",
+  "fecha": "2026-08-26T20:50:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "What are the minimum specs required to run Qwen3.8-Flash-Next?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzpt61/what_are_the_minimum_specs_required_to_run/",
+  "fecha": "2026-08-27T10:09:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Compared Qwen 3.8 27B community quants on RTX 6000 vs Claude Opus 4.6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz779w/compared_qwen_38_27b_community_quants_on_rtx_6000/",
+  "fecha": "2026-08-26T19:32:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Local LLM harness for reverse engineering software?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzg84e/local_llm_harness_for_reverse_engineering_software/",
+  "fecha": "2026-08-27T01:33:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Self-hosting LLMs on budget hardware: general principles, hardware, benchmarks and frontends",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz41ef/selfhosting_llms_on_budget_hardware_general/",
+  "fecha": "2026-08-26T17:41:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "little tool for offline wikipedia RAG",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3a1a/little_tool_for_offline_wikipedia_rag/",
+  "fecha": "2026-08-26T17:14:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Request: unsloth Please re-quantize Qwen3.6 35 A3B and 27B using UD 3.0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzwj73/request_unsloth_please_requantize_qwen36_35_a3b/",
+  "fecha": "2026-08-27T15:04:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "GLM-5.3 Flash Unsloth GGUF now available",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzwa5n/glm53_flash_unsloth_gguf_now_available/",
+  "fecha": "2026-08-27T14:55:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Anyone else doing eGPUs (OCuLink)?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz531z/anyone_else_doing_egpus_oculink/",
+  "fecha": "2026-08-26T18:18:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Qwen3.8 27B C8 at 972 TG / 5,680 PP on 4x MI100 rig ($6.5k) using my new INT8 vLLM fork",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9hqa/qwen38_27b_c8_at_972_tg_5680_pp_on_4x_mi100_rig/",
+  "fecha": "2026-08-26T20:54:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Dflash 2 speculative decoding by SamuelOliveirads · Pull Request #2345 · ikawrakow/ik_llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzn10y/dflash_2_speculative_decoding_by_samueloliveirads/",
+  "fecha": "2026-08-27T07:23:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Qwen 27b ud IQ3XXS potential- 3D Zen Room demo - pi harness - build deploy and share link on discord",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9say/qwen_27b_ud_iq3xxs_potential_3d_zen_room_demo_pi/",
+  "fecha": "2026-08-26T21:05:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next",
+  "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+  "fecha": "2026-08-26T23:52:58+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Quoting Paul Dix",
+  "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+  "fecha": "2026-08-26T08:07:55+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-27"
+ },
+ {
+  "titulo": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "fecha": "2026-08-26T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-27"
+ },
+ {
   "titulo": "En las entrevistas de Anthropic preguntan qué harías si la acción se va a cero por no construir IA peligrosa. No hay contraoferta",
   "url": "https://www.xataka.com/robotica-e-ia/entrevistas-anthropic-preguntan-que-harias-accion-se-va-a-cero-no-construir-ia-peligrosa-no-hay-contraoferta",
   "fecha": "2026-08-25T15:31:04+00:00",
