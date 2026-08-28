@@ -21,6 +21,11 @@
    "idioma": "es"
   },
   {
+   "id": "ia-en-espa-ol",
+   "nombre": "IA en Español",
+   "idioma": "es"
+  },
+  {
    "id": "r-localllama",
    "nombre": "r/LocalLLaMA",
    "idioma": "en"
@@ -34,6 +39,36 @@
    "id": "hugging-face-blog",
    "nombre": "Hugging Face — Blog",
    "idioma": "en"
+  },
+  {
+   "id": "import-ai-jack-clark",
+   "nombre": "Import AI (Jack Clark)",
+   "idioma": "en"
+  },
+  {
+   "id": "latent-space",
+   "nombre": "Latent Space",
+   "idioma": "en"
+  },
+  {
+   "id": "ahead-of-ai-raschka",
+   "nombre": "Ahead of AI (Raschka)",
+   "idioma": "en"
+  },
+  {
+   "id": "one-useful-thing-mollick",
+   "nombre": "One Useful Thing (Mollick)",
+   "idioma": "en"
+  },
+  {
+   "id": "chinai-jeffrey-ding",
+   "nombre": "ChinAI (Jeffrey Ding)",
+   "idioma": "en"
+  },
+  {
+   "id": "the-gradient-stanford",
+   "nombre": "The Gradient (Stanford)",
+   "idioma": "en"
   }
  ],
  "iconos": {
@@ -41,9 +76,16 @@
   "xataka-ia": "xataka-ia.png",
   "genbeta": "",
   "microsiervos": "microsiervos.png",
+  "ia-en-espa-ol": "",
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
-  "hugging-face-blog": "hugging-face-blog.png"
+  "hugging-face-blog": "hugging-face-blog.png",
+  "import-ai-jack-clark": "",
+  "latent-space": "latent-space.png",
+  "ahead-of-ai-raschka": "",
+  "one-useful-thing-mollick": "",
+  "chinai-jeffrey-ding": "",
+  "the-gradient-stanford": "the-gradient-stanford.png"
  },
  "cats": {
   "local": {
@@ -81,5 +123,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "27/08/2026 a las 17:59"
+ "sello": "28/08/2026 a las 18:59"
 }

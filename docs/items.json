@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-google-piden-protegernos-riesgos-ia-como-poner-al-lobo-a-cuidar-gallinero",
+  "fecha": "2026-08-28T15:31:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "700 agentes de OpenAI participaron en el ataque a Hugging Face. Lo inquietante es cómo llegaron a organizarse",
+  "url": "https://www.xataka.com/robotica-e-ia/700-agentes-openai-participaron-ataque-a-hugging-face-inquietante-como-llegaron-a-organizarse",
+  "fecha": "2026-08-28T09:45:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Bill Gates: \"Creo que deberíamos poner impuestos a la IA, si contratas a alguien ahora mismo pagas impuestos sobre su nómina\"",
+  "url": "https://www.xataka.com/robotica-e-ia/bill-gates-exige-que-ia-pague-impuestos-para-blindar-empleos-creo-que-deberiamos-gravar-tokens-ia-a-robots",
+  "fecha": "2026-08-27T16:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "5090 now officially cost 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w05kbt/5090_now_officially_cost_5090/",
+  "fecha": "2026-08-27T20:30:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "With HuggingFace, Nvidia is also acquiring llama.cpp and the team behind it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w01y1f/with_huggingface_nvidia_is_also_acquiring/",
+  "fecha": "2026-08-27T18:20:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "No, Engrams won't let you run 1T models locally. It does something even better.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0198r/no_engrams_wont_let_you_run_1t_models_locally_it/",
+  "fecha": "2026-08-27T17:56:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "claude mods didn't like that, somehow 🤷‍♀️",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0lz7e/claude_mods_didnt_like_that_somehow/",
+  "fecha": "2026-08-28T09:43:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "The Unsloth appreciation post. BIG thanks to Daniel and Michael! Thanks from the community to you guys for so much!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w05clp/the_unsloth_appreciation_post_big_thanks_to/",
+  "fecha": "2026-08-27T20:22:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Tencent/Hy4-preview 770B-A49B weight dropped",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0igxk/tencenthy4preview_770ba49b_weight_dropped/",
+  "fecha": "2026-08-28T06:14:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "llama.cpp support for Qwen3.8-Flash-Next has been merged",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w03zdo/llamacpp_support_for_qwen38flashnext_has_been/",
+  "fecha": "2026-08-27T19:34:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "zai-org/GLM-5.3 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0tgzl/zaiorgglm53_hugging_face/",
+  "fecha": "2026-08-28T15:19:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Micron: HBM Requires Three Times More Wafer Area Than DDR5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0mmk7/micron_hbm_requires_three_times_more_wafer_area/",
+  "fecha": "2026-08-28T10:19:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Bill Gates is looking to meet with Chinese President Xi Jinping later this year, eager to propose global efforts to mitigate the growing risks posed by artificial intelligence. He believes China might agree to restricting potentially dangerous AI model releases if US took initiative on that first",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w03gp8/bill_gates_is_looking_to_meet_with_chinese/",
+  "fecha": "2026-08-27T19:15:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "open source caught up because it's open",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0kstl/open_source_caught_up_because_its_open/",
+  "fecha": "2026-08-28T08:33:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "I implemented a modern LLM in 700 lines of C",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0ao39/i_implemented_a_modern_llm_in_700_lines_of_c/",
+  "fecha": "2026-08-27T23:53:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "I am Concerned if Nvidia Acquires Llama.CPP, Dev Team and HF, Anybody else?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0dl38/i_am_concerned_if_nvidia_acquires_llamacpp_dev/",
+  "fecha": "2026-08-28T02:04:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Over 200k context on 16GB VRAM with Qwen 3.8 27B UD-IQ3_XXS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w04a5j/over_200k_context_on_16gb_vram_with_qwen_38_27b/",
+  "fecha": "2026-08-27T19:45:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Ninfer and a 5090 with 3.8 27B is making me cry tears of joy it's so good.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0fxos/ninfer_and_a_5090_with_38_27b_is_making_me_cry/",
+  "fecha": "2026-08-28T03:57:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "yall are sleeping on qwen 3.8 27b q2 + q2 dflash + q5 kv",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0bnv2/yall_are_sleeping_on_qwen_38_27b_q2_q2_dflash_q5/",
+  "fecha": "2026-08-28T00:36:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Do you think a few Qwen3.8-27B models working together could score as well as Fable-5 on LiveCodeBench Hard?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0dgiv/do_you_think_a_few_qwen3827b_models_working/",
+  "fecha": "2026-08-28T01:58:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Support for DFlash2 in llama.cpp has been merged! - spec : add DFlash2 support (local convolution + candidate selector) by SubSir · Pull Request #27342 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w00ngm/support_for_dflash2_in_llamacpp_has_been_merged/",
+  "fecha": "2026-08-27T17:35:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "I reverse-engineered an NPU vendor's engine format (int8 weights stored as two nibble planes) to run GGUFs with no model conversion — now 1.5× faster than the vendor's own runtime",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0hrrn/i_reverseengineered_an_npu_vendors_engine_format/",
+  "fecha": "2026-08-28T05:33:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[audio.cpp] Release 0.7: 62 audio model families (85+ variants), Arena UI for model comparison, MiniMax Music 3, FireRed TTS3/Audio, ControlFoley, Personaplex, and more",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w013g8/audiocpp_release_07_62_audio_model_families_85/",
+  "fecha": "2026-08-27T17:50:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next (UD-IQ4_XS) on 2x RTX 3060 + 7800X3D, from initial 36 tps prefill to 400 tps and other benchmarks (-sm tensor trap) + VRAM/RAM usage",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0na2z/qwen38flashnext_udiq4_xs_on_2x_rtx_3060_7800x3d/",
+  "fecha": "2026-08-28T10:55:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Infinite procedurally generated walking simulator coded entirely by Ornith-1.5-35B-Q4_K_M on an 8 GB RTX 4060",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0i01c/infinite_procedurally_generated_walking_simulator/",
+  "fecha": "2026-08-28T05:47:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Agent Arena Code - Very good result (preliminary) for GLM and Qwen!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w07ezc/agent_arena_code_very_good_result_preliminary_for/",
+  "fecha": "2026-08-27T21:40:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Qwen3.8-27b q8 KV cache does seem to actually hurt model performance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0pscn/qwen3827b_q8_kv_cache_does_seem_to_actually_hurt/",
+  "fecha": "2026-08-28T12:54:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "ds4 branch with GLM 5.3 Flash support",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u82b/ds4_branch_with_glm_53_flash_support/",
+  "fecha": "2026-08-28T15:46:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Breaking Claude Code Opus 5 Auto Mode",
+  "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+  "fecha": "2026-08-27T22:50:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[AINews] OpenAI to reach AGI bar by end-2026",
+  "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+  "fecha": "2026-08-28T07:12:10+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+  "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+  "fecha": "2026-08-27T01:50:54+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+  "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+  "fecha": "2026-08-27T01:31:22+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+  "url": "https://www.latent.space/p/lovable-future-of-saas",
+  "fecha": "2026-08-26T16:16:25+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+  "url": "https://www.latent.space/p/anima",
+  "fecha": "2026-08-26T15:15:39+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[AINews] Andrew Ng gets into AI Engineering",
+  "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+  "fecha": "2026-08-25T02:50:57+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+  "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+  "fecha": "2026-08-22T07:36:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "The Evolution of the Agent Harness",
+  "url": "https://www.latent.space/p/attention-interface",
+  "fecha": "2026-08-22T07:30:52+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-28"
+ },
+ {
+  "titulo": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+  "url": "https://www.latent.space/p/simile",
+  "fecha": "2026-08-21T23:37:38+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-28"
+ },
+ {
   "titulo": "EEUU tiene los modelos más caros y capaces del mundo. El problema es que China los tiene casi igual de buenos y mucho más baratos",
   "url": "https://www.xataka.com/robotica-e-ia/eeuu-tiene-modelos-caros-capaces-mundo-problema-que-china-tiene-casi-igual-buenos-mucho-baratos",
   "fecha": "2026-08-27T14:45:04+00:00",
