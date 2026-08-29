@@ -1,5 +1,275 @@
 [
  {
+  "titulo": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
+  "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
+  "fecha": "2026-08-28T19:01:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "La IA prometía reducir la jornada laboral de los empleados. Por el momento ya ha conseguido tres horas libres a la semana",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-prometia-reducir-jornada-laboral-empleados-momento-ha-conseguido-tres-horas-libres-a-semana",
+  "fecha": "2026-08-28T18:46:59+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0yfmn/rocm_100_a_decade_of_open_compute_built_for_the/",
+  "fecha": "2026-08-28T18:20:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next ngram look up table offloaded to SSD and streamed in SGLang",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/",
+  "fecha": "2026-08-29T00:56:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/",
+  "fecha": "2026-08-29T07:17:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Saved my fiances phone with qwen 3.8 27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b/",
+  "fecha": "2026-08-29T04:12:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
+  "fecha": "2026-08-28T22:00:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "I always wonder how much more speed and/or context they'd be getting..",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1gec7/i_always_wonder_how_much_more_speed_andor_context/",
+  "fecha": "2026-08-29T07:57:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Qwen3.8-Flash on RTX3090 + 64GB RAM (but you only need 12GB VRAM)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u24k/qwen38flash_on_rtx3090_64gb_ram_but_you_only_need/",
+  "fecha": "2026-08-28T15:40:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Breeze-TTS-2 initial impressions: genuinely 'frontier' TTS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier/",
+  "fecha": "2026-08-28T19:18:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to/",
+  "fecha": "2026-08-28T21:46:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake/",
+  "fecha": "2026-08-28T19:03:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "I audited 443 GGUF quants across 25 repos. 64 of them can't be the quant their filename claims.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11ob5/i_audited_443_gguf_quants_across_25_repos_64_of/",
+  "fecha": "2026-08-28T20:20:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Tenstorrent Quietbox 2 Arrived!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived/",
+  "fecha": "2026-08-29T01:16:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "AtomicChat/Qwen3.8-Flash-Next-GGUF is Really Good",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/",
+  "fecha": "2026-08-29T00:41:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "GLM-5.3 on HF Viewer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11epf/glm53_on_hf_viewer/",
+  "fecha": "2026-08-28T20:10:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "how to setup llama.cpp and blender to make lovely 3d stuff together",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0r66e/how_to_setup_llamacpp_and_blender_to_make_lovely/",
+  "fecha": "2026-08-28T13:51:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Is it worth running Qwen 3.8 Flash Next on 4x3090 vs 27B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090/",
+  "fecha": "2026-08-28T23:38:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Different Qwen thinking levels",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1gm8y/different_qwen_thinking_levels/",
+  "fecha": "2026-08-29T08:09:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Local agentic coding Benchmark : Qwen3.8-Flash-Next NVFP4 vs 27B (and the others...)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0x1r2/local_agentic_coding_benchmark_qwen38flashnext/",
+  "fecha": "2026-08-28T17:30:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "50% tg increase with offloading \"hot\" experts to VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/",
+  "fecha": "2026-08-29T01:42:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "use llms to auto annotation your dataset locally",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally/",
+  "fecha": "2026-08-29T01:23:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "After Meta avocado we get watermelon, due in November",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0p5ho/after_meta_avocado_we_get_watermelon_due_in/",
+  "fecha": "2026-08-28T12:25:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Heat!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0panh/heat/",
+  "fecha": "2026-08-28T12:31:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "Just a rumour of a bug is enough to find a security exploit these days",
+  "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+  "fecha": "2026-08-28T22:12:02+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "fecha": "2026-08-28T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-29"
+ },
+ {
+  "titulo": "[AINews] OpenAI shuts off Cursor",
+  "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+  "fecha": "2026-08-29T05:11:52+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-29"
+ },
+ {
   "titulo": "OpenAI, Anthropic y Google piden protegernos de los riesgos de la IA. Es como poner al lobo a cuidar del gallinero",
   "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-google-piden-protegernos-riesgos-ia-como-poner-al-lobo-a-cuidar-gallinero",
   "fecha": "2026-08-28T15:31:04+00:00",
