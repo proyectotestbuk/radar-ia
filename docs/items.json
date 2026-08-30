@@ -1,5 +1,285 @@
 [
  {
+  "titulo": "Donde antes había vacas y patatas, hoy hay centros de datos: esta ciudad china es la \"gasolina\" de la IA",
+  "url": "https://www.xataka.com/servicios/donde-antes-habia-vacas-patatas-hoy-hay-centros-datos-ciudad-china-que-gasolina-ia",
+  "fecha": "2026-08-30T10:01:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Nos hemos pasado tres años preocupados por si la IA alucina. Ahora el problema es que haga cosas",
+  "url": "https://www.xataka.com/robotica-e-ia/nos-hemos-pasado-tres-anos-preocupados-ia-alucina-ahora-problema-que-haga-cosas",
+  "fecha": "2026-08-30T09:01:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
+  "fecha": "2026-08-29T14:31:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/",
+  "fecha": "2026-08-29T12:50:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "It's official! 192GB Framework",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework/",
+  "fecha": "2026-08-30T05:39:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "How important is it for Chinese LLMs to reach the Opus 4.8 level?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1l3a2/how_important_is_it_for_chinese_llms_to_reach_the/",
+  "fecha": "2026-08-29T12:19:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Someone tested various Models on the Political Compass test...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o1ji/someone_tested_various_models_on_the_political/",
+  "fecha": "2026-08-29T14:30:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Exo labs claiming 4.8 tb/s memory bandwidth through m5u Mac Studio clustering",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nc1c/exo_labs_claiming_48_tbs_memory_bandwidth_through/",
+  "fecha": "2026-08-29T14:00:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "If your t/s is low enough, you can see speculative decoding with your own eyes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative/",
+  "fecha": "2026-08-29T10:51:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only & Hybrid inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/",
+  "fecha": "2026-08-29T18:58:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+  "fecha": "2026-08-30T09:28:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53/",
+  "fecha": "2026-08-30T05:06:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "An official 1-bit quant for Hy4??? 👀",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1kt83/an_official_1bit_quant_for_hy4/",
+  "fecha": "2026-08-29T12:05:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "67-84 t/s DeepSeek flash v4 off 2x GX10s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s/",
+  "fecha": "2026-08-29T18:59:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1tfkc/this_financemodel_benchmark_card_is_more_useful/",
+  "fecha": "2026-08-29T18:04:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Were designing a tiny autonomous research agent",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1kg1v/were_designing_a_tiny_autonomous_research_agent/",
+  "fecha": "2026-08-29T11:47:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Ran Qwen3.8-Flash-Next (79 GB, 2-bit) at 350K ctx for 3.5 hours on a 128 GB M5 Max — speed vs context depth, 100 turns, one graph",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w26y0w/ran_qwen38flashnext_79_gb_2bit_at_350k_ctx_for_35/",
+  "fecha": "2026-08-30T03:56:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next optimised for Macs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w296bx/qwen38flashnext_optimised_for_macs/",
+  "fecha": "2026-08-30T05:54:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs/",
+  "fecha": "2026-08-29T23:18:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Any current Voice2Voice AI model that runs locally that’s good?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vw3c/any_current_voice2voice_ai_model_that_runs/",
+  "fecha": "2026-08-29T19:39:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Did anyone else notice the Ornith 1.5 35B GGUFs got a \"silent\" update?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nhpp/did_anyone_else_notice_the_ornith_15_35b_ggufs/",
+  "fecha": "2026-08-29T14:07:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Qwen3.8 Flash Quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1ou8x/qwen38_flash_quants/",
+  "fecha": "2026-08-29T15:02:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "(NInfer Fork) I wanted to have a 1M context Qwen-3.8 27B, tp2, dual 5090s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1txyk/ninfer_fork_i_wanted_to_have_a_1m_context_qwen38/",
+  "fecha": "2026-08-29T18:24:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Is it possible to run it with a combined memory setup: 16 GB VRAM + 64 GB RAM + SSD for offloading n-grams?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lu77/is_it_possible_to_run_it_with_a_combined_memory/",
+  "fecha": "2026-08-29T12:55:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Koboldcpp v1.120 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released/",
+  "fecha": "2026-08-30T08:42:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next NVFP4 Day-3 support for 4xV100",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w29ukk/qwen38flashnext_nvfp4_day3_support_for_4xv100/",
+  "fecha": "2026-08-30T06:31:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "What would you do with $4,000?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2479z/what_would_you_do_with_4000/",
+  "fecha": "2026-08-30T01:38:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
+  "titulo": "Introducing Hy4 Preview",
+  "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+  "fecha": "2026-08-29T23:53:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-30"
+ },
+ {
   "titulo": "De enorme fábrica de aluminio a centro de datos para IA: Kentucky va a convertirse en el próximo gran nodo de datos para Anthropic",
   "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/enorme-fabrica-aluminio-a-centro-datos-para-ia-kentucky-va-a-convertirse-proximo-gran-nodo-datos-para-anthropic",
   "fecha": "2026-08-28T19:01:04+00:00",

@@ -75,7 +75,7 @@
   "la-hora-maker-youtube": "la-hora-maker-youtube.png",
   "xataka-ia": "xataka-ia.png",
   "genbeta": "",
-  "microsiervos": "microsiervos.png",
+  "microsiervos": "",
   "ia-en-espa-ol": "",
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
@@ -123,5 +123,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "29/08/2026 a las 13:24"
+ "sello": "30/08/2026 a las 12:11"
 }
