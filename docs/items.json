@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "Tres “civilizaciones” de agentes de OpenAI aparecieron una detrás de otra. El problema empieza por llamarlas \"civilizaciones\"",
+  "url": "https://www.xataka.com/robotica-e-ia/tres-civilizaciones-agentes-openai-aparecieron-detras-otra-problema-empieza-llamarlas-civilizaciones",
+  "fecha": "2026-08-31T10:31:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Un agricultor confió en los consejos de la IA para cuidar su cosecha. El resultado: 10 hectáreas arrasadas en una noche",
+  "url": "https://www.xataka.com/magnet/agricultor-confio-consejos-ia-para-cuidar-su-cosecha-resultado-10-hectareas-arrasadas-noche",
+  "fecha": "2026-08-30T17:01:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Un Falcon Heavy de SpaceX lanza el Telescopio Espacial Nancy Grace Roman de la NASA",
+  "url": "http://www.microsiervos.com/archivo/espacio/falcon-heavy-lanza-telescopio-espacial-nancy-grace-roman.html",
+  "fecha": "2026-08-30T13:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "El Ariane 6 hace su primer lanzamiento a órbita geoestacionaria con el tercer satélite meteorológico Meteosat de tercera generación",
+  "url": "http://www.microsiervos.com/archivo/espacio/ariane-6-primer-lanzamiento-geoestacionaria-tercer-meteosat-tercera-generacion.html",
+  "fecha": "2026-08-29T17:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Me these days",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2fmmq/me_these_days/",
+  "fecha": "2026-08-30T11:57:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Whatever happened to OpenClaw and its derivatives?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1hx/whatever_happened_to_openclaw_and_its_derivatives/",
+  "fecha": "2026-08-30T18:56:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Could this affect M5 Ultra price/availability?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w35sc1/could_this_affect_m5_ultra_priceavailability/",
+  "fecha": "2026-08-31T06:43:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "NVIDIA® DGX Station™ Delivering Data-Center-Class Performance from the Desktop",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1ug/nvidia_dgx_station_delivering_datacenterclass/",
+  "fecha": "2026-08-30T18:57:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w39i6r/deepseekaideepseekv4flashvisionexp_hugging_face/",
+  "fecha": "2026-08-31T10:13:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "I collected every single LLM coding benchmark, and computed their Intelligence Density",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2v97w/i_collected_every_single_llm_coding_benchmark_and/",
+  "fecha": "2026-08-30T22:20:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI models that might be a big deal? (Excluding maybe N-gram, since everyone is already well aware of that one)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural/",
+  "fecha": "2026-08-30T19:36:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Unpopular opinion Qwen 3.8 is hard to understand",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand/",
+  "fecha": "2026-08-30T17:15:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen 3.8 27B - Fantastic German capabilities",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2ujys/qwen_38_27b_fantastic_german_capabilities/",
+  "fecha": "2026-08-30T21:51:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Uncensored Multi-Model Releases, LongCat-Flash-Lite-Sparse with MTPs and LSAs, Qwen3.8-27B with MTPs, Qwen3.5-122B-A10B with MTPs, Qwen3-Coder-Next and Laguna-S2.1 with Vision, All Available in GGUF Format! Bonus: Links to my llama.cpp Fork for LongCat-Flash-Lite Support and J-Wash Enhanced Fork!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases/",
+  "fecha": "2026-08-30T14:16:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next locally on simple mobile phone at 3.5 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone/",
+  "fecha": "2026-08-30T17:39:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
+  "fecha": "2026-08-31T01:09:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Don't Sleep on EXL3 Quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2i963/dont_sleep_on_exl3_quants/",
+  "fecha": "2026-08-30T13:56:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Here my pretty good qwen3.8 27B setup, hope it helps",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2pvsd/here_my_pretty_good_qwen38_27b_setup_hope_it_helps/",
+  "fecha": "2026-08-30T18:51:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Which LLM is actually best at pentesting? benchmark to find out",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2wdeq/which_llm_is_actually_best_at_pentesting/",
+  "fecha": "2026-08-30T23:08:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next turns 4xR9700 into a local AI powerhouse! 120 t/s TG and 12k t/s PP single request with optimized vLLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2my8q/qwen38flashnext_turns_4xr9700_into_a_local_ai/",
+  "fecha": "2026-08-30T17:00:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Will apple still release devices with mobile HbM in 2027 ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qb2y/will_apple_still_release_devices_with_mobile_hbm/",
+  "fecha": "2026-08-30T19:06:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Oh so that's where my PCIe lanes went...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2j0pc/oh_so_thats_where_my_pcie_lanes_went/",
+  "fecha": "2026-08-30T14:27:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next NVFP4 2xDGX Spark config: 50t/s decode, 2,900t/s prefill",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2inlp/qwen38flashnext_nvfp4_2xdgx_spark_config_50ts/",
+  "fecha": "2026-08-30T14:12:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "1x32GB V100 vs 2x16GB V100 vs 5060ti 16GB for QWEN 3.8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2pwym/1x32gb_v100_vs_2x16gb_v100_vs_5060ti_16gb_for/",
+  "fecha": "2026-08-30T18:52:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "snkii/Sori-1B: Audio-Grounded LM Trained From Scratch (No Text-Only Pretraining)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w317fn/snkiisori1b_audiogrounded_lm_trained_from_scratch/",
+  "fecha": "2026-08-31T02:48:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "GLM 5.3, GLM 5.3 Flash or 3.8 Qwen Flash for Replacing Kimi k3 IQ2_XXS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w33g9t/glm_53_glm_53_flash_or_38_qwen_flash_for/",
+  "fecha": "2026-08-31T04:38:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "R9V: A designer set of kernels I've been working on for R9700s/RDNA4. Qwen3.8-Flash-Next Unsloth IQ4_XS (w/ TP on 2 R9700s, MTP, SSD n-gram, 128k ctx, vision): TG256 of *78 tok/s* (~3x increase), PP8192 of *1510 tok/s* (~30x increase).",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2z5qw/r9v_a_designer_set_of_kernels_ive_been_working_on/",
+  "fecha": "2026-08-31T01:13:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Qwen3.8-27b-UD-IQ3XXS - End to end Build App -> Prompt Flow-> Test to Image -> Image to Video - Stitch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qcf0/qwen3827budiq3xxs_end_to_end_build_app_prompt/",
+  "fecha": "2026-08-30T19:08:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "We used HFlow to evaluate the latest open weights VLMs for processing egocentric data",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r6v8/we_used_hflow_to_evaluate_the_latest_open_weights/",
+  "fecha": "2026-08-30T19:40:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-08-31"
+ },
+ {
+  "titulo": "Understanding ChatGPT Work",
+  "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+  "fecha": "2026-08-30T23:59:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-08-31"
+ },
+ {
   "titulo": "Donde antes había vacas y patatas, hoy hay centros de datos: esta ciudad china es la \"gasolina\" de la IA",
   "url": "https://www.xataka.com/servicios/donde-antes-habia-vacas-patatas-hoy-hay-centros-datos-ciudad-china-que-gasolina-ia",
   "fecha": "2026-08-30T10:01:04+00:00",
