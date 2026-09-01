@@ -1,5 +1,295 @@
 [
  {
+  "titulo": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
+  "url": "https://www.xataka.com/robotica-e-ia/cuando-microsoft-miro-que-gastaba-cada-empleado-ia-descubrio-algo-alguien-habia-quemado-28-000-dolares-mes",
+  "fecha": "2026-08-31T19:01:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "La casa inteligente nunca fue realmente inteligente. LG cree que la IA puede arreglarlo",
+  "url": "https://www.xataka.com/robotica-e-ia/llevamos-anos-programando-nuestras-casas-inteligentes-lg-tiene-otra-idea-contarles-que-queremos-que-ellas-se-apanen",
+  "fecha": "2026-08-31T15:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+  "fecha": "2026-08-31T17:32:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "What are your hopes for the new Mistral?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3hcab/what_are_your_hopes_for_the_new_mistral/",
+  "fecha": "2026-08-31T15:36:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Doesn't this look like NVIDIA is price fixing?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing/",
+  "fecha": "2026-08-31T20:14:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "SlopTV: an infinite livestream of AI slop generated from youtube chat comments, Minimax H3 on 2x5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3i7ze/sloptv_an_infinite_livestream_of_ai_slop/",
+  "fecha": "2026-08-31T16:07:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "vote for the Qwen 3.8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3cbei/vote_for_the_qwen_38/",
+  "fecha": "2026-08-31T12:27:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "MTP released for Qwen3.8-Flash-Next-GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf/",
+  "fecha": "2026-09-01T05:10:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "First time running local models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3h7rg/first_time_running_local_models/",
+  "fecha": "2026-08-31T15:31:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Don't sleep on Vision support for coding!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3vcvh/dont_sleep_on_vision_support_for_coding/",
+  "fecha": "2026-08-31T23:49:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "The state of open source LLM (08/31/2026)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3qljm/the_state_of_open_source_llm_08312026/",
+  "fecha": "2026-08-31T20:51:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 · Pull Request #27402 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3n506/avx2_speed_up_large_batch_size_prompt_processing/",
+  "fecha": "2026-08-31T18:53:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Deepseek v4 Flash Vision is out...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out/",
+  "fecha": "2026-08-31T23:55:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "How bad do you think models like Qwen3.8-27B or GLM-5.3-Flash would be with H-Neurons disabled?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3co3k/how_bad_do_you_think_models_like_qwen3827b_or/",
+  "fecha": "2026-08-31T12:42:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "A very confusing report from Puget Systems",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w403mv/a_very_confusing_report_from_puget_systems/",
+  "fecha": "2026-09-01T03:19:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/",
+  "fecha": "2026-09-01T07:14:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Mac ← USB-C cable → Linux box is becoming a thing.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3zyt7/mac_usbc_cable_linux_box_is_becoming_a_thing/",
+  "fecha": "2026-09-01T03:12:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next in llama.cpp from CPU-only to 96GB VRAM: 8.5 to 109 tok/s, max context and parameters test. My findings on RTX 6000 PRO.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pl64/qwen38flashnext_in_llamacpp_from_cpuonly_to_96gb/",
+  "fecha": "2026-08-31T20:17:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "pipecat-ai/phonellm-alpha-1: GPT 5.6 Terra performance on typical voice agent tasks at 1/3 the latency and 1/18 the cost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w393ht/pipecataiphonellmalpha1_gpt_56_terra_performance/",
+  "fecha": "2026-08-31T09:51:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Whats the current state of Qwen 3.8 Flash regarding inference (llama.cpp)?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3mneh/whats_the_current_state_of_qwen_38_flash/",
+  "fecha": "2026-08-31T18:36:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Warning: llama.cpp --lazy-mode default changed to auto - large tables may stay on disk",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3qrqk/warning_llamacpp_lazymode_default_changed_to_auto/",
+  "fecha": "2026-08-31T20:57:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Sliding-window beats linear attention",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3eznk/slidingwindow_beats_linear_attention/",
+  "fecha": "2026-08-31T14:12:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Smol king nanbeige 4.2 now with dspark!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3nl38/smol_king_nanbeige_42_now_with_dspark/",
+  "fecha": "2026-08-31T19:08:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "The Chrono Trigger plot challenge - Crono awakens in his modest bedroom of 2095...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3dpu3/the_chrono_trigger_plot_challenge_crono_awakens/",
+  "fecha": "2026-08-31T13:23:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "CUDA: extend MOE fusion to specdec, earlier MOE glu fusion and topk-router fusion were restricted to 1 token by ynankani · Pull Request #27621 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3bh6f/cuda_extend_moe_fusion_to_specdec_earlier_moe_glu/",
+  "fecha": "2026-08-31T11:50:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "I finished upcycling of gemma4-12B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3yq0k/i_finished_upcycling_of_gemma412b/",
+  "fecha": "2026-09-01T02:15:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Introducing wrapture",
+  "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+  "fecha": "2026-08-31T23:59:36+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "Quoting Andrew Digby",
+  "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+  "fecha": "2026-08-31T22:25:02+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
+  "titulo": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+  "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+  "fecha": "2026-09-01T04:36:54+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-01"
+ },
+ {
   "titulo": "Tres “civilizaciones” de agentes de OpenAI aparecieron una detrás de otra. El problema empieza por llamarlas \"civilizaciones\"",
   "url": "https://www.xataka.com/robotica-e-ia/tres-civilizaciones-agentes-openai-aparecieron-detras-otra-problema-empieza-llamarlas-civilizaciones",
   "fecha": "2026-08-31T10:31:04+00:00",
