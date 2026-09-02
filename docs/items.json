@@ -1,5 +1,455 @@
 [
  {
+  "titulo": "Anthropic acaba de lanzar Fable 5.1, su modelo de IA más potente. Hay un problema: no se atreve a dejarnos utilizarlo entero",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-fable-5-1-su-modelo-ia-potente-hay-problema-no-se-atreve-a-dejarnos-utilizarlo-entero",
+  "fecha": "2026-09-02T07:14:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Ya conocemos lo que contamina la IA. Ahora un estudio dice que puede ayudar a reducir un 10% de las emisiones",
+  "url": "https://www.xataka.com/energia/conocemos-que-contamina-ia-ahora-estudio-dice-que-puede-ayudar-a-reducir-10-emisiones",
+  "fecha": "2026-09-02T07:01:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Huawei quiere llevar su IA mucho más allá de los móviles: ahora busca hacerse un hueco en el desarrollo de nuevos medicamentos",
+  "url": "https://www.xataka.com/empresas-y-economia/huawei-quiere-llevar-su-ia-mucho-alla-moviles-ahora-busca-hacerse-hueco-desarrollo-nuevos-medicamentos",
+  "fecha": "2026-09-01T19:31:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Ha nacido el \"Claudés\", el dialecto que sólo entienden quienes se pasan el día hablando con sus agentes de IA",
+  "url": "https://www.xataka.com/robotica-e-ia/ha-nacido-claudes-dialecto-que-solo-entienden-quienes-se-pasan-dia-hablando-sus-agentes-ia",
+  "fecha": "2026-09-01T15:31:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Nvidia acaba de invertir 3.500 millones en MediaTek. Curiosamente, para ayudar a crear alternativas a sus propias GPU",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-acaba-invertir-3-500-millones-mediatek-curiosamente-para-ayudar-a-crear-alternativas-a-sus-propias-gpu",
+  "fecha": "2026-09-01T14:45:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "DLSS 5 ya tiene fecha: así es el salto de Nvidia al renderizado neuronal",
+  "url": "https://www.xataka.com/videojuegos/dlss-5-llega-desafio-enorme-convencernos-que-renderizado-neuronal-merece-pena",
+  "fecha": "2026-09-01T13:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Anthropic detuvo el entrenamiento de su nueva IA por una sencilla razón: estaba aprendiendo demasiado bien a hacer trampas",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-detuvo-entrenamiento-su-nueva-ia-sencilla-razon-estaba-aprendiendo-demasiado-bien-a-hacer-trampas",
+  "fecha": "2026-09-01T12:15:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Apple acusa, OpenAI responde: así es el culebrón judicial que amenaza la salida a bolsa de Altman",
+  "url": "https://www.xataka.com/empresas-y-economia/openai-carga-apple-lio-solo-suyo",
+  "fecha": "2026-09-01T09:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "PLD Space firma con la ESA el contrato del European Launcher Challenge y amplía su financiación de Serie C en otros 108 millones",
+  "url": "http://www.microsiervos.com/archivo/espacio/pld-space-contrato-european-launcher-challenge-esa-aplia-financiacion-208-millones.html",
+  "fecha": "2026-09-01T20:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Fingers crossed for a 122b or really anything above 31b.🤞",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything/",
+  "fecha": "2026-09-01T18:54:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "New Gemma models on arena ai",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/",
+  "fecha": "2026-09-01T10:11:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Intel hints it may get back into memory business",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business/",
+  "fecha": "2026-09-01T15:43:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Really stunned by the Singularity comment section",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section/",
+  "fecha": "2026-09-01T20:25:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+  "fecha": "2026-09-02T05:09:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/",
+  "fecha": "2026-09-01T14:35:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Keeping up with model launches",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4kwyr/keeping_up_with_model_launches/",
+  "fecha": "2026-09-01T18:42:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Kaitchup posted Qwen3.8 27B Benchmarks for quants from Q4 to Q1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4mevo/kaitchup_posted_qwen38_27b_benchmarks_for_quants/",
+  "fecha": "2026-09-01T19:28:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Qwen 3.8 27b (Q4KM) oneshot a Super Mario clone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone/",
+  "fecha": "2026-09-01T10:31:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "I pushed Qwen3.8-27B to 2.000 prefill per second and 132 decode per second on A RTX 3090.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and/",
+  "fecha": "2026-09-01T11:43:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "2/5 of my CMP 170HX have died after 2 weeks and the 3rd came with defective tensor cores. Current prices DO NOT justify the risk you are taking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4wyvg/25_of_my_cmp_170hx_have_died_after_2_weeks_and/",
+  "fecha": "2026-09-02T02:00:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Qwen will be the king?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
+  "fecha": "2026-09-02T07:53:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Help me set up local AI for my 85 year old aunt who is blind.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/",
+  "fecha": "2026-09-01T15:55:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Everyone is t/s maxing.. 3.8.. but after a week of using it for work I'm tempted to switch back to 3.6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4wjxd/everyone_is_ts_maxing_38_but_after_a_week_of/",
+  "fecha": "2026-09-02T01:41:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Deceptive model quantization from AtomicChat?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/",
+  "fecha": "2026-09-01T15:27:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "All currently popular local models in one table + Opus 4.8 results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4a043/all_currently_popular_local_models_in_one_table/",
+  "fecha": "2026-09-01T12:04:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Which current local models that can run within 128GB generate the best SVG pelicans?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47qfe/which_current_local_models_that_can_run_within/",
+  "fecha": "2026-09-01T10:15:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "The DGX Spark joins the 5090 in its price increase.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4w8kd/the_dgx_spark_joins_the_5090_in_its_price_increase/",
+  "fecha": "2026-09-02T01:27:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "How I got 280 tok/s on Qwen3.8 27B on 2xr9700's and 940k tokens kv cache",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4s68k/how_i_got_280_toks_on_qwen38_27b_on_2xr9700s_and/",
+  "fecha": "2026-09-01T22:35:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "DGX Spark about to jump in price? Asus Ascent GX10 jumped from $3999 to $5999 today...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4syn5/dgx_spark_about_to_jump_in_price_asus_ascent_gx10/",
+  "fecha": "2026-09-01T23:06:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac at ~12 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4z94f/running_104gb_qwen38flashnext_on_48gb_mac_at_12/",
+  "fecha": "2026-09-02T03:47:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Question: Why is prefill unbelievably faster in vLLM than other inference engines?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i2id/question_why_is_prefill_unbelievably_faster_in/",
+  "fecha": "2026-09-01T17:05:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Multilingual Tiny (3.7B) Reasoning MoE pretrained from scratch on a consumer-grade GPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f7w7/multilingual_tiny_37b_reasoning_moe_pretrained/",
+  "fecha": "2026-09-01T15:26:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Vellium v1.1.0 — Live voice, local STT/TTS and easier llama.cpp setup",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w48azv/vellium_v110_live_voice_local_stttts_and_easier/",
+  "fecha": "2026-09-01T10:45:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Given how common RTX 3090 use is for LLMs, why don't we see more INT8 W8A8 models ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4rzbd/given_how_common_rtx_3090_use_is_for_llms_why/",
+  "fecha": "2026-09-01T22:27:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Quoting Rick Brewster",
+  "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+  "fecha": "2026-09-02T05:50:57+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Claude Fable 5.1 made me a really nice animated pelican",
+  "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+  "fecha": "2026-09-01T23:57:28+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Codex bundles LibreOffice",
+  "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+  "fecha": "2026-09-01T19:03:01+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "GeoJSON Map Viewer",
+  "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+  "fecha": "2026-09-01T18:05:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Quoting Tarn Adams",
+  "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+  "fecha": "2026-09-01T17:01:11+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "datasette-mcp 0.2",
+  "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+  "fecha": "2026-09-01T15:30:12+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Python 3.15.0 candidate 2 is here!",
+  "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+  "fecha": "2026-09-01T14:59:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "fecha": "2026-09-01T21:39:07+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "fecha": "2026-09-01T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+  "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+  "fecha": "2026-09-02T07:46:08+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-02"
+ },
+ {
+  "titulo": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+  "url": "https://www.latent.space/p/pr-not-welcome",
+  "fecha": "2026-09-01T16:17:15+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-02"
+ },
+ {
   "titulo": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
   "url": "https://www.xataka.com/robotica-e-ia/cuando-microsoft-miro-que-gastaba-cada-empleado-ia-descubrio-algo-alguien-habia-quemado-28-000-dolares-mes",
   "fecha": "2026-08-31T19:01:45+00:00",
