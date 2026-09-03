@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "Una startup valenciana ha captado 125 millones de dólares para una pieza invisible de la IA. Nvidia está dentro",
+  "url": "https://www.xataka.com/empresas-y-economia/startup-valenciana-ha-captado-125-millones-dolares-para-pieza-invisible-ia-nvidia-esta-dentro",
+  "fecha": "2026-09-02T19:00:38+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Samsung ha conseguido lo imposible: meter en una lavadora de tamaño “normal” los 13 kg de capacidad",
+  "url": "https://www.xataka.com/otros-dispositivos/samsung-ha-conseguido-imposible-meter-lavadora-tamano-normal-13-kg-capacidad",
+  "fecha": "2026-09-02T11:59:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Claude Fable 5.1: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
+  "url": "https://www.xataka.com/basics/claude-fable-5-1-lista-novedades-nueva-version-modelo-inteligencia-artificial-anthropic",
+  "fecha": "2026-09-02T10:16:15+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "\"No hay lenguaje ahí fuera”: Atlas quiere hacer con el mundo físico lo que los LLM hicieron con internet",
+  "url": "https://www.xataka.com/robotica-e-ia/no-hay-lenguaje-ahi-fuera-atlas-quiere-hacer-mundo-fisico-que-llm-hicieron-internet",
+  "fecha": "2026-09-02T09:20:16+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Muse Spark open weights coming soon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/",
+  "fecha": "2026-09-02T19:56:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "GLM 5.3 Flash makes a black hole Minecraft mod running locally on 4x RTX PRO 6000 WS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5gk2b/glm_53_flash_makes_a_black_hole_minecraft_mod/",
+  "fecha": "2026-09-02T17:13:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "My RULE of Thumb of choosing a models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
+  "fecha": "2026-09-03T06:27:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "H3-World: Turning Language Understanding into World Control",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
+  "fecha": "2026-09-02T13:35:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Microsoft VibeVoice-ASR-Streaming Released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5trnb/microsoft_vibevoiceasrstreaming_released/",
+  "fecha": "2026-09-03T01:40:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Perplexity open-sourced their Mac inference server for Qwen 3.6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ozl4/perplexity_opensourced_their_mac_inference_server/",
+  "fecha": "2026-09-02T22:13:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Confirmed bolting Q8 NGram into IQ4 Qwen no speed degradation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5isz3/confirmed_bolting_q8_ngram_into_iq4_qwen_no_speed/",
+  "fecha": "2026-09-02T18:32:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Do we forget about another Qwen model for a while now ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5bkrf/do_we_forget_about_another_qwen_model_for_a_while/",
+  "fecha": "2026-09-02T14:14:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Vision support merged for DeepSeek-V4-Flash-Vision-Exp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5e9fi/vision_support_merged_for_deepseekv4flashvisionexp/",
+  "fecha": "2026-09-02T15:52:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "GLM5.3 Flash over DSV4 Flash?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ttgb/glm53_flash_over_dsv4_flash/",
+  "fecha": "2026-09-03T01:43:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on 2x3090 + DDR4: 17 → 25-29 t/s decode with the expert cache PR",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5vjp6/qwen38flashnext_on_2x3090_ddr4_17_2529_ts_decode/",
+  "fecha": "2026-09-03T03:04:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash vs. GLM-5.3-Flash on 2× DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5sb4g/deepseekv4flash_vs_glm53flash_on_2_dgx_spark/",
+  "fecha": "2026-09-03T00:34:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Qwen3.8-flash-next sees corruption everywhere",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5qbpk/qwen38flashnext_sees_corruption_everywhere/",
+  "fecha": "2026-09-02T23:08:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Mac Heads: Is there any point to MLX in September 2026?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5kau3/mac_heads_is_there_any_point_to_mlx_in_september/",
+  "fecha": "2026-09-02T19:23:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "LLMs: Intelligence vs. cost | OpenTeams",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w583o7/llms_intelligence_vs_cost_openteams/",
+  "fecha": "2026-09-02T11:50:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Qwen3.8 Flash AP Quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ow8w/qwen38_flash_ap_quants/",
+  "fecha": "2026-09-02T22:10:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Quad R9700 AI Pro with vLLM-Radiance easily reaching 17,6k PP",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5i3di/quad_r9700_ai_pro_with_vllmradiance_easily/",
+  "fecha": "2026-09-02T18:07:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "VoxGen, an AMD-optimized TTS inference engine for VoxCPM 2 models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5nsm8/voxgen_an_amdoptimized_tts_inference_engine_for/",
+  "fecha": "2026-09-02T21:28:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "model: add NVIDIA Nemotron-3-Puzzle-75B-A9B (NemotronHPuzzle) support by YanissAmz · Pull Request #25444 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w60jr5/model_add_nvidia_nemotron3puzzle75ba9b/",
+  "fecha": "2026-09-03T07:35:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Looking for a small LLM for Linux command generation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5odwo/looking_for_a_small_llm_for_linux_command/",
+  "fecha": "2026-09-02T21:50:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "What do you do in the meantime when your favourite local model is thinking and working hard with your harness?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l622/what_do_you_do_in_the_meantime_when_your/",
+  "fecha": "2026-09-02T19:54:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "I have Qwen3.6 27B on PC-1 and Qwen3.6 35B on PC-2, So they can run parallel. Which roles should I assign to them for agent codng?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w56y4r/i_have_qwen36_27b_on_pc1_and_qwen36_35b_on_pc2_so/",
+  "fecha": "2026-09-02T10:51:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Can a 4B local model actually feel like an AI assistant?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w609r6/can_a_4b_local_model_actually_feel_like_an_ai/",
+  "fecha": "2026-09-03T07:18:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next for Creative Writing?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w55cfu/qwen_38_flash_next_for_creative_writing/",
+  "fecha": "2026-09-02T09:23:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "WVY is a handwritten language model. Every response was written by one person to demonstrate that the illusion of intelligence is not exclusive to parameter count.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5u9w8/wvy_is_a_handwritten_language_model_every/",
+  "fecha": "2026-09-03T02:04:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "llm-gemini 0.34",
+  "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+  "fecha": "2026-09-02T16:39:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+  "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+  "fecha": "2026-09-02T14:16:42+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "fecha": "2026-09-03T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "fecha": "2026-09-02T13:49:14+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
+  "titulo": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
+  "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+  "fecha": "2026-09-03T04:38:33+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-03"
+ },
+ {
   "titulo": "Anthropic acaba de lanzar Fable 5.1, su modelo de IA más potente. Hay un problema: no se atreve a dejarnos utilizarlo entero",
   "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-fable-5-1-su-modelo-ia-potente-hay-problema-no-se-atreve-a-dejarnos-utilizarlo-entero",
   "fecha": "2026-09-02T07:14:00+00:00",
