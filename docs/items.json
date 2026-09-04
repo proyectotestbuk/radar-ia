@@ -1,5 +1,405 @@
 [
  {
+  "titulo": "DLSS 5 desató la polémica por convertir los videojuegos en películas. Lo hemos probado en NBA 2K27 y la realidad es mucho más sutil",
+  "url": "https://www.xataka.com/videojuegos/dlss-5-desato-polemica-convertir-videojuegos-peliculas-hemos-probado-nba-2k27-realidad-mucho-sutil",
+  "fecha": "2026-09-04T08:51:35+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "GPT-6 Astra llega como el gran salto de OpenAI: puede hacer mucho más por nosotros, pero también será más difícil de supervisar",
+  "url": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-llega-como-gran-salto-openai-puede-hacer-mucho-nosotros-tambien-sera-dificil-supervisar",
+  "fecha": "2026-09-03T19:41:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Pensábamos que la generación Z iba a impulsar la revolución de la IA en las oficinas: cuanto más la usan, menos creen en ella",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-habia-prometido-revolucionar-trabajo-estudio-revela-que-sus-usuarios-fieles-han-acabado-decepcionados",
+  "fecha": "2026-09-03T16:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "No hay centros de datos para todos y las startups de la IA tienen una idea: convertir tu tarjeta gráfica en un chatbot",
+  "url": "https://www.xataka.com/componentes/industria-ia-ha-hecho-que-tu-pc-sea-caro-ahora-tiene-oferta-pagarte-para-usarlo-cuando-no-uses",
+  "fecha": "2026-09-03T15:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "NVIDIA compra Hugging Face por 12.930 millones y entra de lleno en una de las piezas de la IA que todavía no controlaba",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-compra-hugging-face-12-930-millones-entra-lleno-piezas-ia-que-todavia-no-controlaba",
+  "fecha": "2026-09-03T14:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "OpenAI y Anthropic tienen un problema: los nuevos modelos baratos de Google y Meta ya son demasiado buenos",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-anthropic-tienen-problema-nuevos-modelos-baratos-google-meta-demasiado-buenos",
+  "fecha": "2026-09-03T09:45:49+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Embraer entrega el E-Jet número 2.000, lo que coloca a la familia como la tercera del mundo",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/embraer-entrega-ejet-numero-2000.html",
+  "fecha": "2026-09-03T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "La astronauta de la ESA Sophie Adenot se convierte en la primera no estadounidense en participar en un paseo espacial llevado a cabo por dos mujeres",
+  "url": "http://www.microsiervos.com/archivo/espacio/sophie-adenot-primera-astronauta-europea-paseo-espacial-dos-mujeres.html",
+  "fecha": "2026-09-03T10:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
+  "fecha": "2026-09-03T12:22:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "The benchmarks the big labs don't want you to see",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/",
+  "fecha": "2026-09-03T22:54:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Apparently ChatGPT, Claude, and Grok were down",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aw2a/apparently_chatgpt_claude_and_grok_were_down/",
+  "fecha": "2026-09-03T15:38:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Introducing K2 Horizon: Frontier Performance, Radically Open",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w68rj6/introducing_k2_horizon_frontier_performance/",
+  "fecha": "2026-09-03T14:19:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Can the bubble pop please?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6nihk/can_the_bubble_pop_please/",
+  "fecha": "2026-09-03T23:18:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Bernie Sanders proposes to ban AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/",
+  "fecha": "2026-09-03T17:44:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "local AI can't be disabled",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aec4/local_ai_cant_be_disabled/",
+  "fecha": "2026-09-03T15:20:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/",
+  "fecha": "2026-09-03T22:01:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
+  "fecha": "2026-09-03T13:47:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Qwen-3.8-Next-Flash Ngram Hot-Swappable Knowledge Injector for llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/",
+  "fecha": "2026-09-03T11:40:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "\"ModelScope\" Is a Hugging Face Alternative now that Nvidias deal is a Go",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6bkkh/modelscope_is_a_hugging_face_alternative_now_that/",
+  "fecha": "2026-09-03T16:02:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next MTP merged in ik_llama.cpp (integrated head or separate -md file)... 45 → 90 tok/s on a 5090 + 128GB, works down to a 12GB 4070",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6ccgs/qwen38flashnext_mtp_merged_in_ik_llamacpp/",
+  "fecha": "2026-09-03T16:30:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Increasing active parameters per token in MOE (Qwen 35B A4B+) reduce reasoning token by 8.5% - and you don't need to train or finetune!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6lk6z/increasing_active_parameters_per_token_in_moe/",
+  "fecha": "2026-09-03T21:58:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Ling-3.0-flash-Fin weights released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6b26t/ling30flashfin_weights_released/",
+  "fecha": "2026-09-03T15:44:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Could the shortage be getting better?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65xkj/could_the_shortage_be_getting_better/",
+  "fecha": "2026-09-03T12:25:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Frontier models sabotaging local AI implementations?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67nkz/frontier_models_sabotaging_local_ai/",
+  "fecha": "2026-09-03T13:37:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/",
+  "fecha": "2026-09-03T19:34:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Micron Explores Near-GPU NAND Flash to Run Bigger LLMs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/",
+  "fecha": "2026-09-03T17:35:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Has anyone already tried IFM's new K2-Horizon-MoVA-36B-A4B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new/",
+  "fecha": "2026-09-04T03:31:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "AntLing open sourced Ling-3.0-flash-Fin, a finance-enhanced model for real-world workflows",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6bb0b/antling_open_sourced_ling30flashfin_a/",
+  "fecha": "2026-09-03T15:53:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "China share of Dram market went from 4% to 10% in a year",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67p0s/china_share_of_dram_market_went_from_4_to_10_in_a/",
+  "fecha": "2026-09-03T13:39:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Qwen3.6 35b Q2_XXS: Being GPU poor in 2026 is not so bad",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w655he/qwen36_35b_q2_xxs_being_gpu_poor_in_2026_is_not/",
+  "fecha": "2026-09-03T11:50:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "UPDATE: Qwen3.8-Flash-Next on 2x3090 + DDR4 (Part 2): 25-29 -> 37-41 t/s decode (UD-Q4_K_XL + expert cache + MTP), plus a branch you can build",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6ozbj/update_qwen38flashnext_on_2x3090_ddr4_part_2_2529/",
+  "fecha": "2026-09-04T00:21:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "We built an open-source, model-neutral agent harness and compared it with claude managed agents - for the same model, got same accuracy, upto 75% lower cost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65ise/we_built_an_opensource_modelneutral_agent_harness/",
+  "fecha": "2026-09-03T12:07:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "How to handle naughty model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w62w8e/how_to_handle_naughty_model/",
+  "fecha": "2026-09-03T09:53:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "August newsletter is out",
+  "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+  "fecha": "2026-09-04T05:54:40+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "GPT‑6 Astra",
+  "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+  "fecha": "2026-09-03T20:18:41+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "fecha": "2026-09-03T13:13:48+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "fecha": "2026-09-03T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "Give Your Coding Agents a Memory You Own",
+  "url": "https://huggingface.co/blog/funes",
+  "fecha": "2026-09-03T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+  "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+  "fecha": "2026-09-04T05:18:11+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
+  "titulo": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+  "url": "https://www.latent.space/p/astra",
+  "fecha": "2026-09-03T21:09:41+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-04"
+ },
+ {
   "titulo": "Una startup valenciana ha captado 125 millones de dólares para una pieza invisible de la IA. Nvidia está dentro",
   "url": "https://www.xataka.com/empresas-y-economia/startup-valenciana-ha-captado-125-millones-dolares-para-pieza-invisible-ia-nvidia-esta-dentro",
   "fecha": "2026-09-02T19:00:38+00:00",
