@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "Para Jensen Huang, \"la AGI ha llegado\" con GPT-6 Astra. El problema es que no es la primera vez que lo dice",
+  "url": "https://www.xataka.com/robotica-e-ia/para-jensen-huang-agi-ha-llegado-gpt-6-astra-problema-que-no-primera-vez-que-dice",
+  "fecha": "2026-09-07T09:30:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Meta desactiva la cámara de sus gafas ante cualquier indicio de manipulación. El problema es que es el juego del gato y el ratón",
+  "url": "https://www.xataka.com/otros-dispositivos/meta-desactiva-camara-sus-gafas-cualquier-indicio-manipulacion-problema-que-juego-gato-raton",
+  "fecha": "2026-09-06T10:00:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Además de RAM y ROM también existe la WOM (Memoria de Sólo Escritura), que nació de una broma absurda y acabó siendo algo útil",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/ram-rom-wom-memoria-solo-escritura-broma-absurda-algo-util.html",
+  "fecha": "2026-09-07T10:26:05+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Presentado el primer Airbus A350F pintado con su librea especial",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/primer-airbus-a350f-librea-especial.html",
+  "fecha": "2026-09-07T09:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+  "fecha": "2026-09-06T13:15:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "New Benchmark: The Struggle Bench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/",
+  "fecha": "2026-09-07T00:55:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+  "fecha": "2026-09-06T17:48:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
+  "fecha": "2026-09-06T20:15:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "vibeblending locally with Qwen 3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rxwg/vibeblending_locally_with_qwen_38_27b/",
+  "fecha": "2026-09-06T09:54:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Coding benchmarks that are quickly showcasing deep capability",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
+  "fecha": "2026-09-06T12:23:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Expert expansion with llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+  "fecha": "2026-09-06T18:27:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/",
+  "fecha": "2026-09-06T16:36:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Benchmarking calories evaluation with LLMs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9jmo8/benchmarking_calories_evaluation_with_llms/",
+  "fecha": "2026-09-07T05:56:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
+  "fecha": "2026-09-06T22:32:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Best model + setup for remote deployment.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
+  "fecha": "2026-09-06T18:40:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "48 tg/s 440 prefill on my grandma's cluster (2xP40) (sort of)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8sqp3/48_tgs_440_prefill_on_my_grandmas_cluster_2xp40/",
+  "fecha": "2026-09-06T10:38:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Thinking about grabbing an RTX 2000 Ada 16gb to add to my gaming pc for inference due to Wattage constraints, any advice?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9l8qc/thinking_about_grabbing_an_rtx_2000_ada_16gb_to/",
+  "fecha": "2026-09-07T07:23:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "4xRadeon AI Pro R9700 people, how are your benchmarks?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9c8u7/4xradeon_ai_pro_r9700_people_how_are_your/",
+  "fecha": "2026-09-06T23:54:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "LLM regression in reading comprehension?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8s8bn/llm_regression_in_reading_comprehension/",
+  "fecha": "2026-09-06T10:10:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Planning to get a cheap-ish GPU. Would appreciate some advice.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate/",
+  "fecha": "2026-09-06T17:25:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Trying to create my own server and consuming it for code with my phone remotely (Mac OS)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9bz4i/trying_to_create_my_own_server_and_consuming_it/",
+  "fecha": "2026-09-06T23:42:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Lit Review on Benchmarking LLMs Running in your phone!: MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9kfs3/lit_review_on_benchmarking_llms_running_in_your/",
+  "fecha": "2026-09-07T06:39:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Bifurcation and riser cables suggestions",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9n6fx/bifurcation_and_riser_cables_suggestions/",
+  "fecha": "2026-09-07T09:16:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "vllm + p2p driver hack + qwen 3.8 27B vs llamacpp + qwen flash next ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9b1eg/vllm_p2p_driver_hack_qwen_38_27b_vs_llamacpp_qwen/",
+  "fecha": "2026-09-06T23:00:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "LayerStoRm open-source expert streaming: 1M context GLM-5.3-Flash [UD-Q4_K_XL] at 24.5 tok/s @8k on just 2× RTX 5090 + 2× RTX 5080 (186 GiB MoE on 96 GB VRAM)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dzn8/layerstorm_opensource_expert_streaming_1m_context/",
+  "fecha": "2026-09-07T01:14:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Maybe a noob question, but why aren't there safetensor quants of inclusionAI/Ling-3.0-flash-Fin?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w93yj7/maybe_a_noob_question_but_why_arent_there/",
+  "fecha": "2026-09-06T18:26:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Ktransformers or llamacpp, for MoE on multigpu+ram?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8zcrm/ktransformers_or_llamacpp_for_moe_on_multigpuram/",
+  "fecha": "2026-09-06T15:35:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "What is the obstacle in front of Local Frontiers?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9n2np/what_is_the_obstacle_in_front_of_local_frontiers/",
+  "fecha": "2026-09-07T09:10:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Draft acceptance tweaks?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9fcjx/draft_acceptance_tweaks/",
+  "fecha": "2026-09-07T02:19:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "Research acceleration: The view inside OpenAI",
+  "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+  "fecha": "2026-09-06T23:57:40+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "The purpose of DNS is to spread scams",
+  "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+  "fecha": "2026-09-06T14:40:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-07"
+ },
+ {
+  "titulo": "There's No Limit to How Bad Code Can Get",
+  "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+  "fecha": "2026-09-06T09:08:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-07"
+ },
+ {
   "titulo": "Las mejores inteligencias artificiales para estudiantes: herramientas gratis y qué hace cada una",
   "url": "https://www.xataka.com/basics/mejores-ias-para-estudiar",
   "fecha": "2026-09-05T10:00:28+00:00",
