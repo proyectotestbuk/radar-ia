@@ -1,5 +1,375 @@
 [
  {
+  "titulo": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
+  "url": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
+  "fecha": "2026-09-09T08:16:54+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "China prepara un salto masivo de infraestructura para IA: quieren cuadruplicar su capacidad de cómputo para 2030",
+  "url": "https://www.xataka.com/robotica-e-ia/china-prepara-salto-masivo-infraestructura-para-ia-quieren-cuadruplicar-su-capacidad-computo-para-2030",
+  "fecha": "2026-09-09T07:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "La IA de Google acaba de dar un salto en genética: ha trazado un mapa predictivo de 9.000 millones de cambios del ADN",
+  "url": "https://www.xataka.com/investigacion/ia-google-acaba-dar-salto-genetica-ha-trazado-mapa-predictivo-9-000-millones-cambios-adn",
+  "fecha": "2026-09-08T19:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Los centros de datos gastan fortunas intentando librarse del calor que generan. En Dinamarca calientan 11.000 hogares con él",
+  "url": "https://www.xataka.com/energia/centros-datos-gastan-fortunas-intentando-librarse-calor-que-generan-dinamarca-calientan-11-000-hogares",
+  "fecha": "2026-09-08T18:01:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Silicon Valley ha fabricado una nueva élite de la IA: sus millones han disparado las ventas de jets privados, yates y Lamborghinis",
+  "url": "https://www.xataka.com/empresas-y-economia/silicon-valley-ha-fabricado-nueva-elite-ia-sus-millones-han-disparado-ventas-jets-privados-yates-lamborghinis",
+  "fecha": "2026-09-08T16:47:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Unitree ya tiene el primer robot humanoide impulsado por un modelo de mundo. Sólo necesita tu ropa, tus botas y tu motocicleta",
+  "url": "https://www.xataka.com/robotica-e-ia/unitree-tiene-primer-robot-humanoide-impulsado-modelo-mundo-solo-necesita-tu-ropa-tus-botas-tu-motocicleta",
+  "fecha": "2026-09-08T14:31:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "OpenAI alleged of stealing mathematicians work",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
+  "fecha": "2026-09-08T14:12:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/",
+  "fecha": "2026-09-08T17:27:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/",
+  "fecha": "2026-09-08T12:31:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/",
+  "fecha": "2026-09-08T19:53:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "GPU guide (GB per dollar, bandwidth)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth/",
+  "fecha": "2026-09-08T14:37:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
+  "fecha": "2026-09-09T01:34:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/",
+  "fecha": "2026-09-08T14:29:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/",
+  "fecha": "2026-09-08T15:57:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Deepseek Has Soft Retired Deepseek V4 Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/",
+  "fecha": "2026-09-09T08:34:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Which local model is actually good at knowing when to stop and ask you a question?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wake1h/which_local_model_is_actually_good_at_knowing/",
+  "fecha": "2026-09-08T10:17:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Fallout 2 x Fallout: Bakersfield x H3 as Interactive \\ Reactive World Model, Let's go!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1walsw6/fallout_2_x_fallout_bakersfield_x_h3_as/",
+  "fecha": "2026-09-08T11:31:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "nex-agi/Nex-N2.5-mini - 35b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wat4ay/nexaginexn25mini_35b/",
+  "fecha": "2026-09-08T16:23:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "On the Value of Human Ideas: What data poisoning research reveals about \"autonomous\" AI breakthroughs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning/",
+  "fecha": "2026-09-08T20:23:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context. My findings on new PRs coming to engines.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs/",
+  "fecha": "2026-09-08T19:26:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/",
+  "fecha": "2026-09-09T03:06:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Are there any (small, ~10B) models that you would say are a good collaborator?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say/",
+  "fecha": "2026-09-08T16:56:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "I built Infercat: Share your local AI with friends over an encrypted p2p tunnel. Connect with an invite code from anywhere.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxlpb/i_built_infercat_share_your_local_ai_with_friends/",
+  "fecha": "2026-09-08T18:59:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "A hilarious comment about llama.cpp: “It’s a FB business using the pipeline to make profits”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazp0v/a_hilarious_comment_about_llamacpp_its_a_fb/",
+  "fecha": "2026-09-08T20:13:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Anyone tried self-hosting 3D object generation?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waonrd/anyone_tried_selfhosting_3d_object_generation/",
+  "fecha": "2026-09-08T13:37:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "XHToken/Spark-X2.5-4B VS inclusionAI/Ling-3.0-tiny VS Nanbeige/Nanbeige4.2-3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wao3d5/xhtokensparkx254b_vs_inclusionailing30tiny_vs/",
+  "fecha": "2026-09-08T13:14:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "MiMo-X-Pro-Preview and MiMo-X-Flash-Preview - New Mimo Model found in Mimo Desktop preview announcement",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbejtp/mimoxpropreview_and_mimoxflashpreview_new_mimo/",
+  "fecha": "2026-09-09T07:20:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "What OpenBMB 1B version is this?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbagpr/what_openbmb_1b_version_is_this/",
+  "fecha": "2026-09-09T03:42:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Off the bus: It wasn't pcie / oculink... it was the PSU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wap7fc/off_the_bus_it_wasnt_pcie_oculink_it_was_the_psu/",
+  "fecha": "2026-09-08T13:59:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Qwen3.6 35B A3B or Nex-N2.5-mini?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb6cp9/qwen36_35b_a3b_or_nexn25mini/",
+  "fecha": "2026-09-09T00:35:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
+  "fecha": "2026-09-08T22:21:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Quoting Terence Tao",
+  "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+  "fecha": "2026-09-09T00:20:17+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "On the Navier–Stokes Millennium Prize Problem",
+  "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+  "fecha": "2026-09-08T23:55:12+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Introducing ChatGPT Images 2.5",
+  "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+  "fecha": "2026-09-08T22:46:33+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "fecha": "2026-09-08T14:23:07+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+  "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+  "fecha": "2026-09-09T05:04:51+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-09"
+ },
+ {
+  "titulo": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
+  "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+  "fecha": "2026-09-05T04:32:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-09"
+ },
+ {
   "titulo": "Mistral nació para construir modelos europeos. Tres años después ha descubierto que la verdadera batalla está debajo de ellos",
   "url": "https://www.xataka.com/robotica-e-ia/mistral-nacio-para-construir-modelos-europeos-tres-anos-despues-ha-descubierto-que-verdadera-batalla-esta-debajo-ellos",
   "fecha": "2026-09-08T08:47:00+00:00",
