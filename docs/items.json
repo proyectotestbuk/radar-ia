@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
+  "url": "https://www.xataka.com/basics/como-usar-notebooklm-para-ayudarte-a-estudiar-repasar-nuevo-curso-escolar",
+  "fecha": "2026-09-10T08:31:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Siri AI aspira a convertirse en el asistente personal de IA que nos acompañe a todas partes. Y no tiene ninguna prisa por lograrlo",
+  "url": "https://www.xataka.com/robotica-e-ia/siri-ai-aspira-a-convertirse-asistente-personal-ia-que-nos-acompane-a-todas-partes-no-tiene-ninguna-prisa-lograrlo",
+  "fecha": "2026-09-09T17:45:49+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Escribir los trabajos de los universitarios occidentales era un trabajo muy bien pagado en Kenia. Entonces llegó ChatGPT",
+  "url": "https://www.xataka.com/robotica-e-ia/escribir-trabajos-universitarios-occidentales-era-trabajo-muy-bien-pagado-kenia-entonces-llego-chatgpt",
+  "fecha": "2026-09-09T16:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "OpenAI acaba de lanzar su modelo de frontera. Acto seguido su científico jefe afirmó que quizá están yendo demasiado lejos",
+  "url": "https://www.xataka.com/seguridad/openai-acaba-lanzar-su-modelo-frontera-acto-seguido-su-cientifico-jefe-afirmo-que-quiza-estan-yendo-demasiado-lejos",
+  "fecha": "2026-09-09T12:01:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "OpenAI afirma haber resuelto uno de los Problemas del Milenio con su IA. La que se ha liado después es gorda",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-afirma-haber-resuelto-uno-problemas-milenio-su-ia-que-se-ha-liado-despues-gorda",
+  "fecha": "2026-09-09T11:17:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Alemania –ya iba siendo siglo– va a retirar la financiación pública de la homeopatía",
+  "url": "http://www.microsiervos.com/archivo/ciencia/alemania-retirar-financiacio-publica-homeopatia.html",
+  "fecha": "2026-09-10T10:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Los siete de Blake, legendaria ciencia ficción británica para saciar el hambre después de vivir Star Wars",
+  "url": "http://www.microsiervos.com/archivo/peliculas-tv/los-siete-de-blake-ciencia-ficcion-britanica.html",
+  "fecha": "2026-09-10T09:11:10+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "So relevant",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
+  "fecha": "2026-09-10T02:45:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Why the hell is LM Studio making LM Studio so difficult to download?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so/",
+  "fecha": "2026-09-09T13:19:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/",
+  "fecha": "2026-09-10T05:57:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/",
+  "fecha": "2026-09-09T22:23:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "DeepSeek V4-1 Flash is out",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+  "fecha": "2026-09-10T06:54:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Don't let FOMO win if you're interested in local llm from a hobby/learning aspect",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbufx5/dont_let_fomo_win_if_youre_interested_in_local/",
+  "fecha": "2026-09-09T18:48:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Mention if a \"new model\" is a finetune",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune/",
+  "fecha": "2026-09-09T15:51:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Now this is a serious local machine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbir6v/now_this_is_a_serious_local_machine/",
+  "fecha": "2026-09-09T11:20:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "GLM 5.3 Flash Q4 @ 60tps / 550tps on M3 Ultra",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra/",
+  "fecha": "2026-09-09T12:51:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Surveillance plagiarism by OpenAI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai/",
+  "fecha": "2026-09-09T20:55:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/",
+  "fecha": "2026-09-10T06:27:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "DeepSeek-V4.1-Flash surprised ....",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcdati/deepseekv41flash_surprised/",
+  "fecha": "2026-09-10T08:37:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
+  "fecha": "2026-09-09T13:49:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4/",
+  "fecha": "2026-09-09T14:21:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/",
+  "fecha": "2026-09-09T18:24:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Deepseek V4.1 Flash is 748B, not 552B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcd4rx/deepseek_v41_flash_is_748b_not_552b/",
+  "fecha": "2026-09-10T08:27:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "DeepSeek-V4-Flash-Vision-Exp (285B MoE) on 10-12x RTX 3090 — spec decoding, vision",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx/",
+  "fecha": "2026-09-09T10:50:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Closed AI doesn't like biological research, user turns to open weight models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbt99/closed_ai_doesnt_like_biological_research_user/",
+  "fecha": "2026-09-10T07:10:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Server rebuild to custom loop. 2x RTX Titans 24gb, 1x 22gb 2080ti | T: 70GB VRAM.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbttmz/server_rebuild_to_custom_loop_2x_rtx_titans_24gb/",
+  "fecha": "2026-09-09T18:27:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Best Open source TTS right now for narration?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbpyp7/best_open_source_tts_right_now_for_narration/",
+  "fecha": "2026-09-09T16:10:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Qwen3.8-27B-Uncensored-Genesis-V1-GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmo0k/qwen3827buncensoredgenesisv1gguf/",
+  "fecha": "2026-09-09T14:09:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Running qwen 3.8 27B iq3 xxs on RTX 3060.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc2cs2/running_qwen_38_27b_iq3_xxs_on_rtx_3060/",
+  "fecha": "2026-09-09T23:42:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Desert Ant Labs: On-device intelligence for every product",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbn7f4/desert_ant_labs_ondevice_intelligence_for_every/",
+  "fecha": "2026-09-09T14:30:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Would you consider 5t/s usable for a local model?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvd2i/would_you_consider_5ts_usable_for_a_local_model/",
+  "fecha": "2026-09-09T19:20:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on 2x3090 + DDR4, part 4: 2.2-2.5x faster prefill by kicking the expert cache off the GPU while the prompt runs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6fsk/qwen38flashnext_on_2x3090_ddr4_part_4_2225x/",
+  "fecha": "2026-09-10T02:39:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "Quoting Calif Research",
+  "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+  "fecha": "2026-09-10T00:56:41+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": ".blend URL Viewer",
+  "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+  "fecha": "2026-09-09T23:58:32+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "fecha": "2026-09-09T15:36:24+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-10"
+ },
+ {
+  "titulo": "[AINews] not much happened today",
+  "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+  "fecha": "2026-09-10T03:33:12+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-10"
+ },
+ {
   "titulo": "Cómo te verías en los 80: cómo crear tu foto ochentera usando ChatGPT paso a paso",
   "url": "https://www.xataka.com/basics/como-te-verias-80-como-crear-tu-foto-ochentera-usando-chatgpt-paso-a-paso",
   "fecha": "2026-09-09T08:16:54+00:00",
