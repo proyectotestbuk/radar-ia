@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
+  "url": "https://www.xataka.com/espacio/nasa-quiere-entender-mejor-luna-antes-volver-alli-ha-creado-ibm-ia-para-encontrar-hielo-nuevos-crateres",
+  "fecha": "2026-09-10T19:01:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "China quiere sustituir los chips de NVIDIA con alternativas propias. La memoria HBM acaba de ponerle un problema delante",
+  "url": "https://www.xataka.com/robotica-e-ia/china-quiere-sustituir-chips-nvidia-alternativas-propias-memoria-hbm-acaba-ponerle-problema-delante",
+  "fecha": "2026-09-10T18:31:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Google se gasta 13.000 millones de euros en Finlandia y se asegura su propia central nuclear para no quedarse sin electricidad",
+  "url": "https://www.xataka.com/empresas-y-economia/google-se-gasta-13-000-millones-euros-finlandia-se-asegura-su-propia-central-nuclear-para-no-quedarse-electricidad",
+  "fecha": "2026-09-10T18:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Me he leído el estudio de Anthropic sobre el impacto de la IA en la economía y he llegado a una conclusión: voy a tener que estudiar fontanería",
+  "url": "https://www.xataka.com/robotica-e-ia/me-he-leido-estudio-anthropic-impacto-ia-economia-he-llegado-a-conclusion-voy-a-tener-que-estudiar-fontaneria",
+  "fecha": "2026-09-10T17:31:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "El Apple Watch ya no sólo es un reloj, es una \"grabadora\" que escucha todo el rato y hace resúmenes de lo que oye",
+  "url": "https://www.xataka.com/privacidad/apple-watch-no-solo-reloj-grabadora-que-escucha-todo-rato-hace-resumenes-que-oye",
+  "fecha": "2026-09-10T09:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "\"Están jugando con nuestras vidas\": un investigador de Anthropic cree que hay un 10% de posibilidades de que la IA acabe con la humanidad",
+  "url": "https://www.xataka.com/robotica-e-ia/estan-jugando-nuestras-vidas-investigador-anthropic-cree-que-hay-10-posibilidades-que-ia-acabe-humanidad",
+  "fecha": "2026-09-10T09:17:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "El 11-S, revivido mediante las emisiones de televisión completas de diversos países gracias a Archive.org",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/11-s-revivido-emisiones-television.html",
+  "fecha": "2026-09-11T10:04:16+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/",
+  "fecha": "2026-09-10T15:29:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "I find it funny that a flash model is now 512GB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb/",
+  "fecha": "2026-09-10T20:57:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Harness does matter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcj5q3/harness_does_matter/",
+  "fecha": "2026-09-10T13:25:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "OUI-1: a model that generates bespoke UI elements",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
+  "fecha": "2026-09-10T17:46:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Pi Agent Users - Nvidia Released Sol-Pi - A Pi-Extension based on AutoResearch loops to make the Harness more efficient",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcujgg/pi_agent_users_nvidia_released_solpi_a/",
+  "fecha": "2026-09-10T20:17:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Someone apparently managed to kind of replicate what V4.1 flash does on KV for fast prefill on Qwen",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate/",
+  "fecha": "2026-09-11T03:36:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "New Music Model YuE2-3B Released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
+  "fecha": "2026-09-11T00:47:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "GigaChat-3.5-Reasoning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/",
+  "fecha": "2026-09-10T12:19:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Artificial Analysis is not \"broken\", and they prove it.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/",
+  "fecha": "2026-09-10T22:26:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "CyberTiel 35B-A3B’s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+  "fecha": "2026-09-10T17:26:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Notes on a hobby sub going mainstream",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/",
+  "fecha": "2026-09-10T19:46:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Muse-glimmer-30b really punches above its weight(s) for creative writing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwa7i/museglimmer30b_really_punches_above_its_weights/",
+  "fecha": "2026-09-10T21:22:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Deepseek V4.1 Flash Release Video [Made with Deepseek V4.1 Flash]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with/",
+  "fecha": "2026-09-10T11:23:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "New tensor type layouts for my GGUF uploads",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
+  "fecha": "2026-09-10T19:05:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "antirez working on DSV4.1 support for ds4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctnq7/antirez_working_on_dsv41_support_for_ds4/",
+  "fecha": "2026-09-10T19:44:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "What TTS models do you recommend as today?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/",
+  "fecha": "2026-09-10T09:46:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash is available in HuggingChat",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/",
+  "fecha": "2026-09-10T16:05:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "guide to using reasoning_effort on deepseek v4.1 flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcesmy/guide_to_using_reasoning_effort_on_deepseek_v41/",
+  "fecha": "2026-09-10T10:01:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
+  "fecha": "2026-09-10T21:31:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "What to run at 128GB VRAM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcib2s/what_to_run_at_128gb_vram/",
+  "fecha": "2026-09-10T12:50:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "React Native ExecuTorch is now up to 92x faster 🏎️",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcp4v1/react_native_executorch_is_now_up_to_92x_faster/",
+  "fecha": "2026-09-10T17:06:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Running Vision Qwen 3.8 27B on a 16GB Card, the config (45tks).",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcfc9b/running_vision_qwen_38_27b_on_a_16gb_card_the/",
+  "fecha": "2026-09-10T10:30:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "The CEA architecture is a bigger deal than I initially thought",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcf6kq/the_cea_architecture_is_a_bigger_deal_than_i/",
+  "fecha": "2026-09-10T10:22:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "LoudKit: local TTS with voice cloning, 10 languages, and SDKs for Python, Swift, Go, Rust and TypeScript",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcm68v/loudkit_local_tts_with_voice_cloning_10_languages/",
+  "fecha": "2026-09-10T15:19:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "CPU Only Experimental Sloppy Deepseek V4.1 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcu3fw/cpu_only_experimental_sloppy_deepseek_v41_flash/",
+  "fecha": "2026-09-10T20:00:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Datasette 1.0a39 and 0.65.4 security releases",
+  "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+  "fecha": "2026-09-11T03:27:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Any Nix package, live in your browser",
+  "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+  "fecha": "2026-09-10T23:44:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Native is now the future of mobile at Shopify",
+  "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+  "fecha": "2026-09-10T21:11:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-11"
+ },
+ {
+  "titulo": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "fecha": "2026-09-10T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-11"
+ },
+ {
   "titulo": "Cómo usar NotebookLM para ayudarte a estudiar y repasar en el nuevo curso escolar",
   "url": "https://www.xataka.com/basics/como-usar-notebooklm-para-ayudarte-a-estudiar-repasar-nuevo-curso-escolar",
   "fecha": "2026-09-10T08:31:00+00:00",
