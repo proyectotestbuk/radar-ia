@@ -1,5 +1,435 @@
 [
  {
+  "titulo": "\"Una amenaza general al trabajo intelectual\": las mentes matemáticas más brillantes, contra el modus operandi de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/amenaza-general-al-trabajo-intelectual-mentes-matematicas-brillantes-modus-operandi-ia",
+  "fecha": "2026-09-12T08:31:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "En China los tokens de IA son los nuevos puntos de fidelización: te los regalan por comer, beber o usar una tarjeta",
+  "url": "https://www.xataka.com/robotica-e-ia/china-tokens-ia-nuevos-puntos-fidelizacion-te-regalan-comer-beber-usar-tarjeta",
+  "fecha": "2026-09-11T18:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Los centros de datos quieren instalarse en España. El Gobierno tiene una condición: que traigan su propia energía",
+  "url": "https://www.xataka.com/energia/centros-datos-quieren-instalarse-espana-gobierno-tiene-condicion-que-traigan-su-propia-energia",
+  "fecha": "2026-09-11T10:31:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Anthropic ha pillado a China copiando Claude. De paso ha demostrado cuánto sabe sobre lo que hacemos con él",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-pillado-a-china-copiando-claude-paso-ha-demostrado-cuanto-sabe-que-hacemos",
+  "fecha": "2026-09-11T09:47:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "El comandante y el piloto de la misión Artemisa II de la NASA a la Luna dejan la agencia y pasan a ser astronautas eméritos",
+  "url": "http://www.microsiervos.com/archivo/espacio/comandante-piloto-artemisa-ii-astronautas-emeritos-nasa.html",
+  "fecha": "2026-09-11T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Alexander Graham Bell, sus cometas tetraédricas y su mujer Mabel, impulsora de una asociación de vuelo experimental",
+  "url": "http://www.microsiervos.com/archivo/tecnologia/alexander-graham-bell-cometas-tetraedricas-mabel-asociacion-de-vuelo-experimental.html",
+  "fecha": "2026-09-11T11:10:43+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Hugging Face security.txt",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/",
+  "fecha": "2026-09-11T10:01:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/",
+  "fecha": "2026-09-11T16:27:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Terminal Bench v4 scores",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores/",
+  "fecha": "2026-09-11T10:19:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Is a ZIMA Board 2 + RTX 2000 ADA the cheapest path to a decent Qwen-3.8 27b self-contained endpoint?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/",
+  "fecha": "2026-09-11T19:46:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Orukeet, new ASR model based on Parakeet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/",
+  "fecha": "2026-09-11T15:50:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Countering misuse of AI: September 2026 / Anthropic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic/",
+  "fecha": "2026-09-12T00:36:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Any 12gb VRAM users out there?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there/",
+  "fecha": "2026-09-11T16:32:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Nex N2.5 Pro (407GB) released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbd0b/nex_n25_pro_407gb_released/",
+  "fecha": "2026-09-11T09:31:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "nvidia rtx 5090 with 96gb of vram.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
+  "fecha": "2026-09-11T20:32:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "CUDA/HIP: Flash Attention tuning (gfx1201) by pwilkin · Pull Request #28102 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/",
+  "fecha": "2026-09-11T09:27:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Concerning \"humanlike models\" and chatbot RP in general...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
+  "fecha": "2026-09-12T04:36:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Qwen-Next seems worse to me then 3.8 27b for coding, but I feel like I must be missing something?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding/",
+  "fecha": "2026-09-12T00:05:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "CodeFinetuner: Fine-tune a local code autocomplete model on your own codebase",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete/",
+  "fecha": "2026-09-11T18:56:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Unsloth UD-quants - Qwen 3.8 27b for example - worth using 8-bit or stick with faster 6 bit for coding?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth/",
+  "fecha": "2026-09-12T04:18:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Fine-tuning Qwen 3 4B Base on 100 zebra puzzles yielded +31% on MATH-500. 6.5-min (Single H100/H200) reproduction notebook included.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdhb24/finetuning_qwen_3_4b_base_on_100_zebra_puzzles/",
+  "fecha": "2026-09-11T14:06:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
+  "fecha": "2026-09-11T19:41:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Hot Expert Reload on GPU is what this community needs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl1d0/hot_expert_reload_on_gpu_is_what_this_community/",
+  "fecha": "2026-09-11T16:25:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Thinking that we’ll get safety by CoT traces is wishful thinking. Safety lives in the harness, not the chain of thought",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdi8au/thinking_that_well_get_safety_by_cot_traces_is/",
+  "fecha": "2026-09-11T14:42:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "7900 XTX + 32/64GB RAM for Qwen 3.8 Flash Next?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/",
+  "fecha": "2026-09-11T10:40:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Antirez Deepseek 4.1 flash gguf on HF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf/",
+  "fecha": "2026-09-12T07:05:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Ion (zero install harness, runs on browser)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdgte7/ion_zero_install_harness_runs_on_browser/",
+  "fecha": "2026-09-11T13:47:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "What GPUs will give me GOOD speeds and on DSV4 Flash and similar models, and not have to run a mega quantized version? Budget around $15k-ish.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdooag/what_gpus_will_give_me_good_speeds_and_on_dsv4/",
+  "fecha": "2026-09-11T18:36:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Got an old slow low vram GPU laying around? Might be worth it to use for Just Vision mmproj llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdyprr/got_an_old_slow_low_vram_gpu_laying_around_might/",
+  "fecha": "2026-09-12T01:18:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "This is why we need open-source harnesses + local models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local/",
+  "fecha": "2026-09-11T22:25:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat/",
+  "fecha": "2026-09-12T00:44:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "OpenAI agents attacked RubyGems back in May",
+  "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+  "fecha": "2026-09-12T00:42:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "So you want to use OpenRouter?",
+  "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+  "fecha": "2026-09-11T22:49:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Quoting Boris Cherny",
+  "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+  "fecha": "2026-09-11T17:47:11+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Feeling sad about AI",
+  "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+  "fecha": "2026-09-11T17:28:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Quoting huggingface.co/security.txt",
+  "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+  "fecha": "2026-09-11T16:04:53+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Soft-deprecating re.match()",
+  "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
+  "fecha": "2026-09-11T14:47:57+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "Don't sleep on wrapture",
+  "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+  "fecha": "2026-09-11T13:51:32+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "datasette-publish-fly 1.4",
+  "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
+  "fecha": "2026-09-11T02:58:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "github-to-sqlite 2.9.1",
+  "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+  "fecha": "2026-09-11T00:28:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "datasette 0.65.4",
+  "url": "https://simonwillison.net/2026/Sep/11/datasette/",
+  "fecha": "2026-09-11T00:06:55+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "datasette 1.0a39",
+  "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
+  "fecha": "2026-09-11T00:05:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-12"
+ },
+ {
+  "titulo": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+  "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+  "fecha": "2026-09-12T05:56:05+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-12"
+ },
+ {
   "titulo": "La NASA quiere entender mejor la Luna antes de volver allí. Ha creado con IBM una IA para encontrar hielo y nuevos cráteres",
   "url": "https://www.xataka.com/espacio/nasa-quiere-entender-mejor-luna-antes-volver-alli-ha-creado-ibm-ia-para-encontrar-hielo-nuevos-crateres",
   "fecha": "2026-09-10T19:01:00+00:00",
