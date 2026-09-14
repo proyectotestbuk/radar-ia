@@ -1,5 +1,315 @@
 [
  {
+  "titulo": "“¿Por qué esto no lo está construyendo el Gobierno?”: Dario Amodei cree que la IA es demasiado importante para dejarla en manos privadas",
+  "url": "https://www.xataka.com/robotica-e-ia/que-esto-no-esta-construyendo-gobierno-dario-amodei-cree-que-ia-demasiado-importante-para-dejarla-manos-privadas",
+  "fecha": "2026-09-14T10:01:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Todos quieren frenar la carrera de la IA. Hay un problema: nadie se fía lo suficiente del otro como para ser el primero",
+  "url": "https://www.xataka.com/robotica-e-ia/todos-quieren-frenar-carrera-ia-hay-problema-nadie-se-fia-suficiente-otro-como-para-ser-primero",
+  "fecha": "2026-09-14T07:48:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Cuando el software se conseguía copiando largos y aburridos listados de las revistas que se vendían en los quioscos",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/software-copiando-largos-aburridos-listados-revistas.html",
+  "fecha": "2026-09-13T23:45:58+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
+  "fecha": "2026-09-13T17:42:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
+  "fecha": "2026-09-14T01:37:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Right to Intelligence. Protect your right to run local AI.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfqwfh/right_to_intelligence_protect_your_right_to_run/",
+  "fecha": "2026-09-14T02:24:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China -- \"I think you have a lot of negative forces that are...bringing up things that won’t happen...whoever wins with AI wins\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development/",
+  "fecha": "2026-09-13T22:43:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "RTX PRO 5500 Blackwell (84GB) released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released/",
+  "fecha": "2026-09-14T08:19:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "The rhetoric is really heating up!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up/",
+  "fecha": "2026-09-13T12:41:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "5090 Stock is Almost Gone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wft5v9/5090_stock_is_almost_gone/",
+  "fecha": "2026-09-14T04:15:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Aurora1.0-150M Releases!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/",
+  "fecha": "2026-09-13T18:46:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/",
+  "fecha": "2026-09-13T16:03:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "internlm/Intern-S2 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/",
+  "fecha": "2026-09-13T10:19:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Qwen3.8 flash next - untrained svg generation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf9uc5/qwen38_flash_next_untrained_svg_generation/",
+  "fecha": "2026-09-13T14:54:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run/",
+  "fecha": "2026-09-13T17:25:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Talk me out of buying a 3rd Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
+  "fecha": "2026-09-13T17:47:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Decided to build a game, and test the ceiling of Qwen3.8 27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpyvv/decided_to_build_a_game_and_test_the_ceiling_of/",
+  "fecha": "2026-09-14T01:40:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Micron's memory wall chart. Compute up ~3x every two years, HBM bandwidth under 2x",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfrk63/microns_memory_wall_chart_compute_up_3x_every_two/",
+  "fecha": "2026-09-14T02:56:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Migration from Claude Code to a private local harness. Questions.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/",
+  "fecha": "2026-09-13T16:32:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Another Qwen3.8-27b Appreciation Post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfsvgy/another_qwen3827b_appreciation_post/",
+  "fecha": "2026-09-14T04:01:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "My experience building 64GB VRAM AI SWE assistant/agent PC",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/",
+  "fecha": "2026-09-13T14:16:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Are there any experimental small models (9B or less) which are out or currently being trained using engram/n-grams?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfkb2t/are_there_any_experimental_small_models_9b_or/",
+  "fecha": "2026-09-13T21:29:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "R9V Update: now ~100 tok/s in TG on Qwen3.8 Flash Next IQ4_XS on x2 R9700 + 128GB RAM. Fixed crashes with n-gram SSD streaming, improved diagnostics, plus pinned images. Q4_K_XL now supported, 50 tok/s TG.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfroih/r9v_update_now_100_toks_in_tg_on_qwen38_flash/",
+  "fecha": "2026-09-14T03:01:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "best local model for Japanese translation right now?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpvw5/best_local_model_for_japanese_translation_right/",
+  "fecha": "2026-09-14T01:36:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "CUDA-for-AMD-Windows: Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfij7a/cudaforamdwindows_run_cudatargeted_windows/",
+  "fecha": "2026-09-13T20:19:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
+  "fecha": "2026-09-13T15:50:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "3D viz of how Deepseek Flash v4.1 is different from a typical decode only transformer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfty27/3d_viz_of_how_deepseek_flash_v41_is_different/",
+  "fecha": "2026-09-14T04:56:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "I have just moved from MacBook M5 pro 48 GB to RTX3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/",
+  "fecha": "2026-09-13T18:25:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "commit-rewriter 0.1",
+  "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+  "fecha": "2026-09-14T00:28:10+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "shot-scraper 1.12",
+  "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+  "fecha": "2026-09-13T23:58:14+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-14"
+ },
+ {
+  "titulo": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "fecha": "2026-09-10T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-14"
+ },
+ {
   "titulo": "Las GPU están por las nubes: esta web ha cartografiado la subida de las RTX 50 y RX 9000 en 2026 y es demencial",
   "url": "https://www.xataka.com/componentes/gpu-estan-nubes-esta-web-ha-cartografiado-subida-rtx-50-rx-9000-2026-demencial",
   "fecha": "2026-09-13T09:01:00+00:00",
