@@ -1,5 +1,425 @@
 [
  {
+  "titulo": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
+  "fecha": "2026-09-16T07:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso techie definitivo",
+  "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo",
+  "fecha": "2026-09-16T07:24:44+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Justo cuando parecía que Google estaba solucionando el problema de fragmentación de Android, llegó la IA",
+  "url": "https://www.xataka.com/moviles/justo-cuando-parecia-que-google-estaba-solucionando-problema-fragmentacion-android-llego-ia",
+  "fecha": "2026-09-15T20:00:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "datos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Frenar la IA suena a proteger a la humanidad. También es una forma muy eficaz de frenar a DeepSeek, Qwen y Mistral",
+  "url": "https://www.xataka.com/robotica-e-ia/frenar-ia-suena-a-proteger-a-humanidad-tambien-forma-muy-eficaz-frenar-a-deepseek-qwen-mistral",
+  "fecha": "2026-09-15T16:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Llevo 21 años sin ver la F1, pero entrar a su centro de datos itinerante de 650 TB ha sido el paraíso 'techie' definitivo",
+  "url": "https://www.xataka.com/empresas-y-economia/llevo-21-anos-ver-f1-entrar-a-su-centro-datos-itinerante-650-tb-ha-sido-paraiso-techie-definitivo-1",
+  "fecha": "2026-09-15T16:08:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Los estudiantes usan IA para hacer trampas. Ahora pierden horas intentando que no se note",
+  "url": "https://www.xataka.com/robotica-e-ia/estudiantes-usan-ia-para-hacer-trampas-ahora-pierden-horas-intentando-que-no-se-note",
+  "fecha": "2026-09-15T16:00:13+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "La IA es la nueva fiebre del oro y Fujitsu tiene un plan: devolver Japón a los días dorados con su chip Monaka",
+  "url": "https://www.xataka.com/procesadores/ia-nueva-fiebre-oro-fujitsu-tiene-plan-devolver-japon-a-dias-dorados-su-chip-monaka",
+  "fecha": "2026-09-15T14:00:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "El debate sobre la IA ya no enfrenta a optimistas y pesimistas. Enfrenta a empresas con miles de millones en juego",
+  "url": "https://www.xataka.com/robotica-e-ia/debate-ia-no-enfrenta-a-optimistas-pesimistas-enfrenta-a-empresas-miles-millones-juego",
+  "fecha": "2026-09-15T10:46:10+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Va a ser el fin del mundo por culpa de la IA a menos que hagamos algo, coinciden (casi) todos los responsables de la IA mundial",
+  "url": "http://www.microsiervos.com/archivo/ia/fin-del-mundo-ia.html",
+  "fecha": "2026-09-16T00:15:20+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Entra en vigor el bloqueo automático de SMS comerciales y similares que usen un nombre no registrado con la CNMC para identificarse",
+  "url": "http://www.microsiervos.com/archivo/gadgets/bloqueo-automatico-sms-nombre-no-registrado.html",
+  "fecha": "2026-09-15T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "IPW: Inteligencia por vatio, una nueva forma de medir la eficiencia de la IA",
+  "url": "http://www.microsiervos.com/archivo/ia/ipw-inteligencia-por-vatio-medir-eficiencia-ia.html",
+  "fecha": "2026-09-14T22:36:43+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Cruce de cables: La nueva ley italiana sobre inteligencia artificial",
+  "url": "http://www.microsiervos.com/archivo/ia/cruce-cables-101-nueva-ley-italiana-inteligencia-artificial.html",
+  "fecha": "2026-09-14T17:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "La evolución de la estructura de las noticias a lo largo del tiempo debido al clickbait",
+  "url": "http://www.microsiervos.com/archivo/opinion/evolucion-estructura-noticias-tiempo-clickbait.html",
+  "fecha": "2026-09-14T12:08:16+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Aviationtag tiene a la venta llaveros hechos con el fuselaje del Hekla Aurora, el precioso B757 de Icelandair que volaba con los colores de la aurora boreal",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/avitiontag-llaveros-avion-hekla-aurora.html",
+  "fecha": "2026-09-14T11:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Don’t buy a $9K RTX 5090.... instead.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead/",
+  "fecha": "2026-09-15T22:36:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "CrofAI \"cheapest inference provider in the world\" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire online presence",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world/",
+  "fecha": "2026-09-15T10:19:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor/",
+  "fecha": "2026-09-15T10:24:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Koboldcpp v1.121 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/",
+  "fecha": "2026-09-15T15:57:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Apple Foundation Models: local AI natively on MacOS 27",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/",
+  "fecha": "2026-09-15T16:37:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38/",
+  "fecha": "2026-09-15T16:36:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "ByteShape Qwen 3.8 27B: To KL Diverge or Not to KL Diverge, Part 2: Metric Boogaloo",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh21e9/byteshape_qwen_38_27b_to_kl_diverge_or_not_to_kl/",
+  "fecha": "2026-09-15T14:31:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Occamy-1.0 by Accio Lab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab/",
+  "fecha": "2026-09-15T12:38:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Hey, Meta. Where's those Muse Spark weights?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whqm2c/hey_meta_wheres_those_muse_spark_weights/",
+  "fecha": "2026-09-16T07:46:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Qwen3.8-27B-NVFP4 1M context. So far so good.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4gai/qwen3827bnvfp4_1m_context_so_far_so_good/",
+  "fecha": "2026-09-15T16:01:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Qwen3.8 27b Game Dev Part 2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2/",
+  "fecha": "2026-09-16T02:08:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "What's the next local model you are excited about?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whiz3y/whats_the_next_local_model_you_are_excited_about/",
+  "fecha": "2026-09-16T01:18:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Best hardware for qwen 3.8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38/",
+  "fecha": "2026-09-15T09:52:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "LACT PR to let NVIDIA gpus go lower than stock VBIOS limit (so below 400W for 5090, or below 250W for 6000 PRO MaxQ)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjezk/lact_pr_to_let_nvidia_gpus_go_lower_than_stock/",
+  "fecha": "2026-09-16T01:37:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "DeepSeek V4.1F Q4 on M3 Ultra with native DSpark MTP (40tps / 800tps)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark/",
+  "fecha": "2026-09-15T11:51:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Open Source Appreciation Post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/",
+  "fecha": "2026-09-16T01:20:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "10%+ performance improvement on MoE ssd-streaming with expert-lookahead",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh3ek8/10_performance_improvement_on_moe_ssdstreaming/",
+  "fecha": "2026-09-15T15:23:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "mlabonne/LFM2.5-230M-Chess · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face/",
+  "fecha": "2026-09-16T04:53:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "For Web game development, I swear Flash Next on Q2 is better than Gemini Flash 3.8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whbhty/for_web_game_development_i_swear_flash_next_on_q2/",
+  "fecha": "2026-09-15T20:13:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Voice Acting Arena",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whdgee/voice_acting_arena/",
+  "fecha": "2026-09-15T21:26:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "I benchmarked IFM/K2-Horizon-7B on 16GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram/",
+  "fecha": "2026-09-15T19:25:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Connected a local model (Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M) to GIMP via MCP tools using llama.cpp - and here's the image result from my first prompt \"can you draw a picture of a flower in gimp?\". Needs work. Setup follows.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjqv6/connected_a_local_model/",
+  "fecha": "2026-09-16T01:52:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Avoid online stores like serversfit.com or spwindustrial.com",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5rzf/avoid_online_stores_like_serversfitcom_or/",
+  "fecha": "2026-09-15T16:49:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "What's the best open weight model for Blender? That's comparable to Astra",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whpe2r/whats_the_best_open_weight_model_for_blender/",
+  "fecha": "2026-09-16T06:38:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Qwen3.8 27B with embeddings",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgxnhi/qwen38_27b_with_embeddings/",
+  "fecha": "2026-09-15T11:25:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Gemini Live audio",
+  "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+  "fecha": "2026-09-15T22:47:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Your Agent Aced the Task. Will It Do It Again?",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "fecha": "2026-09-15T16:00:44+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-16"
+ },
+ {
+  "titulo": "Can Skills Learned in Games Transfer to Real-World Work?",
+  "url": "https://www.latent.space/p/good-start-labs",
+  "fecha": "2026-09-15T20:11:54+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-16"
+ },
+ {
   "titulo": "Qué es y quién está detrás de METR, el organismo que Anthropic propone para supervisar que la IA no sea un peligro para la sociedad",
   "url": "https://www.xataka.com/robotica-e-ia/que-quien-esta-detras-metr-organismo-que-anthropic-propone-para-supervisar-que-ia-no-sea-peligro-para-sociedad",
   "fecha": "2026-09-15T09:31:01+00:00",
