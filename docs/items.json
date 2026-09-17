@@ -1,5 +1,415 @@
 [
  {
+  "titulo": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
+  "url": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
+  "fecha": "2026-09-17T08:30:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Apple planea volver al mercado de servidores para IA de la mano de Nvidia y el chip M8 Ultra, según The Information",
+  "url": "https://www.xataka.com/empresas-y-economia/apple-planea-volver-al-mercado-servidores-para-ia-mano-nvidia-chip-m8-ultra-the-information",
+  "fecha": "2026-09-17T08:16:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Mientras unos piden parar la IA y otros acelerar, Zuckerberg ha encontrado la tercera vía: vender seguridad",
+  "url": "https://www.xataka.com/robotica-e-ia/para-zuckerberg-seguridad-ia-no-freno-argumento-venta-anthropic-openai",
+  "fecha": "2026-09-16T15:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "La nueva idea de uno de los creadores de ChatGPT es una IA que no sabe escribir. Esa es precisamente su ventaja",
+  "url": "https://www.xataka.com/robotica-e-ia/nueva-idea-uno-creadores-chatgpt-ia-que-no-sabe-escribir-esa-precisamente-su-ventaja",
+  "fecha": "2026-09-16T14:16:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "“El mundo tiene razón al tener miedo de la IA”. La solución de Sam Altman es que confiemos en quienes la están construyendo",
+  "url": "https://www.xataka.com/robotica-e-ia/mundo-tiene-razon-al-tener-miedo-ia-solucion-sam-altman-que-confiemos-quienes-estan-construyendo",
+  "fecha": "2026-09-16T12:46:10+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Un agente de IA ha protagonizado un ciberataque en España. La AEPD nunca había visto uno",
+  "url": "https://www.xataka.com/robotica-e-ia/agente-ia-ha-protagonizado-ciberataque-espana-aepd-nunca-habia-visto-uno",
+  "fecha": "2026-09-16T10:46:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "El legado fotográfico de Ruth Matilda Anderson en sus viajes por España hace un siglo, ahora disponible en la Web",
+  "url": "http://www.microsiervos.com/archivo/fotografia/viaje-lente-ruth-matilda-anderson-fotografia.html",
+  "fecha": "2026-09-16T21:39:14+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "La NASA estima que el telescopio espacial Nancy Grace Roman tiene combustible como para doce años más de lo previsto",
+  "url": "http://www.microsiervos.com/archivo/espacio/telecopio-espacial-roman-combustible-doce-anos-mas-previsto.html",
+  "fecha": "2026-09-16T18:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Rusia lanza la cápsula de carga Progress MS-35 rumbo a la Estación Espacial Internacional con un cohete nuevo en estos menesteres",
+  "url": "http://www.microsiervos.com/archivo/espacio/rusia-lanza-capsula-carga-progress-ms-35-hacia-estacion-espacial.html",
+  "fecha": "2026-09-16T15:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
+  "fecha": "2026-09-16T17:02:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
+  "fecha": "2026-09-17T04:18:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wihgum/i_literally_built_the_jev_architecture_one_year/",
+  "fecha": "2026-09-17T02:31:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Apple May Return to Server Market With Nvidia Technology",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
+  "fecha": "2026-09-16T14:07:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
+  "fecha": "2026-09-16T20:50:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Xiaomi MiMo 2.6 Live Training Dashboard",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
+  "fecha": "2026-09-16T20:49:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Frontier LLM development simplified for politicians:",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/",
+  "fecha": "2026-09-16T18:38:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Mozilla Report: China-U.S. AI Model Capability Gap Narrows to 4.4 Months",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whsw2g/mozilla_report_chinaus_ai_model_capability_gap/",
+  "fecha": "2026-09-16T10:00:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
+  "fecha": "2026-09-16T13:24:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Openjev",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
+  "fecha": "2026-09-16T22:01:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "i left gpu poor range",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi6ew4/i_left_gpu_poor_range/",
+  "fecha": "2026-09-16T19:00:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Qwen3.8 Max (0902) scores 45 on the Artificial Analysis Intelligence Index, up 5 points in a month and back on top of China's leaderboard, nosing out GLM-5.3 (44.9) and Kimi K3 (43.8)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial/",
+  "fecha": "2026-09-16T15:26:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "LocalJev?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev/",
+  "fecha": "2026-09-16T13:34:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "[Release] SOTA GGUFs for Qwen3.8-Flash-Next: GSQ-RCO Providing Near Baseline Performance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whu67w/release_sota_ggufs_for_qwen38flashnext_gsqrco/",
+  "fecha": "2026-09-16T11:09:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "What's the current best LLM uncensoring method?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method/",
+  "fecha": "2026-09-16T16:32:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Qwen3.5 4B + grabbing logits is almost \"Jev\"? Or even just Qwen Reranker?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whzy7j/qwen35_4b_grabbing_logits_is_almost_jev_or_even/",
+  "fecha": "2026-09-16T15:10:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "XingChen-AGI/Xing4.0-29B-A4B MoE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/",
+  "fecha": "2026-09-17T06:46:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Recurrent Looped Transformer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer/",
+  "fecha": "2026-09-16T13:30:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "qwen4exp: add hc ops by am17an · Pull Request #28901 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whsqio/qwen4exp_add_hc_ops_by_am17an_pull_request_28901/",
+  "fecha": "2026-09-16T09:51:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Upgraded my local setup with 2 rtx pros and it's amazing.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its/",
+  "fecha": "2026-09-16T23:43:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Qwen3.8 Flash on 12GB VRAM - 15 tokens/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi46on/qwen38_flash_on_12gb_vram_15_tokenss/",
+  "fecha": "2026-09-16T17:41:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "1.3B token used recently, qwen3.8 27b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ka0/13b_token_used_recently_qwen38_27b/",
+  "fecha": "2026-09-16T20:55:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Enable CUDA graph for MTP draft by gaugarg-nv · Pull Request #28549 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5pwg/enable_cuda_graph_for_mtp_draft_by_gaugargnv_pull/",
+  "fecha": "2026-09-16T18:36:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "I built a native Vulkan training backend for 143 modern Transformer architectures — no CUDA or PyTorch required",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143/",
+  "fecha": "2026-09-16T23:43:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Qwen 3.8 27b is a amazing model, for the first time I see a local model found its own away to open a browser and test",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wii0qe/qwen_38_27b_is_a_amazing_model_for_the_first_time/",
+  "fecha": "2026-09-17T02:57:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "datasette 1.0a40",
+  "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+  "fecha": "2026-09-16T23:51:43+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "datasette 0.65.5",
+  "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+  "fecha": "2026-09-16T23:51:08+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Claude Cowork and chat are now one Claude",
+  "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+  "fecha": "2026-09-16T18:09:49+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Quoting Mustafa Suleyman",
+  "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+  "fecha": "2026-09-16T16:00:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+  "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+  "fecha": "2026-09-17T07:28:25+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+  "url": "https://www.latent.space/p/aiuc",
+  "fecha": "2026-09-16T18:07:45+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-17"
+ },
+ {
+  "titulo": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+  "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+  "fecha": "2026-09-16T11:09:53+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-17"
+ },
+ {
   "titulo": "\"No vamos a permitir que eso suceda\" Jensen Huang, CEO de NVIDIA, sobre frenar el desarrollo de la IA",
   "url": "https://www.xataka.com/robotica-e-ia/no-vamos-a-permitir-que-eso-suceda-jensen-huang-ceo-nvidia-frenar-desarrollo-ia",
   "fecha": "2026-09-16T07:30:12+00:00",
