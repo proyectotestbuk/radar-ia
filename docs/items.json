@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "“No queremos que estas cosas operen de forma autónoma”: Microsoft AI marca distancias con Anthropic por la seguridad de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
+  "fecha": "2026-09-18T06:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Las empresas que llevan años acelerando la IA empiezan a hablar de límites. Microsoft acaba de poner los suyos por escrito",
+  "url": "https://www.xataka.com/empresas-y-economia/empresas-que-llevan-anos-acelerando-ia-empiezan-a-hablar-limites-microsoft-acaba-poner-suyos-escrito",
+  "fecha": "2026-09-17T13:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "\"No respondes ante corporaciones ni gobiernos\": OpenAI publica seis nuevos casos en los que sus modelos experimentales montaron un caos",
+  "url": "https://www.xataka.com/robotica-e-ia/no-respondes-corporaciones-gobiernos-openai-publica-seis-nuevos-casos-que-sus-modelos-experimentales-montaron-caos",
+  "fecha": "2026-09-17T12:16:10+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Jensen Huang, CEO de Nvidia: \"No necesitamos nuevas leyes, no necesitamos nuevas regulaciones\"",
+  "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-ceo-nvidia-no-necesitamos-nuevas-leyes-no-necesitamos-nuevas-regulaciones",
+  "fecha": "2026-09-17T10:00:14+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Curiosity envía un selfie para celebrar sus 5.000 días marcianos en funcionamiento",
+  "url": "http://www.microsiervos.com/archivo/espacio/curiosity-slfie-5000-soles-marte.html",
+  "fecha": "2026-09-18T08:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
+  "fecha": "2026-09-17T21:05:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/",
+  "fecha": "2026-09-17T19:30:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and/",
+  "fecha": "2026-09-17T18:34:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "shots fired at dario from glm",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
+  "fecha": "2026-09-17T16:08:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "153 tok/s on 1x AMD Radeon R9700 running Qwen3.8 27b NVFP4, 470 tok/s @ 8 conc requests, Prefill @ 3,619 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38/",
+  "fecha": "2026-09-17T15:14:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/",
+  "fecha": "2026-09-17T20:05:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+  "fecha": "2026-09-18T06:25:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Does anyone use uncensored models purely for coding?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for/",
+  "fecha": "2026-09-17T14:29:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiu7xj/keeping_vllms_prefix_cache_warm_between_agent/",
+  "fecha": "2026-09-17T13:36:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips/",
+  "fecha": "2026-09-17T11:53:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Update : Small model + Engram",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wis23s/update_small_model_engram/",
+  "fecha": "2026-09-17T12:02:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
+  "fecha": "2026-09-17T23:28:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "First M5 Ultra benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wisr6h/first_m5_ultra_benchmarks/",
+  "fecha": "2026-09-17T12:34:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "IFM/K2-Horizon-7B-Uno · Hugging Face - 5200tps with no quality loss",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/",
+  "fecha": "2026-09-17T18:43:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "I just realized Courage used local LLMs to solve his problems before any of us ever did.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjeuy7/i_just_realized_courage_used_local_llms_to_solve/",
+  "fecha": "2026-09-18T03:20:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "still doesn’t get what Jev is…..is it just a more generalised BERT?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more/",
+  "fecha": "2026-09-18T02:45:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "600tok/s single request on qwen3.6 35ba3b with Ninfer on an RTX Pro 6000. Anybody remember that Comcast ad \"stupid fast\"?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wja9ml/600toks_single_request_on_qwen36_35ba3b_with/",
+  "fecha": "2026-09-17T23:47:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "ZCode was allegedly caught uploading workspace/.git records to the cloud.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/",
+  "fecha": "2026-09-18T07:49:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Humor Arena: Which LLM is the funniest?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3rrv/humor_arena_which_llm_is_the_funniest/",
+  "fecha": "2026-09-17T19:29:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Ternary Bonsai is a headless chicken",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken/",
+  "fecha": "2026-09-18T04:50:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Intel releases OpenVINO 2026.4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wipkd2/intel_releases_openvino_20264/",
+  "fecha": "2026-09-17T09:51:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Qwen 3.8 Next Flash appreciation post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post/",
+  "fecha": "2026-09-18T06:42:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "September 2026 updated chart of strix halo mini pc size chartstrix.png",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6zxt/september_2026_updated_chart_of_strix_halo_mini/",
+  "fecha": "2026-09-17T21:31:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Qwen Next 3.8 / Claude Opus level local model - What to buy in order to deploy?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wipju7/qwen_next_38_claude_opus_level_local_model_what/",
+  "fecha": "2026-09-17T09:50:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "dual 7900 xtx - some guy made a pretty optimized fork of lamacpp optimized for this setup Qwen 3.8 Q8 at 82 tokens / seconds decode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjd5hf/dual_7900_xtx_some_guy_made_a_pretty_optimized/",
+  "fecha": "2026-09-18T02:00:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Be alert: targeted attacks on prominent Rustaceans",
+  "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+  "fecha": "2026-09-17T23:59:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "How To Write With An LLM",
+  "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+  "fecha": "2026-09-17T23:37:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "Self-generated prompt injections in compaction summaries",
+  "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+  "fecha": "2026-09-17T20:57:55+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-18"
+ },
+ {
+  "titulo": "[AINews] not much happened today",
+  "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+  "fecha": "2026-09-18T06:28:43+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-18"
+ },
+ {
   "titulo": "\"El futuro del hogar conectado no es instalar otra app más, es hablarle a tu casa por Telegram\", Noh Beom-jun, directivo de LG",
   "url": "https://www.xataka.com/entrevistas/futuro-hogar-conectado-no-instalar-otra-app-hablarle-a-tu-casa-telegram-noh-beom-jun-directivo-lg",
   "fecha": "2026-09-17T08:30:11+00:00",
