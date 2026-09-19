@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
+  "url": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
+  "fecha": "2026-09-18T17:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Racionalistas, altruistas eficaces y aceleracionistas: las tres tribus que se disputan el alma de la IA en Silicon Valley",
+  "url": "https://www.xataka.com/robotica-e-ia/racionalistas-altruistas-eficaces-aceleracionistas-tres-tribus-que-se-disputan-alma-ia-silicon-valley",
+  "fecha": "2026-09-18T13:16:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Si los actores tenían miedo de que un IA les reemplazara, la última tecnología de Amazon no les va a gustar demasiado",
+  "url": "https://www.xataka.com/cine-y-tv/amazon-lleva-doblaje-al-siguiente-nivel-ia-que-modifica-labios-actores-encajen-otra-voz",
+  "fecha": "2026-09-18T12:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Dos estudiantes valencianos crean con IA un \"Tinder\" para los trasplantes de hígado que busca reducir las listas de espera",
+  "url": "https://www.xataka.com/medicina-y-salud/dos-estudiantes-valencianos-crean-ia-tinder-para-trasplantes-higado-que-busca-reducir-listas-espera",
+  "fecha": "2026-09-18T10:46:10+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+  "fecha": "2026-09-19T01:57:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "768gb vram for less than the price of one RTX 6000",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
+  "fecha": "2026-09-18T14:04:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+  "fecha": "2026-09-19T02:08:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Is HF starting to move against abliterated models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models/",
+  "fecha": "2026-09-18T18:43:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal/",
+  "fecha": "2026-09-18T20:11:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "US government website used AI search tool (Qwen) from China that FBI said copied Anthropic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/",
+  "fecha": "2026-09-18T10:39:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Question: UkisAI Swift Ternary Bonsai 2 27B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjocnh/question_ukisai_swift_ternary_bonsai_2_27b/",
+  "fecha": "2026-09-18T12:04:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "bonsai's document reveal how much cherry picked their headlines are",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjnklv/bonsais_document_reveal_how_much_cherry_picked/",
+  "fecha": "2026-09-18T11:26:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Prism-ML Bonsai 2 Joins Our Qwen3.8 Quantization Comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization/",
+  "fecha": "2026-09-18T16:01:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "MiniMax Code goes open source",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
+  "fecha": "2026-09-18T14:44:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "inclusionAI/Realtime-Venus · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/",
+  "fecha": "2026-09-18T15:27:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+  "fecha": "2026-09-19T02:11:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Bonsai 1.7B can solve simple physics problems on a 12 watt intel N97 at about 9.1 t/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjla7f/bonsai_17b_can_solve_simple_physics_problems_on_a/",
+  "fecha": "2026-09-18T09:19:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Still on the Jev waitlist? I hosted OpenJev. It's free, go play with it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjlyzr/still_on_the_jev_waitlist_i_hosted_openjev_its/",
+  "fecha": "2026-09-18T09:59:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "NGL, I’m hyped to see if Qwen3.8 27b can make me a sandwich. Instant buy for me.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk22tw/ngl_im_hyped_to_see_if_qwen38_27b_can_make_me_a/",
+  "fecha": "2026-09-18T20:51:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on/",
+  "fecha": "2026-09-18T17:24:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Steer LLMs and Agents at the Token Level: An interactive tool for token visualization & control, model inspection and data annotation.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/",
+  "fecha": "2026-09-19T04:21:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Tuning Qwen 3.8 27B and OMP as a coding agent on 2× 3090s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2/",
+  "fecha": "2026-09-19T01:25:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Bonsai 2 27b Q2 - Donkey making coffee svg and a mushroom riding a donkey",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjt5f3/bonsai_2_27b_q2_donkey_making_coffee_svg_and_a/",
+  "fecha": "2026-09-18T15:21:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Built this yesterday with Qwen3.8-Flash-Next (NVFP4, 262K context) on a single NVIDIA DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4/",
+  "fecha": "2026-09-18T19:12:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Stepfun new model \"Step 5 Preview\" just leaked",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc2n1/stepfun_new_model_step_5_preview_just_leaked/",
+  "fecha": "2026-09-19T04:18:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next (95.5 GiB) on a 64GB Mac at ~27 tok/s, checkpoint + fork",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk14il/qwen38flashnext_955_gib_on_a_64gb_mac_at_27_toks/",
+  "fecha": "2026-09-18T20:15:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjujri/minimax_code_is_now_open_source_maybe_m31_is_the/",
+  "fecha": "2026-09-18T16:12:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "General warning about Clore.AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/",
+  "fecha": "2026-09-19T08:37:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Built a home server from an old PC with GPU upgrade. Qwen3.8 27B runs at ~30 tokens per second.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/",
+  "fecha": "2026-09-19T08:09:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+  "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+  "fecha": "2026-09-18T23:57:57+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Note on 18th September 2026",
+  "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+  "fecha": "2026-09-18T19:21:32+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "Quoting Thariq Shihipar",
+  "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+  "fecha": "2026-09-18T19:09:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "The Creative Spirit of Who Framed Roger Rabbit",
+  "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+  "fecha": "2026-09-18T14:36:41+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
+  "titulo": "[AINews] Here are 6 Clones of Jev in 2 days",
+  "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+  "fecha": "2026-09-19T05:48:28+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-19"
+ },
+ {
   "titulo": "“No queremos que estas cosas operen de forma autónoma”: Microsoft AI marca distancias con Anthropic por la seguridad de la IA",
   "url": "https://www.xataka.com/robotica-e-ia/no-queremos-que-estas-cosas-operen-forma-autonoma-microsoft-ai-marca-distancias-anthropic-seguridad-ia",
   "fecha": "2026-09-18T06:30:12+00:00",
