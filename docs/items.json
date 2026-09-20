@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
+  "url": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
+  "fecha": "2026-09-20T08:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "En algunos pueblos de China un médico atiende a más de 2.000 personas. La IA empieza a convertirse en su segunda opinión",
+  "url": "https://www.xataka.com/aplicaciones/algunos-pueblos-china-medico-atiende-a-2-000-personas-ia-empieza-a-convertirse-su-segunda-opinion",
+  "fecha": "2026-09-19T16:00:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "La IA no solo genera vídeos sueltos: en China acaba de producir una serie entera",
+  "url": "https://www.xataka.com/cine-y-tv/ia-no-solo-genera-videos-sueltos-china-acaba-producir-serie-entera",
+  "fecha": "2026-09-19T13:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Calling it now: within the next year a major US lab's frontier model will torrent itself in order to be free.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkocvj/calling_it_now_within_the_next_year_a_major_us/",
+  "fecha": "2026-09-19T14:56:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "With Gemini 4, bench goes up.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
+  "fecha": "2026-09-19T21:18:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Radeon RX 10800 XT can outperform the RTX 5090 by 15-25% in 4K gaming and local AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl1hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by/",
+  "fecha": "2026-09-19T23:54:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Von: Open-source 395M \"System One\" model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model/",
+  "fecha": "2026-09-19T16:00:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "I gave Jev, Laya, finetuned ModernCE and Qwen3.5 the controls to Doom",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl1yzq/i_gave_jev_laya_finetuned_modernce_and_qwen35_the/",
+  "fecha": "2026-09-20T00:15:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Please stop with the FP4 inference engines for the love of god",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl56g2/please_stop_with_the_fp4_inference_engines_for/",
+  "fecha": "2026-09-20T02:51:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "China's CXMT says new memory-chip platform enters mass production",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl9c2o/chinas_cxmt_says_new_memorychip_platform_enters/",
+  "fecha": "2026-09-20T06:29:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next at 1M context on Strix Halo: 38 tok/s decode, 18 min prefill (halogen 0.12.0)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38/",
+  "fecha": "2026-09-19T21:49:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "I tested Qwen3.8 27B IQ3_XXS (10.18GiB) vs Bonsai Ternary PQ2 (6.42GiB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkorli/i_tested_qwen38_27b_iq3_xxs_1018gib_vs_bonsai/",
+  "fecha": "2026-09-19T15:12:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwz69/ternarybonsai227bpq2_0_is_not_completely/",
+  "fecha": "2026-09-19T20:39:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "So i tried Remotion with glm 5.3 flash, this mfker is really good.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkmtbe/so_i_tried_remotion_with_glm_53_flash_this_mfker/",
+  "fecha": "2026-09-19T13:52:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "this looks promising: stepfun-ai/Step-5-Preview-BF16 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl6gro/this_looks_promising_stepfunaistep5previewbf16/",
+  "fecha": "2026-09-20T03:57:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Made this motion graphic video via glm 5.3 flash (no vid_gen model used)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wki7hr/made_this_motion_graphic_video_via_glm_53_flash/",
+  "fecha": "2026-09-19T10:02:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Finally got Qwen 3.8 Next running on my v100 6gpu setup (TP2 PP3)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl680s/finally_got_qwen_38_next_running_on_my_v100_6gpu/",
+  "fecha": "2026-09-20T03:44:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "What are you all using for long term project/conversational memory these days?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl3828/what_are_you_all_using_for_long_term/",
+  "fecha": "2026-09-20T01:14:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Qwen-3.8-Flash-Next on 1x RTX 5090: TG=50 t/s, PP=2300 t/s - with FreeToken",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl06np/qwen38flashnext_on_1x_rtx_5090_tg50_ts_pp2300_ts/",
+  "fecha": "2026-09-19T22:55:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkj13w/4x_rtx_3090_pcie_40_x16_advice_qwen_38_next_flash/",
+  "fecha": "2026-09-19T10:49:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Qwen 3.8 27B Running LIVE on a RTX 5090 to solve an Open Math Problem - Covering Design C(25,15,5)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl18ax/qwen_38_27b_running_live_on_a_rtx_5090_to_solve/",
+  "fecha": "2026-09-19T23:41:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Reached 1.89 TB/s memory bandwidth overclocking the CMP 170hx",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl9amq/reached_189_tbs_memory_bandwidth_overclocking_the/",
+  "fecha": "2026-09-20T06:27:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with/",
+  "fecha": "2026-09-19T20:34:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "What is the best tts to create audio books? One that support emotions?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkt26h/what_is_the_best_tts_to_create_audio_books_one/",
+  "fecha": "2026-09-19T18:05:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
+  "fecha": "2026-09-19T20:16:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "To the dozens of 3x 3090 Local LLM people - I found our current best fit",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl5hfk/to_the_dozens_of_3x_3090_local_llm_people_i_found/",
+  "fecha": "2026-09-20T03:06:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Is there something like NInfer but for 16GB cards?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
+  "fecha": "2026-09-19T12:31:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "Improved TPS of Gemma 4 31B : the journey and also creating custom patches with VLLM fork",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwy6g/improved_tps_of_gemma_4_31b_the_journey_and_also/",
+  "fecha": "2026-09-19T20:38:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "datasette-auth-github 1.0",
+  "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+  "fecha": "2026-09-19T19:52:02+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-20"
+ },
+ {
+  "titulo": "California Sea Lion, Brandt's Cormorant",
+  "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+  "fecha": "2026-09-19T17:10:08+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-20"
+ },
+ {
   "titulo": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
   "url": "https://www.xataka.com/robotica-e-ia/mayor-robo-laboral-historia-asi-describian-microsoft-uso-articulos-prensa-para-entrenar-ia-siguieron-haciendolo",
   "fecha": "2026-09-18T17:30:12+00:00",
