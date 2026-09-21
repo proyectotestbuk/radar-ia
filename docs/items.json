@@ -1,5 +1,315 @@
 [
  {
+  "titulo": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
+  "url": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
+  "fecha": "2026-09-20T17:00:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
+  "url": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
+  "fecha": "2026-09-20T11:30:12+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "La cápsula de carga Progress MS-35 llega a la Estación Espacial Internacional",
+  "url": "http://www.microsiervos.com/archivo/espacio/capsula-carga-progress-ms-25-llega-estacion-espacial-internacional.html",
+  "fecha": "2026-09-19T16:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Qwen-Image-2.1 released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
+  "fecha": "2026-09-20T13:12:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/",
+  "fecha": "2026-09-20T18:05:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "ZCode is now open source",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlzvcx/zcode_is_now_open_source/",
+  "fecha": "2026-09-21T02:09:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "What is JEV and what is it used for?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wleg4w/what_is_jev_and_what_is_it_used_for/",
+  "fecha": "2026-09-20T11:20:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
+  "fecha": "2026-09-20T19:49:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Would you buy a Qwen3.8-27B Taalas chip for $1k if it could run at 7,000 TPS?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if/",
+  "fecha": "2026-09-20T21:41:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Clarification on the Qwen-image-2.1 license",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+  "fecha": "2026-09-21T06:17:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Seeing how differently people prompt LLMs is funny",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny/",
+  "fecha": "2026-09-20T23:08:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "You can use any LLM just like JEV",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
+  "fecha": "2026-09-21T00:28:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
+  "fecha": "2026-09-20T18:26:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "mini-AGI - dynamically grown (530M params currently and growing) continual learning model trained from scratch on 8GB VRAM laptop from batch-1 stream of data.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm1gab/miniagi_dynamically_grown_530m_params_currently/",
+  "fecha": "2026-09-21T03:26:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "I tested 9 LLMs on the exact same web-dev prompt for ~8 hours — RTX 3060 12GB results (Rate the best!)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wljzix/i_tested_9_llms_on_the_exact_same_webdev_prompt/",
+  "fecha": "2026-09-20T15:26:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "I really don't understand Jev hype",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm65le/i_really_dont_understand_jev_hype/",
+  "fecha": "2026-09-21T07:43:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "CUDA: enable sparse fa for qwen4 by am17an · Pull Request #28770 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull/",
+  "fecha": "2026-09-20T16:03:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "laya.cpp: Optimized laya near-instant decision making",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/",
+  "fecha": "2026-09-20T17:06:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "DIY Jev",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev/",
+  "fecha": "2026-09-20T21:59:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Speed-up Kimi K3(2.8T) on a 16x GB10 Cluster — 30 t/s coding throughput, 136 t/s concurrency peak.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/speedup_kimi_k328t_on_a_16x_gb10_cluster_30_ts/",
+  "fecha": "2026-09-20T21:14:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
+  "fecha": "2026-09-20T18:10:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/",
+  "fecha": "2026-09-20T14:07:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Is Typesafe based/derived from work done by the Laya author?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlfmgq/is_typesafe_basedderived_from_work_done_by_the/",
+  "fecha": "2026-09-20T12:19:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "A Jev-style model fine-tuned on Qwen3.5 4B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/",
+  "fecha": "2026-09-20T16:39:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "rene98c/Step-5-Preview-BF16 • HuggingFace (Fork)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wleycb/rene98cstep5previewbf16_huggingface_fork/",
+  "fecha": "2026-09-20T11:47:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Wow... thank goodness for open weights!!!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvb3y/wow_thank_goodness_for_open_weights/",
+  "fecha": "2026-09-20T22:44:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Do NOT trust StepFun's Plan subscriptions., They stole >$100 from me with no warning, and I have not heard back from support at all.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvoq7/do_not_trust_stepfuns_plan_subscriptions_they/",
+  "fecha": "2026-09-20T23:00:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "My Qwen 3.8 27B tests on limited VRAM (16-20GB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlf6hb/my_qwen_38_27b_tests_on_limited_vram_1620gb/",
+  "fecha": "2026-09-20T11:58:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "Quoting voxium",
+  "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+  "fecha": "2026-09-20T21:06:43+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "llm-keys-ui 0.1",
+  "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+  "fecha": "2026-09-20T19:22:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-21"
+ },
+ {
+  "titulo": "datasette-explain 0.2.2",
+  "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+  "fecha": "2026-09-20T00:22:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-21"
+ },
+ {
   "titulo": "Diseñar un chip de IA suele llevar años. OpenAI encontró un atajo bastante obvio: usar su propia IA para hacerlo",
   "url": "https://www.xataka.com/componentes/disenar-chip-ia-suele-llevar-anos-openai-encontro-atajo-bastante-obvio-usar-su-propia-ia-para-hacerlo",
   "fecha": "2026-09-20T08:30:12+00:00",
