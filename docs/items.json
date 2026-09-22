@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "El Gobierno de España presenta su gran plan para la IA: gigafactorías, un gran \"contrato social\" e insertarla en Mi Carpeta Ciudadana",
+  "url": "https://www.xataka.com/robotica-e-ia/gran-plan-espanol-para-ia-no-va-solo-superordenadores-tambien-quiere-poner-asistente-tu-carpeta-ciudadana",
+  "fecha": "2026-09-21T16:29:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
+  "url": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
+  "fecha": "2026-09-21T12:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
+  "url": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
+  "fecha": "2026-09-21T12:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Qwen 4 Announced at Apsara Conference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+  "fecha": "2026-09-22T02:45:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/",
+  "fecha": "2026-09-21T12:21:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "How it feels watching prices go up",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up/",
+  "fecha": "2026-09-21T15:38:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/",
+  "fecha": "2026-09-21T20:09:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents - MacStories",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/",
+  "fecha": "2026-09-21T14:26:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
+  "fecha": "2026-09-21T15:21:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — AMD and Nvidia no longer have to worry.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas/",
+  "fecha": "2026-09-21T19:09:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "A better coder for the small-GPU/small-RAM crowd!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmgokc/a_better_coder_for_the_smallgpusmallram_crowd/",
+  "fecha": "2026-09-21T15:52:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/",
+  "fecha": "2026-09-21T20:51:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Uncensor an LLM without touching weights: inject a tiny trained KV-cache bank (~18MB) and unload it anytime",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a/",
+  "fecha": "2026-09-21T22:55:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
+  "fecha": "2026-09-22T03:35:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Deepseek training 2T and plans 8T model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model/",
+  "fecha": "2026-09-21T12:38:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "yandex/AliceAI-Foundation-80B-A3B-Base: Russian-developed competitor to Qwen 35B and DeepSeek V4 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmmnrt/yandexaliceaifoundation80ba3bbase/",
+  "fecha": "2026-09-21T19:24:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "MiMo-V2.6 distilled themselves into Qwen 9B!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
+  "fecha": "2026-09-21T23:50:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "XiaomiMiMo/MiMo-V2.6-Pro-RL · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmntwv/xiaomimimomimov26prorl_hugging_face/",
+  "fecha": "2026-09-21T20:06:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Mimo v2.6-Flash-RL vs open-weight models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp5h2/mimo_v26flashrl_vs_openweight_models/",
+  "fecha": "2026-09-21T20:54:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "tokenizers v1 (rust)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmfj04/tokenizers_v1_rust/",
+  "fecha": "2026-09-21T15:10:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Ngram and world knowledge - why are we just building a coding model?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2ybk/ngram_and_world_knowledge_why_are_we_just/",
+  "fecha": "2026-09-22T07:42:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Gewell - Gemma4 inference engine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8ede/gewell_gemma4_inference_engine/",
+  "fecha": "2026-09-21T09:56:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Hemmingway-1: An AI that writes like a person (Qwen3.8-27B finetune)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm88t6/hemmingway1_an_ai_that_writes_like_a_person/",
+  "fecha": "2026-09-21T09:47:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "[Splash Engine] Qwen3.8-27B in native 8-bit at 37–55 tok/s on Apple Silicon: Extending Splash to Q8, 256k context scaling, and the \"Reasoning Cliff\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmbbf9/splash_engine_qwen3827b_in_native_8bit_at_3755/",
+  "fecha": "2026-09-21T12:25:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "50+ Hours and 100M+ Tokens Later, Open Source Autonomous Agent is GETTING CLOSER at Solving an Open Math problem",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmqkx4/50_hours_and_100m_tokens_later_open_source/",
+  "fecha": "2026-09-21T21:49:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Can a relatively small language model (Qwen 3.8 27B) understand visual style and not just describe it?I asked it to recreate 618 visual language of designers, artists, movements etc and then transfer those ideas into entirely new SVG artworks and pages. Here what we have:",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmjpag/can_a_relatively_small_language_model_qwen_38_27b/",
+  "fecha": "2026-09-21T17:39:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Putting the question before the context took my local Qwen from 89% to 100% on a decision benchmark, and from ~400 ms to ~80 ms",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmd3xx/putting_the_question_before_the_context_took_my/",
+  "fecha": "2026-09-21T13:39:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Deterministic Kittens: fun with Qwen Image 2.1 on an M2 Macbook Pro",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb2ug/deterministic_kittens_fun_with_qwen_image_21_on/",
+  "fecha": "2026-09-21T12:14:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "url": "https://simonwillison.net/2026/Sep/21/jev/",
+  "fecha": "2026-09-21T23:09:20+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Cloudflare Python Workers are now generally available",
+  "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+  "fecha": "2026-09-21T22:25:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "MCP was always a bad idea?",
+  "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+  "fecha": "2026-09-20T20:24:41+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "url": "https://huggingface.co/blog/omlx",
+  "fecha": "2026-09-22T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "fecha": "2026-09-21T13:44:34+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "tokenizers v1: encode, decode and scaling, measured",
+  "url": "https://huggingface.co/blog/tokenizers-v1",
+  "fecha": "2026-09-21T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+  "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+  "fecha": "2026-09-22T06:30:56+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
+  "titulo": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+  "url": "https://www.latent.space/p/jev",
+  "fecha": "2026-09-21T22:13:49+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-22"
+ },
+ {
   "titulo": "20 años anticipando el Apocalipsis: todas las veces que alguien ha dicho que la IA nos iba a matar a todos",
   "url": "https://www.xataka.com/robotica-e-ia/20-anos-anticipando-apocalipsis-todas-veces-que-alguien-ha-dicho-que-ia-nos-iba-a-matar-a-todos",
   "fecha": "2026-09-20T17:00:12+00:00",
