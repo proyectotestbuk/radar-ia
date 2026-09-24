@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "Meta renueva su gama de gafas inteligentes y apuesta por su primer modelo sin cámara",
+  "url": "https://www.xataka.com/wearables/meta-renueva-su-gama-gafas-inteligentes-apuesta-su-primer-modelo-camara",
+  "fecha": "2026-09-24T07:29:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Europa quiere depender menos de EEUU en chips de IA. Alemania y Países Bajos tienen un plan: usar IA para diseñarlos",
+  "url": "https://www.xataka.com/robotica-e-ia/europa-quiere-depender-eeuu-chips-ia-alemania-paises-bajos-tienen-plan-usar-ia-para-disenarlos",
+  "fecha": "2026-09-23T18:35:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Quienes han tenido contacto con Muse cada vez tienen más clara su opinión: la gran promesa de la IA agéntica la está cumpliendo Meta",
+  "url": "https://www.xataka.com/robotica-e-ia/quienes-han-tenido-contacto-muse-cada-vez-tienen-clara-su-opinion-gran-promesa-ia-agentica-esta-cumpliendo-meta",
+  "fecha": "2026-09-23T14:31:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Shopify obligó a sus empleados a usar IA para trabajar mejor. Ahora su CEO tiene un nombre para el problema: granadas de slop",
+  "url": "https://www.xataka.com/robotica-e-ia/ceo-shopify-ha-descubierto-gran-problema-dejar-que-ia-haga-trabajo-empleados-granadas-slop",
+  "fecha": "2026-09-23T13:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Qantas anuncia vuelos sin escalas de Sídney a Nueva York para mediados de 2028 dentro de su Proyecto Sunrise",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/qanras-vuelos-directos-sidney-nueva-yor-mediados-2028-proyecto-sunrise.html",
+  "fecha": "2026-09-23T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Iberia presenta las celebraciones de su centenario, que entre otras cosas incluyen una exhibción aérea y una librea conmemorativa",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/iberia-celebracion-cien-anos-librea-centenario.html",
+  "fecha": "2026-09-23T16:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
+  "fecha": "2026-09-23T13:54:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/",
+  "fecha": "2026-09-23T18:33:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Cost of intelligence is dropping fast",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo1bct/cost_of_intelligence_is_dropping_fast/",
+  "fecha": "2026-09-23T09:38:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/",
+  "fecha": "2026-09-23T14:31:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Introducing Support for Local AI Models in the Antigravity SDK",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the/",
+  "fecha": "2026-09-23T19:12:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Using uncensored models makes working less of a headache",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a/",
+  "fecha": "2026-09-23T23:08:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Please Google, for the love of God.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god/",
+  "fecha": "2026-09-23T19:56:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "JEV almost dead: CLM vs JEV",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/",
+  "fecha": "2026-09-24T06:40:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with/",
+  "fecha": "2026-09-24T07:55:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+  "fecha": "2026-09-23T16:05:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Streaming Nemotron 3 Diarization",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
+  "fecha": "2026-09-23T15:16:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "apple/LensVLM-9B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face/",
+  "fecha": "2026-09-23T18:04:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Qwen FN vs 27B --- Think I'm saturated.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated/",
+  "fecha": "2026-09-23T20:58:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
+  "fecha": "2026-09-23T14:37:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "BFL releases FLUX 3 Action: a 7B robot model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model/",
+  "fecha": "2026-09-23T17:56:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next q4_k_m, 130k context, q8 cache on 16GB VRAM ann 64GB RAM, 15-20 t/s on 4080",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache/",
+  "fecha": "2026-09-23T23:46:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogzdm/lemonade_fixes_amd_apu_model_streaming_drops/",
+  "fecha": "2026-09-23T20:16:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Contrastive Language Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/",
+  "fecha": "2026-09-24T04:47:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "My foray into local ai. Two BC-250 ex mining apus running Qwen3.6-35B-A3B Q4_K_M at 60 tok/s with 64k context",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wou3gr/my_foray_into_local_ai_two_bc250_ex_mining_apus/",
+  "fecha": "2026-09-24T06:25:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "What TPS is too slow for you?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you/",
+  "fecha": "2026-09-24T02:49:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "NVFP4 - what does the quality usually equate to? (5090)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogz1a/nvfp4_what_does_the_quality_usually_equate_to_5090/",
+  "fecha": "2026-09-23T20:16:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Pi agent qwen 3.8 flash next plays Baldur's Gate 2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wob8ej/pi_agent_qwen_38_flash_next_plays_baldurs_gate_2/",
+  "fecha": "2026-09-23T16:44:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Do y'all remember the snake model evaluation test?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo52a/do_yall_remember_the_snake_model_evaluation_test/",
+  "fecha": "2026-09-24T01:18:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "GUI harness [video]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wobk5f/gui_harness_video/",
+  "fecha": "2026-09-23T16:55:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "New DeepThink built on GLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woo22j/new_deepthink_built_on_glm/",
+  "fecha": "2026-09-24T01:15:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Gemini 3.8 TTS Playground",
+  "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+  "fecha": "2026-09-23T17:12:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "Shadow roots, explained with live examples",
+  "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+  "fecha": "2026-09-23T16:37:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+  "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "fecha": "2026-09-23T18:41:40+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+  "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+  "fecha": "2026-09-24T08:12:59+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
+  "titulo": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+  "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+  "fecha": "2026-09-23T13:27:18+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-24"
+ },
+ {
   "titulo": "La carrera de la IA está entrando en otra fase: tras Opus 5.5, OpenAI juega una baza clave con GPT-6 Sol y Luna",
   "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-esta-entrando-otra-fase-opus-5-5-openai-juega-baza-clave-gpt-6-sol-luna",
   "fecha": "2026-09-22T20:40:19+00:00",
