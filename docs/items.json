@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "De forma sorprendente, España es bastante más pro-IA que los países de su entorno",
+  "url": "https://www.xataka.com/robotica-e-ia/forma-sorprendente-espana-bastante-pro-ia-que-paises-su-entorno",
+  "fecha": "2026-09-24T20:01:09+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Decenas coinciden: \"escrita con IA\". Un escritor francés está ganando premios con su nueva novela menos el de la sinceridad",
+  "url": "https://www.xataka.com/literatura-comics-y-juegos/novela-escrita-frances-moda-ha-recibido-toda-clase-premios-alabanzas-probable-que-se-haya-escrito-ia",
+  "fecha": "2026-09-24T15:05:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Una IA de OpenAI hackeó al Gobierno de Australia y tuvo acceso a datos de su sanidad pública",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-openai-hackeo-al-gobierno-australia-tuvo-acceso-a-datos-su-sanidad-publica",
+  "fecha": "2026-09-24T12:47:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "El Gobierno de EEUU no se cree el relato de OpenAI: si una IA \"descontrolada\" comete un crimen, el responsable será su empresa",
+  "url": "https://www.xataka.com/robotica-e-ia/gobierno-eeuu-no-se-cree-relato-openai-ia-descontrolada-comete-crimen-responsable-sera-su-empresa",
+  "fecha": "2026-09-24T12:01:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "\"Lo único que hacemos es pulsar Enter\": La IA prometía liberar a los programadores, pero les está quitando la ilusión por trabajar",
+  "url": "https://www.xataka.com/robotica-e-ia/unico-que-hacemos-pulsar-enter-ia-prometia-liberar-a-programadores-les-esta-quitando-ilusion-trabajar",
+  "fecha": "2026-09-24T11:45:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Instinct aún no factura ni un dólar pero está a punto de valer 10.000 millones. Lo que vende es la pereza que nos dará dejarlo",
+  "url": "https://www.xataka.com/robotica-e-ia/instinct-no-factura-dolar-esta-a-punto-valer-10-000-millones-que-vende-pereza-que-nos-dara-dejarlo",
+  "fecha": "2026-09-24T11:01:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Meta resucita el Tamagotchi, esta vez con inteligencia artificial",
+  "url": "https://www.xataka.com/wearables/meta-quiere-que-llevemos-su-agente-ia-siempre-encima-asi-que-ha-creado-tamagotchi",
+  "fecha": "2026-09-24T10:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "China abrazó la IA para solucionar su crisis demográfica. El problema es que está dando a los jóvenes la principal razón para no casarse",
+  "url": "https://www.xataka.com/robotica-e-ia/china-abrazo-ia-para-solucionar-su-crisis-demografica-problema-que-esta-dando-a-jovenes-principal-razon-para-no-casarse",
+  "fecha": "2026-09-24T10:01:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Qwen-3.8-27B is good enough that I stopped using API",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+  "fecha": "2026-09-24T12:59:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Qwen 3.8 27b be like...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like/",
+  "fecha": "2026-09-24T21:00:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "UkisAI Swift Series / 27B, Flash Next and Bonsai 2 + GSQ-RCO / -63.4% thinking, x1.95 speed with xhigh accuracy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2/",
+  "fecha": "2026-09-24T16:32:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Meta Muse appears to be excited to give away its system data",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its/",
+  "fecha": "2026-09-24T19:38:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on 12GB VRAM - 65 tokens per second",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second/",
+  "fecha": "2026-09-24T17:30:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Open AI in the wild",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5yp6/open_ai_in_the_wild/",
+  "fecha": "2026-09-24T16:14:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "ThinkingCap 3.8-27B vs. Swift 3.8-27B vs. Qwen 3.8-27B Benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5vqr/thinkingcap_3827b_vs_swift_3827b_vs_qwen_3827b/",
+  "fecha": "2026-09-24T16:11:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/",
+  "fecha": "2026-09-25T02:45:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "PSA: llama.cpp -cram should be increased for agentic workflows (default is 8192)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5668/psa_llamacpp_cram_should_be_increased_for_agentic/",
+  "fecha": "2026-09-24T15:44:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Asianometry: High Bandwidth Flash: What Is It Good For?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wphb3w/asianometry_high_bandwidth_flash_what_is_it_good/",
+  "fecha": "2026-09-24T23:45:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Is Qwen Flash Next at like Q2 better than 27B at Q4?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpgyfh/is_qwen_flash_next_at_like_q2_better_than_27b_at/",
+  "fecha": "2026-09-24T23:28:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Lesson learned. Don't blindly trust repos and make sure everything is stable for a long running (multi weeks) benchmark.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make/",
+  "fecha": "2026-09-24T10:22:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/",
+  "fecha": "2026-09-25T06:32:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "I added OpenVINO support to Laya: 40 ms per question on CPU, 3.4x faster than PyTorch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpieby/i_added_openvino_support_to_laya_40_ms_per/",
+  "fecha": "2026-09-25T00:37:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Former Intel CEO: \"HBM is lousy\". High Bandwidth Flash Is Coming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth/",
+  "fecha": "2026-09-25T07:15:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "R9V Update: Created and adopted KVA projections based on Deepseek V4.1 Flash + HySparse2/MiMo-V3 for Qwen3.8 Flash Next. This is a game changer for models that don't natively implement it. 1.45-1.85x speedup in prefill to 3k+ at a small deficit to perplexity. [2x R9700, 128GB DDR5]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections/",
+  "fecha": "2026-09-24T14:02:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Qwen3.8 27b practical modeling for 3d printing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpet4j/qwen38_27b_practical_modeling_for_3d_printing/",
+  "fecha": "2026-09-24T21:54:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "vulkan: int8 coopmat1 matmul implementation for AMD RDNA3 and RDNA4 (… · ggml-org/llama.cpp@70c4e15",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp1vex/vulkan_int8_coopmat1_matmul_implementation_for/",
+  "fecha": "2026-09-24T13:37:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Mac Studio M5 Ultra 96GB vs M5 Max 128GB for local LLMs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2dmd/mac_studio_m5_ultra_96gb_vs_m5_max_128gb_for/",
+  "fecha": "2026-09-24T13:58:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "FreedomIntelligence/HuatuoGPT-3-27B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face/",
+  "fecha": "2026-09-24T19:20:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "MiniMax M3.1 (Space Bunny Alpha) thinks in caveman mode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman/",
+  "fecha": "2026-09-24T12:29:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "I'm trying to post-train AliceAI-Foundation-80B-A3B-Base myself",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpg4a8/im_trying_to_posttrain/",
+  "fecha": "2026-09-24T22:50:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "I built an open-weight alternative to Jev / TypeSafe - introducing OpenJudgement-4B (early preview)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe/",
+  "fecha": "2026-09-24T14:19:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "How are you guys thinking about context now, and building around it?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpjhkf/how_are_you_guys_thinking_about_context_now_and/",
+  "fecha": "2026-09-25T01:31:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "I'm new and it's kinda overwhelming to get into",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpcfpe/im_new_and_its_kinda_overwhelming_to_get_into/",
+  "fecha": "2026-09-24T20:18:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "commit-rewriter 0.2",
+  "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+  "fecha": "2026-09-24T20:06:53+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "datasette 1.0a41",
+  "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+  "fecha": "2026-09-24T19:15:23+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "fecha": "2026-09-24T14:08:57+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "[AINews] The Future of Latent Space",
+  "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+  "fecha": "2026-09-25T05:37:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+  "url": "https://www.latent.space/p/runway",
+  "fecha": "2026-09-25T01:30:57+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-25"
+ },
+ {
+  "titulo": "Foundries vs Navigators: Lowering the Cost of Science",
+  "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+  "fecha": "2026-09-24T15:03:16+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-25"
+ },
+ {
   "titulo": "Meta renueva su gama de gafas inteligentes y apuesta por su primer modelo sin cámara",
   "url": "https://www.xataka.com/wearables/meta-renueva-su-gama-gafas-inteligentes-apuesta-su-primer-modelo-camara",
   "fecha": "2026-09-24T07:29:00+00:00",
