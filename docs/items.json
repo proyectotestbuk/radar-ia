@@ -1,5 +1,295 @@
 [
  {
+  "titulo": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-iba-a-democratizar-creacion-contenido-esta-consiguiendo-contrario-que-internet-vuelva-a-poner-puertas",
+  "fecha": "2026-09-27T09:00:50+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Hay una mansión en Silicon Valley donde la élite de la IA se reúne para construir el futuro: ya acumula 37 incidentes policiales",
+  "url": "https://www.xataka.com/robotica-e-ia/hay-mansion-silicon-valley-donde-elite-ia-se-reune-para-construir-futuro-acumula-37-incidentes-policiales",
+  "fecha": "2026-09-26T16:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "El ciberataque a Renfe y Adif confirma lo que la IA llevaba meses avisando. 500GB de datos de clientes quedan al descubierto",
+  "url": "https://www.xataka.com/seguridad/ciberataque-a-renfe-adif-confirma-que-ia-llevaba-meses-avisando-500gb-datos-clientes-quedan-al-descubierto",
+  "fecha": "2026-09-26T13:50:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "42x Faster Prompt Lookup Drafting in llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
+  "fecha": "2026-09-27T00:23:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+  "fecha": "2026-09-26T14:34:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "New to playing around with local ai. why are they free?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
+  "fecha": "2026-09-26T17:56:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without tweaking much?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/",
+  "fecha": "2026-09-26T19:54:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "The future of local AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqo8zm/the_future_of_local_ai/",
+  "fecha": "2026-09-26T11:32:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Koboldcpp v1.122 released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
+  "fecha": "2026-09-26T22:24:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Getting stupidly good results on my 4x3060ti setup.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv9o8/getting_stupidly_good_results_on_my_4x3060ti_setup/",
+  "fecha": "2026-09-26T16:47:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "For the longest time I’ve felt this sub should have a pinned section where a detailed post about each model should get featured.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrajy/for_the_longest_time_ive_felt_this_sub_should/",
+  "fecha": "2026-09-26T14:01:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/",
+  "fecha": "2026-09-26T20:35:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "How accessible is local AI actually, and what happens if affordable access to frontier models doesn’t last?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what/",
+  "fecha": "2026-09-26T15:45:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "SupersonicLabs/Julia-1 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face/",
+  "fecha": "2026-09-27T02:24:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Splash 1.1.0 released, GGUF quants support, MLX import and more",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx/",
+  "fecha": "2026-09-26T17:27:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Just bought a second 3090 but now I don't see the benefits right now.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/",
+  "fecha": "2026-09-26T16:37:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+  "fecha": "2026-09-26T21:10:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "5 items in MiMo-V2.6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrf7ac/5_items_in_mimov26/",
+  "fecha": "2026-09-27T08:50:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Qwen3.8 flash next + exllamav3 + hermes is amazing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqn378/qwen38_flash_next_exllamav3_hermes_is_amazing/",
+  "fecha": "2026-09-26T10:24:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "When is the next generation of \"B tier\" models releasing?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrcy7x/when_is_the_next_generation_of_b_tier_models/",
+  "fecha": "2026-09-27T06:35:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Where is MiMo V2.6 9B Distill RL?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
+  "fecha": "2026-09-26T14:08:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Splash fork optimised for M5 Max: ~1.5× faster (1.25× single request)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrd1p1/splash_fork_optimised_for_m5_max_15_faster_125/",
+  "fecha": "2026-09-27T06:40:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx/",
+  "fecha": "2026-09-26T17:41:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Navigating Cost Efficient Hardware in these Volatile Times",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7tgb/navigating_cost_efficient_hardware_in_these/",
+  "fecha": "2026-09-27T01:55:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "I added Qwen-Image 2.1 + LoRA support to TensorSharp (GGUF, local inference)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0p3n/i_added_qwenimage_21_lora_support_to_tensorsharp/",
+  "fecha": "2026-09-26T20:26:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Qwen3.8-27B IQ3_XXS vs Qwen3.6-35B-A3B Q4_K_M",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqqv3b/qwen3827b_iq3_xxs_vs_qwen3635ba3b_q4_k_m/",
+  "fecha": "2026-09-26T13:41:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "My Reading Library: Evaluating LLMs on Android Tasks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqobag/my_reading_library_evaluating_llms_on_android/",
+  "fecha": "2026-09-26T11:36:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Another \"Harness matters\" post (codex cli > pi and opencode)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrfp50/another_harness_matters_post_codex_cli_pi_and/",
+  "fecha": "2026-09-27T09:20:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-27"
+ },
+ {
+  "titulo": "Kākāpō Party",
+  "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+  "fecha": "2026-09-26T23:39:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-27"
+ },
+ {
   "titulo": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
   "url": "https://www.xataka.com/aplicaciones/microsoft-cree-que-ha-inventado-nuevo-office-superapp-ia-que-quiere-sentarse-a-mesa-anthropic-openai",
   "fecha": "2026-09-26T07:00:17+00:00",
