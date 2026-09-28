@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "OpenAI frena en seco el entrenamiento de sus modelos más potentes: sus agentes de IA se han vuelto a descontrolar",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-frena-seco-entrenamiento-sus-modelos-potentes-sus-agentes-ia-se-han-vuelto-a-descontrolar",
+  "fecha": "2026-09-28T10:15:19+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "¿Qué debemos hacer con la IA?",
+  "url": "http://www.microsiervos.com/archivo/frases-citas/que-debemos-hacer-con-la-ia.html",
+  "fecha": "2026-09-28T11:10:35+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/",
+  "fecha": "2026-09-27T16:29:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "FT: Corporate America rejects overpriced frontier, embraces open models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
+  "fecha": "2026-09-28T00:03:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "GPT-3 is discontinued today",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
+  "fecha": "2026-09-28T05:39:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/",
+  "fecha": "2026-09-27T12:58:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Qwen plays World of Warcraft",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wry136/qwen_plays_world_of_warcraft/",
+  "fecha": "2026-09-27T22:46:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/",
+  "fecha": "2026-09-28T09:27:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Naive-N0.5-Flash - 309B-A15.5B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b/",
+  "fecha": "2026-09-27T18:48:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Mimo v2.6 flash MOPD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd/",
+  "fecha": "2026-09-27T17:31:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "How do you guys give your models web browsing capabilities?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/",
+  "fecha": "2026-09-27T16:12:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "I’m calling this the Monstrosity. 5 ex mining BC-250 boards Qwen3-Coder-Next Q4 at 40 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws49si/im_calling_this_the_monstrosity_5_ex_mining_bc250/",
+  "fecha": "2026-09-28T03:52:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Qwen company already rushed out a Jev competitor. No open weights yet.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrz9py/qwen_company_already_rushed_out_a_jev_competitor/",
+  "fecha": "2026-09-27T23:43:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "... so, yeah.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrutx9/so_yeah/",
+  "fecha": "2026-09-27T20:32:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next 177B NVFP4(119GiB): SSD streaming at 9-10 tok/s on one 16 GB RTX 5060 Ti + 32 GB RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrxap8/qwen38flashnext_177b_nvfp4119gib_ssd_streaming_at/",
+  "fecha": "2026-09-27T22:13:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Don't trust frontier models when asking about budget hardware!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about/",
+  "fecha": "2026-09-27T18:21:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Swift 1.5 Qwen3.8 27b (A must-have for low thinking!)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/",
+  "fecha": "2026-09-27T20:46:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "3090 for $1500???",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws8f1r/3090_for_1500/",
+  "fecha": "2026-09-28T07:52:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Liked Muse, so I cut the 30B model in half by width, distilled it back, and it does 57 of 60 tool tasks its parent does 60 of",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws6bmh/liked_muse_so_i_cut_the_30b_model_in_half_by/",
+  "fecha": "2026-09-28T05:45:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Public MCP server for Canadian privacy law data (free, no auth) - works with any client that speaks Streamable HTTP",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data/",
+  "fecha": "2026-09-27T18:43:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Minisforum MS-S1 MAX-P495 @ €7.799,00",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws77kn/minisforum_mss1_maxp495_779900/",
+  "fecha": "2026-09-28T06:37:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "3090 NVLink bridges: are there clones of these? why are they so insanely expensive?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws6bwf/3090_nvlink_bridges_are_there_clones_of_these_why/",
+  "fecha": "2026-09-28T05:45:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Updated from 3x3090(2x3090, 1x3090TI) to 2x5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/",
+  "fecha": "2026-09-27T17:04:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "macOS 27 ships a free local LLM on Apple Silicon Macs. I made it easy to use from Node and Python",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws5l5p/macos_27_ships_a_free_local_llm_on_apple_silicon/",
+  "fecha": "2026-09-28T05:03:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Imbalanced VRAM usage between two GPUs in llama.cpp. Anyone successfully solve this?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wruh65/imbalanced_vram_usage_between_two_gpus_in/",
+  "fecha": "2026-09-27T20:18:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "is switching from llama cpp to vllm worth it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it/",
+  "fecha": "2026-09-27T16:55:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "modified qwen 3.8 27b modifies windows credential dumper to bypass EDR detection",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws7csk/modified_qwen_38_27b_modifies_windows_credential/",
+  "fecha": "2026-09-28T06:46:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Quoting Muse AI Agent",
+  "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+  "fecha": "2026-09-28T04:01:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "2026 in LLMs (so far)",
+  "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "fecha": "2026-09-27T23:54:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "S3 Is the Future, S3 Is the Past",
+  "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+  "fecha": "2026-09-27T23:09:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Bluesky reply bot checker",
+  "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+  "fecha": "2026-09-27T18:41:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "We just shipped support for the ugliest part of HTTP: Vary",
+  "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+  "fecha": "2026-09-23T23:14:57+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-28"
+ },
+ {
+  "titulo": "Holo4: powering generalist computer-use agents",
+  "url": "https://huggingface.co/blog/Hcompany/holo4",
+  "fecha": "2026-09-28T09:44:05+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-28"
+ },
+ {
   "titulo": "La IA iba a democratizar la creación de contenido, pero está consiguiendo lo contrario: que Internet vuelva a poner puertas",
   "url": "https://www.xataka.com/robotica-e-ia/ia-iba-a-democratizar-creacion-contenido-esta-consiguiendo-contrario-que-internet-vuelva-a-poner-puertas",
   "fecha": "2026-09-27T09:00:50+00:00",
