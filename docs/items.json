@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Bill Gates ya sabe lo que va a hacer antes de 2045: gastarse prácticamente toda su fortuna con un “regalo” envenenado para las escuelas",
+  "url": "https://www.xataka.com/robotica-e-ia/bill-gates-tiene-fecha-cierre-su-fundacion-su-plan-gastarse-antes-toda-su-fortuna-regalo-envenenado-para-escuelas",
+  "fecha": "2026-09-30T08:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "\"Mi Dot es básicamente una extensión de mí\": OpenAI quiere que dejemos de hablar con la IA y empecemos a delegarle nuestra vida",
+  "url": "https://www.xataka.com/robotica-e-ia/mi-dot-basicamente-extension-mi-openai-quiere-que-dejemos-hablar-ia-empecemos-a-delegarle-nuestra-vida",
+  "fecha": "2026-09-30T07:46:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "El miedo a que la IA acabe con la humanidad tiene un epicentro: este coworking de Berkeley",
+  "url": "https://www.xataka.com/robotica-e-ia/miedo-a-que-ia-acabe-humanidad-tiene-epicentro-este-coworking-berkeley",
+  "fecha": "2026-09-30T07:00:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "China está adoptando la IA generativa a una velocidad difícil de ignorar. La cifra de usuarios lo deja claro",
+  "url": "https://www.xataka.com/robotica-e-ia/china-esta-adoptando-ia-generativa-a-velocidad-dificil-ignorar-cifra-usuarios-deja-claro",
+  "fecha": "2026-09-30T06:30:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Tesla necesita que sus trabajadores enseñen a Optimus a trabajar. El problema es que no todos quieren hacerlo",
+  "url": "https://www.xataka.com/robotica-e-ia/tesla-necesita-que-sus-trabajadores-ensenen-a-optimus-a-trabajar-problema-que-no-todos-quieren-hacerlo",
+  "fecha": "2026-09-29T21:00:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "NAND-16, un increíble ordenador de 277.248 puertas NAND donde explorar por dónde viajan los bits (e incluye sorpresa)",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/nand-16-ordenador-277248-puertas-nand-explorar-viajes-bits.html",
+  "fecha": "2026-09-29T22:40:23+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "llm-eng",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "La próxima misión tripulada de la cápsula Starliner de Boeing no será antes de mediados de 2028… Y eso con suerte",
+  "url": "http://www.microsiervos.com/archivo/espacio/proxima-mision-tripulada-starliner-boeing-mediados-2028.html",
+  "fecha": "2026-09-29T20:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Un atlas de mitos de la creación que revela cómo nos inventamos historias para hacer la vida más interesante",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/atlas-mitos-inventamos-historias.html",
+  "fecha": "2026-09-29T14:03:21+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Anthropic just dropped the greatest advertisement for GLM ever.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+  "fecha": "2026-09-29T17:55:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
+  "fecha": "2026-09-29T14:48:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+  "fecha": "2026-09-29T17:14:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Deepseek Harness app is out now!!!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now/",
+  "fecha": "2026-09-29T17:15:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Reflection 70B was released two years ago (September 2024)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e94/reflection_70b_was_released_two_years_ago/",
+  "fecha": "2026-09-29T11:18:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Are you worried about a potential ban of Chinese open weight models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+  "fecha": "2026-09-29T23:17:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+  "fecha": "2026-09-29T23:35:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus/",
+  "fecha": "2026-09-29T23:15:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Thank You, Mradermacher.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtvx1g/thank_you_mradermacher/",
+  "fecha": "2026-09-30T04:45:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Another case of censorship",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship/",
+  "fecha": "2026-09-29T19:31:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Qwen3.8 flash next ISTA-DASLab GGUF 50t/s TG and 1500t/s PP with 12GB VRAM and 64GB RAM Laptop on 'Strata' engine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtv43r/qwen38_flash_next_istadaslab_gguf_50ts_tg_and/",
+  "fecha": "2026-09-30T04:01:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+  "fecha": "2026-09-30T09:22:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "RAM Offloading with vLLM - tcclaviger appreciation post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation/",
+  "fecha": "2026-09-29T17:14:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
+  "fecha": "2026-09-29T11:18:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Inference Engines will become a series of one-offs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg7zu/inference_engines_will_become_a_series_of_oneoffs/",
+  "fecha": "2026-09-29T17:21:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "1248 GB/s on 5060ti (+40%) with +5500 memory overclocks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wty1k6/1248_gbs_on_5060ti_40_with_5500_memory_overclocks/",
+  "fecha": "2026-09-30T06:54:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b/",
+  "fecha": "2026-09-30T08:21:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "DeepSeek now trained on Ascend 950",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950/",
+  "fecha": "2026-09-30T07:58:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Best model for blender?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
+  "fecha": "2026-09-29T20:57:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Recommended replacements for glm 4.7 flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtgb0y/recommended_replacements_for_glm_47_flash/",
+  "fecha": "2026-09-29T17:25:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
+  "fecha": "2026-09-29T16:21:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "PSA: ModelScope CLI is now moved to \"modelscope-hub\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtrykk/psa_modelscope_cli_is_now_moved_to_modelscopehub/",
+  "fecha": "2026-09-30T01:22:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "exl3 now in ninfer-ext",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtomei/exl3_now_in_ninferext/",
+  "fecha": "2026-09-29T22:48:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Help me find a good stack for reversing an old online game client",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtbzwn/help_me_find_a_good_stack_for_reversing_an_old/",
+  "fecha": "2026-09-29T14:42:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Best approach for automatically tagging local music collection?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local/",
+  "fecha": "2026-09-30T02:17:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Quoting Anthropic Frontier Red Team",
+  "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+  "fecha": "2026-09-29T22:20:28+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+  "fecha": "2026-09-29T18:27:48+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "OpenAI DevDay 2026 live blog",
+  "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+  "fecha": "2026-09-29T15:55:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "fecha": "2026-09-29T15:30:38+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "fecha": "2026-09-29T13:07:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-09-30"
+ },
+ {
+  "titulo": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+  "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+  "fecha": "2026-09-30T05:53:10+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-09-30"
+ },
+ {
   "titulo": "Anthropic, camina o revienta: sus cuentas desveladas sugieren o la mayor IPO de la historia o un agujero financiero inédito",
   "url": "https://www.xataka.com/robotica-e-ia/anthropic-camina-revienta-sus-cuentas-desveladas-sugieren-mayor-ipo-historia-agujero-financiero-inedito",
   "fecha": "2026-09-29T10:16:26+00:00",
