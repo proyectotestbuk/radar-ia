@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "Gemini 4 arrasa en los benchmarks y vuelve a meter a Google en la carrera de la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/gemini-4-arrasa-benchmarks-vuelve-a-meter-a-google-carrera-ia-problema-precisamente-benchmarks",
+  "fecha": "2026-10-01T07:21:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Después de llenar internet de vídeos generados con IA, ahora China quiere convertirlos en una industria",
+  "url": "https://www.xataka.com/robotica-e-ia/asi-como-china-esta-haciendo-que-video-generado-ia-deje-ser-experimento-se-convierta-industria",
+  "fecha": "2026-10-01T04:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Europa quiere triplicar la capacidad de sus centros de datos. Hay un problema: depende de demasiadas empresas de fuera",
+  "url": "https://www.xataka.com/robotica-e-ia/europa-quiere-triplicar-capacidad-sus-centros-datos-hay-problema-depende-demasiadas-empresas-fuera",
+  "fecha": "2026-09-30T19:31:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Hace más de un siglo, Alemania envió un mensaje de radio que nadie pudo descifrar. Ahora GPT-6 Astra lo ha conseguido",
+  "url": "https://www.xataka.com/robotica-e-ia/llevamos-1918-tratando-descifrar-mensaje-codigo-primera-guerra-mundial-gpt-6-astra-ha-conseguido",
+  "fecha": "2026-09-30T14:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "EEUU lleva años intentando modernizar su control aéreo. Ahora probará una solución distinta: poner a trabajar a una IA",
+  "url": "https://www.xataka.com/robotica-e-ia/eeuu-lleva-anos-intentando-modernizar-su-control-aereo-ahora-probara-solucion-distinta-poner-a-trabajar-a-ia",
+  "fecha": "2026-09-30T13:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Cuando el ENIAC aprendió a jugar a los dados para diseñar bombas atómicas",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/cuando-eniac-aprendio-jugar-dados-disenar-bombas-atomicas.html",
+  "fecha": "2026-09-30T22:09:56+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Un vuelo de Flydubai entre Dubái y Tel Aviv hace un aterrizaje de emergencia en Arabia Saudí tras una pelea entre los pilotos",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/vuelo-flydubai-aterrizaje-emergencia-pelea-pilotos.html",
+  "fecha": "2026-09-30T16:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+  "fecha": "2026-09-30T16:02:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Least to most expensive (Somewhat modern) GPU's with 32gb of vram (Under $1600) Based on ebay listings",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with/",
+  "fecha": "2026-09-30T23:36:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Oído: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
+  "fecha": "2026-09-30T11:34:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+  "fecha": "2026-09-30T19:19:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "AI CEO Interviews (2026)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wukf5d/ai_ceo_interviews_2026/",
+  "fecha": "2026-09-30T23:43:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
+  "fecha": "2026-09-30T21:44:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Finally got my 4th card in (64gb total)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total/",
+  "fecha": "2026-10-01T04:10:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+  "fecha": "2026-09-30T23:10:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic/",
+  "fecha": "2026-09-30T20:32:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
+  "fecha": "2026-09-30T17:49:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Qwen Flash Next MTP work restarted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/",
+  "fecha": "2026-10-01T05:27:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "add GLM-5.3-Flash (GLM5-Next) support (#27773) · ggml-org/llama.cpp@649dcb1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+  "fecha": "2026-09-30T12:41:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+  "fecha": "2026-09-30T22:46:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Update: Yandex/AliceAI 80B-A3B fine tune progress",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress/",
+  "fecha": "2026-09-30T16:30:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "You can now run Qwen 3.8 27B on AMD NPUs via FastFlowLM (at a killer 1 tps decode)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via/",
+  "fecha": "2026-09-30T18:45:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wutkgt/deepseek_harness_02_optional_bundle_architecture/",
+  "fecha": "2026-10-01T07:59:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next/",
+  "fecha": "2026-09-30T17:15:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Index-Translate: 150 text languages, plus document translation, multilingual subtitles and dubbing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wugf2t/indextranslate_150_text_languages_plus_document/",
+  "fecha": "2026-09-30T20:49:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Astrabox - Open source Arcade Game Generator",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wumex2/astrabox_open_source_arcade_game_generator/",
+  "fecha": "2026-10-01T01:17:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "12hrs with Ling 3.1 Flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuuqpp/12hrs_with_ling_31_flash/",
+  "fecha": "2026-10-01T09:16:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "What was the mafia meeting of the tech criminals about at the White House?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wubbuv/what_was_the_mafia_meeting_of_the_tech_criminals/",
+  "fecha": "2026-09-30T17:36:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "What's going on with DGX Spark? Price up $2k in 1 week?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wudurg/whats_going_on_with_dgx_spark_price_up_2k_in_1/",
+  "fecha": "2026-09-30T19:10:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
+  "fecha": "2026-09-30T19:46:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "i would like to learn deeply about fine-tuning local models before burning money",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9zkn/i_would_like_to_learn_deeply_about_finetuning/",
+  "fecha": "2026-09-30T16:46:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Best local model for Blender and game dev?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9f1/best_local_model_for_blender_and_game_dev/",
+  "fecha": "2026-09-30T23:35:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Quoting Matthew Green",
+  "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+  "fecha": "2026-10-01T06:29:01+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "He Built This City",
+  "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+  "fecha": "2026-09-30T21:54:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Photo Scrubber — local face blur & metadata removal",
+  "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+  "fecha": "2026-09-29T16:45:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "fecha": "2026-09-30T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+  "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+  "fecha": "2026-10-01T06:45:05+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-01"
+ },
+ {
+  "titulo": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+  "url": "https://www.latent.space/p/devday-2026",
+  "fecha": "2026-09-30T22:23:40+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-01"
+ },
+ {
   "titulo": "Bill Gates ya sabe lo que va a hacer antes de 2045: gastarse prácticamente toda su fortuna con un “regalo” envenenado para las escuelas",
   "url": "https://www.xataka.com/robotica-e-ia/bill-gates-tiene-fecha-cierre-su-fundacion-su-plan-gastarse-antes-toda-su-fortuna-regalo-envenenado-para-escuelas",
   "fecha": "2026-09-30T08:30:26+00:00",
