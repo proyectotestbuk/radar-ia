@@ -1,5 +1,355 @@
 [
  {
+  "titulo": "Lanzar un modelo de IA ya no significa lanzarlo. Ahora significa decidir quién puede usarlo",
+  "url": "https://www.xataka.com/robotica-e-ia/lanzar-modelo-ia-no-significa-lanzarlo-ahora-significa-decidir-quien-puede-usarlo",
+  "fecha": "2026-10-02T08:31:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Jensen Huang y otros CEO han confrontado a Dario Amodei por sus mensajes tan extremos en materia de seguridad",
+  "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-otros-grandes-ceo-tecnologicos-han-confrontado-a-dario-amodei-sus-mensajes-extremos-materia-seguridad",
+  "fecha": "2026-10-01T16:31:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Gemini 4 puede escribir un millón de tokens de una sentada: el producto ya no es el chat sino el trabajo largo y autónomo",
+  "url": "https://www.xataka.com/robotica-e-ia/gemini-4-puede-escribir-millon-tokens-sentada-producto-no-chat-sino-trabajo-largo-autonomo",
+  "fecha": "2026-10-01T14:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "OpenAI se enfrenta a una demanda que aspira a marcar un antes y un después: ¿quién responde cuando una IA comete un delito?",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-se-enfrenta-a-demanda-que-puede-marcar-antes-despues-quien-responde-cuando-ia-comete-delito",
+  "fecha": "2026-10-01T13:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "GPT-6 Astra descifra otro secreto: un correo de Napoleón enviado al general Marmont 217 años después",
+  "url": "http://www.microsiervos.com/archivo/seguridad/gpt-6-astra-descifra-otro-secreto-correo-napoleon.html",
+  "fecha": "2026-10-01T19:48:58+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "La NASA y SpaceX lanzan la tripulación Crew 13 rumbo a la Estación Espacial Internacional",
+  "url": "http://www.microsiervos.com/archivo/espacio/nasa-spacex-lanzan-tripulacion-crew-13-estacion-espacial.html",
+  "fecha": "2026-10-01T17:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Clef: Open Weights decision model by Cloudflare",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4zzi/clef_open_weights_decision_model_by_cloudflare/",
+  "fecha": "2026-10-01T17:04:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Pi 1.0 released - MCP support now included by default",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
+  "fecha": "2026-10-02T00:09:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Heretic is on PewDiePie!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/heretic_is_on_pewdiepie/",
+  "fecha": "2026-10-01T17:00:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
+  "fecha": "2026-10-01T12:20:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761/",
+  "fecha": "2026-10-01T11:18:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Pi extension: Skip reasoning with local Qwen 27B and proceed to answer right now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv1e60/pi_extension_skip_reasoning_with_local_qwen_27b/",
+  "fecha": "2026-10-01T14:47:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Jeff-Qwen3.5-0.8B v1.2 + 9 LoRA adapters: put it in front of Qwen3.8-27B for 38× faster decisions and +8.7 points accuracy, for under 2 GB extra memory",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv05u1/jeffqwen3508b_v12_9_lora_adapters_put_it_in_front/",
+  "fecha": "2026-10-01T13:58:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "AMA about K2 Horizon, Meet our team from IFM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv8zww/ama_about_k2_horizon_meet_our_team_from_ifm/",
+  "fecha": "2026-10-01T19:34:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Does anyone know if any new releases from Mistral are planned?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+  "fecha": "2026-10-02T10:05:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Now which lab is behind fledge alpha?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv7t3a/now_which_lab_is_behind_fledge_alpha/",
+  "fecha": "2026-10-01T18:50:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "$5400 eBay 8x V100 server cranks on flash-next",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuztnq/5400_ebay_8x_v100_server_cranks_on_flashnext/",
+  "fecha": "2026-10-01T13:44:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Anyone wonder why americans lag so far behind in the open LLM market?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in/",
+  "fecha": "2026-10-02T02:49:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "We benchmarked 18 RAG pipelines against an agent loop on Google's FRAMES. The best pipeline hit 78.9%. The agent loop hit 92.7%.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0lww/we_benchmarked_18_rag_pipelines_against_an_agent/",
+  "fecha": "2026-10-01T14:16:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Update on the “Monstrosity”. 6 BC-250 board cluster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wviphh/update_on_the_monstrosity_6_bc250_board_cluster/",
+  "fecha": "2026-10-02T02:49:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Update #2: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv5h8x/update_2_post_training_yandexaliceai80ba3b/",
+  "fecha": "2026-10-01T17:22:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Perplexity Decider 27B: Open weights decision model fine tune of Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvfz9n/perplexity_decider_27b_open_weights_decision/",
+  "fecha": "2026-10-02T00:35:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "I \"built\" a local LLM radio like the Pharaohs built the pyramids",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvg5hn/i_built_a_local_llm_radio_like_the_pharaohs_built/",
+  "fecha": "2026-10-02T00:43:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Running 95.5 GiB Qwen3.8-Flash-Next at 41–52 tok/s on a 64GB Mac (1.76x faster than llama.cpp): Slipstream release, 130k context scaling, + Swift variant",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wva7l2/running_955_gib_qwen38flashnext_at_4152_toks_on_a/",
+  "fecha": "2026-10-01T20:21:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "What's the best setup for Qwen3.8 27b for a 16 gig VRAM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv6eyc/whats_the_best_setup_for_qwen38_27b_for_a_16_gig/",
+  "fecha": "2026-10-01T17:57:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "DDR4/PCIe4 vs DDR5/PCIe5 for LLMs- I benchmarked them for pre-training. What are your thoughts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvaqeb/ddr4pcie4_vs_ddr5pcie5_for_llms_i_benchmarked/",
+  "fecha": "2026-10-01T20:42:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "China and the memory market",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0hra/china_and_the_memory_market/",
+  "fecha": "2026-10-01T14:11:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Unsloth, Swift1.5, Peculiar-Ragdoll, ThinkingCap - Qwen3.8-27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv1ico/unsloth_swift15_peculiarragdoll_thinkingcap/",
+  "fecha": "2026-10-01T14:52:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Detecting hallucinations in local models without eating VRAM: What we learned testing 1.5B to 120B models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvm15e/detecting_hallucinations_in_local_models_without/",
+  "fecha": "2026-10-02T05:55:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Gufo performance .... 70tps Qwen 3.8 27b but you need to read the fine print.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvbmi6/gufo_performance_70tps_qwen_38_27b_but_you_need/",
+  "fecha": "2026-10-01T21:18:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "What local AI model is good for game decomps/recomps?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvazuk/what_local_ai_model_is_good_for_game/",
+  "fecha": "2026-10-01T20:53:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "fecha": "2026-10-02T04:01:31+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "url": "https://huggingface.co/blog/allenai/olmocore3",
+  "fecha": "2026-10-01T15:01:43+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+  "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+  "fecha": "2026-10-02T06:40:53+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-02"
+ },
+ {
+  "titulo": "Academia is for Ambition — Alex Zhang, MIT",
+  "url": "https://www.latent.space/p/rlm",
+  "fecha": "2026-10-02T00:28:04+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-02"
+ },
+ {
   "titulo": "Gemini 4 arrasa en los benchmarks y vuelve a meter a Google en la carrera de la IA",
   "url": "https://www.xataka.com/robotica-e-ia/gemini-4-arrasa-benchmarks-vuelve-a-meter-a-google-carrera-ia-problema-precisamente-benchmarks",
   "fecha": "2026-10-01T07:21:00+00:00",
