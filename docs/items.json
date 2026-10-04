@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
+  "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
+  "fecha": "2026-10-04T09:01:21+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Nuestra tele de dentro de cinco años se está fraguando ya hoy, y este 2026 hemos visto muchos avances que queremos ya en nuestro salón",
+  "url": "https://www.xataka.com/televisores/nuestra-tele-dentro-cinco-anos-se-esta-fraguando-hoy-este-2026-hemos-visto-muchos-avances-que-queremos-nuestro-salon",
+  "fecha": "2026-10-04T08:31:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "datos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
+  "url": "https://www.xataka.com/magnet/tumba-etrusca-eco-catedral-muerte-hace-2-500-anos-era-experiencia-inmersiva",
+  "fecha": "2026-10-03T18:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
+  "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy",
+  "fecha": "2026-10-03T17:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Yes bots we get it, Strata is good now please stop",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+  "fecha": "2026-10-03T14:15:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+  "fecha": "2026-10-03T11:44:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "The Rise of Overfit Inference Engines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+  "fecha": "2026-10-03T18:24:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+  "fecha": "2026-10-04T06:37:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+  "fecha": "2026-10-03T11:22:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash/",
+  "fecha": "2026-10-04T01:52:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Come let your LLMs play World of Warcraft",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/",
+  "fecha": "2026-10-03T15:42:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+  "fecha": "2026-10-03T20:06:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo): GLM-5.3-Flash at ~580 tok/s prefill, MiMo-V2.6-Flash up to 44 tok/s decode. EXL3 weights + open ROCm engine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
+  "fecha": "2026-10-03T14:16:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "I built Ninfer 4080 for 16GB class GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
+  "fecha": "2026-10-03T18:58:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "The curse of 64GB system RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/",
+  "fecha": "2026-10-04T04:54:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
+  "fecha": "2026-10-03T17:01:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
+  "fecha": "2026-10-03T16:48:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Least sycophantic modern open LLM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm/",
+  "fecha": "2026-10-04T02:55:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "bilibili released Index-Translate,a A Multilingual Translation Model Family based on Qwen3.5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual/",
+  "fecha": "2026-10-04T07:56:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Flash next rig born from mining parts.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwt19n/flash_next_rig_born_from_mining_parts/",
+  "fecha": "2026-10-03T17:36:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "[Discussion] A 5KB pure x86-64 assembly engine for Gemma-2B (FP16, 4.6 tok/s on CPU)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx5x1p/discussion_a_5kb_pure_x8664_assembly_engine_for/",
+  "fecha": "2026-10-04T03:48:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Replacing vector databases with SQLite and SIMD hypervectors in under 1.2GB VRAM (Hillock)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwn7xf/replacing_vector_databases_with_sqlite_and_simd/",
+  "fecha": "2026-10-03T13:25:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Dual Radeon MI50 benchmarks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwxuoh/dual_radeon_mi50_benchmarks/",
+  "fecha": "2026-10-03T20:59:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Local Web Search Safety",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx06ba/local_web_search_safety/",
+  "fecha": "2026-10-03T22:46:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
+  "fecha": "2026-10-03T16:30:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Anyone using a local AI meeting notes setup instead of Fathom?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwnpxj/anyone_using_a_local_ai_meeting_notes_setup/",
+  "fecha": "2026-10-03T13:48:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Need maybe say \"Use llama.cpp\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxbm8w/need_maybe_say_use_llamacpp/",
+  "fecha": "2026-10-04T09:37:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Qwen Flash next on 64GB RAM unified iGPU anyone ? (non-mac)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwnm5x/qwen_flash_next_on_64gb_ram_unified_igpu_anyone/",
+  "fecha": "2026-10-03T13:43:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Fixed long-horizon task drift on local setups using a deterministic state plugin",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkqyb/fixed_longhorizon_task_drift_on_local_setups/",
+  "fecha": "2026-10-03T11:17:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "We're going to need default hard budget caps on pretty much everything",
+  "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "fecha": "2026-10-03T23:34:02+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "September sponsors-only newsletter",
+  "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+  "fecha": "2026-10-03T22:00:31+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "Rex's Dino Store",
+  "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+  "fecha": "2026-10-02T22:57:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-04"
+ },
+ {
+  "titulo": "The Agent Said It Was Done. The Database Disagreed.",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "fecha": "2026-10-03T22:56:48+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-04"
+ },
+ {
   "titulo": "Tenemos un nuevo modelo capaz de pasar el test de Turing en vídeo. O al menos eso dicen sus creadores",
   "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
   "fecha": "2026-10-02T18:30:00+00:00",
