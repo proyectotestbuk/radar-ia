@@ -1,5 +1,315 @@
 [
  {
+  "titulo": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
+  "url": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
+  "fecha": "2026-10-04T14:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Un viaje nostálgico al futuro: un biblioteca gratuita de gráficos retro en 3-D para usar en cualquier proyecto",
+  "url": "http://www.microsiervos.com/archivo/arte-y-diseno/biblioteca-gratuita-graficos-retro-3d.html",
+  "fecha": "2026-10-05T09:47:04+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Cruce de cables: IA que se desmandan (o no)",
+  "url": "http://www.microsiervos.com/archivo/ia/cruce-de-cables-104-ia-que-se-desmandan.html",
+  "fecha": "2026-10-05T09:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Rutas mundiales que descubren sitios interesantes en la carretera para que los viajes no sean tan aburridos",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/rutas-mundiales-sitios-interesantes-carretera-viajes.html",
+  "fecha": "2026-10-04T20:53:36+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Un paquete de Internet que viajó en una paloma acaba subastado en Christie’s (va por 2.600 dólares)",
+  "url": "http://www.microsiervos.com/archivo/internet/paquete-internet-viajo-paloma-subastado.html",
+  "fecha": "2026-10-03T19:36:35+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "La misión SMILE de la ESA y la Academia China de las Ciencias empieza a estudiar la interacción de la magnetosfera terrestre con la actividad solar",
+  "url": "http://www.microsiervos.com/archivo/ciencia/smile-esa-china-empieza-estudiar-magnetosfera-terrestre.html",
+  "fecha": "2026-10-03T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+  "fecha": "2026-10-04T14:09:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+  "fecha": "2026-10-04T18:08:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+  "fecha": "2026-10-04T16:51:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to/",
+  "fecha": "2026-10-05T01:13:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/",
+  "fecha": "2026-10-05T05:33:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+  "fecha": "2026-10-04T15:50:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+  "fecha": "2026-10-04T17:55:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Benchmarking decision models is fun - Clef Q8 vs Jev",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev/",
+  "fecha": "2026-10-04T17:43:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "You can now try Aleph Alpha's Kolibri 78B for free online here.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy3y4t/you_can_now_try_aleph_alphas_kolibri_78b_for_free/",
+  "fecha": "2026-10-05T09:16:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "For dual DGX spark users; GLM 5.3 flash got a 50%+ performance boost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxrozq/for_dual_dgx_spark_users_glm_53_flash_got_a_50/",
+  "fecha": "2026-10-04T21:53:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Fully local little parkour sim",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+  "fecha": "2026-10-04T20:00:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Is there any way to improve creative writing for Local Models (Qwen)?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+  "fecha": "2026-10-04T13:16:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "strata-swift-iq3_xxs randomly interjecting completely unrelated information in thoughts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxxqfe/strataswiftiq3_xxs_randomly_interjecting/",
+  "fecha": "2026-10-05T02:53:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Clef Flash plays Snake in Real Time on RTX 5080",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy55p2/clef_flash_plays_snake_in_real_time_on_rtx_5080/",
+  "fecha": "2026-10-05T10:33:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "SPOPI: UI and editor around Pi that Pi can change itself",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxsawe/spopi_ui_and_editor_around_pi_that_pi_can_change/",
+  "fecha": "2026-10-04T22:20:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "How long before we have a local model capable of modeling?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/",
+  "fecha": "2026-10-04T15:24:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Which model, which harness? I have data for you.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy5bmy/which_model_which_harness_i_have_data_for_you/",
+  "fecha": "2026-10-05T10:43:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "A Strata fork for IBM AC922 running Qwen3.8-FN UD-Q4_K_XL is doing up to 7,357 tk/s prefill and 113 tk/s decode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxjs47/a_strata_fork_for_ibm_ac922_running_qwen38fn_udq4/",
+  "fecha": "2026-10-04T16:25:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Lessons learned while building Apex-2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy33az/lessons_learned_while_building_apex2/",
+  "fecha": "2026-10-05T08:18:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Poor People Vulkan GPUs list",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxov05/poor_people_vulkan_gpus_list/",
+  "fecha": "2026-10-04T19:53:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "DecisionTune 1.0: a 395M encoder that picks from your options offline, about 10 ms per short decision on MLX (Apache-2.0)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy3c0u/decisiontune_10_a_395m_encoder_that_picks_from/",
+  "fecha": "2026-10-05T08:34:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Is Strix Halo (GMKtec EVO-X2, etc.) the closest thing we have to a \"dream\" local LLM box?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxs0sp/is_strix_halo_gmktec_evox2_etc_the_closest_thing/",
+  "fecha": "2026-10-04T22:07:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "So is a \"scaled-up Strata\" coming for >128GB models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy4qnd/so_is_a_scaledup_strata_coming_for_128gb_models/",
+  "fecha": "2026-10-05T10:07:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Ok how to actually learn vLLM ?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy339k/ok_how_to_actually_learn_vllm/",
+  "fecha": "2026-10-05T08:18:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-05"
+ },
+ {
+  "titulo": "Upgrading from 1xR9700 to 2xR9700. Thoughts on build before buying?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxu34d/upgrading_from_1xr9700_to_2xr9700_thoughts_on/",
+  "fecha": "2026-10-04T23:47:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-05"
+ },
+ {
   "titulo": "Hace un año, Micron ganaba 3.200 millones por trimestre. Ahora gana más que Apple",
   "url": "https://www.xataka.com/empresas-y-economia/hace-ano-micron-ganaba-3-200-millones-trimestre-ahora-gana-que-apple",
   "fecha": "2026-10-04T09:01:21+00:00",
