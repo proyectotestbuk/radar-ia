@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
+  "url": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-se-canso-perder-starcraft-que-hizo-para-ganar-tsorprendio-organizadores-torneo",
+  "fecha": "2026-10-06T05:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Elon Musk podría vivir donde quisiera, pero eligió una caravana junto a un enorme complejo de centros de datos en expansión",
+  "url": "https://www.xataka.com/magnet/elon-musk-podria-vivir-donde-quisiera-eligio-caravana-a-enorme-complejo-centros-datos-expansion",
+  "fecha": "2026-10-05T21:52:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Mientras China acelera a toda velocidad, EEUU vive otra realidad: solo un 2% de las familias pagan por la IA",
+  "url": "https://www.xataka.com/empresas-y-economia/china-acelera-a-toda-velocidad-cifras-uso-ia-a-pie-calle-eeuu-bastante-discretas-solo-2-paga-ella",
+  "fecha": "2026-10-05T15:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Los datos de EEUU apuntan en una dirección: \"algo\" ha destruido más de 200.000 empleos creativos desde 2022",
+  "url": "https://www.xataka.com/literatura-comics-y-juegos/patron-emerge-eeuu-numero-empleados-industria-artes-se-esta-desplomando-sospechosamente-2022",
+  "fecha": "2026-10-05T12:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Canon presenta la EOS R8 Mark II, con novedades interesantes respecto al modelo anterior pero con la misma batería de filfa",
+  "url": "http://www.microsiervos.com/archivo/fotografia/canon-eos-r8-mark-ii.html",
+  "fecha": "2026-10-06T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Global Solar Atlas, un mapa para ver de un vistazo el potencial de los sitios en dónde se pueden generar más KWh de energía solar",
+  "url": "http://www.microsiervos.com/archivo/energia/global-solar-atlas-mapa-potencial-sitios-generar-kwh.html",
+  "fecha": "2026-10-06T09:07:16+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+  "fecha": "2026-10-05T22:37:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+  "fecha": "2026-10-05T17:20:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "When Redditors come in here and ask why we run LLMs, this is why: Big AI is watching.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run/",
+  "fecha": "2026-10-05T20:47:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Make no mistake, selling 64 GB DGX Spark variants at the same cost as the original 128 GB is straight drug dealer behavior.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyea30/make_no_mistake_selling_64_gb_dgx_spark_variants/",
+  "fecha": "2026-10-05T17:14:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Smallest Jev-like model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybi2y/smallest_jevlike_model/",
+  "fecha": "2026-10-05T15:28:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/",
+  "fecha": "2026-10-05T18:58:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Agens Volundr 32B Preview: our small team's first model on our own hybrid architecture. Only 18 of 72 layers keep a KV cache (Apache-2.0)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first/",
+  "fecha": "2026-10-05T12:58:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Whistle: speech to text in a 16.9MB file",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyemcb/whistle_speech_to_text_in_a_169mb_file/",
+  "fecha": "2026-10-05T17:27:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+  "fecha": "2026-10-05T23:16:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy8k3m/m5_ultra_256_running_glm_53_flash_688_toks/",
+  "fecha": "2026-10-05T13:27:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next (125B) on a single Strix Halo mini PC: 44-59 tok/s with speculative decoding, ~1,400 tok/s prefill, engine is open",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybesy/qwen38flashnext_125b_on_a_single_strix_halo_mini/",
+  "fecha": "2026-10-05T15:25:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "We’re using GLM-5.3 Flash instead of frontier models on a massive production codebase",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models/",
+  "fecha": "2026-10-06T05:42:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Y'all this is a sexy paper; context language models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyf63m/yall_this_is_a_sexy_paper_context_language_models/",
+  "fecha": "2026-10-05T17:48:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Mistral CEO says new AI model beats Chinese ones in some areas",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyz1y6/mistral_ceo_says_new_ai_model_beats_chinese_ones/",
+  "fecha": "2026-10-06T10:24:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Set your P(doom) on HF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
+  "fecha": "2026-10-06T02:43:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Qwen 3.8 27b just feels… ok?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyp4n2/qwen_38_27b_just_feels_ok/",
+  "fecha": "2026-10-06T00:41:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated/",
+  "fecha": "2026-10-06T05:39:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Qwen3.8-27b appreciation moment",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybak7/qwen3827b_appreciation_moment/",
+  "fecha": "2026-10-05T15:20:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "nokia-applied-research/AnyJev: Turn any LLM into a Jev-style decision model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyinzn/nokiaappliedresearchanyjev_turn_any_llm_into_a/",
+  "fecha": "2026-10-05T20:01:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
+  "fecha": "2026-10-05T23:33:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Finetuned 1.5B Qwen to generate bash commands at gpt-4o level using 400k synthetic examples + Fully opensource finetune dataset",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybqq3/finetuned_15b_qwen_to_generate_bash_commands_at/",
+  "fecha": "2026-10-05T15:38:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "I built an open-source real-time Japanese anime subtitle & translation engine powered by Whisper-Large-v3 + Groq / DeepSeek",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy9wt5/i_built_an_opensource_realtime_japanese_anime/",
+  "fecha": "2026-10-05T14:25:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "ItoTTS: two natural English voices in 4.89 MB for a $5 ESP32-S3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy8ske/itotts_two_natural_english_voices_in_489_mb_for_a/",
+  "fecha": "2026-10-05T13:38:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "SkyIsNotGreen/Scion-35B-A3B · Hugging Face - Ternary MoE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wydetp/skyisnotgreenscion35ba3b_hugging_face_ternary_moe/",
+  "fecha": "2026-10-05T16:41:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Speakrail - a low-latency fully-local voice assistant that runs on a single RTX 4090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyc1sc/speakrail_a_lowlatency_fullylocal_voice_assistant/",
+  "fecha": "2026-10-05T15:50:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Quoting Felix Rieseberg",
+  "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+  "fecha": "2026-10-05T23:56:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Qwen3.8 27B addition in words",
+  "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+  "fecha": "2026-10-04T23:34:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "pwasm 0.2a0",
+  "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+  "fecha": "2026-10-01T17:10:31+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "fecha": "2026-10-06T06:44:39+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-06"
+ },
+ {
+  "titulo": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+  "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+  "fecha": "2026-10-06T06:28:43+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-06"
+ },
+ {
   "titulo": "Tu Big Mac ya no vale lo mismo que el de la calle de al lado: McDonald's está usando IA para determinar el precio de tu hamburguesa",
   "url": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
   "fecha": "2026-10-04T14:30:00+00:00",
