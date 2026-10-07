@@ -1,5 +1,455 @@
 [
  {
+  "titulo": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
+  "fecha": "2026-10-07T11:00:40+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "ChatGPT quiere convertirse en tu probador virtual: subes una foto y te enseña cómo te queda la ropa",
+  "url": "https://www.xataka.com/robotica-e-ia/chatgpt-quiere-convertirse-tu-probador-virtual-subes-foto-te-ensena-como-te-queda-ropa",
+  "fecha": "2026-10-07T07:00:38+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Alguien ha entrenado un modelo IA para detectar textos escritos con IA y dice detectarlos con un 98% de precisión",
+  "url": "https://www.xataka.com/servicios/alguien-ha-entrenado-modelo-ia-para-detectar-textos-escritos-ia-dice-tener-98-precision-tarea",
+  "fecha": "2026-10-07T06:01:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Mistral da su mayor salto hasta ahora con un modelo de pesos abiertos tan potente como cualquiera de China",
+  "url": "https://www.xataka.com/robotica-e-ia/mistral-da-su-mayor-salto-ahora-modelo-europeo-que-quiere-plantar-cara-al-dominio-eeuu-china",
+  "fecha": "2026-10-06T16:07:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Apple está empezando a cortar el acceso a los agentes de IA por motivos de seguridad",
+  "url": "https://www.xataka.com/servicios/apple-esta-empezando-a-cortar-acceso-a-agentes-ia-motivos-seguridad",
+  "fecha": "2026-10-06T15:01:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Person of Interest (Vigilados), una gran serie sobre la vigilancia sin límites y los límites (o no) de la inteligencia artificial",
+  "url": "http://www.microsiervos.com/archivo/peliculas-tv/person-of-interest-serie-vigilancia-inteligencia-artificial.html",
+  "fecha": "2026-10-07T10:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "La cencia no se ace sola ahi que acerla en parques temáticos",
+  "url": "http://www.microsiervos.com/archivo/humor/la-cencia-no-se-ace-sola-parques-tematicos.html",
+  "fecha": "2026-10-06T17:46:51+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "La ESA hace pruebas de un prototipo del rover Rosalind Franklin en el desierto de Tabernas en Almería, España, mientras trabaja para enviar el real a Marte",
+  "url": "http://www.microsiervos.com/archivo/espacio/esa-prueba-prototipo-rosalind-franklin-desierto-tabernas.html",
+  "fecha": "2026-10-06T17:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "54gb vram for 35$",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
+  "fecha": "2026-10-06T16:06:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported/",
+  "fecha": "2026-10-06T15:19:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Qwen 4 apparently coming out at the end of October",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/",
+  "fecha": "2026-10-06T12:48:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "google/embeddinggemma-2 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face/",
+  "fecha": "2026-10-06T15:41:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/",
+  "fecha": "2026-10-06T22:40:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "I gave a 21M model a 6.4B-parameter lookup table. It matches a 114M dense model and runs with the table on an SSD (RX 9070)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz7tvs/i_gave_a_21m_model_a_64bparameter_lookup_table_it/",
+  "fecha": "2026-10-06T16:57:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Introducing EmbeddingGemma 2: A best-in-class open model for natively multimodal embeddings | Google",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz7faa/introducing_embeddinggemma_2_a_bestinclass_open/",
+  "fecha": "2026-10-06T16:42:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on Strata",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz4rvx/qwen38flashnext_on_strata/",
+  "fecha": "2026-10-06T14:58:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "I trained a model to be wrong 98% of the time and 96% sure about it. It took three tries.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz8wsb/i_trained_a_model_to_be_wrong_98_of_the_time_and/",
+  "fecha": "2026-10-06T17:38:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "New 35B-A3B model is comming on huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface/",
+  "fecha": "2026-10-07T07:07:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "How abliterated models can get you pwned",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdywk/how_abliterated_models_can_get_you_pwned/",
+  "fecha": "2026-10-06T20:52:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Ugh I didn't want to post this... Back to Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzj990/ugh_i_didnt_want_to_post_this_back_to_qwen38_27b/",
+  "fecha": "2026-10-07T00:51:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "EmbeddingGemma 2 running locally in-browser on WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6uxn/embeddinggemma_2_running_locally_inbrowser_on/",
+  "fecha": "2026-10-06T16:20:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "How far we’ve come",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzm56n/how_far_weve_come/",
+  "fecha": "2026-10-07T03:18:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Trained a ~20K LM (probably smallest) that can still write stories",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzp2ja/trained_a_20k_lm_probably_smallest_that_can_still/",
+  "fecha": "2026-10-07T06:10:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Local AI World Model Part 2 - Deep NN to turn Images into Playable Characters, with prompt switching mid rollout",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzdm08/local_ai_world_model_part_2_deep_nn_to_turn/",
+  "fecha": "2026-10-06T20:38:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Q (@qtnx_) on X - Mistral Large 4 is still doing RL runs, keep seeing improvements (vs preview version). Release at the end of the month",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz2y2v/q_qtnx_on_x_mistral_large_4_is_still_doing_rl/",
+  "fecha": "2026-10-06T13:42:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "BenchLabs' Cagliostro V3.5 135M finally takes Hugging Face's SmolLM2-135M's first place on Open SLM Leaderboard with an Intelligence Index of 27.49",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzljhn/benchlabs_cagliostro_v35_135m_finally_takes/",
+  "fecha": "2026-10-07T02:46:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Local AI ecosystem overview",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview/",
+  "fecha": "2026-10-06T18:02:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "I have about $4000, what's the best setup to get?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzhglt/i_have_about_4000_whats_the_best_setup_to_get/",
+  "fecha": "2026-10-06T23:24:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Ruach Studio: a whole song studio around YuE2 on your own GPU. Score first, LoRA training, stems,remaster, DAW export.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wziir6/ruach_studio_a_whole_song_studio_around_yue2_on/",
+  "fecha": "2026-10-07T00:15:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "What happens when a LLM watches its own context window run out?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz0rup/what_happens_when_a_llm_watches_its_own_context/",
+  "fecha": "2026-10-06T12:01:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Image-text retrieval with EmbeddingGemma 2's vision tower, running in the browser on WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzs1t5/imagetext_retrieval_with_embeddinggemma_2s_vision/",
+  "fecha": "2026-10-07T09:26:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "MiMo V2.6 Pro almost matched GPT-6 Astra at figuring out what a user actually wants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzi15b/mimo_v26_pro_almost_matched_gpt6_astra_at/",
+  "fecha": "2026-10-06T23:52:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "pi-optchat: never compact again - endless chat as a memory tree",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzh1i7/pioptchat_never_compact_again_endless_chat_as_a/",
+  "fecha": "2026-10-06T23:04:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Quoting Jake Boggan",
+  "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+  "fecha": "2026-10-07T04:47:55+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "OpenAI “rogue” agent activities found on Wikimedia projects",
+  "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+  "fecha": "2026-10-07T00:16:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Quoting Victoria Kim",
+  "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+  "fecha": "2026-10-06T23:58:56+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "llm-openai-decisions 0.1a0",
+  "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+  "fecha": "2026-10-06T23:04:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "llm-mistral 0.16",
+  "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+  "fecha": "2026-10-06T21:32:34+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "EmbeddingGemma 2",
+  "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+  "fecha": "2026-10-06T20:37:53+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Introducing Mistral Large 4: Le chonk",
+  "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+  "fecha": "2026-10-06T20:18:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Using Parseable with Datasette for OpenTelemetry traces",
+  "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+  "fecha": "2026-10-06T19:07:31+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Mistral Large 4",
+  "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+  "fecha": "2026-10-06T18:20:58+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "datasette-atom 0.11a0",
+  "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+  "fecha": "2026-10-06T17:35:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "Scrimshaw Jukebox",
+  "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+  "fecha": "2026-10-06T15:17:39+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-07"
+ },
+ {
+  "titulo": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+  "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+  "fecha": "2026-10-07T04:55:44+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-07"
+ },
+ {
   "titulo": "GPT-6 Astra se cansó de perder ante humanos en un torneo de 'Starcraft' así que optó por hacer trampas para ganar",
   "url": "https://www.xataka.com/robotica-e-ia/gpt-6-astra-se-canso-perder-starcraft-que-hizo-para-ganar-tsorprendio-organizadores-torneo",
   "fecha": "2026-10-06T05:00:00+00:00",
