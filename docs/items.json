@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "Muse es el nuevo agente IA de Meta, pero su comportamiento se parece más al de un agente del FBI",
+  "url": "https://www.xataka.com/servicios/muse-nuevo-agente-ia-meta-su-comportamiento-se-parece-al-agente-fbi",
+  "fecha": "2026-10-08T06:00:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "El Surface más ambicioso de Microsoft sumará su propio \"MagSafe\". Ahora también sabemos cuánto habrá que pagar",
+  "url": "https://www.xataka.com/ordenadores/surface-ambicioso-microsoft-sumara-su-propio-magsafe-ahora-tambien-sabemos-cuanto-habra-que-pagar",
+  "fecha": "2026-10-07T18:30:45+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Los bancos han descubierto que la IA no elimina la necesidad de empleados, así que ha creado una nueva profesión en Wall Street",
+  "url": "https://www.xataka.com/robotica-e-ia/wall-street-ha-descubierto-que-implantar-ia-no-consiste-despedir-empleados-sino-contratar-a-correctos",
+  "fecha": "2026-10-07T12:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "La radiación de las antenas de telefonía comparadas con una bombilla del salón",
+  "url": "http://www.microsiervos.com/archivo/leyendas-urbanas/radiacion-antenas-telefonia-comparadas-bombilla.html",
+  "fecha": "2026-10-08T10:40:45+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "llama.cpp on the stage",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+  "fecha": "2026-10-07T20:25:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "New LFM to be released today",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today/",
+  "fecha": "2026-10-07T12:08:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+  "fecha": "2026-10-07T18:15:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+  "fecha": "2026-10-08T10:11:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "LiquidAI/d1-3B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face/",
+  "fecha": "2026-10-07T17:00:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "A week in Beijing and Shanghai with the people building AI in China",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzxttk/a_week_in_beijing_and_shanghai_with_the_people/",
+  "fecha": "2026-10-07T14:22:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Same prompts to 371 models since May 2024, all the answers in one place",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ejor/same_prompts_to_371_models_since_may_2024_all_the/",
+  "fecha": "2026-10-08T01:46:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Kandinsky 6.0 video gen + video upscaler!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+  "fecha": "2026-10-07T19:58:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "feat: add GLM5Next MTP, optimize by pwilkin · Pull Request #29928 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzvdqe/feat_add_glm5next_mtp_optimize_by_pwilkin_pull/",
+  "fecha": "2026-10-07T12:36:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ggrk/rocm_101_breaking_the_datamovement_bottleneck/",
+  "fecha": "2026-10-08T03:23:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Micron Says NVHBM to Improve Profitability Even With Outsourced Base Die",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzudla/micron_says_nvhbm_to_improve_profitability_even/",
+  "fecha": "2026-10-07T11:46:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Tested in Coding: Strata",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0b0iq/tested_in_coding_strata/",
+  "fecha": "2026-10-07T22:57:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "d1-3B and d1-omni from LiquidAI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01zg6/d13b_and_d1omni_from_liquidai/",
+  "fecha": "2026-10-07T17:02:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Can any open-weight models handle a decomp/recomp project yet?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0iygt/can_any_openweight_models_handle_a_decomprecomp/",
+  "fecha": "2026-10-08T05:44:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "2 months (meme-d) research, Do People Notice the Difference Between AI Models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0etwe/2_months_memed_research_do_people_notice_the/",
+  "fecha": "2026-10-08T02:00:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Comparing Qwen3.8-27B fine-tunes and baselining vs. frontier",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0gaqv/comparing_qwen3827b_finetunes_and_baselining_vs/",
+  "fecha": "2026-10-08T03:14:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+  "fecha": "2026-10-07T18:04:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Saluki 27B: \"96% of Qwen 3.8’s performance at ~1/7 the size\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the/",
+  "fecha": "2026-10-08T09:40:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "We unlearned CCP alignment from Qwen3.6-35B-A3B: censored/propaganda answers 89.8% → 2.8%, general benchmarks within ~1 point (open weights)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0npmx/we_unlearned_ccp_alignment_from_qwen3635ba3b/",
+  "fecha": "2026-10-08T10:46:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "2x CMP 170HX 64GB: GLM-5.3-Flash at 384K context / ~90 tok/s (EXL3, HBM-first setup) + Qwen3.8 comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0b1ws/2x_cmp_170hx_64gb_glm53flash_at_384k_context_90/",
+  "fecha": "2026-10-07T22:59:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash-Next on 64GB RAM + 16GB VRAM, worth it over a fully-loaded 3.6 35B-A3B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x07qlh/qwen_38_flashnext_on_64gb_ram_16gb_vram_worth_it/",
+  "fecha": "2026-10-07T20:43:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "ggml-cuda: assign four GDN state columns per warp by SongXiaoXi · Pull Request #30087 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0m3ff/ggmlcuda_assign_four_gdn_state_columns_per_warp/",
+  "fecha": "2026-10-08T09:04:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Running an LLM-driven town with 800+ persistent agents: concurrency, context caching, and inference costs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ms0m/running_an_llmdriven_town_with_800_persistent/",
+  "fecha": "2026-10-08T09:49:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next is so much fun for three.js",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0nv5l/qwen_38_flash_next_is_so_much_fun_for_threejs/",
+  "fecha": "2026-10-08T10:55:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Best current R9700 inference engine?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n7pj/best_current_r9700_inference_engine/",
+  "fecha": "2026-10-08T10:16:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Quoting Ben Affleck",
+  "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+  "fecha": "2026-10-07T23:14:58+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Claude Haiku 5.5",
+  "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+  "fecha": "2026-10-07T20:56:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Anti-Patterns in Software Blogging",
+  "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+  "fecha": "2026-10-07T14:53:51+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Multimodal open d1 decision models for the edge",
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "fecha": "2026-10-07T16:54:33+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "fecha": "2026-10-07T12:45:31+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+  "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+  "fecha": "2026-10-08T07:27:51+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-08"
+ },
+ {
+  "titulo": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+  "url": "https://www.latent.space/p/stacklok",
+  "fecha": "2026-10-07T14:10:45+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-08"
+ },
+ {
   "titulo": "OpenAI todavía no sabe qué forma tendrá el trabajo con la IA, así que ha decidido cobrarte por todas",
   "url": "https://www.xataka.com/robotica-e-ia/openai-todavia-no-sabe-que-forma-tendra-trabajo-ia-asi-que-ha-decidido-cobrarte-todas",
   "fecha": "2026-10-07T11:00:40+00:00",
