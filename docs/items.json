@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Los riesgos de ciberseguridad en la era de la IA se han multiplicado por 10, según JPMorgan",
+  "url": "https://www.xataka.com/seguridad/riesgos-ciberseguridad-era-ia-se-han-multiplicado-10-jpmorgan",
+  "fecha": "2026-10-09T09:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
+  "url": "https://www.xataka.com/basics/microsoft-tiene-su-propio-ccleaner-para-windows-hace-anos-ahora-quiere-que-haga-mucho-que-limpiar-pc",
+  "fecha": "2026-10-09T07:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Corea del Sur detecta indicios de IA en varios ciberataques a sus principales bancos",
+  "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+  "fecha": "2026-10-08T21:13:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
+  "url": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
+  "fecha": "2026-10-08T20:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Alguien ha utilizado Opus 5.5 para vibecodear desde cero toda la suite de Adobe, Photoshop incluido",
+  "url": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
+  "fecha": "2026-10-08T17:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Sadya Nadella, CEO de Microsoft: \"Nuestro objetivo es llevar inteligencia gratis a cada hogar y a cada escritorio\"",
+  "url": "https://www.xataka.com/robotica-e-ia/gran-promesa-ia-local-microsoft-tokens-gratis-realidad-no-gratis-eso-no-importa",
+  "fecha": "2026-10-08T14:15:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "La astronauta de la ESA Sophie Adenot vuelve tierra con la tripulación Crew 12 y con un nuevo récord de permanencia en el espacio para Europa",
+  "url": "http://www.microsiervos.com/archivo/espacio/astronauta-esa-sophie-adenot-record-vuelve-tierra-tripulacion-crew-12.html",
+  "fecha": "2026-10-08T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
+  "fecha": "2026-10-08T22:52:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+  "fecha": "2026-10-08T17:12:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Running decision model locally on an RTX 4090 to find out which one is the fastest",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wg85/running_decision_model_locally_on_an_rtx_4090_to/",
+  "fecha": "2026-10-08T17:04:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "jevman: AI decision models play Pac-Man",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0sm1b/jevman_ai_decision_models_play_pacman/",
+  "fecha": "2026-10-08T14:37:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
+  "fecha": "2026-10-08T15:50:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Mellum2.1 - a JetBrains Collection",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0u6l7/mellum21_a_jetbrains_collection/",
+  "fecha": "2026-10-08T15:38:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[audio.cpp] Recent updates you might have missed: Higgs Audio TTS use 48% less VRAM (< 6GB), HTDemucs 2.2× faster, PocketTTS 2.2× faster on CPU, and WebUI generation history feature",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0q91x/audiocpp_recent_updates_you_might_have_missed/",
+  "fecha": "2026-10-08T12:58:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Qwen3.8-27B: 159 tok/s on R9700, 64 tok/s on Strix Halo",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo/",
+  "fecha": "2026-10-09T01:20:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Ahh, it all makes sense now for the 64Gb DGX Spark - [Samsung expects 780% quarterly operating profit jump on AI boom]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1fnsy/ahh_it_all_makes_sense_now_for_the_64gb_dgx_spark/",
+  "fecha": "2026-10-09T08:12:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[2506.13771] LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0sa6g/250613771_littlebit_ultra_lowbit_quantization_via/",
+  "fecha": "2026-10-08T14:23:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/",
+  "fecha": "2026-10-09T06:45:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Qwen 3.6 35B appreciation post",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post/",
+  "fecha": "2026-10-09T00:27:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Attn CMP170hx 10Gb card owners: unlock from 40Gb —> 48Gb coming along nicely.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0rjzb/attn_cmp170hx_10gb_card_owners_unlock_from_40gb/",
+  "fecha": "2026-10-08T13:54:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Bois, there's now a waterblock for the R9700. Quiet 4x or 6x builds are now possible.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x135oh/bois_theres_now_a_waterblock_for_the_r9700_quiet/",
+  "fecha": "2026-10-08T21:19:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Quantization of Linear-Attention (Qwen & Kimi)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x18bsm/quantization_of_linearattention_qwen_kimi/",
+  "fecha": "2026-10-09T01:17:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "StepFun Step 5 preview showing up in openrouter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x19lvs/stepfun_step_5_preview_showing_up_in_openrouter/",
+  "fecha": "2026-10-09T02:21:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "I built an open source framework for building RL environments. Named \"Seahaven\" after the fake town in The Truman Show.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0s61w/i_built_an_open_source_framework_for_building_rl/",
+  "fecha": "2026-10-08T14:19:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[Paper] DLoop: Looped Speculative Decoding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eu7o/paper_dloop_looped_speculative_decoding/",
+  "fecha": "2026-10-09T07:18:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Currently having high success with this little niche finetune i found sitting in the corner of huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x10r5t/currently_having_high_success_with_this_little/",
+  "fecha": "2026-10-08T19:47:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "OpenAI-compatible TTS endpoint using OmniVoice: 0.3s response time",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0vld1/openaicompatible_tts_endpoint_using_omnivoice_03s/",
+  "fecha": "2026-10-08T16:31:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[Paper] Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1f5gz/paper_stepped_moe_segmentlevel_routing_with/",
+  "fecha": "2026-10-09T07:39:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Stepping away from Benchmarks and Code, what models are you using for Creating writing projects",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1gjae/stepping_away_from_benchmarks_and_code_what/",
+  "fecha": "2026-10-09T09:08:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Open sourcing Game Summoner, my prompt to game site",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wki3/open_sourcing_game_summoner_my_prompt_to_game_site/",
+  "fecha": "2026-10-08T17:09:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "LoRA over GGUF: Train Qwen3.8-Flash-Next in 40G VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1bdvl/lora_over_gguf_train_qwen38flashnext_in_40g_vram/",
+  "fecha": "2026-10-09T03:54:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Decisions in a js13kGame",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x17ou5/decisions_in_a_js13kgame/",
+  "fecha": "2026-10-09T00:45:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "ttok 1.0",
+  "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+  "fecha": "2026-10-09T00:34:43+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "ttok 0.4",
+  "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+  "fecha": "2026-10-08T23:34:28+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Quoting Carson Gross",
+  "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+  "fecha": "2026-10-08T21:05:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "The model that didn't exist, so you made it yourself",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "fecha": "2026-10-08T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Introducing Falcon ASR",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "fecha": "2026-10-07T13:21:03+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "[AINews] not much happened today",
+  "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+  "fecha": "2026-10-08T23:29:43+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
+  "titulo": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+  "url": "https://www.latent.space/p/periodic",
+  "fecha": "2026-10-08T16:27:54+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-09"
+ },
+ {
   "titulo": "Muse es el nuevo agente IA de Meta, pero su comportamiento se parece más al de un agente del FBI",
   "url": "https://www.xataka.com/servicios/muse-nuevo-agente-ia-meta-su-comportamiento-se-parece-al-agente-fbi",
   "fecha": "2026-10-08T06:00:26+00:00",
