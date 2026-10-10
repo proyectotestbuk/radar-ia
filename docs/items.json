@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "China lleva años apostando por la IA y los humanoides. Ahora quiere evitar una carrera ciega de inversión",
+  "url": "https://www.xataka.com/robotica-e-ia/china-lleva-anos-apostando-ia-humanoides-ahora-quiere-evitar-carrera-ciega-inversion",
+  "fecha": "2026-10-09T18:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Endesa destapa fraude eléctrico en 16 restaurantes de Barcelona gracias a una IA y a la promoción de unos influencers",
+  "url": "https://www.xataka.com/magnet/16-restaurantes-barcelona-pagaban-a-influencers-para-promocionarse-endesa-uso-ia-para-investigar-sus-negocios-destapo-trama-fraude-electrico",
+  "fecha": "2026-10-09T18:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Google abre SynthID para comprobar si una imagen, vídeo o audio es IA o no, pero el problema es que es un placebo",
+  "url": "https://www.xataka.com/servicios/google-abre-synthid-para-comprobar-imagen-video-audio-ia-no-problema-que-placebo",
+  "fecha": "2026-10-09T16:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Problemas en el horizonte: las ganancias anualizadas de OpenAI se quedan 20.000 millones de dólares por debajo de lo esperado",
+  "url": "https://www.xataka.com/empresas-y-economia/problemas-horizonte-ganancias-anualizadas-openai-se-quedan-20-000-millones-dolares-debajo-esperado",
+  "fecha": "2026-10-09T13:13:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "«Maquinaria inteligente: una teoría herética», un ensayo premonitorio tal y como lo escribió el propio Alan Turing",
+  "url": "http://www.microsiervos.com/archivo/ia/maquinaria-inteligente-teoria-heretica-alan-turing.html",
+  "fecha": "2026-10-10T09:36:45+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Un viaje interactivo al mundo de los sueños rotos de la estafadora Elizabeth Holmes y su «máquina mágica», el analizador Edison",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/viaje-elizabeth-holmes-analizador-magico-edison-maquina.html",
+  "fecha": "2026-10-09T22:41:11+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "OpenAI's math findings built on stolen user data",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/",
+  "fecha": "2026-10-09T17:32:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+  "fecha": "2026-10-09T13:28:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "big or small?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+  "fecha": "2026-10-10T07:54:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen-Image-2.1-Turbo released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
+  "fecha": "2026-10-09T13:27:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "GLM 5.3 Flash opensource @ the top of Artificial Analysis Cyber Index over Claude.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rwof/glm_53_flash_opensource_the_top_of_artificial/",
+  "fecha": "2026-10-09T17:45:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "GitHub - google-ai-edge/ml-drift: GPU-Accelerated AI/ML Inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owzm/github_googleaiedgemldrift_gpuaccelerated_aiml/",
+  "fecha": "2026-10-09T15:50:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next-GSQ-RCO-IQ2_XS at ~21 tok/s on just an RTX 3060 12GB + 16GB DDR4 RAM(No gate pruning, 100% bit-exact)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1tclb/qwen_38_flash_nextgsqrcoiq2_xs_at_21_toks_on_just/",
+  "fecha": "2026-10-09T18:41:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "My \"Anthropic/ChatGPT in a box\" is... now open source and publicly hosted on Github.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zlxh/my_anthropicchatgpt_in_a_box_is_now_open_source/",
+  "fecha": "2026-10-09T23:00:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "tencent/Youtu-Parsing-Omni · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face/",
+  "fecha": "2026-10-09T12:03:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Created laya : Now Introducing a new 800 Million Param physics-based typed decision model with 73k context and image support",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million/",
+  "fecha": "2026-10-10T07:22:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "What does LocalLLaMA think of REA?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/",
+  "fecha": "2026-10-10T00:07:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "lightonai/LightOnOCR-3-4B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jdsk/lightonailightonocr34b_hugging_face/",
+  "fecha": "2026-10-09T11:54:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Tested Mellum2.1-12B-A2.5B on PI Coding Agent - surprisingly usable, but not great at one-shot projects",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owjv/tested_mellum2112ba25b_on_pi_coding_agent/",
+  "fecha": "2026-10-09T15:50:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Basalt: Flash-Next at 665 tok/s structured, 354 prose on a 5090 + 5060 Ti (2.6x Strata)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x223ai/basalt_flashnext_at_665_toks_structured_354_prose/",
+  "fecha": "2026-10-10T00:58:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "want me to get you some?🤣",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2aqtp/want_me_to_get_you_some/",
+  "fecha": "2026-10-10T09:13:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "H2O-Lightning-4B: Apache-2.0 4B Decision model, official #1 open model on JevBench (above Jev)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1w1nv/h2olightning4b_apache20_4b_decision_model/",
+  "fecha": "2026-10-09T20:26:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next-GSQ-RCO (IQ3_S): ~20-30 tok/sec decode & 300-90k tok/sec prefill on 12GB VRAM + 32GB RAM + NVME",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1mzsg/qwen38flashnextgsqrco_iq3_s_2030_toksec_decode/",
+  "fecha": "2026-10-09T14:34:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "SlopSoup TV. A live, never-ending 24/7 pixel-art TV network inspired by old-school late night Adult Swim. No human makes any of it.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x20tgs/slopsoup_tv_a_live_neverending_247_pixelart_tv/",
+  "fecha": "2026-10-09T23:57:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
+  "fecha": "2026-10-09T21:39:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen3.8-27B UD-IQ4_XS Heretic + MTP on a 16 GB card with 55-68 tok/s (24gb and 12gb versions available too)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
+  "fecha": "2026-10-09T22:54:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Qwen 3.6 35B A3B: 131K context + vision on 6GB VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x27au9/qwen_36_35b_a3b_131k_context_vision_on_6gb_vram/",
+  "fecha": "2026-10-10T05:41:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "What are people doing with decisions Jev-like models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29q4a/what_are_people_doing_with_decisions_jevlike/",
+  "fecha": "2026-10-10T08:07:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "A 24KB stand-alone HTML-LLM that can generate consistent stories",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1obep/a_24kb_standalone_htmlllm_that_can_generate/",
+  "fecha": "2026-10-09T15:27:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "microsoft doubles down on local ai with nvidia, but with a cost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/",
+  "fecha": "2026-10-10T06:23:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "3.66B formal logic model built on Granite 4.2 3B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2619s/366b_formal_logic_model_built_on_granite_42_3b/",
+  "fecha": "2026-10-10T04:28:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Quoting The New York Times",
+  "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+  "fecha": "2026-10-10T02:04:12+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Deno is joining Cloudflare",
+  "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+  "fecha": "2026-10-09T22:48:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Quoting Matthew Green",
+  "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+  "fecha": "2026-10-09T15:02:29+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "A new feature for my blog, built using my voice",
+  "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+  "fecha": "2026-10-09T12:54:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Impactful scheduling for GPU clusters",
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "fecha": "2026-10-09T15:20:29+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+  "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+  "fecha": "2026-10-10T06:45:57+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-10"
+ },
+ {
+  "titulo": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+  "url": "https://www.latent.space/p/biohub-deepmind",
+  "fecha": "2026-10-10T00:31:26+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-10"
+ },
+ {
   "titulo": "Los riesgos de ciberseguridad en la era de la IA se han multiplicado por 10, según JPMorgan",
   "url": "https://www.xataka.com/seguridad/riesgos-ciberseguridad-era-ia-se-han-multiplicado-10-jpmorgan",
   "fecha": "2026-10-09T09:30:26+00:00",
