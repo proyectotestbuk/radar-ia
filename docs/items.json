@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
+  "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
+  "fecha": "2026-10-11T09:00:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+  "url": "https://www.xataka.com/robotica-e-ia/satya-nadella-ceo-microsoft-debemos-asumir-que-todos-modelos-ia-estan-comprometidos-contenerlos-principio",
+  "fecha": "2026-10-11T07:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Las empresas de IA tienen tan claro que habrá una gran catástrofe en 2027 que ya preparan el día después",
+  "url": "https://www.xataka.com/servicios/empresas-ia-tienen-claro-que-habra-gran-catastrofe-2027-que-preparan-dia-despues",
+  "fecha": "2026-10-10T15:30:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Cómo era entrar en una tienda de gadgets en 1995: una ventana al futuro con trastos variados y empleados que explicaban las cosas",
+  "url": "http://www.microsiervos.com/archivo/gadgets/tienda-gadgets-1995-ventana-futuro.html",
+  "fecha": "2026-10-11T11:16:24+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "El delicioso y muy interesante Museo del Neón de Varsovia, un lugar en el que se encuentran diseño, tecnología y política",
+  "url": "http://www.microsiervos.com/archivo/arte-y-diseno/museo-neon-varsovia.html",
+  "fecha": "2026-10-10T16:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+  "fecha": "2026-10-10T12:43:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Building a 4x R9700 setup for a 10 person startup",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
+  "fecha": "2026-10-11T00:20:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+  "fecha": "2026-10-11T04:37:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "No more RTX 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
+  "fecha": "2026-10-10T15:16:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "AMD Reportedly Raises GDDR6 Prices for Board Partners",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xatx/amd_reportedly_raises_gddr6_prices_for_board/",
+  "fecha": "2026-10-11T03:02:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+  "fecha": "2026-10-11T08:29:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Be careful fam - New RTX 4090 fakes hit the market, with GPUs and memory almost indistinguishable from real chips",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xniv/be_careful_fam_new_rtx_4090_fakes_hit_the_market/",
+  "fecha": "2026-10-11T03:21:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+  "fecha": "2026-10-10T13:01:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+  "fecha": "2026-10-10T18:49:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Converting dense models into Mixture-of-Experts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts/",
+  "fecha": "2026-10-11T05:45:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
+  "fecha": "2026-10-10T11:28:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
+  "fecha": "2026-10-10T17:49:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "OMG! If you have a Mac with 64GB, try Qwen3.8-Flash-Next-oQ4e-mtp with oMLX!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try/",
+  "fecha": "2026-10-11T00:00:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Running Next Flash IQ3_XXS at ~70 tok/s with 100k context or 2 instances of Qwen 3.6 35B A3B IQ4 at ~145 tok/s with 256k all on $500 of ex mining BC-250 boards",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2yv1b/running_next_flash_iq3_xxs_at_70_toks_with_100k/",
+  "fecha": "2026-10-11T04:27:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Reminder: try probabilistic MTP if you missed it. Decode +14% on prose",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it/",
+  "fecha": "2026-10-11T09:20:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Qwen3.8 Flash Next fixed my GNOME extension",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xxql/qwen38_flash_next_fixed_my_gnome_extension/",
+  "fecha": "2026-10-11T03:36:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Benefits of using bigger models than Qwen 3.8 flash next?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38/",
+  "fecha": "2026-10-10T19:21:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Imagine M5 Ultra + this: NVIDIA GeForce RTX 5060 runs macOS 15 with Metal 3 acceleration through unofficial driver",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z64z/imagine_m5_ultra_this_nvidia_geforce_rtx_5060/",
+  "fecha": "2026-10-11T04:45:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "[Model] Support MiniCPM-V 4.7 by tc-mb · Pull Request #29416 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2qsh3/model_support_minicpmv_47_by_tcmb_pull_request/",
+  "fecha": "2026-10-10T21:37:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Improve token per second without touching quant",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2donu/improve_token_per_second_without_touching_quant/",
+  "fecha": "2026-10-10T12:05:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "I trained a 102M recursive BitNet-v2 model from scratch: 64K context, trained on less than 5B tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x34nyx/i_trained_a_102m_recursive_bitnetv2_model_from/",
+  "fecha": "2026-10-11T10:19:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "SLM community telenovela: what do you guys think about this arguement?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2m4q8/slm_community_telenovela_what_do_you_guys_think/",
+  "fecha": "2026-10-10T18:18:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2f194/is_there_a_better_option_than_llamacpp_for_4gb/",
+  "fecha": "2026-10-10T13:14:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Local Voice Assistant based on Qwen3.5 4B with skills/toolcalling. No dedicated GPU. Local STT+TTS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with/",
+  "fecha": "2026-10-11T08:18:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "M5 Ultra Mac 256GB Studio - 64 core vs. 80 core version, is the inference speed difference worth the extra 10 weeks wait time?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2wzsa/m5_ultra_mac_256gb_studio_64_core_vs_80_core/",
+  "fecha": "2026-10-11T02:46:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Dwarf Fortress uses version control now",
+  "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+  "fecha": "2026-10-11T00:52:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Python 3.15.0 added to actions/python-versions",
+  "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+  "fecha": "2026-10-10T23:58:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+  "url": "https://www.latent.space/p/nyc2026",
+  "fecha": "2026-10-10T22:07:17+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
+  "titulo": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+  "url": "https://www.latent.space/p/standard-bots",
+  "fecha": "2026-10-10T14:04:11+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-11"
+ },
+ {
   "titulo": "China lleva años apostando por la IA y los humanoides. Ahora quiere evitar una carrera ciega de inversión",
   "url": "https://www.xataka.com/robotica-e-ia/china-lleva-anos-apostando-ia-humanoides-ahora-quiere-evitar-carrera-ciega-inversion",
   "fecha": "2026-10-09T18:30:26+00:00",
