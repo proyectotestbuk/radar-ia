@@ -1,5 +1,305 @@
 [
  {
+  "titulo": "Lo único que está construyendo Estados Unidos ahora mismo son centros de datos",
+  "url": "https://www.xataka.com/empresas-y-economia/unico-que-esta-construyendo-estados-unidos-ahora-centros-datos",
+  "fecha": "2026-10-12T12:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
+  "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+  "fecha": "2026-10-12T11:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Ben Affleck tiene una nueva película en la que ha utilizado IA para \"muchas cosas\", pero no te va a decir cuáles",
+  "url": "https://www.xataka.com/cine-y-tv/ben-affleck-tiene-nueva-pelicula-que-ha-utilizado-ia-para-muchas-cosas-no-te-va-a-decir-cuales",
+  "fecha": "2026-10-12T09:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Cruce de cables: On-Off, la extraña historia del botón de encendido y por qué tiene ese símbolo",
+  "url": "http://www.microsiervos.com/archivo/tecnologia/cruce-cables-106-on-off-boton-encendido-apagado-simbolo.html",
+  "fecha": "2026-10-12T10:50:47+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Atari revive uno de sus ordenadores familiares de 8 bits, el 800XL, con HDMI y 25 juegos",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/atari-revive-ordenador-familiar-800xl-hdmi-juegos.html",
+  "fecha": "2026-10-11T20:09:54+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+  "fecha": "2026-10-11T19:12:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
+  "fecha": "2026-10-11T13:08:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/",
+  "fecha": "2026-10-12T05:26:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Whistle: speech to text in 16.9 MB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3bpfl/whistle_speech_to_text_in_169_mb/",
+  "fecha": "2026-10-11T15:55:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "OpenMed 3.0 is out: Apache-2.0 clinical AI that runs fully local and never falls back to the cloud. 422 open issues if you want in on 3.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37z7z/openmed_30_is_out_apache20_clinical_ai_that_runs/",
+  "fecha": "2026-10-11T13:16:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "\"Strata\" for GLM5.3 Flash is here for some! Project Maya",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+  "fecha": "2026-10-11T18:42:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Reverse Engineering w/ Local?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local/",
+  "fecha": "2026-10-11T15:08:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x38rnv/nvidia_in_talks_to_acquire_us_open_model_startup/",
+  "fecha": "2026-10-11T13:52:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "AuroraIMG-6M Releases!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3lzmk/auroraimg6m_releases/",
+  "fecha": "2026-10-11T22:56:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "UPDATE: Qwen 3.8 27B 140 tok/s on single RTX 3090 Megakernel: KL divergence 0.0009 vs llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090/",
+  "fecha": "2026-10-11T13:04:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "OpenCode 2.0.26 is out, if you need to constantly prompt \"Continue\" it's not just your bot AFAIK",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly/",
+  "fecha": "2026-10-11T23:56:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+  "fecha": "2026-10-11T21:44:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Now you can grow Bonsai on your potato",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/",
+  "fecha": "2026-10-11T12:58:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "[META] What's with the RP bot accounts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3iu7f/meta_whats_with_the_rp_bot_accounts/",
+  "fecha": "2026-10-11T20:37:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "I tested different Qwen 3.8 27B quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants/",
+  "fecha": "2026-10-11T20:24:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Building strata from source",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3xkpy/building_strata_from_source/",
+  "fecha": "2026-10-12T09:43:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Receipt scanner that runs a fine-tuned 0.8B vision model on the phone (free) - detailed cost tracking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3u3y5/receipt_scanner_that_runs_a_finetuned_08b_vision/",
+  "fecha": "2026-10-12T06:04:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "VectorDash: A full Windows search replacement incorporating Embeddinggemma-2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3sqxc/vectordash_a_full_windows_search_replacement/",
+  "fecha": "2026-10-12T04:44:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "I made an open-source AI leaderboard that shows the best models your machine can run",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wp8c/i_made_an_opensource_ai_leaderboard_that_shows/",
+  "fecha": "2026-10-12T08:47:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "QLoRA on ExLlamaV3 Quants - Train @ 2-8bpw",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3viem/qlora_on_exllamav3_quants_train_28bpw/",
+  "fecha": "2026-10-12T07:30:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "I built a lightweight tool that automatically frees up VRAM for gaming and restores your local LLMs afterward",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3f1nf/i_built_a_lightweight_tool_that_automatically/",
+  "fecha": "2026-10-11T18:07:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "FileDig - Windows version of DigUp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3djpz/filedig_windows_version_of_digup/",
+  "fecha": "2026-10-11T17:07:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Any takers for local llm? NVIDIA’s CUDA Moat Is Accelerating RTX Spark Laptop Sales, Higher 128GB Unified Memory Options Belonging To Surface Laptop Ultra Already Out Of Stock",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ykyb/any_takers_for_local_llm_nvidias_cuda_moat_is/",
+  "fecha": "2026-10-12T10:44:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next on six 3090s with vLLM: 7 users at 262k, 6.5k t/s prefill, 57 t/s decode solo / 206 t/s aggregate with all 7 generating. Fixes for the upstream included.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wjzf/qwen38flashnext_on_six_3090s_with_vllm_7_users_at/",
+  "fecha": "2026-10-12T08:37:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
+  "titulo": "vllm-ascend updates (GLM5.3-flash) on dual 310p Ascend cards",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3dpv3/vllmascend_updates_glm53flash_on_dual_310p_ascend/",
+  "fecha": "2026-10-11T17:14:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-12"
+ },
+ {
   "titulo": "Las Big Tech quieren que todos tengamos nuestro agente de IA personal. Es una idea fantástica con un gran problema: la privacidad",
   "url": "https://www.xataka.com/robotica-e-ia/big-tech-quieren-que-todos-tengamos-nuestro-agente-ia-personal-idea-fantastica-gran-problema-privacidad",
   "fecha": "2026-10-11T09:00:28+00:00",
