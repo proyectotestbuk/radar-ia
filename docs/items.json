@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Nvidia deja de fabricar la RTX 5090, la tarjeta más potente para jugadores, según una filtración. Su chip irá destinado a la IA",
+  "url": "https://www.xataka.com/componentes/nvidia-deja-fabricar-rtx-5090-tarjeta-potente-para-jugadores-filtracion-su-chip-ira-destinado-a-ia",
+  "fecha": "2026-10-13T10:46:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "local",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Hace siete meses, OpenAI mató su IA de generación de vídeo, pero ahora planean resucitar Sora como herramienta para Hollywood",
+  "url": "https://www.xataka.com/cine-y-tv/hace-siete-meses-openai-mato-su-ia-generacion-video-ahora-planean-resucitar-sora-como-herramienta-para-hollywood",
+  "fecha": "2026-10-13T10:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
+  "url": "https://www.xataka.com/robotica-e-ia/nvidia-tiene-motivos-para-preocuparse-microsoft-apuesta-su-propio-chip-maia-300-para-su-infraestructura-ia",
+  "fecha": "2026-10-12T21:51:01+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
+  "url": "https://www.genbeta.com/inteligencia-artificial/como-china-esta-transformando-zona-rural-donde-se-cultivan-papas-centro-su-competencia-tecnologica-ee-uu",
+  "fecha": "2026-10-13T12:00:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Juan Luis Arsuaga, antropólogo, sobre la IA: “Ojalá esta vez no ocurra, pero no hay precedentes de un cambio de modelo económico que no produzca conflictos”",
+  "url": "https://www.genbeta.com/inteligencia-artificial/juan-luis-arsuaga-antropologo-ia-ojala-esta-vez-no-ocurra-no-hay-precedentes-cambio-modelo-economico-que-no-produzca-conflictos",
+  "fecha": "2026-10-13T09:00:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "El ex de Hayden Panettiere pide al tribunal que actúe como representante de su hija para proteger la herencia",
+  "url": "https://www.genbeta.com/actualidad/ex-hayden-panettiere-pide-al-tribunal-que-actue-como-representante-su-hija-para-proteger-herencia",
+  "fecha": "2026-10-13T06:00:26+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Hoy es el Día de Ada Lovelace, para celebrar la presencia de mujeres en ciencia, tecnología, ingeniería y matemáticas",
+  "url": "http://www.microsiervos.com/archivo/ciencia/dia-de-ada-lovelace-celebrar-presencia-mujeres-en-ciencia-tecnologia-ingenieria-y-matematicas.html",
+  "fecha": "2026-10-13T09:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Termina la misión de la cápsula de carga Cygnus 24 con un experimento sobre nuevos materiales y diseños para escudos térmicos",
+  "url": "http://www.microsiervos.com/archivo/espacio/termina-mision-capsula-carga-cygnus-24-experimento-materiales-diseno-escudo-termico.html",
+  "fecha": "2026-10-12T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "«Tengo tokens» es el nuevo «tengo tierras»: cómo la unidad de consumo de la IA aspira a ser el nuevo oro digital",
+  "url": "http://www.microsiervos.com/archivo/ia/tengo-tokens-tengo-tierras-unidad-de-trabajo-ia-oro-digital.html",
+  "fecha": "2026-10-12T17:48:01+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "It's been 2 months",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4akj7/its_been_2_months/",
+  "fecha": "2026-10-12T18:57:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Once again anthropic doing free marketing for open weight models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+  "fecha": "2026-10-12T20:13:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Anthropic is doing free publicity for GLM again",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+  "fecha": "2026-10-13T00:27:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Anyone feel like reverse-engineering CUDA?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+  "fecha": "2026-10-13T04:23:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+  "fecha": "2026-10-12T13:18:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "It's been too quiet on the other side of the Pacific",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+  "fecha": "2026-10-13T11:32:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Intel \"Crescent Island\" GPU Gets D-Series Name, Supports Up to 480 GB of LPDDR5X",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4g90u/intel_crescent_island_gpu_gets_dseries_name/",
+  "fecha": "2026-10-12T22:42:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "openbmb/MiniCPM-V-4.7-35B-A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47taj/openbmbminicpmv4735ba3b/",
+  "fecha": "2026-10-12T17:16:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "NVIDIA RTX 5080 24GB reportedly launching in Q1 2027, board partners still waiting for details",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1/",
+  "fecha": "2026-10-12T13:18:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "In 2030 owning a gpu cluster will be seen the same as owning a gun for home defense",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47d7k/in_2030_owning_a_gpu_cluster_will_be_seen_the/",
+  "fecha": "2026-10-12T17:00:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Sipeed announces MaixStation, comparable to Strix Halo and DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4r1o5/sipeed_announces_maixstation_comparable_to_strix/",
+  "fecha": "2026-10-13T08:21:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Boole-1.7B: A 1-bit Qwen3-1.7B model that outperforms Bonsai-1.7B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms/",
+  "fecha": "2026-10-12T15:35:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "NVIDIA’s 9-Year-Old Tesla V100 Still Packs Some Inference Muscle; 4 GPUs On An NVLink Board Can Outperform M5 Ultra, DGX Spark In Various AI Benchmarks By Up To 230%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4mtzx/nvidias_9yearold_tesla_v100_still_packs_some/",
+  "fecha": "2026-10-13T04:03:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "openbmb/MiniCPM-V-4.7-1B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x492f9/openbmbminicpmv471b/",
+  "fecha": "2026-10-12T18:03:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Based on advice from LocalLLama implemented a n+2 lookahead prediction for ssd streaming Qwen Flash Next - and it worked!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4sit6/based_on_advice_from_localllama_implemented_a_n2/",
+  "fecha": "2026-10-13T09:57:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Qwen3.8-27B vs Frontier vs Others",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x49pmn/qwen3827b_vs_frontier_vs_others/",
+  "fecha": "2026-10-12T18:26:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next Q3 S - Benchmark creation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h1c2/qwen_38_flash_next_q3_s_benchmark_creation/",
+  "fecha": "2026-10-12T23:18:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "BrokenML: can agents fix broken ML jobs?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41pqt/brokenml_can_agents_fix_broken_ml_jobs/",
+  "fecha": "2026-10-12T13:21:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "graphsignal-top: a `top` for inference GPUs in the open-source Graphsignal profiler, kernels ranked by time, live, with readable names",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x421ow/graphsignaltop_a_top_for_inference_gpus_in_the/",
+  "fecha": "2026-10-12T13:35:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Running unsloth/Qwen3.8-27B-UD-IQ4_XS 262k q4_0 KV + vision on 16GB VRAM @ 80t/s and 1500pp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cmfc/running_unslothqwen3827budiq4_xs_262k_q4_0_kv/",
+  "fecha": "2026-10-12T20:14:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Hope the software support is good, but -> Intel Crescent Island Squeezes 1.3 PFLOPs Of FP8 Into Just 350W As D270 Targets The Competition With Value-Oriented LPDDR5X Up To 480 GB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n0bq/hope_the_software_support_is_good_but_intel/",
+  "fecha": "2026-10-13T04:13:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "LLC: lightweight Open WebUI alt now with Agents+MCP+RAG+Image Editing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x415dd/llc_lightweight_open_webui_alt_now_with/",
+  "fecha": "2026-10-12T12:57:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "A \"free\" multi-modal \"embedding\" model (already) included with your LLM: vLLM plugin + upstream PR",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x416s0/a_free_multimodal_embedding_model_already/",
+  "fecha": "2026-10-12T12:59:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Horsey challenge | Strata Fork | Qwen 3.8 FN NVFP4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4uipn/horsey_challenge_strata_fork_qwen_38_fn_nvfp4/",
+  "fecha": "2026-10-13T11:50:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Got 2x DGX Sparks. Excited and confused!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused/",
+  "fecha": "2026-10-13T11:11:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+  "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+  "fecha": "2026-10-12T18:15:38+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "web-edit 0.1a0",
+  "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+  "fecha": "2026-10-12T15:54:36+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "datasette-ports 0.4",
+  "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+  "fecha": "2026-10-12T04:57:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+  "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+  "fecha": "2026-10-13T09:37:04+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
+  "titulo": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+  "url": "https://www.latent.space/p/claude-dynamic-workflows",
+  "fecha": "2026-10-12T18:18:17+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-13"
+ },
+ {
   "titulo": "Lo único que está construyendo Estados Unidos ahora mismo son centros de datos",
   "url": "https://www.xataka.com/empresas-y-economia/unico-que-esta-construyendo-estados-unidos-ahora-centros-datos",
   "fecha": "2026-10-12T12:00:27+00:00",

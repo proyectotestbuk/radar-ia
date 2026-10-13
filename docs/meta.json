@@ -74,7 +74,7 @@
  "iconos": {
   "la-hora-maker-youtube": "la-hora-maker-youtube.png",
   "xataka-ia": "xataka-ia.png",
-  "genbeta": "",
+  "genbeta": "genbeta.png",
   "microsiervos": "microsiervos.png",
   "ia-en-espa-ol": "",
   "r-localllama": "r-localllama.png",
@@ -123,5 +123,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "12/10/2026 a las 14:34"
+ "sello": "13/10/2026 a las 14:20"
 }
