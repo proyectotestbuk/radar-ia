@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "Gemini 4 Argon es la nueva bestia de Google para el trabajo pesado: código, ciencia, finanzas y ciberseguridad",
+  "url": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
+  "fecha": "2026-10-13T16:48:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Uno de los mayores distribuidores de hardware de España ha tenido una idea para seguir creciendo: convertirse en Dell",
+  "url": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
+  "fecha": "2026-10-13T16:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Una demo gratis en Steam usa tanta IA que sus autores han tenido que pedir un crédito para pagar las facturas",
+  "url": "https://www.xataka.com/aplicaciones/demo-gratis-steam-usa-tanta-ia-que-sus-autores-han-tenido-que-pedir-credito-para-pagar-facturas",
+  "fecha": "2026-10-13T15:30:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Meta presenta Muse Wonder y Muse Wonder Full, sus modelos de IA más punteros para ponerse en la frontera de la tecnología",
+  "url": "https://www.xataka.com/robotica-e-ia/meta-presenta-muse-wonder-muse-wonder-full-sus-modelos-ia-punteros-objetivo-hacer-frente-a-mejores-openai-anthropic",
+  "fecha": "2026-10-13T15:20:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Un motor de búsqueda alemán ha rechazado a Mistral apostando por modelos IA chinos open-source en su lugar",
+  "url": "https://www.xataka.com/servicios/motor-busqueda-aleman-ha-rechazado-a-mistral-apostando-modelos-ia-chinos-open-source-su-lugar",
+  "fecha": "2026-10-13T14:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "El motivo para temer a la IA no es que nos extinga a todos, es lo que acaba de pasarle a 300 supermercados franceses",
+  "url": "https://www.xataka.com/seguridad/riesgo-ia-no-va-a-parecerse-a-terminator-se-parecera-a-que-acaba-pasar-500-supermercados-franceses",
+  "fecha": "2026-10-13T13:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "La cápsula de carga Dragon 35 despega con los últimos paneles solares desenrollables para la Estación Espacial Internacional",
+  "url": "http://www.microsiervos.com/archivo/espacio/capsula-carga-dragon-35-ultimos-paneles-solares-desenrollables-estacion-espacial.html",
+  "fecha": "2026-10-13T21:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "datos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Netatmo ya tiene las válvulas para radiador compatibles con Matter que le faltaban",
+  "url": "http://www.microsiervos.com/archivo/gadgets/netatmo-valvulas-radiador-matter.html",
+  "fecha": "2026-10-13T16:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+  "fecha": "2026-10-13T22:21:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "LiquidAI/LFM2.5-24B-A2B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
+  "fecha": "2026-10-13T17:14:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "\"New AI fake text generator may be too dangerous to release, say creators\" (2019 Guardian headline)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous/",
+  "fecha": "2026-10-13T17:15:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Is everyone in here buying up smart TVs now?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now/",
+  "fecha": "2026-10-13T13:16:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x57zpx/characterai_files_for_bankruptcy_to_sell_some/",
+  "fecha": "2026-10-13T20:35:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Tencent open-sourced Agent Memory and it runs 100% locally on SQLite",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x50rgo/tencent_opensourced_agent_memory_and_it_runs_100/",
+  "fecha": "2026-10-13T16:07:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade/",
+  "fecha": "2026-10-13T19:59:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "4x 6000 Pro for the company",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/",
+  "fecha": "2026-10-13T14:49:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Update: Converting dense models into Mixture-of-Experts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4uint/update_converting_dense_models_into/",
+  "fecha": "2026-10-13T11:50:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Discover AI: A Learning Guide - 51 hands-on labs for learning how AI actually works.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for/",
+  "fecha": "2026-10-14T02:31:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "PSA for 3090 FE owners: Running LLMs overheats your VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4z19k/psa_for_3090_fe_owners_running_llms_overheats/",
+  "fecha": "2026-10-13T15:02:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Netflix’s documentary of Huggingface discussion",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4y1eq/netflixs_documentary_of_huggingface_discussion/",
+  "fecha": "2026-10-13T14:24:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Moving a running model's layers between GPUs mid-reply (8 ms, no re-prefill)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus/",
+  "fecha": "2026-10-14T04:40:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "So this is how they do it --> RTX 5090, once a consumer gaming card, is now on smugglers’ menu alongside cigarettes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ki4t/so_this_is_how_they_do_it_rtx_5090_once_a/",
+  "fecha": "2026-10-14T07:01:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "NVIDIA's Run:AI is now apparently under Apache-2.0 license.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5jnbf/nvidias_runai_is_now_apparently_under_apache20/",
+  "fecha": "2026-10-14T06:07:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Real downsides of Strata?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata/",
+  "fecha": "2026-10-13T23:43:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Claude CoWork for Local LLMs that runs on your Phone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your/",
+  "fecha": "2026-10-13T22:54:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Basalt: Fast Blackwell inference engine for Qwen 3.8 Flash Next (and how we got vision for free)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen/",
+  "fecha": "2026-10-13T14:08:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Thank-you post for DeepSeek-V4-Flash-0731 with DSpark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark/",
+  "fecha": "2026-10-13T21:18:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "An 80B MoE (Qwen3-Next, 48 GB GGUF) answering in a Chrome tab: llama.cpp's WebGPU backend, experts paged in from disk",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xjuh/an_80b_moe_qwen3next_48_gb_gguf_answering_in_a/",
+  "fecha": "2026-10-13T14:04:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "My local Qwen3.8FN agent is significantly cheaper than cloud",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper/",
+  "fecha": "2026-10-13T23:07:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Redesigning source control at Anthropic",
+  "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+  "fecha": "2026-10-13T23:00:06+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "llm-gemini 0.35",
+  "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+  "fecha": "2026-10-13T22:28:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Quoting Geoffrey Huntley",
+  "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+  "fecha": "2026-10-13T13:32:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "web-edit 0.1a1",
+  "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+  "fecha": "2026-10-13T01:40:05+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "llm-meta-ai 0.2",
+  "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+  "fecha": "2026-10-12T23:58:46+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+  "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+  "fecha": "2026-10-12T16:58:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "fecha": "2026-10-13T17:05:48+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+  "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+  "fecha": "2026-10-14T05:40:28+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-14"
+ },
+ {
+  "titulo": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+  "url": "https://www.latent.space/p/dyna",
+  "fecha": "2026-10-13T22:25:55+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-14"
+ },
+ {
   "titulo": "Nvidia deja de fabricar la RTX 5090, la tarjeta más potente para jugadores, según una filtración. Su chip irá destinado a la IA",
   "url": "https://www.xataka.com/componentes/nvidia-deja-fabricar-rtx-5090-tarjeta-potente-para-jugadores-filtracion-su-chip-ira-destinado-a-ia",
   "fecha": "2026-10-13T10:46:26+00:00",
