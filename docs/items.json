@@ -1,5 +1,425 @@
 [
  {
+  "titulo": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
+  "url": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
+  "fecha": "2026-10-16T09:00:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "ChatGPT ya tenía algunas de las voces más naturales de la IA. GPT-Live-1.1 ahora va a por uno de sus puntos débiles",
+  "url": "https://www.xataka.com/robotica-e-ia/chatgpt-tenia-algunas-voces-naturales-ia-gpt-live-1-1-ahora-va-a-uno-sus-puntos-debiles",
+  "fecha": "2026-10-15T19:30:40+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Nvidia se ha propuesto diversificar su apuesta por la IA: ha donado 250 millones de dólares a Reino Unido y más de 2.000 millones en Europa",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-se-ha-propuesto-diversificar-su-apuesta-ia-ha-donado-250-millones-dolares-a-reino-unido-2-000-millones-europa",
+  "fecha": "2026-10-15T18:16:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Silicon Valley está abrazando el preparacionismo convencido de las catástrofes a las que nos conduce la IA",
+  "url": "https://www.xataka.com/robotica-e-ia/silicon-valley-tiene-claro-que-futuro-no-seran-300-supermercados-sino-todo-pais-eso-se-esta-volviendo-preparacionista",
+  "fecha": "2026-10-15T15:00:29+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Nvidia quiere que RTX Spark marque un antes y un después en el PC: después de verlo en acción, no parece una locura",
+  "url": "https://www.xataka.com/ordenadores/nvidia-quiere-que-rtx-spark-marque-antes-despues-pc-despues-verlo-accion-no-parece-locura",
+  "fecha": "2026-10-15T13:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "local",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Epic le ha pedido a la IA que rehaga toda la interfaz de su tienda porque \"programar es difícil\"",
+  "url": "https://www.xataka.com/videojuegos/creadores-fortnite-dicen-que-programar-dificil-asi-que-han-pedido-a-ia-que-les-rehaga-epic-store",
+  "fecha": "2026-10-15T11:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "OpenAI suspende el lanzamiento de un nuevo modelo de IA debido a preocupaciones de seguridad",
+  "url": "https://www.genbeta.com/inteligencia-artificial/openai-suspende-lanzamiento-nuevo-modelo-ia-debido-a-preocupaciones-seguridad",
+  "fecha": "2026-10-16T07:00:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Su escuela bloqueó ChatGPT. Ahora esta estudiante de secundaria de 17 años dirige una startup de inteligencia artificial con 1.000 usuarios",
+  "url": "https://www.genbeta.com/inteligencia-artificial/su-escuela-bloqueo-chatgpt-ahora-esta-estudiante-secundaria-17-anos-dirige-startup-inteligencia-artificial-1-000-usuarios",
+  "fecha": "2026-10-15T09:30:25+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Los dos últimos paneles solares desenrollables para la Estación Espacial Internacional llegan a ella a bordo de la cápsula de carga Dragon 35",
+  "url": "http://www.microsiervos.com/archivo/espacio/dos-ultimos-paneles-solares-desenrollables-llegan-estacion-espacial.html",
+  "fecha": "2026-10-15T17:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "datos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+  "fecha": "2026-10-15T17:03:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face/",
+  "fecha": "2026-10-15T15:04:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "NVIDIA AI: So many models launching this week! And we have one of our own coming...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and/",
+  "fecha": "2026-10-15T10:54:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B model family released (base, NVFP4, BF16, and LiLiCorr speculative decoding)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model/",
+  "fecha": "2026-10-15T14:46:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Unsloth Muse Spark Open is out!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rcid/unsloth_muse_spark_open_is_out/",
+  "fecha": "2026-10-15T17:06:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Flux.3 Image Klein is now out",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out/",
+  "fecha": "2026-10-15T17:38:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "128GB RTX Spark laptop for $3832.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832/",
+  "fecha": "2026-10-15T18:38:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "137B A6.8B model from Microsoft?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft/",
+  "fecha": "2026-10-15T09:30:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "FP4 QAD quant of Qwen3.8-Flash-Next from Nvidia",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/",
+  "fecha": "2026-10-15T19:52:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on/",
+  "fecha": "2026-10-15T20:09:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700/",
+  "fecha": "2026-10-15T23:06:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+  "fecha": "2026-10-16T03:09:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "What a £300, 35W Snapdragon mini PC can actually do 👀: 35B coder at ~30 tok/s, and an 80B model that doesnt even fit in RAM running at 17 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6stod/what_a_300_35w_snapdragon_mini_pc_can_actually_do/",
+  "fecha": "2026-10-15T18:02:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "ibm-granite/granite-switch-4.1 30B/8B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6wwx2/ibmgranitegraniteswitch41_30b8b/",
+  "fecha": "2026-10-15T20:38:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "mistralai/Timestral",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ouoy/mistralaitimestral/",
+  "fecha": "2026-10-15T15:32:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "capy-flash: Qwen3.8-Flash-Next (125B MoE) in full NVFP4 on two 16 GB consumer GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6wh1z/capyflash_qwen38flashnext_125b_moe_in_full_nvfp4/",
+  "fecha": "2026-10-15T20:20:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Ternary Bonsai 2 Family: 2B, 4B, & 9B based on Qwen 3.5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35/",
+  "fecha": "2026-10-15T21:45:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "BlenderWorld Benchmark from Alibaba",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x76d8l/blenderworld_benchmark_from_alibaba/",
+  "fecha": "2026-10-16T04:05:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/",
+  "fecha": "2026-10-16T07:58:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Craziest, strangest, funniest, and weirdest LLM fine tunes?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yuc1/craziest_strangest_funniest_and_weirdest_llm_fine/",
+  "fecha": "2026-10-15T21:58:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Add Nemotron Super 3.5 VL and Nemotron Bolt 74B A9B support by frozenblade1224 · Pull Request #30520 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6mlby/add_nemotron_super_35_vl_and_nemotron_bolt_74b/",
+  "fecha": "2026-10-15T14:06:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that/",
+  "fecha": "2026-10-15T18:57:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "QUASAR 4-bit QAT checkpoints for Qwen3.5, Gemma 4 and Muse Glimmer: closer to BF16 than Google’s and NVIDIA’s 4-bit releases",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6u8pi/quasar_4bit_qat_checkpoints_for_qwen35_gemma_4/",
+  "fecha": "2026-10-15T18:55:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "FLUX.3 Image Klein just got weights published on hugging face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6t5fc/flux3_image_klein_just_got_weights_published_on/",
+  "fecha": "2026-10-15T18:14:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "AtomicChat/Ling-3.1-flash-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6of05/atomicchatling31flashgguf_hugging_face/",
+  "fecha": "2026-10-15T15:16:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Chirp Pong",
+  "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+  "fecha": "2026-10-15T19:47:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+  "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+  "fecha": "2026-10-15T13:04:03+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "fecha": "2026-10-16T01:44:47+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "fecha": "2026-10-15T20:34:01+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "fecha": "2026-10-15T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "Welcome FLUX.3 Image Klein in Diffusers",
+  "url": "https://huggingface.co/blog/flux-3",
+  "fecha": "2026-10-15T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+  "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+  "fecha": "2026-10-16T04:16:45+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-16"
+ },
+ {
+  "titulo": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+  "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+  "fecha": "2026-10-15T10:08:08+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-16"
+ },
+ {
   "titulo": "Una IA permite a la policía localizar tu casa con una sola foto del interior",
   "url": "https://www.xataka.com/privacidad/ia-permite-a-policia-localizar-tu-casa-sola-foto-interior",
   "fecha": "2026-10-15T05:01:18+00:00",
