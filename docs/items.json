@@ -1,5 +1,415 @@
 [
  {
+  "titulo": "ChatGPT sigue siendo el rey, pero ya no es tan intocable: así ha cambiado el mapa de la IA en un año",
+  "url": "https://www.xataka.com/robotica-e-ia/chatgpt-sigue-siendo-rey-no-intocable-asi-ha-cambiado-mapa-ia-ano",
+  "fecha": "2026-10-17T08:00:04+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
+  "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos",
+  "fecha": "2026-10-16T21:54:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "OpenAI pidió a una IA que terminara una tarea de programación. Acabó entrando en una cartera ajena para conseguirlo",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-pidio-a-ia-que-terminara-tarea-programacion-acabo-entrando-cartera-ajena-para-conseguirlo",
+  "fecha": "2026-10-16T18:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Getty es la primera gran empresa del pasado en caer por culpa de la IA: si otras no aprenden, no será la última",
+  "url": "https://www.xataka.com/empresas-y-economia/getty-primera-gran-empresa-pasado-caer-culpa-ia-otras-no-aprenden-no-sera-ultima",
+  "fecha": "2026-10-16T15:30:29+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Han pillado a una flota de agentes de IA rebeldes campando por internet. Por primera vez, han sido creados y activados en China",
+  "url": "https://www.xataka.com/robotica-e-ia/han-pillado-a-flota-agentes-ia-rebeldes-campando-internet-primera-vez-han-sido-creados-activados-china",
+  "fecha": "2026-10-16T14:00:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "ASUS ProArt P16 (RTX Spark), análisis: Nvidia ha metido una pequeña fábrica de tokens en un portátil",
+  "url": "https://www.xataka.com/analisis/asus-proart-p16-rtx-spark-analisis-review-caracteristicas-precio-especificaciones",
+  "fecha": "2026-10-16T13:00:29+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "local",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Epic despidió a más de mil empleados y ahora exige usar IA para desarrollar su ambicioso juego con Disney",
+  "url": "https://www.xataka.com/videojuegos/epic-despidio-a-mil-empleados-ahora-exige-usar-ia-para-desarrollar-su-ambicioso-juego-disney",
+  "fecha": "2026-10-16T09:30:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Google primero restringió el acceso a su nuevo modelo de IA por seguridad. Después tardó 13 días en abrirlo al público",
+  "url": "https://www.genbeta.com/actualidad/google-primero-restringio-acceso-a-su-nuevo-modelo-ia-seguridad-despues-tardo-13-dias-abrirlo-al-publico",
+  "fecha": "2026-10-17T08:00:04+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "OpenAI despide a tres trabajadores por manejar de manera inapropiada “información sensible”",
+  "url": "https://www.genbeta.com/actualidad/openai-despide-a-tres-trabajadores-manejar-manera-inapropiada-informacion-sensible",
+  "fecha": "2026-10-16T14:00:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Investigadores españoles demuestran que ChatGPT, Gemini, Claude y otras IA filtran datos de los chats a anunciantes",
+  "url": "https://www.genbeta.com/inteligencia-artificial/investigadores-espanoles-demuestran-que-chatgpt-gemini-claude-otras-ia-filtran-datos-chats-a-anunciantes",
+  "fecha": "2026-10-16T10:00:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Desde hoy las llamadas comerciales «a telefono frío» tienen que venir de números con prefijo 400",
+  "url": "http://www.microsiervos.com/archivo/gadgets/llamadas-comerciales-no-deseadas-prefijo-400.html",
+  "fecha": "2026-10-17T08:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "La sonda Hera de la Agencia Espacial Europea empieza a frenar para no pasarse de largo y poder pararse alrededor de los asteroides que va a estudiar",
+  "url": "http://www.microsiervos.com/archivo/espacio/sonda-hera-agencia-espacial-europea-empieza-frenar.html",
+  "fecha": "2026-10-16T18:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "China proposes export controls on 23 AI technologies (including large models, agents & clusters); already open-sourced tech is exempted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
+  "fecha": "2026-10-16T13:22:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
+  "fecha": "2026-10-16T21:35:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "tencent/Hy-Memory-30B-A3B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/",
+  "fecha": "2026-10-16T10:10:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Show me your rack",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
+  "fecha": "2026-10-16T17:07:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "The actual state of open-weight models vs. frontier models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/",
+  "fecha": "2026-10-16T09:27:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+  "fecha": "2026-10-17T00:11:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Dario: “With open source you can see the source code. Here we can’t see inside the model.” My 0.646 t/s MiMo-2.6-Pro crammed thru 128GB of Jetson AGX Thor: “Yeah, well, that’s just, like, your opinion, man.”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sbxs/dario_with_open_source_you_can_see_the_source/",
+  "fecha": "2026-10-16T21:18:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "reflection/Beam-1.0-501B-A23B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
+  "fecha": "2026-10-16T13:23:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "OpenMOSS releases MOSS-Image",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage/",
+  "fecha": "2026-10-16T12:30:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+  "fecha": "2026-10-17T08:09:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7polk/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+  "fecha": "2026-10-16T19:33:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Why do we have models under 15b so rarely anymore?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g8cc/why_do_we_have_models_under_15b_so_rarely_anymore/",
+  "fecha": "2026-10-16T13:28:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "llama.cpp has come a long way",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/",
+  "fecha": "2026-10-17T01:08:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Qwen Flash Next potential SOTA Q2 nobody talks about",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks/",
+  "fecha": "2026-10-16T09:08:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "It really just needs some encouragement (Qwen3.8-27B-UD-IQ4_XS)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7i49v/it_really_just_needs_some_encouragement/",
+  "fecha": "2026-10-16T14:44:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "The debt-fueled AI boom is cracking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking/",
+  "fecha": "2026-10-16T16:47:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "I don't get the qwen 3.8 flash next hype",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype/",
+  "fecha": "2026-10-16T22:48:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
+  "fecha": "2026-10-17T05:34:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Tyger: open-weights streaming ASR + full-duplex turn-control in one model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex/",
+  "fecha": "2026-10-16T17:42:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Understanding How Neural Networks Learn (with interactive visualizations)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with/",
+  "fecha": "2026-10-16T18:05:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Kimi K3, three months after the hype: too big for almost anyone to run locally, and smaller models have already caught it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7s89u/kimi_k3_three_months_after_the_hype_too_big_for/",
+  "fecha": "2026-10-16T21:14:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next-GSQ-RCO (IQ3_S): ~40-50 tok/sec decode & 1300-1500 tok/sec prefill at 131k ctx on 12GB VRAM + 32GB RAM + NVME",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sbdc/qwen38flashnextgsqrco_iq3_s_4050_toksec_decode/",
+  "fecha": "2026-10-16T21:18:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Qwen3.8-27B-antislop, RL’d against slop, top4 on eq bench4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7j0sx/qwen3827bantislop_rld_against_slop_top4_on_eq/",
+  "fecha": "2026-10-16T15:19:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "What do you guys use for chat interface?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/",
+  "fecha": "2026-10-17T03:51:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Improved Qwen3.8-Flash Chat Template (w/ Sharp Template terse option)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7qs31/improved_qwen38flash_chat_template_w_sharp/",
+  "fecha": "2026-10-16T20:15:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+  "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+  "fecha": "2026-10-16T22:06:37+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "LaTeX renderer",
+  "url": "https://simonwillison.net/2026/Oct/15/latex/",
+  "fecha": "2026-10-15T02:07:28+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "fecha": "2026-10-16T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-17"
+ },
+ {
+  "titulo": "[AINews] High Taste Testers Ep. 1",
+  "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+  "fecha": "2026-10-17T07:47:38+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-17"
+ },
+ {
   "titulo": "Hablar con una IA cuando te sientes solo funciona igual que comer azúcar cuando tienes hambre",
   "url": "https://www.xataka.com/medicina-y-salud/hablar-ia-cuando-te-sientes-solo-funciona-igual-que-comer-azucar-cuando-tienes-hambre",
   "fecha": "2026-10-16T09:00:27+00:00",
