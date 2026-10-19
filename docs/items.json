@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "Todo listo para el lanzamiento de la misión Martian Moons Exploration (MMX) rumbo a las lunas de Marte",
+  "url": "http://www.microsiervos.com/archivo/espacio/lanzamiento-mmx-rumbo-lunas-marte.html",
+  "fecha": "2026-10-19T11:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "llm-eng",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Cuando Timothy Leary y William Gibson trolearon a Autodesk por intentar registrar el término Ciberespacio™",
+  "url": "http://www.microsiervos.com/archivo/leyendas-urbanas/timothy-leary-william-gibson-trolearon-a-autodesk-ciberespacio.html",
+  "fecha": "2026-10-19T09:40:55+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Cruce de cables: peluches con IA en cuarentena",
+  "url": "http://www.microsiervos.com/archivo/ia/cruce-cables-107-peluches-con-ia-en-cuarentena.html",
+  "fecha": "2026-10-19T08:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Ay, cómo hemos cambiado…",
+  "url": "http://www.microsiervos.com/archivo/frases-citas/frase-internet-ahora-tienda-antes-biblioteca.html",
+  "fecha": "2026-10-18T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Google Open Sources Harness2 for Self Improving AI Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+  "fecha": "2026-10-18T22:33:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+  "fecha": "2026-10-18T12:16:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+  "fecha": "2026-10-18T20:10:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+  "fecha": "2026-10-18T14:51:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Embedding model can be used to search text inside image",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
+  "fecha": "2026-10-18T18:22:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "AuroraASR-1M Releases!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/",
+  "fecha": "2026-10-18T12:48:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "PSA: Power limit your 5090s!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+  "fecha": "2026-10-18T17:02:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Don't sleep on Nemotron 3.5 Super VL",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/",
+  "fecha": "2026-10-19T04:01:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "incoai/Qwen3.8-Flash-Next-DFlash2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2/",
+  "fecha": "2026-10-19T08:55:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Hybrid Reasoning Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents/",
+  "fecha": "2026-10-18T21:45:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/",
+  "fecha": "2026-10-19T05:56:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38/",
+  "fecha": "2026-10-18T23:34:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Nemotron 3.5 Bolt is okayish for small multiuser setups",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/",
+  "fecha": "2026-10-19T02:48:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than/",
+  "fecha": "2026-10-19T09:47:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
+  "fecha": "2026-10-19T03:40:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "What quant do you actually use day to day? Anyone happy with 2-bit or 3-bit?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone/",
+  "fecha": "2026-10-18T13:05:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Mellum2 model from JetBrains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91ou3/mellum2_model_from_jetbrains/",
+  "fecha": "2026-10-18T12:10:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Kapitsa: open-source Apple Silicon optimized Metal engine built for Qwen and Nemotron. See benchmarks of Qwen 27B, Nemotron + 8 other models on an M1 Pro (16GB), M4 Pro (48GB) and M5 Max (128GB)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9pzt0/kapitsa_opensource_apple_silicon_optimized_metal/",
+  "fecha": "2026-10-19T07:04:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx/",
+  "fecha": "2026-10-19T00:29:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n3qv/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+  "fecha": "2026-10-19T04:12:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "I messed up. Buying Z9PE-D8 WS with 4 x16 Slots and 256GB DDR3 RDIMM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d8hs/i_messed_up_buying_z9ped8_ws_with_4_x16_slots_and/",
+  "fecha": "2026-10-18T20:17:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "LTX 2.5 running locally on a 48GB M5 Pro MacBook Pro in TensorSharp’s Video Studio",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9p6cp/ltx_25_running_locally_on_a_48gb_m5_pro_macbook/",
+  "fecha": "2026-10-19T06:12:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "80s computing era meets small local decision models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n1i6/80s_computing_era_meets_small_local_decision/",
+  "fecha": "2026-10-19T04:08:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Is there a Strata for lfm 24b a2b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b/",
+  "fecha": "2026-10-18T18:52:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Muse Spark on a single Mac Studio",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91ky6/muse_spark_on_a_single_mac_studio/",
+  "fecha": "2026-10-18T12:05:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "llm-tools-datasette 0.1.1",
+  "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+  "fecha": "2026-10-18T23:43:09+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "llm-echo 0.5",
+  "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+  "fecha": "2026-10-18T23:16:16+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-19"
+ },
+ {
+  "titulo": "Apertus 1.5 Release Notes",
+  "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "fecha": "2026-10-15T09:08:45+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-19"
+ },
+ {
   "titulo": "Decimos que el género de una IA nos da igual, hasta que llega el momento de pagarle",
   "url": "https://www.xataka.com/robotica-e-ia/decimos-que-genero-ia-nos-da-igual-que-llega-momento-pagarle",
   "fecha": "2026-10-18T06:00:08+00:00",
