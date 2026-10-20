@@ -1,5 +1,345 @@
 [
  {
+  "titulo": "El mercado de la ciberseguridad sufrió un desplome del 26% en EEUU. Una especialidad fue a contracorriente: creció un 268%",
+  "url": "https://www.xataka.com/empresas-y-economia/mercado-ciberseguridad-sufrio-desplome-26-eeuu-especialidad-fue-a-contracorriente-crecio-268",
+  "fecha": "2026-10-19T19:01:54+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Un perro-robot guiado por IA ya está patrullando los viñedos de Extremadura",
+  "url": "https://www.xataka.com/robotica-e-ia/perro-robot-ia-patrulla-cultivos-extremadura-su-mision-ponerle-patas-a-agricultura-precision",
+  "fecha": "2026-10-19T17:01:54+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Anthropic propone destinar un 5% de sus acciones a un fondo que aborde el impacto laboral de la IA",
+  "url": "https://www.xataka.com/empresas-y-economia/anthropic-propone-destinar-5-sus-acciones-a-fondo-que-podria-abordar-impacto-laboral-ia",
+  "fecha": "2026-10-19T16:17:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Amazon se ha convertido en el mejor ejemplo del impacto de la IA en el empleo: ni se crea ni se destruye, se desplaza",
+  "url": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
+  "fecha": "2026-10-19T13:15:53+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "50 muertos o 1.000 millones de dólares en daños: el listón que Anthropic quiere fijar para que el Gobierno pueda frenar un modelo de IA",
+  "url": "https://www.xataka.com/robotica-e-ia/50-muertos-1-000-millones-dolares-danos-liston-que-anthropic-quiere-fijar-gobierno-pueda-frenar-modelo-ia",
+  "fecha": "2026-10-19T12:47:54+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Susan Li, CFO de Meta, sobre el futuro de la compañía y la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
+  "url": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
+  "fecha": "2026-10-19T12:31:53+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
+  "url": "https://www.genbeta.com/inteligencia-artificial/pentagono-deja-utilizar-herramientas-ia-anthropic-incluir-a-empresa-lista-negra-pudo-saber-bbc",
+  "fecha": "2026-10-20T07:01:54+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "MiniMax M3.1 Flash released, Model weights Oct 23",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
+  "fecha": "2026-10-19T12:01:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "MiniMax-M3.1-Flash is coming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
+  "fecha": "2026-10-19T10:05:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "24GB is plenty if your engines take turns",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
+  "fecha": "2026-10-20T03:27:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
+  "fecha": "2026-10-19T20:05:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
+  "fecha": "2026-10-19T14:47:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "llama.cpp support for Cohere models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
+  "fecha": "2026-10-19T15:43:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Do not upgrade Strata! Tons of breaking changes!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
+  "fecha": "2026-10-20T01:52:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "llama server's default port changed from 8080 to 9931",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to/",
+  "fecha": "2026-10-19T10:32:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "inclusionAI/Ming-3.0-audio-flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yd01/inclusionaiming30audioflash_hugging_face/",
+  "fecha": "2026-10-19T14:27:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe/",
+  "fecha": "2026-10-19T14:42:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Jev Based Adaptive Thinking for LLMs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms/",
+  "fecha": "2026-10-19T21:18:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
+  "fecha": "2026-10-20T02:18:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "6M param character renderer: one reference image in, a minute of video out, tested against Blender truth",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9zwts/6m_param_character_renderer_one_reference_image/",
+  "fecha": "2026-10-19T15:26:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "inclusionAI/Ming-3.0-audio-tiny · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yf3m/inclusionaiming30audiotiny_hugging_face/",
+  "fecha": "2026-10-19T14:29:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "migtissera/Tess-4.5-27B (Qwen finetune)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune/",
+  "fecha": "2026-10-20T00:09:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "We built our own inference engine so a 32B model could keep 262K context inside a 16 GB GPU budget. Here's an uncut run.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa02iw/we_built_our_own_inference_engine_so_a_32b_model/",
+  "fecha": "2026-10-19T15:32:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash at 2.61 bpw + Engram: 26 t/s on dual RTX 3090s with dsx",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9umtv/deepseek_v41_flash_at_261_bpw_engram_26_ts_on/",
+  "fecha": "2026-10-19T11:43:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Has anyone else here found a place for DiffusionGemma in their local work?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa6ykz/has_anyone_else_here_found_a_place_for/",
+  "fecha": "2026-10-19T19:46:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Qwen3.8-27B and Flash-Next on consumer hardware: engine numbers I could verify, and what they cost with 2026 RAM prices",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9tzf1/qwen3827b_and_flashnext_on_consumer_hardware/",
+  "fecha": "2026-10-19T11:09:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "A bare IPython harness ties production coding agents with Qwen3.5-9B on TB-Lite, and tool-output normalization fixed most of the run-to-run variance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9vtt9/a_bare_ipython_harness_ties_production_coding/",
+  "fecha": "2026-10-19T12:40:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Perplexity open sources firecracker orchestrator for agent sandboxing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9whcm/perplexity_open_sources_firecracker_orchestrator/",
+  "fecha": "2026-10-19T13:10:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Strata 2 beta running at half speed?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa5dse/strata_2_beta_running_at_half_speed/",
+  "fecha": "2026-10-19T18:48:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "What to expect from the Intel D270 GPU?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9wsat/what_to_expect_from_the_intel_d270_gpu/",
+  "fecha": "2026-10-19T13:23:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+  "fecha": "2026-10-20T09:33:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "My obituary for programming",
+  "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+  "fecha": "2026-10-19T23:58:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "fecha": "2026-10-19T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-20"
+ },
+ {
+  "titulo": "[AINews] not much happened today",
+  "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+  "fecha": "2026-10-20T05:21:52+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-20"
+ },
+ {
   "titulo": "Todo listo para el lanzamiento de la misión Martian Moons Exploration (MMX) rumbo a las lunas de Marte",
   "url": "http://www.microsiervos.com/archivo/espacio/lanzamiento-mmx-rumbo-lunas-marte.html",
   "fecha": "2026-10-19T11:00:00+00:00",
