@@ -1,5 +1,465 @@
 [
  {
+  "titulo": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+  "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+  "fecha": "2026-10-23T19:30:07+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
+  "url": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
+  "fecha": "2026-10-23T18:32:14+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
+  "url": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
+  "fecha": "2026-10-23T17:30:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
+  "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
+  "fecha": "2026-10-23T15:00:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
+  "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+  "fecha": "2026-10-23T11:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Eugenio, el octogenario que suma 10 millones de seguidores recuperando oficios antiguos: “En 50 años hemos pasado de la Edad Media a un futuro incierto”",
+  "url": "https://www.genbeta.com/actualidad/eugenio-octogenario-que-suma-10-millones-seguidores-recuperando-oficios-antiguos-50-anos-hemos-pasado-edad-media-a-futuro-incierto",
+  "fecha": "2026-10-23T14:00:12+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Vibecoding your own inference engine is easy they said",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+  "fecha": "2026-10-23T15:26:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Qwen4-27B PR found",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+  "fecha": "2026-10-24T02:16:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "everything will be local eventually",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/",
+  "fecha": "2026-10-23T12:31:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
+  "fecha": "2026-10-23T18:10:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
+  "fecha": "2026-10-23T16:13:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+  "fecha": "2026-10-23T18:59:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
+  "fecha": "2026-10-23T14:44:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
+  "fecha": "2026-10-23T23:37:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Probability of backdoors in popular harnesses and LLM inference engines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/",
+  "fecha": "2026-10-23T13:44:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
+  "fecha": "2026-10-23T18:22:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Strata now supports Qwen 3.6 35B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
+  "fecha": "2026-10-23T17:44:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+  "fecha": "2026-10-23T18:43:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
+  "fecha": "2026-10-23T20:04:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next Gyro Coder is out!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
+  "fecha": "2026-10-23T15:41:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
+  "fecha": "2026-10-24T05:41:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Started to play around a bit with opencode and this happened during thinking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
+  "fecha": "2026-10-23T12:00:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "is it worth to dumpsterdive?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdaf1p/is_it_worth_to_dumpsterdive/",
+  "fecha": "2026-10-23T10:33:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "NanoStories Releases!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/",
+  "fecha": "2026-10-23T12:09:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "New Nvidia unlock works on Chinese 3080 20GB too",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
+  "fecha": "2026-10-23T19:09:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Does the “gpu unlock speedup” trick only work for 3090, or other 30x0 cards too? What about 40x0, 50x0?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdexhw/does_the_gpu_unlock_speedup_trick_only_work_for/",
+  "fecha": "2026-10-23T14:02:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[Paper] Virtual Head Attention",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhzw3/paper_virtual_head_attention/",
+  "fecha": "2026-10-23T15:59:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Maya-XS runs DeepSeek-V4.1-Flash in 120.6 GB, with all 384 experts resident in GPU memory on a 128 GB Ryzen AI Max.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdbtvq/mayaxs_runs_deepseekv41flash_in_1206_gb_with_all/",
+  "fecha": "2026-10-23T11:49:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
+  "fecha": "2026-10-23T21:05:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Spark X2.6 4B is the best of it's size",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size/",
+  "fecha": "2026-10-24T06:44:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[Paper] Continuum Attention",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhzi2/paper_continuum_attention/",
+  "fecha": "2026-10-23T15:58:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Quick Study",
+  "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+  "fecha": "2026-10-23T21:35:13+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Introducing Kimi K3.1 Pro",
+  "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+  "fecha": "2026-10-23T19:40:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "fecha": "2026-10-23T16:15:50+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Does Your Model Run on AWS Trainium? Look It Up",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "fecha": "2026-10-23T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+  "url": "https://latent.space/p/ainews-kimi-31/",
+  "fecha": "2026-10-24T07:18:29+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "AI Is Getting Good at Math. Here’s Why.",
+  "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+  "fecha": "2026-10-23T15:19:48+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[AINews] Black October",
+  "url": "https://latent.space/p/ainews-black-october/",
+  "fecha": "2026-10-23T10:09:29+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+  "url": "https://latent.space/p/modal-d/",
+  "fecha": "2026-10-22T17:40:57+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "You are the Team — Anekha Sokhal, Moshi",
+  "url": "https://latent.space/p/moshi/",
+  "fecha": "2026-10-22T14:03:40+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+  "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+  "fecha": "2026-10-22T07:42:44+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "Claude Mods: Flipping the Harness Inside Out",
+  "url": "https://latent.space/p/claude-mods/",
+  "fecha": "2026-10-21T13:04:19+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+  "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
+  "fecha": "2026-10-21T06:54:09+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+  "url": "https://latent.space/p/tenex/",
+  "fecha": "2026-10-21T05:01:26+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "The Programmable Data Center — Evan Conrad, SF Compute",
+  "url": "https://latent.space/p/sfcompute2/",
+  "fecha": "2026-10-20T19:31:57+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
+  "titulo": "[AINews] not much happened today",
+  "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
+  "fecha": "2026-10-20T05:21:52+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-24"
+ },
+ {
   "titulo": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
   "url": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
   "fecha": "2026-10-23T08:39:17+00:00",
