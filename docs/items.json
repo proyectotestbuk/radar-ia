@@ -1,5 +1,375 @@
 [
  {
+  "titulo": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
+  "url": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
+  "fecha": "2026-10-26T18:33:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Elon Musk, CEO de SpaceX: \"Las neoclouds van a experimentar muertes y consolidaciones a nivel extremo\"",
+  "url": "https://www.xataka.com/empresas-y-economia/elon-musk-cree-que-carrera-ia-se-cobrara-nuevas-victimas-neoclouds",
+  "fecha": "2026-10-26T18:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
+  "url": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
+  "fecha": "2026-10-26T16:31:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
+  "url": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
+  "fecha": "2026-10-26T14:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Los hiperescaladores tienen miles de tarjetas de Nvidia guardadas en sus cajas porque no tienen dónde enchufarlas",
+  "url": "https://www.xataka.com/empresas-y-economia/gastar-cientos-miles-millones-dolares-tarjetas-nvidia-hiperescaladores-tienen-mitad-guardadas-cajas",
+  "fecha": "2026-10-26T12:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "¿Es Pangram el árbitro de la IA que la industria literaria necesita? Un autor peruano lo está descubriendo en su carnes",
+  "url": "https://www.xataka.com/magnet/quien-vigila-al-vigilante-limites-pangram-como-arbitro-que-ia-que-no",
+  "fecha": "2026-10-26T11:35:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "¿Quién es Elías, el farero? La ficción con IA cuenta la misma vieja historia",
+  "url": "https://www.genbeta.com/inteligencia-artificial/quien-elias-farero-ficcion-ia-cuenta-vieja-historia",
+  "fecha": "2026-10-26T17:01:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "La Justicia determina que los trabajadores que trabajen más de 6 horas seguidas tienen derecho a un descanso mínimo de 15 minutos y se apoya en el Estatuto de los Trabajadores",
+  "url": "https://www.genbeta.com/actualidad/justicia-determina-que-trabajadores-que-trabajen-6-horas-seguidas-tienen-derecho-a-descanso-minimo-15-minutos-se-apoya-estatuto-trabajadores",
+  "fecha": "2026-10-26T14:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+  "fecha": "2026-10-26T19:51:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+  "fecha": "2026-10-26T10:26:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Qwen investigation traces release",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+  "fecha": "2026-10-26T22:42:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
+  "fecha": "2026-10-26T16:51:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Update: My 4B coding model is getting better at generating 3D scenes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
+  "fecha": "2026-10-26T23:07:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "GPU unlocks (FP32 accumulation): Why can it be unlocked on Turing (RTX 20), Ampere (RTX 30) and Ada (RTX 40) but no consumer Blackwell (RTX 50) and some misconceptions.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be/",
+  "fecha": "2026-10-26T21:48:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "PSA: Qwen-3.8-FN is about to win the 2026 ARC-AGI-3 challenge",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3/",
+  "fecha": "2026-10-27T00:05:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Oh nvidia… —>> NVIDIA reportedly not accepting RTX 5090 orders from board partners, even backorders are unavailable",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg4s8y/oh_nvidia_nvidia_reportedly_not_accepting_rtx/",
+  "fecha": "2026-10-26T18:20:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Qwen4-27B's 4-way HC shift?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift/",
+  "fecha": "2026-10-26T10:42:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Interactive neuron steering playground for Qwen3.5-4B that runs locally in the browser on WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for/",
+  "fecha": "2026-10-26T22:48:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/",
+  "fecha": "2026-10-26T21:11:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Fast voice agents with ConvFill",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/",
+  "fecha": "2026-10-26T15:06:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "baidu/Unlimited-OCR-2 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
+  "fecha": "2026-10-27T08:54:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Local beats cloud, Qwen 3.8 FN",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg3rms/local_beats_cloud_qwen_38_fn/",
+  "fecha": "2026-10-26T17:43:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Is there any way for this community to take advantage of the neocloud collapse?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfv8a9/is_there_any_way_for_this_community_to_take/",
+  "fecha": "2026-10-26T12:19:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Price 5080 10 days",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg5rlx/price_5080_10_days/",
+  "fecha": "2026-10-26T18:57:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Have you gone fully local?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgazww/have_you_gone_fully_local/",
+  "fecha": "2026-10-26T22:16:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "People who tried gpu-unlock on 3090s and such - does this make any difference on mixed-precision quants where you get some parts of the model quantized to <=Q8 but keep some tensors at BF16?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg0kle/people_who_tried_gpuunlock_on_3090s_and_such_does/",
+  "fecha": "2026-10-26T15:48:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Qwen3.8-27B Jetson Thor: 40 tok/s at FP16-level accuracy (INT4 + MTP + FlashHead)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg44nj/qwen3827b_jetson_thor_40_toks_at_fp16level/",
+  "fecha": "2026-10-26T17:56:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
+  "fecha": "2026-10-27T06:20:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
+  "fecha": "2026-10-27T06:54:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "LLM Tails Disciplined Al coding mode. Understand deeply, write minimally, never hallucinate, stay consistent. Based on Ponytail & LLM Wiki",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg3oe0/llm_tails_disciplined_al_coding_mode_understand/",
+  "fecha": "2026-10-26T17:40:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "A briefing file that lets a big model write plans a local 9B can actually execute (and cut my Claude token spend)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg29rq/a_briefing_file_that_lets_a_big_model_write_plans/",
+  "fecha": "2026-10-26T16:49:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Introducing Zest: model server + agent + friendly GUI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgi2cx/introducing_zest_model_server_agent_friendly_gui/",
+  "fecha": "2026-10-27T03:34:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "KLD is not the best metric out there and there isn't a single best one.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2cqg/kld_is_not_the_best_metric_out_there_and_there/",
+  "fecha": "2026-10-26T16:52:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "GPT-6.1 Terra",
+  "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+  "fecha": "2026-10-26T23:53:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "Quoting Jason Koebler",
+  "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+  "fecha": "2026-10-26T19:00:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "webframe: evaluated as a scraper and a sandbox",
+  "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+  "fecha": "2026-10-26T16:15:00+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-27"
+ },
+ {
+  "titulo": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+  "url": "https://latent.space/p/ainews-anthropic-s1/",
+  "fecha": "2026-10-27T07:24:59+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-27"
+ },
+ {
   "titulo": "Joe Tsai, presidente de Alibaba: \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
   "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
   "fecha": "2026-10-25T17:30:11+00:00",
