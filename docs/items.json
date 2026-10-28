@@ -1,5 +1,385 @@
 [
  {
+  "titulo": "Detienen a una mujer en Cangas por una estafa bancaria de más de 47.000 euros",
+  "url": "https://www.genbeta.com/actualidad/detienen-a-mujer-cangas-estafa-bancaria-47-000-euros",
+  "fecha": "2026-10-28T08:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "\"Se acabó, la IA ganó\": Google Gemini 4 Argon destruye una conjetura de fusión nuclear de 59 años en solo unas pocas horas",
+  "url": "https://www.genbeta.com/actualidad/se-acabo-ia-gano-google-gemini-4-argon-destruye-conjetura-fusion-nuclear-59-anos-solo-unas-pocas-horas",
+  "fecha": "2026-10-27T17:01:31+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Una pertinaz fuga de aire deja prácticamente fuera de servicio uno de los puertos de atraque de la Estación Espacial Internacional",
+  "url": "http://www.microsiervos.com/archivo/espacio/fuga-aire-deja-practicamente-inutilizado-puerto-atraque-estacion-espacial.html",
+  "fecha": "2026-10-27T18:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "La muerte del editor de más éxito de la historia",
+  "url": "http://www.microsiervos.com/archivo/frases-citas/muerte-editor-mas-exito-historia.html",
+  "fecha": "2026-10-27T16:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "La Wikipedia Local es una especie de guía de la sabiduría popular sobre sitios cercanos a los que ir a pie",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/wikipedia-local-guia-popular-sitios-interesantes.html",
+  "fecha": "2026-10-27T15:16:45+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "I am a King, but local 😂",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+  "fecha": "2026-10-27T17:01:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Dirt cheap GPUs coming next year",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+  "fecha": "2026-10-28T04:34:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "The reason why 5090's are $10k now...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+  "fecha": "2026-10-27T20:17:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "LiquidAI/LFM3-1.7B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
+  "fecha": "2026-10-27T17:04:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Artificial Analysis Intelligence Index v5 (major update)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
+  "fecha": "2026-10-28T03:36:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+  "fecha": "2026-10-27T12:55:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
+  "fecha": "2026-10-27T18:33:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Gemma 5 models soon ??",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
+  "fecha": "2026-10-28T09:45:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Statistically Lossless Qwen3.8 27B GGUFs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
+  "fecha": "2026-10-27T18:52:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
+  "fecha": "2026-10-27T11:12:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "New audio model: LFM3-Audio-2B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+  "fecha": "2026-10-27T21:14:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/",
+  "fecha": "2026-10-27T16:21:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "8x R9700 System Upgrade",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
+  "fecha": "2026-10-27T16:18:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/",
+  "fecha": "2026-10-28T00:39:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+  "fecha": "2026-10-27T20:47:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "SK Hynix expects demand to outpace supply through 2030",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through/",
+  "fecha": "2026-10-28T00:29:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Spark-X2.6-1.7B, almost the same perf as 4b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/",
+  "fecha": "2026-10-27T15:45:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "LiquidAI/LFM3-Omni-2B-GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/",
+  "fecha": "2026-10-27T19:12:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "SenseNova 6.8 Code2Video: an open-sourced model that writes and revises code to make videos",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgvcnu/sensenova_68_code2video_an_opensourced_model_that/",
+  "fecha": "2026-10-27T15:19:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "4 coding agents on one RTX 3090: ~290 tok/s total from a custom CUDA engine for Qwen3.8-27B (3-4x llama-server --parallel)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgs8hp/4_coding_agents_on_one_rtx_3090_290_toks_total/",
+  "fecha": "2026-10-27T13:15:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Diffuspace/Clover-35B-A3B-Preview · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/",
+  "fecha": "2026-10-28T08:43:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs/",
+  "fecha": "2026-10-27T11:51:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "I built a local GPU benchmark server for 4B to 35B models because I was tired of synthetic cloud leaderboards and tiny sample tests",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh72iu/i_built_a_local_gpu_benchmark_server_for_4b_to/",
+  "fecha": "2026-10-27T22:35:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "4B 3D coding model update: much better one-shot results and visual quality",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhfwui/4b_3d_coding_model_update_much_better_oneshot/",
+  "fecha": "2026-10-28T05:45:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "OpenBMB released a 1.3B OCR model and a separate 2B model to check its work",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgyqbb/openbmb_released_a_13b_ocr_model_and_a_separate/",
+  "fecha": "2026-10-27T17:21:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Quoting Terk Terkowitz",
+  "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+  "fecha": "2026-10-28T10:09:07+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Game Boy Color on My Conference Badge",
+  "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+  "fecha": "2026-10-27T19:34:18+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Build specialized multimodal models with LFM3",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "fecha": "2026-10-27T17:16:52+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Can we trust LLMs to judge whether a research idea is novel?",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "fecha": "2026-10-27T16:12:42+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+  "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+  "fecha": "2026-10-28T08:50:30+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+  "url": "https://latent.space/p/opus55/",
+  "fecha": "2026-10-27T18:53:10+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+  "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+  "fecha": "2026-10-27T18:40:19+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-28"
+ },
+ {
+  "titulo": "Coding From the Himalayas With an Offline AI Agent",
+  "url": "https://latent.space/p/offline-coding/",
+  "fecha": "2026-10-27T14:41:25+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-28"
+ },
+ {
   "titulo": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
   "url": "https://www.xataka.com/empresas-y-economia/microsoft-va-a-fundir-190-000-millones-dolares-ia-solo-este-ano-ha-hecho-movimiento-obvio-ahora-compania-agentes",
   "fecha": "2026-10-26T18:33:23+00:00",
