@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Entrenar grandes modelos exige cada vez más hardware. China responde con un superclúster de 100.000 tarjetas nacionales",
+  "url": "https://www.xataka.com/robotica-e-ia/entrenar-grandes-modelos-exige-cada-vez-hardware-china-responde-supercluster-100-000-tarjetas-nacionales",
+  "fecha": "2026-10-29T09:31:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "La memoria se convierte en el cuello de botella (y en el gran negocio) de la IA: SK Hynix incrementa un 632% su beneficio operativo",
+  "url": "https://www.xataka.com/empresas-y-economia/memoria-se-convierte-cuello-botella-gran-negocio-ia-sk-hynix-incrementa-632-su-beneficio-operativo",
+  "fecha": "2026-10-29T06:31:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Una popular salsa picante China tiene ingresos récord gracias a la IA. Y también una enorme crisis reputacional",
+  "url": "https://www.xataka.com/magnet/fabricante-chili-presume-ia-ingresos-record-china-ha-tocado-nervio-miedo-a-que-ia-quite-trabajos",
+  "fecha": "2026-10-29T06:01:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Bruselas plantea un \"matiz\" al RGPD y abre la puerta a entrenar a la IA con datos obtenidos sin consentimiento",
+  "url": "https://www.xataka.com/legislacion-y-derechos/consejo-ue-propone-ligero-matiz-al-rgpd-que-se-pueda-entrenar-ia-tus-datos-pedir-permiso",
+  "fecha": "2026-10-28T12:45:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "\"La IA no va a meterse debajo de las casas para instalar tuberías\": en EEUU y Francia los oficios manuales están al alza",
+  "url": "https://www.xataka.com/empresas-y-economia/ia-no-va-a-meterse-debajo-casas-para-instalar-tuberias-eeuu-francia-oficios-manuales-estan-al-alza",
+  "fecha": "2026-10-28T12:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Finlandia ordena detener el trabajo en dos centros de datos de Google",
+  "url": "https://www.genbeta.com/actualidad/finlandia-ordena-detener-trabajo-dos-centros-datos-google",
+  "fecha": "2026-10-28T15:01:30+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Kevin Bacon y sus seis grados de separación, el retorno de una leyenda (urbana), ampliado y explicado",
+  "url": "http://www.microsiervos.com/archivo/leyendas-urbanas/kevin-bacon-seis-grados-separacion-retorno-leyenda-urbana-explicado.html",
+  "fecha": "2026-10-29T10:22:50+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Principales conclusiones del director general tras el 350º Consejo de la Agencia Espacial Europea",
+  "url": "http://www.microsiervos.com/archivo/espacio/conlusiones-joses-ashbacher-director-agencia-350-consejo-esa.html",
+  "fecha": "2026-10-29T09:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+  "fecha": "2026-10-28T12:26:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+  "fecha": "2026-10-28T17:11:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+  "fecha": "2026-10-28T16:28:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Apsara conference: Qwen4 next week",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+  "fecha": "2026-10-29T09:25:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "A small step for man, a GIANT step for LOCAL AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+  "fecha": "2026-10-28T17:19:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Qwen4 1M context window",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+  "fecha": "2026-10-29T01:42:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "List of suggestions for Gemma 5.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
+  "fecha": "2026-10-28T16:48:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
+  "fecha": "2026-10-28T18:21:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/",
+  "fecha": "2026-10-28T15:19:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis — ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
+  "fecha": "2026-10-28T23:08:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Theory: Local is going to explode at enterprises",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
+  "fecha": "2026-10-28T17:58:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+  "fecha": "2026-10-28T13:41:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Researchers Discover a Way to Reduce LLM Training Compute by 15% Without Sacrificing Quality",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xid3i8/researchers_discover_a_way_to_reduce_llm_training/",
+  "fecha": "2026-10-29T07:11:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Alternatives to Artificial Analysis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis/",
+  "fecha": "2026-10-28T16:10:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/",
+  "fecha": "2026-10-28T13:23:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Models are chasing unrealistic benchmarks but the working-level intelligence is already achieved",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhydgj/models_are_chasing_unrealistic_benchmarks_but_the/",
+  "fecha": "2026-10-28T19:44:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
+  "fecha": "2026-10-28T13:59:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Alternative to artificialanalysis for assessing latest models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqlrw/alternative_to_artificialanalysis_for_assessing/",
+  "fecha": "2026-10-28T15:06:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Working on a way for local LLMs to share context without centralizing everything",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsj1i/working_on_a_way_for_local_llms_to_share_context/",
+  "fecha": "2026-10-28T16:15:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "NVIDIA RTX 5080 is now selling for nearly $2,000 at US retailers, $800 higher in just two months",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu4q8/nvidia_rtx_5080_is_now_selling_for_nearly_2000_at/",
+  "fecha": "2026-10-28T17:12:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "I ran Doom inside the Qwen model weights!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
+  "fecha": "2026-10-28T22:24:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "pruned NVIDIA's new 30B speech LLM from 67.5GB to 10GB with zero retraining, it still transcribes at 5.16% WER (teacher: 4.12%)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xibujk/pruned_nvidias_new_30b_speech_llm_from_675gb_to/",
+  "fecha": "2026-10-29T05:54:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhodj3/cuda_fuse_moe_gateup_matmuls_and_glu_in_mmq_by/",
+  "fecha": "2026-10-28T13:40:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Single-Neuron Identity Shifts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi25sk/singleneuron_identity_shifts/",
+  "fecha": "2026-10-28T22:09:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "I trained a 21B MoE (3.36B active) from scratch on 70B tokens (emergent ability observations)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhog7b/i_trained_a_21b_moe_336b_active_from_scratch_on/",
+  "fecha": "2026-10-28T13:43:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Quoting Ted Sanders",
+  "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+  "fecha": "2026-10-28T23:23:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "GitHub Octoverse 2026",
+  "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+  "fecha": "2026-10-28T16:45:23+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "The October inflection point for vibe game development",
+  "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+  "fecha": "2026-10-28T13:55:15+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "fecha": "2026-10-28T14:58:17+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+  "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+  "fecha": "2026-10-29T05:55:19+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-29"
+ },
+ {
+  "titulo": "Why Agents Love Supabase",
+  "url": "https://latent.space/p/supabase/",
+  "fecha": "2026-10-28T19:48:05+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-29"
+ },
+ {
   "titulo": "Detienen a una mujer en Cangas por una estafa bancaria de más de 47.000 euros",
   "url": "https://www.genbeta.com/actualidad/detienen-a-mujer-cangas-estafa-bancaria-47-000-euros",
   "fecha": "2026-10-28T08:01:27+00:00",
