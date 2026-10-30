@@ -1,5 +1,485 @@
 [
  {
+  "titulo": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
+  "url": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
+  "fecha": "2026-10-29T20:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "La IA ya empieza a dejar huella en el paro español. Los más expuestos: programadores y diseñadores",
+  "url": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
+  "fecha": "2026-10-29T17:15:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Una empresa está creando el Tesla de las excavadoras: IA física y hasta arriba de sensores para levantar los centros de datos",
+  "url": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
+  "fecha": "2026-10-29T15:31:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "OpenAI ya supone el 11% de los ingresos de Microsoft. Y eso es una buena y una mala noticia",
+  "url": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
+  "fecha": "2026-10-29T14:15:29+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Una ingeniera de Amazon preguntó a ChatGPT cómo dejar su medicación de epilepsia. La IA le diseñó un calendario de 25 días que ha terminado en tragedia",
+  "url": "https://www.xataka.com/robotica-e-ia/ingeniera-amazon-pregunto-a-chatgpt-como-dejar-su-medicacion-epilepsia-ia-le-diseno-calendario-25-dias-que-ha-terminado-tragedia",
+  "fecha": "2026-10-29T13:31:30+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Bethesda cierra un juego fan de Fallout generado por IA",
+  "url": "https://www.genbeta.com/actualidad/bethesda-cierra-juego-fan-fallout-generado-ia",
+  "fecha": "2026-10-30T11:01:31+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Fin a 28 años de historia: Telefónica dejará de encargarse de prestar el Servicio Universal de Telecomunicaciones",
+  "url": "https://www.genbeta.com/voz-iptelefonia/fin-a-28-anos-historia-telefonica-dejara-encargarse-prestar-servicio-universal-telecomunicaciones",
+  "fecha": "2026-10-30T10:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Sam Altman, creador de ChatGPT: \"El mundo debería aceptar que sucedan algunas cosas malas\" en aras de los beneficios de la IA",
+  "url": "https://www.genbeta.com/inteligencia-artificial/sam-altman-creador-chatgpt-mundo-deberia-aceptar-que-sucedan-algunas-cosas-malas-aras-beneficios-ia",
+  "fecha": "2026-10-30T09:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Berta Lamas (58 años), madre de 10 hijos: “Cuando tenía dos niños, me sentía mucho más agobiada que cuando tuve cuatro; era más trabajo, pero mentalmente me sentía menos atada”",
+  "url": "https://www.genbeta.com/actualidad/berta-lamas-58-anos-madre-10-hijos-cuando-tenia-dos-ninos-me-sentia-mucho-agobiada-que-cuando-tuve-cuatro-era-trabajo-mentalmente-me-sentia-atada",
+  "fecha": "2026-10-29T15:53:48+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Binance sufre el mayor robo de criptomonedas de la historia: 6.300 millones de dólares. ¿Cómo? A través de un portátil comprometido",
+  "url": "http://www.microsiervos.com/archivo/economia/binance-mayor-robo-criptomonedas-historia-6300-millones-dolares-portatil.html",
+  "fecha": "2026-10-30T09:41:58+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "D.E.P. Sir Patrick Stewart, emblemático y shakesperiano Capitán Picard en Star Trek TNG, profesor Xavier en X-Men y otras tantas series",
+  "url": "http://www.microsiervos.com/archivo/peliculas-tv/dep-sir-patrick-stewart-capitan-picard-star-trek-tng-xavier-x-men.html",
+  "fecha": "2026-10-29T22:05:02+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Queda instalado y en funcionamiento el séptimo y penúltimo panel solar desenrrollable de la Estación Espacial Internacional",
+  "url": "http://www.microsiervos.com/archivo/espacio/instalado-septimo-penultimo-panel-solar-desenrrollabe-estacion-espacial-internacional.html",
+  "fecha": "2026-10-29T21:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Probamos el ventilador con nebulizador Dreo TurboCool™ 765S con WiFi, control mediante Alexa y Google Home y, pronto, soporte para Matter, y mola todo",
+  "url": "http://www.microsiervos.com/archivo/gadgets/ventilador-nebulizador-dreo-turbocool-765s.html",
+  "fecha": "2026-10-29T17:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Hoy es el Día Mundial de la Codificación",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/dia-mundial-codificacion.html",
+  "fecha": "2026-10-29T12:05:16+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+  "fecha": "2026-10-29T23:11:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Mistral Large 4 (Le Chonk) is now open weight",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+  "fecha": "2026-10-29T14:11:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "I think local AI cost me a job",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
+  "fecha": "2026-10-29T14:38:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Arguably unethical behavior from Cohere",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+  "fecha": "2026-10-29T21:43:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Reddit will force everyone to log in",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
+  "fecha": "2026-10-30T01:45:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+  "fecha": "2026-10-29T14:13:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
+  "fecha": "2026-10-29T16:59:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
+  "fecha": "2026-10-29T17:46:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+  "fecha": "2026-10-29T21:40:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/",
+  "fecha": "2026-10-29T12:05:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
+  "fecha": "2026-10-29T18:54:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Guys I think I found our GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/",
+  "fecha": "2026-10-30T03:25:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
+  "fecha": "2026-10-29T18:29:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Anyone else suffering from verbose, poor technical documentation and explanations with Q3.8-Flash-Next?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xilihw/anyone_else_suffering_from_verbose_poor_technical/",
+  "fecha": "2026-10-29T14:27:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "The RTX 5080 Has Been Removed From NVIDIA's Official Marketplace.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias/",
+  "fecha": "2026-10-30T08:38:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu/",
+  "fecha": "2026-10-30T05:58:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/",
+  "fecha": "2026-10-29T16:53:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver/",
+  "fecha": "2026-10-30T00:34:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Qwen 3.8 what am I missing here?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2hi1/qwen_38_what_am_i_missing_here/",
+  "fecha": "2026-10-30T01:35:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Datapoint for AI bubble: getting harder to raise money for AI datacenters",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xirt93/datapoint_for_ai_bubble_getting_harder_to_raise/",
+  "fecha": "2026-10-29T18:20:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Metatron v1: NVIDIA's Unified Humanoid Control Policy for the Unitree G1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj8kzn/metatron_v1_nvidias_unified_humanoid_control/",
+  "fecha": "2026-10-30T07:09:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "🚀 OpenEBFM: Can Energy-Based Models Scale as Foundation Models? Code and Weights Released",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj6vw8/openebfm_can_energybased_models_scale_as/",
+  "fecha": "2026-10-30T05:22:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Git for Global Law: Global Law querable in Git",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiv58m/git_for_global_law_global_law_querable_in_git/",
+  "fecha": "2026-10-29T20:24:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqujs/old_xeon_x99_pc_with_256gb_ram_rtx_3090_ti_worth/",
+  "fecha": "2026-10-29T17:44:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xippbm/using_computer_science_and_anki_to_learn_more/",
+  "fecha": "2026-10-29T17:02:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "API credits benefit for eligible ChatGPT subscriptions",
+  "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+  "fecha": "2026-10-29T22:48:29+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Building a multiplayer game world with autonomous Fable-class models",
+  "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+  "fecha": "2026-10-29T17:00:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Quoting Ben Hylak",
+  "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+  "fecha": "2026-10-29T14:06:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Granite Switch 4.1.1 — Update models like you update software",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "fecha": "2026-10-29T13:37:07+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "fecha": "2026-10-29T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "fecha": "2026-10-29T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "fecha": "2026-10-29T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+  "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+  "fecha": "2026-10-30T08:24:29+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-10-30"
+ },
+ {
+  "titulo": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+  "url": "https://latent.space/p/elorian/",
+  "fecha": "2026-10-29T16:00:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-10-30"
+ },
+ {
   "titulo": "Entrenar grandes modelos exige cada vez más hardware. China responde con un superclúster de 100.000 tarjetas nacionales",
   "url": "https://www.xataka.com/robotica-e-ia/entrenar-grandes-modelos-exige-cada-vez-hardware-china-responde-supercluster-100-000-tarjetas-nacionales",
   "fecha": "2026-10-29T09:31:26+00:00",
