@@ -1,5 +1,355 @@
 [
  {
+  "titulo": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
+  "url": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+  "fecha": "2026-11-01T11:01:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
+  "url": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
+  "fecha": "2026-11-01T10:01:31+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al humano y no mirar atrás\"",
+  "url": "https://www.xataka.com/robotica-e-ia/bill-gates-fundador-microsoft-consiste-contratar-al-robot-despedir-al-humano-no-mirar-atras",
+  "fecha": "2026-10-31T11:01:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Un investigador de IA advierte ante el Ayuntamiento de Nueva York: \"Estamos compitiendo por crear y desarrollar a nuestro propio adversario\"",
+  "url": "https://www.genbeta.com/inteligencia-artificial/investigador-ia-advierte-ayuntamiento-nueva-york-estamos-compitiendo-crear-desarrollar-a-nuestro-propio-adversario",
+  "fecha": "2026-11-01T11:01:25+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Los bancos comunitarios demandan al regulador de EE. UU. por las licencias de empresas de criptomonedas",
+  "url": "https://www.genbeta.com/actualidad/bancos-comunitarios-demandan-al-regulador-ee-uu-licencias-empresas-criptomonedas",
+  "fecha": "2026-11-01T09:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Grok de Elon Musk lanza el primer episodio de “Odyssey” generado por inteligencia artificial",
+  "url": "https://www.genbeta.com/inteligencia-artificial/grok-elon-musk-lanza-primer-episodio-odyssey-generado-inteligencia-artificial",
+  "fecha": "2026-10-31T12:31:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Bill Gates (70 años), fundador de Microsoft, advierte sobre la IA: \"Nunca ha existido un arma tan poderosa\" y exige límites obligatorios por seguridad",
+  "url": "https://www.genbeta.com/inteligencia-artificial/bill-gates-70-anos-fundador-microsoft-advierte-ia-nunca-ha-existido-arma-poderosa-exige-limites-obligatorios-seguridad",
+  "fecha": "2026-10-31T11:01:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Well, my local AI addiction officially got out of hand tonight.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+  "fecha": "2026-10-31T21:21:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+  "fecha": "2026-10-31T12:20:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+  "fecha": "2026-10-31T19:18:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+  "fecha": "2026-11-01T08:24:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "CrowdGPT v2.6 - The collaborative LLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+  "fecha": "2026-10-31T18:57:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+  "fecha": "2026-10-31T15:22:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
+  "fecha": "2026-10-31T18:06:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Just finished my humble MoE-Centric Workstation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+  "fecha": "2026-10-31T13:54:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Is your engine lobotomizing your model? Kinda, and I measured it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+  "fecha": "2026-10-31T14:14:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "64GB isn't the dead zone anymore if you run agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+  "fecha": "2026-11-01T03:02:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "How do I make search with local models feel like ChatGPT / Codex?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+  "fecha": "2026-10-31T21:37:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "I'm Groot?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/",
+  "fecha": "2026-10-31T17:39:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+  "fecha": "2026-10-31T19:56:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/",
+  "fecha": "2026-11-01T07:24:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+  "fecha": "2026-10-31T14:58:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "+1 for Qwen 27Bs character/chat style",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/",
+  "fecha": "2026-10-31T22:41:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "What exciting architectural moves are we looking to see next in AI models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkklyp/what_exciting_architectural_moves_are_we_looking/",
+  "fecha": "2026-10-31T20:31:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "What's the advantage of building a custom harness over using something like Unsloth?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkfhjg/whats_the_advantage_of_building_a_custom_harness/",
+  "fecha": "2026-10-31T17:03:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
+  "fecha": "2026-11-01T10:24:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next Unsloth Q8 at 94 tok/s c=1, 456 tok/s c=8 .",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/",
+  "fecha": "2026-11-01T06:09:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
+  "fecha": "2026-10-31T15:01:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Am I Crazy Or GLM 5.3 Flash is Hilarious?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/",
+  "fecha": "2026-11-01T09:49:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Mac Studio M5U 256gb 2TB",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkip46/mac_studio_m5u_256gb_2tb/",
+  "fecha": "2026-10-31T19:12:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Used 64-core Threadripper PRO 3995WX",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkdpv3/used_64core_threadripper_pro_3995wx/",
+  "fecha": "2026-10-31T15:52:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Strata - QFN GSQ-RCO1 IQ_S3, NVFP4, Unsloth UD-IQ4_XS or Unsloth UD-Q4_K_XL?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkkjov/strata_qfn_gsqrco1_iq_s3_nvfp4_unsloth_udiq4_xs/",
+  "fecha": "2026-10-31T20:28:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "How We Took Over ChatGPT Accounts",
+  "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+  "fecha": "2026-10-31T23:15:22+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "datasette-llm 0.1a9",
+  "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+  "fecha": "2026-10-31T22:10:01+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-01"
+ },
+ {
+  "titulo": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+  "url": "https://latent.space/p/arca/",
+  "fecha": "2026-10-31T16:05:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-01"
+ },
+ {
   "titulo": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
   "url": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
   "fecha": "2026-10-30T19:41:00+00:00",
