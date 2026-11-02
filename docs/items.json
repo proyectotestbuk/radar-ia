@@ -1,5 +1,365 @@
 [
  {
+  "titulo": "Sam Altman, CEO de ChatGPT: \"Es bastante terrible que la gente tenga memoria RAM en su PC utilizándose sólo el 5 % del tiempo\"",
+  "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ceo-chatgpt-bastante-terrible-que-gente-tenga-memoria-ram-su-pc-utilizandose-solo-5-tiempo",
+  "fecha": "2026-11-02T12:31:30+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Sam Altman no quiere que ejecutes IA en tu PC. La subida de las gráficas que provoca su propia industria se lo está poniendo fácil",
+  "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
+  "fecha": "2026-11-02T11:45:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Alguien ha conseguido lo que parecía imposible: un Redmi Note 12 ejecutando iOS. Con ayuda de Claude, claro",
+  "url": "https://www.xataka.com/moviles/alguien-ha-conseguido-que-parecia-imposible-redmi-note-12-ejecutando-ios-ayuda-claude-claro",
+  "fecha": "2026-11-02T11:01:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Harto de la basura en las carreteras, un desarrollador ha creado una “dashcam” con IA que la detecta, clasifica e informa",
+  "url": "https://www.xataka.com/aplicaciones/harto-basura-carreteras-desarrollador-ha-creado-dashcam-ia-que-detecta-clasifica-e-informa",
+  "fecha": "2026-11-01T16:31:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
+  "url": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+  "fecha": "2026-11-01T14:01:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Hacerte una app en cinco minutos parecía imposible, hasta que llegó la IA. De rebote, consigue algo mejor: ir directa al grano",
+  "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+  "fecha": "2026-11-01T13:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Los expertos en psicología coinciden: quienes eligen guardar silencio durante una discusión presentan una mejor inteligencia emocional",
+  "url": "https://www.genbeta.com/actualidad/expertos-psicologia-coinciden-quienes-eligen-guardar-silencio-durante-discusion-presentan-mejor-inteligencia-emocional",
+  "fecha": "2026-11-02T12:01:33+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Hacienda confirma que los mayores de 65 años pueden donar su vivienda habitual a sus hijos sin pagar IRPF por la ganancia",
+  "url": "https://www.genbeta.com/laboral/hacienda-confirma-que-mayores-65-anos-pueden-donar-su-vivienda-habitual-a-sus-hijos-pagar-irpf-ganancia",
+  "fecha": "2026-11-02T10:56:54+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Vigilancia con drones y multas de hasta 45.000 euros: así controla la policía de Vilanova de Arousa (Pontevedra) a los vecinos que tiran mal la basura",
+  "url": "https://www.genbeta.com/actualidad/vigilancia-drones-multas-45-000-euros-asi-controla-policia-vilanova-arousa-pontevedra-a-vecinos-que-tiran-mal-basura",
+  "fecha": "2026-11-02T08:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Heretic 2.0 released: Model modification for everyone",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+  "fecha": "2026-11-01T13:16:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+  "fecha": "2026-11-01T22:56:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Coding is solved* (exclusions apply)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+  "fecha": "2026-11-01T17:31:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Don't people pay attention anymore when buying hardware for AI?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+  "fecha": "2026-11-01T14:24:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+  "fecha": "2026-11-02T00:44:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Do we really need all these \"speed\" posts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+  "fecha": "2026-11-02T00:52:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+  "fecha": "2026-11-01T21:01:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+  "fecha": "2026-11-01T19:15:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
+  "fecha": "2026-11-02T03:58:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
+  "fecha": "2026-11-01T20:52:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "LFM3 Omni 2B is INCREDIBLE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/",
+  "fecha": "2026-11-02T01:17:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
+  "fecha": "2026-11-02T11:33:00+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/",
+  "fecha": "2026-11-02T01:19:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/",
+  "fecha": "2026-11-01T23:56:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "4\" touchscreen for inference engine monitoring",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/",
+  "fecha": "2026-11-02T09:38:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
+  "fecha": "2026-11-01T18:07:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata & More",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/",
+  "fecha": "2026-11-02T03:36:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/",
+  "fecha": "2026-11-01T17:36:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "If you are using big model compared to ram try and disable mtp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/",
+  "fecha": "2026-11-02T09:06:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+  "fecha": "2026-11-01T20:23:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
+  "fecha": "2026-11-01T20:58:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "7900xtx got speedup",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/",
+  "fecha": "2026-11-01T15:39:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "List of tiny-to-medium models for web research/coding agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/",
+  "fecha": "2026-11-02T06:08:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Infernix - New Release!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/",
+  "fecha": "2026-11-01T14:40:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Switching to EPYC: what I had to fix, and before/after numbers",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl3cnv/switching_to_epyc_what_i_had_to_fix_and/",
+  "fecha": "2026-11-01T13:41:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "If in doubt, delete the uv.lock file",
+  "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+  "fecha": "2026-11-01T23:24:22+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
+  "titulo": "Quoting Kyle Kingsbury",
+  "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+  "fecha": "2026-11-01T16:49:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-02"
+ },
+ {
   "titulo": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
   "url": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
   "fecha": "2026-11-01T11:01:26+00:00",
