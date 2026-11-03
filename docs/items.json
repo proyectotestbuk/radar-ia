@@ -1,5 +1,485 @@
 [
  {
+  "titulo": "Una IA ha hecho mejor a otra IA con un método inesperado: recortarle lo que le estorbaba",
+  "url": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-mejor-a-otra-ia-metodo-inesperado-recortarle-que-le-estorbaba",
+  "fecha": "2026-11-03T11:01:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
+  "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+  "fecha": "2026-11-02T20:01:24+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Shigeru Miyamoto, padre de Super Mario y Zelda: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\"",
+  "url": "https://www.xataka.com/robotica-e-ia/shigeru-miyamoto-padre-super-mario-zelda-ia-llegara-a-encargarse-todo-siempre-habra-papel-para-nosotros",
+  "fecha": "2026-11-02T19:01:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "OpenAI combinará Chat y Work y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
+  "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
+  "fecha": "2026-11-02T18:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Google por fin te da la respuesta que buscas a la primera. Y ese es exactamente el origen de sus problemas",
+  "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
+  "fecha": "2026-11-02T16:30:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
+  "url": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
+  "fecha": "2026-11-02T15:01:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Brett Adcock, CEO de Figure AI y joven gurú de la IA: “Estamos creando una nueva especie”",
+  "url": "https://www.genbeta.com/inteligencia-artificial/brett-adcock-ceo-figure-ai-joven-guru-ia-estamos-creando-nueva-especie",
+  "fecha": "2026-11-03T12:01:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "En 1956, un hospital metió patitos, un cerdito y un coatí en pediatría. Hoy, A Coruña recurre a los perros para aliviar el miedo",
+  "url": "https://www.genbeta.com/actualidad/1956-hospital-metio-patitos-cerdito-coati-pediatria-hoy-a-coruna-recurre-a-perros-para-aliviar-miedo",
+  "fecha": "2026-11-03T10:01:29+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Elon Musk aconseja a niños y jóvenes: “Obtén una educación lo más amplia posible: artes, ciencias, ingeniería y un amplio conocimiento general”",
+  "url": "https://www.genbeta.com/actualidad/elon-musk-aconseja-a-ninos-jovenes-obten-educacion-amplia-posible-artes-ciencias-ingenieria-amplio-conocimiento-general",
+  "fecha": "2026-11-03T08:01:30+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Juan Castro, electricista: “La IA hará que los electricistas y el sector oficio seamos los mejor pagados”",
+  "url": "https://www.genbeta.com/inteligencia-artificial/juan-castro-electricista-ia-hara-que-electricistas-sector-oficio-seamos-mejor-pagados",
+  "fecha": "2026-11-02T19:01:30+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "José Navarro, fontanero autónomo: \"Si a mí me ofrecieran hoy un trabajo asalariado y me pagaran 4.000 euros al mes, no aceptaría\"",
+  "url": "https://www.genbeta.com/laboral/jose-navarro-fontanero-autonomo-a-mi-me-ofrecieran-hoy-trabajo-asalariado-me-pagaran-4-000-euros-al-mes-no-aceptaria",
+  "fecha": "2026-11-02T15:11:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "La Guardia Civil compra por 2,5 millones un sistema para acceder de forma remota a móviles Android y iPhone",
+  "url": "https://www.genbeta.com/movil/guardia-civil-compra-2-5-millones-sistema-para-acceder-forma-remota-a-moviles-android-iphone",
+  "fecha": "2026-11-02T15:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "La memoria RAM es escasa, está mal repartida por el mundo y además desaprovechada al 95% por tu culpa",
+  "url": "http://www.microsiervos.com/archivo/frases-citas/memoria-ram-escasa-mal-repartida-desaprovechada.html",
+  "fecha": "2026-11-03T08:37:11+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "La imagen expósita, una investigación sobre archivos fotográficos familiares heredados",
+  "url": "http://www.microsiervos.com/archivo/fotografia/imagen-exposita-investigacion-archivos-fotograficos-familiares-heredados.html",
+  "fecha": "2026-11-02T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Cruce de cables: una actualización sobre las vulnerabilidades de PHP y la que ha liado Elon Musk con Starlink y Starshield en Ucrania",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/cruce-cables-113-vulnerabilidades-php-elon-musk-starlink-ucrania.html",
+  "fecha": "2026-11-02T18:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+  "fecha": "2026-11-02T16:42:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+  "fecha": "2026-11-02T20:33:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+  "fecha": "2026-11-03T03:55:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+  "fecha": "2026-11-02T21:25:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+  "fecha": "2026-11-02T19:15:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+  "fecha": "2026-11-02T14:33:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Qwen 3.8 27b is sometimes so smart it scares me...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+  "fecha": "2026-11-02T22:42:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+  "fecha": "2026-11-02T13:08:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "New sparse attention method for ultra-long context",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
+  "fecha": "2026-11-02T22:24:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+  "fecha": "2026-11-02T17:13:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/",
+  "fecha": "2026-11-02T18:21:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "I found another niche use case for local LLMs, but need some advice",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+  "fecha": "2026-11-03T01:08:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
+  "fecha": "2026-11-02T15:52:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+  "fecha": "2026-11-02T15:57:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/",
+  "fecha": "2026-11-03T02:09:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+  "fecha": "2026-11-03T07:07:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/",
+  "fecha": "2026-11-02T20:43:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Underrated benefit of Local AI: Speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/",
+  "fecha": "2026-11-03T04:31:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/",
+  "fecha": "2026-11-02T15:31:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/",
+  "fecha": "2026-11-02T15:38:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/",
+  "fecha": "2026-11-02T12:48:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
+  "fecha": "2026-11-03T11:40:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/",
+  "fecha": "2026-11-03T09:06:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/",
+  "fecha": "2026-11-02T13:48:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Fine tuned open model ftw",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm2xbq/fine_tuned_open_model_ftw/",
+  "fecha": "2026-11-02T17:07:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+  "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+  "fecha": "2026-11-03T05:32:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "October sponsors-only newsletter",
+  "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+  "fecha": "2026-11-03T05:28:59+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "llm 0.37",
+  "url": "https://simonwillison.net/2026/Nov/2/llm/",
+  "fecha": "2026-11-02T23:49:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "The U.S. Census Bureau and “Super Intelligence”",
+  "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+  "fecha": "2026-11-02T13:31:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Transformers Model Integration Contracts",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "fecha": "2026-11-03T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+  "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+  "fecha": "2026-11-03T05:35:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+  "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+  "fecha": "2026-11-02T23:01:02+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-03"
+ },
+ {
+  "titulo": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+  "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+  "fecha": "2026-11-02T22:54:03+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-03"
+ },
+ {
   "titulo": "Sam Altman, CEO de ChatGPT: \"Es bastante terrible que la gente tenga memoria RAM en su PC utilizándose sólo el 5 % del tiempo\"",
   "url": "https://www.xataka.com/robotica-e-ia/sam-altman-ceo-chatgpt-bastante-terrible-que-gente-tenga-memoria-ram-su-pc-utilizandose-solo-5-tiempo",
   "fecha": "2026-11-02T12:31:30+00:00",
