@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "Google está financiando el futuro de la IA con el negocio que amenaza con destruir: su buscador clásico",
+  "url": "https://www.xataka.com/servicios/google-esta-financiando-futuro-ia-negocio-que-amenaza-destruir-su-buscador-clasico",
+  "fecha": "2026-11-04T09:31:54+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "China está experimentando lo más parecido que hemos vivido hasta ahora a un \"estallido de la burbuja IA\"",
+  "url": "https://www.xataka.com/empresas-y-economia/china-esta-experimentando-parecido-que-hemos-vivido-ahora-a-estallido-burbuja-ia",
+  "fecha": "2026-11-04T08:01:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
+  "url": "https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor",
+  "fecha": "2026-11-03T15:15:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Una empresa descontaba 30 minutos al día a sus trabajadores por supuestas “micropausas”. La Audiencia Nacional anuló el sistema",
+  "url": "https://www.genbeta.com/espana/empresa-descontaba-30-minutos-al-dia-a-sus-trabajadores-supuestas-micropausas-audiencia-nacional-anulo-sistema",
+  "fecha": "2026-11-03T21:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Crean cucarachas cyborg guiadas por IA",
+  "url": "https://www.genbeta.com/inteligencia-artificial/crean-cucarachas-cyborg-guiadas-ia",
+  "fecha": "2026-11-03T17:01:28+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Sergio Ramos compró una finca de 44 hectáreas, donde cría caballos y desarrolla un proyecto de 12.000 metros cuadrados: “Una de las jornadas más especiales del año; tradición, familia y raíces”",
+  "url": "https://www.genbeta.com/nuevo/sergio-ramos-compro-finca-44-hectareas-cria-caballos-jornadas-especiales-ano",
+  "fecha": "2026-11-03T14:54:00+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "La RAE cambia la definición de vida por una más acorde con el conocimiento científico actual",
+  "url": "http://www.microsiervos.com/archivo/ciencia/rae-cambia-definicion-vida-mas-cientifica.html",
+  "fecha": "2026-11-04T12:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "El software más odiado por los usuarios, y las alternativas preferidas para reemplazarlo",
+  "url": "http://www.microsiervos.com/archivo/ordenadores/software-mas-odiado-usuarios-alternativas-preferidas.html",
+  "fecha": "2026-11-03T18:39:18+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "El cohete Miura 5 de PLD Space progresa hacia su primer lanzamiento pero más lento de lo que nos gustaría",
+  "url": "http://www.microsiervos.com/archivo/espacio/cohete-miura-5-pld-progresa-mas-lento-nos-gustaria.html",
+  "fecha": "2026-11-03T18:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "La NASA vuelve a poner sobre la mesa considerar una nueva misión de mantenimiento del telescopio espacial Hubble",
+  "url": "http://www.microsiervos.com/archivo/espacio/nasa-vuelve-considerar-mision-mantenimiento-hubble.html",
+  "fecha": "2026-11-03T16:30:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+  "fecha": "2026-11-03T21:05:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
+  "fecha": "2026-11-03T17:29:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/",
+  "fecha": "2026-11-04T07:07:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
+  "fecha": "2026-11-03T19:28:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
+  "fecha": "2026-11-03T18:48:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
+  "fecha": "2026-11-03T22:48:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Introducing Hy4 (open weights soon)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+  "fecha": "2026-11-04T07:23:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+  "fecha": "2026-11-03T12:58:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/",
+  "fecha": "2026-11-03T22:02:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Is Qwen 3.8 27B still the king",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/",
+  "fecha": "2026-11-03T12:53:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/",
+  "fecha": "2026-11-04T10:26:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Tokens/s? \"World's biggest PCIe graphics card\" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/",
+  "fecha": "2026-11-03T20:21:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Axion1-0/Axion-1.0-35B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/",
+  "fecha": "2026-11-04T09:02:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/",
+  "fecha": "2026-11-03T20:49:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Four open coding models, prompted to finish an upload URL - analysis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/",
+  "fecha": "2026-11-03T15:16:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "B70 Price Increase Incoming --> Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/",
+  "fecha": "2026-11-04T05:25:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "deep-principle/Hydrogen-1.0 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/",
+  "fecha": "2026-11-04T04:21:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+  "fecha": "2026-11-03T15:59:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Strata is the shit",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/",
+  "fecha": "2026-11-03T13:39:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2i0n/deepseek_v41_flash_1017_can_also_do_weightspace/",
+  "fecha": "2026-11-03T19:26:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
+  "fecha": "2026-11-03T17:44:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Keeping up with new inference engines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/",
+  "fecha": "2026-11-04T00:58:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "[Paper] SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding 🚀🚀🚀",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/",
+  "fecha": "2026-11-04T09:18:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/",
+  "fecha": "2026-11-04T09:28:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "balbal-v2: Turkish speech recognition that runs on CPU, 2nd on Mu-Bench TR after Google Chirp 3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on/",
+  "fecha": "2026-11-03T13:57:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "fecha": "2026-11-03T16:29:48+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "StateBench: Testing how language models track state changes over long documents",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "fecha": "2026-11-03T17:15:21+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "Palette: teaching a small model to build decks in your design language",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "fecha": "2026-11-03T16:35:36+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-04"
+ },
+ {
+  "titulo": "CWE-bench v2: More coverage, quality, and transparency",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "fecha": "2026-11-03T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-04"
+ },
+ {
   "titulo": "Una IA ha hecho mejor a otra IA con un método inesperado: recortarle lo que le estorbaba",
   "url": "https://www.xataka.com/robotica-e-ia/ia-ha-hecho-mejor-a-otra-ia-metodo-inesperado-recortarle-que-le-estorbaba",
   "fecha": "2026-11-03T11:01:28+00:00",
