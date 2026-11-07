@@ -1,5 +1,415 @@
 [
  {
+  "titulo": "Creíamos que la IA iba a escribir por nosotros, pero donde ChaGPT está creciendo más en España es como buscador",
+  "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-ia-iba-a-escribir-nosotros-donde-chagpt-esta-creciendo-espana-como-buscador",
+  "fecha": "2026-11-07T09:01:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "India anuncia planes para desarrollar GPU nacionales en 24 meses mientras busca dar salida comercial a sus chips RISC-V",
+  "url": "https://www.xataka.com/robotica-e-ia/india-anuncia-planes-para-desarrollar-gpu-nacionales-24-meses-busca-dar-salida-comercial-a-sus-chips-risc-v",
+  "fecha": "2026-11-06T20:31:05+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
+  "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
+  "fecha": "2026-11-06T15:31:07+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
+  "url": "https://www.xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
+  "fecha": "2026-11-06T15:01:11+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Los sindicatos refuerzan la presión contra la Junta de Andalucía por la ampliación del teletrabajo de los funcionarios y exigen fechas concretas",
+  "url": "https://www.genbeta.com/laboral/sindicatos-refuerzan-presion-junta-andalucia-ampliacion-teletrabajo-funcionarios-exigen-fechas-concretas",
+  "fecha": "2026-11-07T10:01:08+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
+  "url": "https://www.genbeta.com/seguridad/ciberataque-neveras-congeladores-cientos-supermercados-francia-provoca-perdidas-millonarias",
+  "fecha": "2026-11-07T06:01:06+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Desarrollador frustrado de Adobe crea Photoshop, Premiere y otros con IA como código abierto",
+  "url": "https://www.genbeta.com/actualidad/desarrollador-frustrado-adobe-crea-photoshop-premiere-otros-ia-como-codigo-abierto",
+  "fecha": "2026-11-06T17:01:08+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Jeff Bezos revela una visión de inteligencia artificial que podría transformar la jornada laboral estadounidense.",
+  "url": "https://www.genbeta.com/laboral/jeff-bezos-revela-vision-inteligencia-artificial-que-podria-transformar-jornada-laboral-estadounidense",
+  "fecha": "2026-11-06T15:01:12+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Un cocinero italiano se negó por tercera vez a poner piña en una pizza y acabó despedido",
+  "url": "https://www.genbeta.com/laboral/cocinero-italiano-se-nego-tercera-vez-a-poner-pina-pizza-acabo-despedido",
+  "fecha": "2026-11-06T13:35:55+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Máximo, 26 años: \"Me vuelvo a España después de vivir 3 años en Australia, he trabajado en sitios que nunca imaginé\"",
+  "url": "https://www.genbeta.com/laboral/maximo-26-anos-me-vuelvo-a-espana-despues-vivir-3-anos-australia-he-trabajado-sitios-que-nunca-imagine",
+  "fecha": "2026-11-06T13:01:10+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Cómo eliminar el «efecto cebo» de las miniaturas clickbait de YouTube: la extensión Unclickbait muestra la cruda realidad tras los engaños",
+  "url": "http://www.microsiervos.com/archivo/internet/miniaturas-clickbait-youtube.html",
+  "fecha": "2026-11-06T22:13:06+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "El arte de fabricar maquetas y dioramas de ciencia ficción con secadores y rollos de papel higiénico",
+  "url": "http://www.microsiervos.com/archivo/arte-y-diseno/arte-maquetas-dioramas-ciencia-ficcion.html",
+  "fecha": "2026-11-06T15:56:32+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+  "fecha": "2026-11-06T20:12:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+  "fecha": "2026-11-07T04:05:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+  "fecha": "2026-11-06T23:03:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+  "fecha": "2026-11-06T19:58:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Oc-e-Non-v1: A language model that gets to the f*cking point",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
+  "fecha": "2026-11-06T15:23:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Some GPU prices are dropping",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
+  "fecha": "2026-11-06T21:54:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
+  "fecha": "2026-11-06T19:46:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "We are in the golden age of Local LLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/",
+  "fecha": "2026-11-06T21:54:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "A 0.1B model just killed 8B embedding models... I tried it out.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+  "fecha": "2026-11-06T14:02:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
+  "fecha": "2026-11-07T02:41:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
+  "fecha": "2026-11-06T22:17:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Lamplight - Lessons Learned from Building a Local-First Harness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
+  "fecha": "2026-11-06T18:47:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
+  "fecha": "2026-11-06T16:51:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/",
+  "fecha": "2026-11-06T19:19:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Qwen3.8 27b hitting 6,645 tok/s on prefill and 316 tok/s decode peak on Saber",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpicjz/qwen38_27b_hitting_6645_toks_on_prefill_and_316/",
+  "fecha": "2026-11-06T17:15:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Another benchmark has hit the quant war",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
+  "fecha": "2026-11-07T04:28:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Tried the weight editing thing from the MIT post: Some cool applications, but nothing crazy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post/",
+  "fecha": "2026-11-06T19:27:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Harness Adapters: LoRA adapter for your model per task per harness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
+  "fecha": "2026-11-06T14:38:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Self-hosted a realtime Ram Altman avatar locally on my VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpj034/selfhosted_a_realtime_ram_altman_avatar_locally/",
+  "fecha": "2026-11-06T17:40:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/",
+  "fecha": "2026-11-06T15:39:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Scylla's Band v4, open source TTS with code to run everywhere",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/",
+  "fecha": "2026-11-06T22:26:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Dont buy a spark laptop.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpjpbc/dont_buy_a_spark_laptop/",
+  "fecha": "2026-11-06T18:07:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Just picked up M5U 64c 96G. 10 days earlier than Apple’s initial estimate",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpoz4y/just_picked_up_m5u_64c_96g_10_days_earlier_than/",
+  "fecha": "2026-11-06T21:39:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Qwen Flash Next on Strata is unreal.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqa3e/qwen_flash_next_on_strata_is_unreal/",
+  "fecha": "2026-11-06T22:34:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "maritaca-ai/S5-nano 4B · the best open-weights model in Brazil",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpibxn/maritacaais5nano_4b_the_best_openweights_model_in/",
+  "fecha": "2026-11-06T17:14:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Quoting Nilay Patel",
+  "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+  "fecha": "2026-11-06T17:13:12+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "fecha": "2026-11-06T14:00:48+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "[AINews] Anthropic IPO: Whither Now?",
+  "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+  "fecha": "2026-11-07T03:04:53+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-07"
+ },
+ {
+  "titulo": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+  "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+  "fecha": "2026-11-06T15:10:53+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-07"
+ },
+ {
   "titulo": "En medio de una crisis de ciberseguridad, OpenAI estrena GPT-6 Cyber, su nuevo modelo \"crítico\"",
   "url": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
   "fecha": "2026-11-06T11:01:08+00:00",
