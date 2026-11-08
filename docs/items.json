@@ -1,5 +1,325 @@
 [
  {
+  "titulo": "La fiebre de la IA está creando otro problema, necesitamos toneladas de metal para poder darle electricidad",
+  "url": "https://www.xataka.com/energia/fiebre-ia-esta-creando-otro-problema-necesitamos-toneladas-metal-para-poder-darle-electricidad",
+  "fecha": "2026-11-07T13:31:06+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Lituania tiene 2,9 millones de habitantes pero compite con China fabricando láseres para chips de IA en serie",
+  "url": "https://www.xataka.com/componentes/lituania-tiene-2-9-millones-habitantes-compite-china-fabricando-laseres-para-chips-ia-serie",
+  "fecha": "2026-11-07T13:01:09+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "El modelo de OpenAI resuelve cientos de problemas matemáticos no resueltos: \"Provoca una gran sensación de vacío\"",
+  "url": "https://www.genbeta.com/inteligencia-artificial/modelo-openai-resuelve-cientos-problemas-matematicos-no-resueltos-provoca-gran-sensacion-vacio",
+  "fecha": "2026-11-08T10:01:08+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Southwest se convierte en la primera aerolínea de EE. UU. en llevar la reserva de vuelos directamente a ChatGPT",
+  "url": "https://www.genbeta.com/inteligencia-artificial/southwest-se-convierte-primera-aerolinea-ee-uu-llevar-reserva-vuelos-directamente-a-chatgpt",
+  "fecha": "2026-11-08T08:01:07+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "En 2026 el Nokia 1100 famoso por el juego de la serpiente despierta interés en los jóvenes tras el auge de teléfonos básicos que buscan reducir el uso de internet",
+  "url": "https://www.genbeta.com/actualidad/2026-nokia-1100-famoso-juego-serpiente-despierta-interes-jovenes-auge-telefonos-basicos-que-buscan-reducir-uso-internet",
+  "fecha": "2026-11-07T21:01:06+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "El CEO multimillonario de Palantir dice que solo dos tipos de personas tendrán éxito en la era de la IA: trabajadores manuales o \"neurodivergentes\"",
+  "url": "https://www.genbeta.com/inteligencia-artificial/ceo-multimillonario-palantir-dice-que-solo-dos-tipos-personas-tendran-exito-era-ia-trabajadores-manuales-neurodivergentes",
+  "fecha": "2026-11-07T19:01:06+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+  "fecha": "2026-11-07T18:16:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+  "fecha": "2026-11-07T16:25:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Effects of KV Cache Quantization on Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+  "fecha": "2026-11-07T17:09:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "testing Qoduck (Maybe qwen4) on Qoder",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
+  "fecha": "2026-11-07T16:28:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "The Stylome bot is useless spam and should be removed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+  "fecha": "2026-11-07T22:24:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+  "fecha": "2026-11-07T12:13:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Anyone running local AI on 16GB vram?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+  "fecha": "2026-11-07T23:00:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Also experienced the Qwen3.8-Flash-Next URL issue",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
+  "fecha": "2026-11-07T17:15:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Valet: use local LLMs to manage your homelab (open source)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
+  "fecha": "2026-11-07T14:32:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Does anyone use None reasoning level for anything ever?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/",
+  "fecha": "2026-11-07T11:59:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Crowd-v1 - The collaborative LLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+  "fecha": "2026-11-07T21:19:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
+  "fecha": "2026-11-07T15:48:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Saw this benchmark where small changes to coding tasks made a big difference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/",
+  "fecha": "2026-11-08T01:44:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "TSMC might do in memory compute for us",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/",
+  "fecha": "2026-11-07T13:17:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+  "fecha": "2026-11-07T15:18:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "OpenClaw Retrospective",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/",
+  "fecha": "2026-11-08T06:47:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/",
+  "fecha": "2026-11-08T10:34:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "I haven't laughed that hard in a longtime",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/",
+  "fecha": "2026-11-07T14:55:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightning's weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/",
+  "fecha": "2026-11-07T13:45:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/",
+  "fecha": "2026-11-07T16:08:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Terrarium – Local VMs for AI agents with explicit permissions",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit/",
+  "fecha": "2026-11-07T13:55:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Learning RL From Scratch: The What, Why and How of Double DQNs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/",
+  "fecha": "2026-11-08T09:03:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "Anybody tried Apex 35B and Axion 35B?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/",
+  "fecha": "2026-11-08T06:26:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "kakaocorp/kanana-2-v-decide-3b-2611 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq6es4/kakaocorpkanana2vdecide3b2611_hugging_face/",
+  "fecha": "2026-11-07T13:30:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "mtmd: support MageVL-Cowork model by ngxson · Pull Request #31819 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull/",
+  "fecha": "2026-11-08T04:04:59+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-08"
+ },
+ {
+  "titulo": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+  "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+  "fecha": "2026-11-07T23:57:46+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-08"
+ },
+ {
   "titulo": "Creíamos que la IA iba a escribir por nosotros, pero donde ChaGPT está creciendo más en España es como buscador",
   "url": "https://www.xataka.com/robotica-e-ia/creiamos-que-ia-iba-a-escribir-nosotros-donde-chagpt-esta-creciendo-espana-como-buscador",
   "fecha": "2026-11-07T09:01:08+00:00",
