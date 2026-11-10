@@ -1,5 +1,455 @@
 [
  {
+  "titulo": "Una startup paga 20 dólares la hora por pasear perros robot",
+  "url": "https://www.xataka.com/robotica-e-ia/startup-paga-20-dolares-hora-pasear-perros-robot",
+  "fecha": "2026-11-10T06:31:06+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Anthropic acaba de lanzar sus dos modelos de IA más avanzados. Uno tendrá acceso general y el otro estará restringido",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-acaba-lanzar-sus-dos-modelos-ia-avanzados-uno-tendra-acceso-general-otro-estara-restringido",
+  "fecha": "2026-11-09T21:57:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Quería quitar las aplicaciones que Android no me deja borrar. Así que le pedí a la IA mi propio desinstalador: en media hora lo tenía",
+  "url": "https://www.xataka.com/robotica-e-ia/queria-quitar-aplicaciones-que-android-no-me-deja-borrar-asi-que-le-pedi-a-ia-mi-propio-desinstalador-media-hora-tenia",
+  "fecha": "2026-11-09T16:31:07+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "El empleo en programación y consultoría informática marca máximo histórico en la EPA: por ahora no llega la temida caída por la IA",
+  "url": "https://www.xataka.com/empresas-y-economia/empleo-programacion-consultoria-informatica-marca-maximo-historico-epa-ahora-no-llega-temida-caida-ia",
+  "fecha": "2026-11-09T14:31:05+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "En un puerto de Hong Kong esperan 600.000 chips avanzados de Nvidia tras el portazo chino a las exportaciones de EEUU",
+  "url": "https://www.xataka.com/robotica-e-ia/puerto-hong-kong-esperan-600-000-chips-avanzados-nvidia-portazo-chino-a-exportaciones-eeuu",
+  "fecha": "2026-11-09T14:01:08+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china",
+  "url": "https://www.genbeta.com/actualidad/nvidia-abre-investigacion-relacion-su-director-ejecutivo-presunta-espia-china",
+  "fecha": "2026-11-10T09:31:06+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "El presidente de Microsoft pide más regulación para la IA: \"Cada envase de leche\" está sujeto a más normas de seguridad",
+  "url": "https://www.genbeta.com/inteligencia-artificial/presidente-microsoft-pide-regulacion-para-ia-cada-envase-leche-esta-sujeto-a-normas-seguridad",
+  "fecha": "2026-11-09T17:01:08+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Coprocesado de contrabando de Super Micro se declara culpable de enviar chips de inteligencia artificial a China — el corredor admite haber violado las normas de control de exportaciones mientras el cofundador de la empresa niega los cargos",
+  "url": "https://www.genbeta.com/inteligencia-artificial/coprocesado-contrabando-super-micro-se-declara-culpable-enviar-chips-inteligencia-artificial-a-china-corredor-admite-haber-violado-normas-control-exportaciones-cofundador-empresa-niega-cargos",
+  "fecha": "2026-11-09T16:01:07+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Suecia tiñe de magenta sus paneles solares y consigue cosechar debajo el mismo brócoli que a pleno sol, aunque tarda 25 días más en crecer",
+  "url": "https://www.genbeta.com/energia/suecia-tine-magenta-sus-paneles-solares-consigue-cosechar-debajo-brocoli-que-a-pleno-sol-tarda-25-dias-crecer",
+  "fecha": "2026-11-09T15:01:07+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Dejé de escribir a ChatGPT, Claude y Gemini durante una semana y descubrí una mejor forma de usar la IA",
+  "url": "https://www.genbeta.com/inteligencia-artificial/deje-escribir-a-chatgpt-claude-gemini-durante-semana-descubri-mejor-forma-usar-ia",
+  "fecha": "2026-11-09T14:01:07+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Kiruna, la ciudad sueca que tiene que cambiar de sitio para que la mina de hierro del mismo nombre no se la coma",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/kiruna-ciudad-mover-mina-hierro.html",
+  "fecha": "2026-11-10T10:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "CompuServe ha vuelto: un viaje a los primeros tiempos la internet comercial con un terminal de texto y conexión por Telnet",
+  "url": "http://www.microsiervos.com/archivo/internet/compuserve-ha-vuelto-internet-comercial-texto-telnet.html",
+  "fecha": "2026-11-09T17:32:46+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Is ArtificialAnalysis biased against open weight models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+  "fecha": "2026-11-09T22:22:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "More interesting and unusual Qwen3.5-4B neurons",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
+  "fecha": "2026-11-09T17:46:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Got another good reminder why local matters today",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+  "fecha": "2026-11-09T21:13:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "From the finest minds of our age to the dumbest monkeys on the planet",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/",
+  "fecha": "2026-11-09T19:05:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
+  "fecha": "2026-11-09T19:13:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+  "fecha": "2026-11-10T10:23:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
+  "fecha": "2026-11-09T23:32:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/",
+  "fecha": "2026-11-09T15:43:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Qwen 3.8 FN getting stressed from messing up",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/",
+  "fecha": "2026-11-09T20:24:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "ConceptCountry/qwen-concept-27b · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/",
+  "fecha": "2026-11-09T17:29:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "meituan-longcat/LongCat-2.5 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
+  "fecha": "2026-11-09T14:14:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Omni Voice is the fastest and best voice clone TTS out there. I've tested them all.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/",
+  "fecha": "2026-11-09T21:22:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "How to mess around with neurons... a short guide",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/",
+  "fecha": "2026-11-09T23:59:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Decision model to edit LLM weight directly - No training",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+  "fecha": "2026-11-10T11:27:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/",
+  "fecha": "2026-11-10T02:46:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/",
+  "fecha": "2026-11-10T02:32:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/",
+  "fecha": "2026-11-10T01:11:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/",
+  "fecha": "2026-11-09T18:04:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Weight-space programming: editing Qwen3.5 into a top decision model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/",
+  "fecha": "2026-11-09T15:40:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+  "fecha": "2026-11-10T11:41:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
+  "fecha": "2026-11-10T02:09:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/",
+  "fecha": "2026-11-10T04:16:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/",
+  "fecha": "2026-11-09T21:37:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/",
+  "fecha": "2026-11-10T07:26:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Australian Finetunes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaujd/australian_finetunes/",
+  "fecha": "2026-11-10T02:09:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+  "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+  "fecha": "2026-11-10T07:28:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Quoting Prompting Claude Fable 5.2",
+  "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+  "fecha": "2026-11-10T05:34:14+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Yonkers Rises",
+  "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+  "fecha": "2026-11-10T03:53:04+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "llm-anthropic 0.31",
+  "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+  "fecha": "2026-11-09T23:58:46+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Locating the source of a mysterious beep with Claude",
+  "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+  "fecha": "2026-11-09T23:57:21+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "fecha": "2026-11-09T15:05:57+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+  "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+  "fecha": "2026-11-10T06:34:44+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-10"
+ },
+ {
+  "titulo": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+  "url": "https://latent.space/p/handshake/",
+  "fecha": "2026-11-09T17:15:53+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-10"
+ },
+ {
   "titulo": "Anthropic pidió frenar el desarrollo de la IA, pero su IA está avanzando el doble de rápido que el año pasado",
   "url": "https://www.xataka.com/robotica-e-ia/anthropic-pidio-frenar-desarrollo-ia-su-ia-esta-avanzando-doble-rapido-que-ano-pasado",
   "fecha": "2026-11-09T12:31:03+00:00",
