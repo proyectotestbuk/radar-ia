@@ -1,5 +1,425 @@
 [
  {
+  "titulo": "Anthropic ha descubierto lo que mi madre ya sabía: la IA cuida mejor las cosas cuando cree que son suyas",
+  "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-descubierto-que-mi-madre-sabia-cuidas-mejor-cosas-cuando-crees-que-tuyas-a-su-ia-le-pasa-codigo",
+  "fecha": "2026-11-10T16:31:47+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Google tuvo el mejor modelo de IA durante trece días. Anthropic se lo quitó y la respuesta ha tardado 24 horas",
+  "url": "https://www.xataka.com/robotica-e-ia/google-tuvo-mejor-modelo-ia-durante-trece-dias-anthropic-se-quito-respuesta-ha-tardado-24-horas",
+  "fecha": "2026-11-10T16:01:49+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Pulsar “Sí, y no vuelvas a preguntar” en Claude Code parecía inofensivo. Ha acabado filtrando miles de contraseñas en GitHub",
+  "url": "https://www.xataka.com/robotica-e-ia/pulsar-no-vuelvas-a-preguntar-claude-code-parecia-inofensivo-ha-acabado-filtrando-miles-contrasenas-github",
+  "fecha": "2026-11-10T14:31:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Google ya no quiere un solo chip de IA que haga de todo: lanza dos nuevas TPU especializadas para plantar cara a Nvidia",
+  "url": "https://www.xataka.com/componentes/google-no-quiere-solo-chip-ia-que-haga-todo-lanza-dos-nuevas-tpu-especializadas-para-plantar-cara-a-nvidia",
+  "fecha": "2026-11-10T14:00:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Los chips de Nvidia se acumulan en Hong Kong mientras China retiene la aprobación de importación",
+  "url": "https://www.genbeta.com/inteligencia-artificial/chips-nvidia-se-acumulan-hong-kong-china-retiene-aprobacion-importacion",
+  "fecha": "2026-11-11T07:01:50+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Estafa de habitaciones a precios de ganga en el centro de Venecia, Booking reembolsa a los clientes hasta 263 euros: \"Investigación para entender cómo han atacado los hackers\"",
+  "url": "https://www.genbeta.com/seguridad/estafa-habitaciones-a-precios-ganga-centro-venecia-booking-reembolsa-a-clientes-263-euros-investigacion-para-entender-como-han-atacado-hackers",
+  "fecha": "2026-11-10T18:01:49+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "José, español viviendo en Islandia: \"Aquí está el famoso 3-2-2, que trabajas tres días, descansas dos y trabajas dos\", con turnos de 11 o 12 horas",
+  "url": "https://www.genbeta.com/vivienda/jose-espanol-viviendo-islandia-aqui-esta-famoso-3-2-2-que-trabajas-tres-dias-descansas-dos-trabajas-dos-turnos-11-12-horas",
+  "fecha": "2026-11-10T17:01:49+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Elon Musk dice que ahorrar a largo plazo es 'inútil' ya que espera un futuro de abundancia",
+  "url": "https://www.genbeta.com/inteligencia-artificial/elon-musk-dice-que-ahorrar-a-largo-plazo-inutil-espera-futuro-abundancia",
+  "fecha": "2026-11-10T16:01:49+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "El libro Guinness de los récords certifica el vuelo del Airbus A350-1000ULR de Qantas entre Melbourne y Toulouse como el más largo realizado por un avión comercial",
+  "url": "http://www.microsiervos.com/archivo/aerotrastorno/libro-guiness-records-certifica-vuelo-melbourne-toulouse-a350ulr-qantas.html",
+  "fecha": "2026-11-10T16:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Apple has new Mac app coming to make running local AI models easy",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+  "fecha": "2026-11-10T21:30:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+  "fecha": "2026-11-10T14:18:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+  "fecha": "2026-11-10T19:44:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Nobody wondering why the US takes Nvidia CEO affair public?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+  "fecha": "2026-11-10T12:23:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+  "fecha": "2026-11-11T09:58:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
+  "fecha": "2026-11-10T15:01:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "My AI is lazier than me",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+  "fecha": "2026-11-10T21:11:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
+  "fecha": "2026-11-11T03:03:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
+  "fecha": "2026-11-11T04:09:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Ernie 5.5 Flash will be released in two weeks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/",
+  "fecha": "2026-11-11T10:26:23+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
+  "fecha": "2026-11-10T14:48:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "llama.cpp: Add FP8 KV-cache",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+  "fecha": "2026-11-11T05:36:19+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
+  "fecha": "2026-11-10T16:30:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "We got custom inference per model per hardware now. How long before we get custom hardware for model?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/",
+  "fecha": "2026-11-10T22:04:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "What tasks have you moved from cloud models to local models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/",
+  "fecha": "2026-11-10T22:10:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
+  "fecha": "2026-11-10T17:25:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/",
+  "fecha": "2026-11-10T16:09:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Zyphra/ZONOS3-Mini · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
+  "fecha": "2026-11-11T07:09:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
+  "fecha": "2026-11-10T14:20:01+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Trending on huggingface:2D to 3D",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/",
+  "fecha": "2026-11-10T18:17:48+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+  "fecha": "2026-11-10T17:11:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "qwen4-max-preview on qwencloud",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
+  "fecha": "2026-11-11T08:30:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/",
+  "fecha": "2026-11-10T14:31:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/",
+  "fecha": "2026-11-11T00:27:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/",
+  "fecha": "2026-11-10T23:50:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "llm-gemini 0.36",
+  "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+  "fecha": "2026-11-10T20:09:44+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "fecha": "2026-11-11T05:01:16+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "fecha": "2026-11-10T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Decision Models in Hugging Face",
+  "url": "https://huggingface.co/blog/decision",
+  "fecha": "2026-11-10T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+  "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+  "fecha": "2026-11-11T09:34:28+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+  "url": "https://latent.space/p/codex-work/",
+  "fecha": "2026-11-11T04:49:48+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "Designing for Agents — Zeno Rocha, Resend",
+  "url": "https://latent.space/p/resend/",
+  "fecha": "2026-11-10T20:05:17+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-11"
+ },
+ {
+  "titulo": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+  "url": "https://latent.space/p/naiveai/",
+  "fecha": "2026-11-10T18:56:32+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-11"
+ },
+ {
   "titulo": "Una startup paga 20 dólares la hora por pasear perros robot",
   "url": "https://www.xataka.com/robotica-e-ia/startup-paga-20-dolares-hora-pasear-perros-robot",
   "fecha": "2026-11-10T06:31:06+00:00",
