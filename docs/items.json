@@ -1,5 +1,405 @@
 [
  {
+  "titulo": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
+  "url": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
+  "fecha": "2026-11-11T15:01:51+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Brian May, histórico guitarrista de Queen, compró un campo, plantó 100.000 árboles y creó una reserva natural privada",
+  "url": "https://www.genbeta.com/actualidad/brian-may-historico-guitarrista-queen-compro-campo-planto-100-000-arboles-creo-reserva-natural-privada",
+  "fecha": "2026-11-12T08:35:14+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "El poste se considera demasiado alto y la calle demasiado estrecha: durante dos años, los residentes de una localidad francesa han intentado en vano conectarse a la fibra óptica",
+  "url": "https://www.genbeta.com/actualidad/poste-se-considera-demasiado-alto-calle-demasiado-estrecha-durante-dos-anos-residentes-localidad-francesa-han-intentado-vano-conectarse-a-fibra-optica",
+  "fecha": "2026-11-12T08:01:50+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Isaac Casado, malagueño que estudia en Suecia: “España está bien para ir de vacaciones, pero para estudiar prefiero Europa”",
+  "url": "https://www.genbeta.com/actualidad/isaac-casado-malagueno-que-estudia-suecia-espana-esta-bien-para-ir-vacaciones-para-estudiar-prefiero-europa",
+  "fecha": "2026-11-11T19:01:49+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Isabel Ocaña, administradora de fincas: “Un propietario no debe conectar el vehículo a un enchufe comunitario por iniciativa propia”",
+  "url": "https://www.genbeta.com/actualidad/isabel-ocana-administradora-fincas-propietario-no-debe-conectar-vehiculo-a-enchufe-comunitario-iniciativa-propia",
+  "fecha": "2026-11-11T13:01:50+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "TikTok destripado: cómo usa la IA y los sensores del móvil para que no salgas de la aplicación jamás",
+  "url": "http://www.microsiervos.com/archivo/hackers/tiktok-destripado-ia-sensores-movil-no-salir-aplicacion-jamas.html",
+  "fecha": "2026-11-12T11:56:26+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Valencia, Madrid, Barcelona y Málaga convertidas en mapas de ciudades isométricos estilo videojuego",
+  "url": "http://www.microsiervos.com/archivo/mundoreal/valencia-madrid-barcelona-malaga-mapas-ciudades-isometricos-videojuego.html",
+  "fecha": "2026-11-11T23:49:31+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+  "fecha": "2026-11-11T22:31:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Open source self driving is here!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
+  "fecha": "2026-11-11T16:34:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
+  "fecha": "2026-11-11T16:17:55+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Microsoft files a patent application to train AI models on idle consumer GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
+  "fecha": "2026-11-11T18:05:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
+  "fecha": "2026-11-11T18:20:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
+  "fecha": "2026-11-12T03:49:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
+  "fecha": "2026-11-12T02:47:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+  "fecha": "2026-11-12T10:47:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Open-source method (MACaQ) beats Unsloth GGUFs!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
+  "fecha": "2026-11-11T17:32:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
+  "fecha": "2026-11-11T21:56:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
+  "fecha": "2026-11-12T11:27:07+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/",
+  "fecha": "2026-11-12T05:37:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Architecture trends: From full to local attention",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+  "fecha": "2026-11-11T22:38:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+  "fecha": "2026-11-12T01:36:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "KRAFTON/Raon-1-nano · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
+  "fecha": "2026-11-11T16:31:38+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
+  "fecha": "2026-11-12T00:50:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
+  "fecha": "2026-11-11T16:32:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "US and China \"may\" collaborate on AI. The jokes write themselves",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/",
+  "fecha": "2026-11-11T19:15:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "[Bi-Weekly Megathread] Project Showcase",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+  "fecha": "2026-11-11T15:02:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/",
+  "fecha": "2026-11-11T18:36:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Rules and moderation, what do you want to see changed?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see/",
+  "fecha": "2026-11-11T14:22:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/",
+  "fecha": "2026-11-12T08:21:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/",
+  "fecha": "2026-11-12T07:47:12+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/",
+  "fecha": "2026-11-12T09:13:49+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "[Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/",
+  "fecha": "2026-11-11T13:32:30+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Gemini Decisions API",
+  "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+  "fecha": "2026-11-11T22:03:25+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "aws-emulator",
+  "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+  "fecha": "2026-11-11T21:18:30+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Browse tools.simonwillison.net by tag",
+  "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+  "fecha": "2026-11-11T18:42:50+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "llm 0.37.2",
+  "url": "https://simonwillison.net/2026/Nov/11/llm/",
+  "fecha": "2026-11-11T17:19:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Anthropic's IPO roadshow video",
+  "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+  "fecha": "2026-11-11T15:11:59+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "url": "https://huggingface.co/blog/token-pooling",
+  "fecha": "2026-11-11T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "[AINews] D-Day (Decision Models Day)",
+  "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+  "fecha": "2026-11-12T05:26:54+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
+  "titulo": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+  "url": "https://latent.space/p/jev-revolution/",
+  "fecha": "2026-11-12T05:08:20+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-12"
+ },
+ {
   "titulo": "Anthropic ha descubierto lo que mi madre ya sabía: la IA cuida mejor las cosas cuando cree que son suyas",
   "url": "https://www.xataka.com/robotica-e-ia/anthropic-ha-descubierto-que-mi-madre-sabia-cuidas-mejor-cosas-cuando-crees-que-tuyas-a-su-ia-le-pasa-codigo",
   "fecha": "2026-11-10T16:31:47+00:00",
