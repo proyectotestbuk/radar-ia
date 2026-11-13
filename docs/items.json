@@ -1,5 +1,415 @@
 [
  {
+  "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
+  "url": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
+  "fecha": "2026-11-13T11:57:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Google cree haber dado con el santo grial de la IA: Gemini 4 Hydrogen es rápido, bueno y (casi) barato",
+  "url": "https://www.xataka.com/robotica-e-ia/google-cree-haber-dado-santo-grial-ia-gemini-4-hydrogen-rapido-bueno-casi-barato",
+  "fecha": "2026-11-13T11:31:27+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Claude también se cae en todo el mundo y se suma al caos de Outlook y Teams",
+  "url": "https://www.xataka.com/seguridad/claude-tambien-se-cae-todo-mundo-se-suma-al-caos-outlook-teams",
+  "fecha": "2026-11-13T10:22:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
+  "url": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
+  "fecha": "2026-11-13T10:01:28+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes",
+  "url": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
+  "fecha": "2026-11-12T18:01:23+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Blue quiere que dejes el iPhone por un Android con un agente de IA dentro. La gran duda es cómo pagarlo",
+  "url": "https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo",
+  "fecha": "2026-11-12T13:31:24+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Feijóo, en Jordi Wild, sobre ampliar la edad de jubilación: \"Hay jueces, hay magistrados que quieren seguir. Yo se lo voy a facilitar\"",
+  "url": "https://www.genbeta.com/a-fondo/feijoo-jordi-wild-ampliar-edad-jubilacion-hay-jueces-hay-magistrados-que-quieren-seguir-yo-se-voy-a-facilitar",
+  "fecha": "2026-11-13T11:57:22+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "La inteligencia artificial resucita las cintas magnéticas, la tecnología de las VHS",
+  "url": "https://www.genbeta.com/actualidad/inteligencia-artificial-resucita-cintas-magneticas-tecnologia-vhs",
+  "fecha": "2026-11-12T17:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "¿Cómo Jensen Huang, que proviene de una familia común, construyó el imperio de NVIDIA?",
+  "url": "https://www.genbeta.com/actualidad/como-jensen-huang-que-proviene-familia-comun-construyo-imperio-nvidia",
+  "fecha": "2026-11-12T14:45:42+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Una comunidad exige a un propietario que quite el cañizo del muro de separación con el vecino: la justicia dice que se deja porque no afecta a los elementos comunes ni a la estética de la fachada",
+  "url": "https://www.genbeta.com/actualidad/comunidad-exige-a-propietario-que-quite-canizo-muro-separacion-vecino-justicia-dice-que-se-deja-porque-no-afecta-a-elementos-comunes-a-estetica-fachada",
+  "fecha": "2026-11-12T14:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Gaudí, un juego de mesa que recorre la vida y obra del genial arquitecto modernista",
+  "url": "http://www.microsiervos.com/archivo/juegos-y-diversion/gaudi-juego-mesa-arquitecto-modernista.html",
+  "fecha": "2026-11-12T22:53:48+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
+  "fecha": "2026-11-12T17:43:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Stories coming out about Jensen",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+  "fecha": "2026-11-13T01:58:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "So this will be true in couple of years?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+  "fecha": "2026-11-12T18:38:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
+  "fecha": "2026-11-13T04:03:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+  "fecha": "2026-11-12T13:56:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+  "fecha": "2026-11-13T00:11:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "legal",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
+  "fecha": "2026-11-12T17:14:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/",
+  "fecha": "2026-11-12T13:12:53+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "A100 prices down 20-30% since my post about them collapsing",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them/",
+  "fecha": "2026-11-13T03:31:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "New Model \"Ernie 5.5 Flash Preview\" hits strongly at a low parameter count (280B, 14B Active)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/",
+  "fecha": "2026-11-12T20:13:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
+  "fecha": "2026-11-12T22:49:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "thinkingmachines/Inkling-2-Small is released!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
+  "fecha": "2026-11-12T22:25:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull/",
+  "fecha": "2026-11-13T09:22:15+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/",
+  "fecha": "2026-11-12T23:31:29+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/",
+  "fecha": "2026-11-13T01:25:20+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/",
+  "fecha": "2026-11-13T02:47:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "qwen3.8-flash shows us a glimpse of whats possible for smaller hardware",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/",
+  "fecha": "2026-11-12T16:13:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Google is asking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
+  "fecha": "2026-11-13T08:20:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/",
+  "fecha": "2026-11-13T04:06:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Uncensored models are awesome",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome/",
+  "fecha": "2026-11-13T00:19:26+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwszo/us_intel_isnt_sure_if_businesswoman_spied_on/",
+  "fecha": "2026-11-13T03:06:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwlya/edge0145b_opensource_ondevice_ai_with_145b/",
+  "fecha": "2026-11-13T02:56:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/",
+  "fecha": "2026-11-12T19:35:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "If open weights dry up, what are you archiving?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuthme/if_open_weights_dry_up_what_are_you_archiving/",
+  "fecha": "2026-11-13T00:27:45+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "Gemma 4 E2B on a 8GB RAM netbook",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook/",
+  "fecha": "2026-11-13T00:31:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "llm-gemini 0.37",
+  "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+  "fecha": "2026-11-12T22:55:19+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "fecha": "2026-11-12T19:07:35+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "fecha": "2026-11-12T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+  "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+  "fecha": "2026-11-13T09:04:13+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-13"
+ },
+ {
+  "titulo": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+  "url": "https://latent.space/p/artcraft/",
+  "fecha": "2026-11-13T04:17:25+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-13"
+ },
+ {
   "titulo": "El trabajo de moda en ingeniería de software ya no es programar: es reunirse con el cliente para asegurarse de que la IA funcione",
   "url": "https://www.xataka.com/empresas-y-economia/trabajo-moda-ingenieria-software-no-programar-reunirse-cliente-para-asegurarse-que-ia-funcione",
   "fecha": "2026-11-11T15:01:51+00:00",
