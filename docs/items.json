@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "CEO de Microsoft, Satya Nadella: \"Tenemos que hacer algo útil con la IA, o rápidamente perderemos el permiso social\" — desafiando a los pioneros de la IA a mejorar su desempeño",
+  "url": "https://www.genbeta.com/inteligencia-artificial/ceo-microsoft-satya-nadella-tenemos-que-hacer-algo-util-ia-rapidamente-perderemos-permiso-social-desafiando-a-pioneros-ia-a-mejorar-su-desempeno",
+  "fecha": "2026-11-13T19:01:21+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Denuncian un intento de estafa telefónica con el recién estrenado prefijo 400 de llamadas comerciales",
+  "url": "https://www.genbeta.com/seguridad/denuncian-intento-estafa-telefonica-recien-estrenado-prefijo-400-llamadas-comerciales",
+  "fecha": "2026-11-13T13:01:26+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "llama.cpp v1.0 is here 🦙",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+  "fecha": "2026-11-13T14:07:33+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+  "fecha": "2026-11-14T03:40:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Look what my son gave me!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+  "fecha": "2026-11-13T15:49:27+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+  "fecha": "2026-11-13T19:23:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "CXMT almost tripling RAM production from 2025 to 2028",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
+  "fecha": "2026-11-13T15:21:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "e-means: 10x faster k-means at equal loss",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
+  "fecha": "2026-11-13T15:56:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+  "fecha": "2026-11-13T16:31:47+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+  "fecha": "2026-11-13T16:00:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "ERNIE 5.5 Flash Base · ERNIE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/",
+  "fecha": "2026-11-14T05:31:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+  "fecha": "2026-11-13T13:08:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+  "fecha": "2026-11-13T16:03:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/",
+  "fecha": "2026-11-13T16:25:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+  "fecha": "2026-11-14T05:41:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
+  "fecha": "2026-11-13T16:37:41+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+  "fecha": "2026-11-14T04:06:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/",
+  "fecha": "2026-11-14T05:29:37+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
+  "fecha": "2026-11-14T07:11:58+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/",
+  "fecha": "2026-11-13T17:14:40+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+  "fecha": "2026-11-13T19:57:57+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Vellium 1.9.5: visual novels that actually work on a 12B local model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/",
+  "fecha": "2026-11-13T20:17:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
+  "fecha": "2026-11-14T10:02:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Why are LLMs still so bad at jokes?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvm8r3/why_are_llms_still_so_bad_at_jokes/",
+  "fecha": "2026-11-13T22:48:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "modules for my opensource (GPL3) harness have evolved to the point where this is possible. this is a full fledged videogame running inside it!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbq3s/modules_for_my_opensource_gpl3_harness_have/",
+  "fecha": "2026-11-13T16:03:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
+  "fecha": "2026-11-14T09:07:32+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "LLM's might be bad at jokes but they still make me laugh a lot",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me/",
+  "fecha": "2026-11-14T03:50:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "datasette-cluster-map 0.19",
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+  "fecha": "2026-11-13T23:02:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "datasette-leaflet 0.3",
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+  "fecha": "2026-11-13T22:30:54+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "fecha": "2026-11-13T18:00:39+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "XYBench: Helping with the problem behind the question",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "fecha": "2026-11-13T17:02:35+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "fecha": "2026-11-13T14:05:22+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-14"
+ },
+ {
+  "titulo": "[AINews] The No AI Slop Manifesto",
+  "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+  "fecha": "2026-11-14T08:31:02+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-14"
+ },
+ {
   "titulo": "Las gafas inteligentes siguen dejando dudas en materia de privacidad. A pesar de ello, Google y Samsung acaban de lanzar las suyas",
   "url": "https://www.xataka.com/privacidad/gafas-inteligentes-siguen-dejando-dudas-materia-privacidad-a-pesar-ello-google-samsung-acaban-lanzar-suyas",
   "fecha": "2026-11-13T11:57:28+00:00",
