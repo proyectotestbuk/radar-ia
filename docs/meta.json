@@ -75,16 +75,16 @@
   "la-hora-maker-youtube": "la-hora-maker-youtube.png",
   "xataka-ia": "xataka-ia.png",
   "genbeta": "genbeta.png",
-  "microsiervos": "",
-  "ia-en-espa-ol": "ia-en-espa-ol.png",
+  "microsiervos": "microsiervos.png",
+  "ia-en-espa-ol": "",
   "r-localllama": "r-localllama.png",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
-  "import-ai-jack-clark": "import-ai-jack-clark.png",
+  "import-ai-jack-clark": "",
   "latent-space": "latent-space.png",
-  "ahead-of-ai-raschka": "ahead-of-ai-raschka.png",
-  "one-useful-thing-mollick": "one-useful-thing-mollick.png",
-  "chinai-jeffrey-ding": "chinai-jeffrey-ding.png",
+  "ahead-of-ai-raschka": "",
+  "one-useful-thing-mollick": "",
+  "chinai-jeffrey-ding": "",
   "the-gradient-stanford": "the-gradient-stanford.png"
  },
  "cats": {
@@ -123,5 +123,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "15/11/2026 a las 14:22"
+ "sello": "16/11/2026 a las 15:15"
 }

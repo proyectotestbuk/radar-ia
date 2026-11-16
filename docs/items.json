@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Mac Studio M5 Ultra (256 GB), análisis: un mes intentando encontrar los límites de una máquina casi sin límites",
+  "url": "https://www.xataka.com/analisis/mac-studio-m5-ultra-256-gb-analisis-review-caracteristicas-precio-especificaciones",
+  "fecha": "2026-11-16T12:01:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "legal",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Irene Gramage, especialista en herencias: \"Si en una herencia un hermano se aprovecha, hay que hacer un requerimiento notarial\"",
+  "url": "https://www.genbeta.com/actualidad/irene-gramage-especialista-herencias-herencia-hermano-se-aprovecha-hay-que-hacer-requerimiento-notarial",
+  "fecha": "2026-11-16T11:04:26+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "El Vulcan de United Launch Alliance falla en su misión de vuelta al servicio y de paso le hace la puñeta a Amazon LEO al perder 40 de sus satélites",
+  "url": "http://www.microsiervos.com/archivo/espacio/vulcan-falla-vuelta-servicio.html",
+  "fecha": "2026-11-15T19:00:00+00:00",
+  "fuente": "Microsiervos",
+  "fuente_id": "microsiervos",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+  "fecha": "2026-11-15T15:16:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "The beginning of the becoming of the beginning begins",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+  "fecha": "2026-11-16T09:55:51+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Why download abliterated Flash Next models when LoRA exists?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+  "fecha": "2026-11-16T00:06:16+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+  "fecha": "2026-11-15T21:46:56+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+  "fecha": "2026-11-15T17:30:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Llama.cpp performance improvement over time (Gemma4 models)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
+  "fecha": "2026-11-15T20:34:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Introducing Hy4 flash",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
+  "fecha": "2026-11-16T09:52:44+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Probable GLM model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
+  "fecha": "2026-11-15T15:21:11+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
+  "fecha": "2026-11-16T06:32:08+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/",
+  "fecha": "2026-11-15T14:49:02+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Someone should do an analysis on the rate of Self-promo here.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+  "fecha": "2026-11-15T22:05:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+  "fecha": "2026-11-15T20:11:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
+  "fecha": "2026-11-15T18:29:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "higurashi-ai/Haru-4B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+  "fecha": "2026-11-15T13:58:52+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/",
+  "fecha": "2026-11-15T13:41:06+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "X3Guard: A 150M parameter prompt guard",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/",
+  "fecha": "2026-11-15T15:46:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "internlm/Sage-S2.1-Flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/",
+  "fecha": "2026-11-16T11:36:14+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Villanova2 - a VillanovaAI Collection",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/",
+  "fecha": "2026-11-15T17:46:04+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "[Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/",
+  "fecha": "2026-11-16T10:48:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "Is there a community about finetuning and training models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/",
+  "fecha": "2026-11-15T15:35:22+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/",
+  "fecha": "2026-11-15T16:55:21+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "How do we feel about bots posting & commenting?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd9a/how_do_we_feel_about_bots_posting_commenting/",
+  "fecha": "2026-11-16T10:48:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/",
+  "fecha": "2026-11-15T17:43:31+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "I used local Gemma 4 to moderate a community and it was it is promising",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/",
+  "fecha": "2026-11-15T13:35:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "[Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/",
+  "fecha": "2026-11-16T10:58:50+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "datasette-maplibre 0.1a0",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+  "fecha": "2026-11-15T23:58:36+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "datasette 1.0a43",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+  "fecha": "2026-11-15T23:20:27+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "datasette 0.65.6",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+  "fecha": "2026-11-15T23:18:17+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "datasette-apps 0.4a0",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+  "fecha": "2026-11-15T04:02:45+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-16"
+ },
+ {
+  "titulo": "datasette-agent 0.6a0",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+  "fecha": "2026-11-15T03:49:47+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-16"
+ },
+ {
   "titulo": "Nvidia se está planteando una decisión radical para dejar de depender de Samsung en la producción de memoria",
   "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
   "fecha": "2026-11-15T11:01:22+00:00",
