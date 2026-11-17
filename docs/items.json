@@ -1,5 +1,355 @@
 [
  {
+  "titulo": "Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486 con MS-DOS. Lo ha programado otra IA",
+  "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-modelo-ia-que-disquete-funciona-486-ms-dos-ha-programado-otra-ia",
+  "fecha": "2026-11-17T13:01:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Google tiene una idea para que programar con IA gaste menos: que el modelo caro solo piense y el barato haga el trabajo",
+  "url": "https://www.xataka.com/robotica-e-ia/google-tiene-idea-programar-ia-gaste-que-modelo-caro-solo-piense-barato-haga-trabajo",
+  "fecha": "2026-11-17T08:01:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Los robots humanoides de Xiaomi trabajan un turno completo de ocho horas en su fábrica de coches eléctricos",
+  "url": "https://www.genbeta.com/actualidad/robots-humanoides-xiaomi-trabajan-turno-completo-ocho-horas-su-fabrica-coches-electricos",
+  "fecha": "2026-11-17T13:01:27+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "No pagó el alquiler casi cuatro años y la casera no reparó las humedades: la Audiencia rebaja la deuda en un tercio",
+  "url": "https://www.genbeta.com/vivienda/no-pago-alquiler-casi-cuatro-anos-casera-no-reparo-humedades-audiencia-rebaja-deuda-tercio",
+  "fecha": "2026-11-17T08:01:26+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "La casa familiar de Amancio Ortega: un dúplex con vistas al mar en uno de los barrios más cotizados de A Coruña",
+  "url": "https://www.genbeta.com/actualidad/casa-familiar-amancio-ortega-duplex-vistas-al-mar-uno-barrios-cotizados-a-coruna",
+  "fecha": "2026-11-16T14:01:24+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+  "fecha": "2026-11-17T04:04:39+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Stop worrying about Qwen 4's AA index",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/",
+  "fecha": "2026-11-16T14:16:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Your daily dose of Qwopium:",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/",
+  "fecha": "2026-11-16T23:36:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "miHoYo Gamer: A Generalist Game Agent",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/",
+  "fecha": "2026-11-16T19:11:42+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Open weight models account for 30% usage at enterprises to save money",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/",
+  "fecha": "2026-11-16T18:38:24+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "OVH announces Olala mini 7A1B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/",
+  "fecha": "2026-11-17T10:14:35+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "I am sick of doomposting about demise of local AI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/",
+  "fecha": "2026-11-16T20:01:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/",
+  "fecha": "2026-11-16T18:55:18+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Censorship is turning me into a true Local LLM believer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm/",
+  "fecha": "2026-11-16T15:31:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+  "fecha": "2026-11-17T12:02:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "I don't get all the Strata hates around here",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/",
+  "fecha": "2026-11-16T19:45:10+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/",
+  "fecha": "2026-11-17T11:29:34+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/",
+  "fecha": "2026-11-17T11:34:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Gemma on a printer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+  "fecha": "2026-11-17T12:48:09+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "nvidia/Nemotron-Labs-Sigma 8B/3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/",
+  "fecha": "2026-11-16T18:06:03+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "negocio",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
+  "fecha": "2026-11-17T04:35:28+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "llm-eng",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "[NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/",
+  "fecha": "2026-11-16T17:59:17+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Hugging Face switched its language model inference routing to OpenRouter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
+  "fecha": "2026-11-17T03:16:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.cpp.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the/",
+  "fecha": "2026-11-16T17:10:54+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "GPU prices - Big \"discounts\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
+  "fecha": "2026-11-17T12:15:13+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "DSpine - Updates on PR & GGUFs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
+  "fecha": "2026-11-17T06:03:25+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "local",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Best MoE engine?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/",
+  "fecha": "2026-11-16T20:31:36+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Under 9gb model comparison",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/",
+  "fecha": "2026-11-16T17:39:46+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/",
+  "fecha": "2026-11-17T13:33:05+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Gemma 4 twice as fast on Ryzen AI Max+ 395",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/",
+  "fecha": "2026-11-17T13:04:43+00:00",
+  "fuente": "r/LocalLLaMA",
+  "fuente_id": "r-localllama",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Quoting Go Proverbs",
+  "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+  "fecha": "2026-11-17T06:16:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "llm 0.37.3",
+  "url": "https://simonwillison.net/2026/Nov/16/llm/",
+  "fecha": "2026-11-16T23:57:26+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "url": "https://huggingface.co/blog/openrouter",
+  "fecha": "2026-11-16T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+  "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+  "fecha": "2026-11-17T09:24:56+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
+  "titulo": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+  "url": "https://latent.space/p/bfl/",
+  "fecha": "2026-11-16T21:38:03+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-17"
+ },
+ {
   "titulo": "Mac Studio M5 Ultra (256 GB), análisis: un mes intentando encontrar los límites de una máquina casi sin límites",
   "url": "https://www.xataka.com/analisis/mac-studio-m5-ultra-256-gb-analisis-review-caracteristicas-precio-especificaciones",
   "fecha": "2026-11-16T12:01:25+00:00",
