@@ -1,5 +1,125 @@
 [
  {
+  "titulo": "Pusieron a unos agentes de IA a jugar al Minecraft y crearon algo para lo que no estaban diseñadas: la burocracia",
+  "url": "https://www.xataka.com/robotica-e-ia/pusieron-a-unos-agentes-ia-a-jugar-al-minecraft-crearon-algo-no-estaban-disenadas-burocracia",
+  "fecha": "2026-11-17T17:01:22+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "herram",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "He convertido una presentación en una web con Gemini Notebook. Solo tuve que pedírselo",
+  "url": "https://www.xataka.com/robotica-e-ia/he-convertido-presentacion-web-gemini-notebook-solo-tuve-que-pedirselo",
+  "fecha": "2026-11-17T16:45:24+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Nvidia es el Super Glue de la industria de la IA. Sin Huang al frente, temen que sea pegamento de barra",
+  "url": "https://www.xataka.com/empresas-y-economia/nvidia-super-glue-industria-ia-huang-al-frente-temen-que-sea-pegamento-barra",
+  "fecha": "2026-11-17T15:31:21+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Cristina Bayés, consultora e ingeniera industrial: \"Decir que dejar la calefacción constantemente encendida sirve para ahorrar es falso\"",
+  "url": "https://www.genbeta.com/energia/cristina-bayes-consultora-e-ingeniera-industrial-decir-que-dejar-calefaccion-constantemente-encendida-sirve-para-ahorrar-falso",
+  "fecha": "2026-11-18T11:01:20+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Silvia Intxaurrondo, periodista, 46 años: “De Iñaki Gabilondo aprendí que si nos tomamos treinta segundos para pensar lo que estamos contando, podemos afinar la información”",
+  "url": "https://www.genbeta.com/laboral/silvia-intxaurrondo-periodista-46-anos-inaki-gabilondo-aprendi-que-nos-tomamos-treinta-segundos-para-pensar-que-estamos-contando-podemos-afinar-informacion",
+  "fecha": "2026-11-18T10:03:16+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Alfonso, funcionario de la Seguridad Social: “Quien retrase un año su jubilación podrá recibir un pago de 8.500 euros”",
+  "url": "https://www.genbeta.com/pensiones/alfonso-funcionario-seguridad-social-quien-retrase-ano-su-jubilacion-podra-recibir-pago-8-500-euros",
+  "fecha": "2026-11-18T06:01:24+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Un ferretero, sobre el frío en casa: \"Recomiendo abrir el cajón de la persiana y pegar una tira de aislamiento térmico\"",
+  "url": "https://www.genbeta.com/actualidad/ferretero-frio-casa-recomiendo-abrir-cajon-persiana-pegar-tira-aislamiento-termico",
+  "fecha": "2026-11-17T19:01:23+00:00",
+  "fuente": "Genbeta",
+  "fuente_id": "genbeta",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "External sandboxes for coding agents",
+  "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+  "fecha": "2026-11-17T22:52:29+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "herram",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+  "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+  "fecha": "2026-11-17T22:38:52+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+  "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+  "fecha": "2026-11-17T16:48:33+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "datos",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+  "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+  "fecha": "2026-11-18T10:19:04+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-18"
+ },
+ {
+  "titulo": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+  "url": "https://latent.space/p/cloudflare/",
+  "fecha": "2026-11-17T15:00:00+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-18"
+ },
+ {
   "titulo": "Alguien ha creado un modelo de IA que cabe en un disquete y funciona en un 486 con MS-DOS. Lo ha programado otra IA",
   "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-modelo-ia-que-disquete-funciona-486-ms-dos-ha-programado-otra-ia",
   "fecha": "2026-11-17T13:01:26+00:00",
