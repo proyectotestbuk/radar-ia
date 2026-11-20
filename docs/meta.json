@@ -76,45 +76,57 @@
   "xataka-ia": "xataka-ia.png",
   "genbeta": "genbeta.png",
   "microsiervos": "microsiervos.png",
-  "ia-en-espa-ol": "",
+  "ia-en-espa-ol": "ia-en-espa-ol.png",
   "r-localllama": "",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
-  "import-ai-jack-clark": "",
+  "import-ai-jack-clark": "import-ai-jack-clark.png",
   "latent-space": "latent-space.png",
-  "ahead-of-ai-raschka": "",
-  "one-useful-thing-mollick": "",
-  "chinai-jeffrey-ding": "",
+  "ahead-of-ai-raschka": "ahead-of-ai-raschka.png",
+  "one-useful-thing-mollick": "one-useful-thing-mollick.png",
+  "chinai-jeffrey-ding": "chinai-jeffrey-ding.png",
   "the-gradient-stanford": "the-gradient-stanford.png"
  },
  "cats": {
+  "claude": {
+   "emoji": "🤖",
+   "nombre": "Claude y Claude Code"
+  },
+  "agentes": {
+   "emoji": "🕹️",
+   "nombre": "Agentes y automatización"
+  },
   "local": {
    "emoji": "🖥️",
    "nombre": "IA local"
   },
-  "llm-eng": {
+  "multimedia": {
+   "emoji": "🎙️",
+   "nombre": "Voz, imagen y vídeo"
+  },
+  "datos": {
+   "emoji": "📊",
+   "nombre": "Datos, RAG y documentos"
+  },
+  "desarrollo": {
    "emoji": "🔨",
-   "nombre": "LLM Engineering"
+   "nombre": "Desarrollo con IA"
+  },
+  "publico": {
+   "emoji": "⚖️",
+   "nombre": "Leyes y sector público"
+  },
+  "formacion": {
+   "emoji": "🎓",
+   "nombre": "Formación y fondo"
   },
   "modelos": {
    "emoji": "🧠",
    "nombre": "Modelos"
   },
-  "datos": {
-   "emoji": "📊",
-   "nombre": "Datos y RAG"
-  },
-  "herram": {
-   "emoji": "🔧",
-   "nombre": "Herramientas"
-  },
-  "legal": {
-   "emoji": "⚖️",
-   "nombre": "Legal y licencias"
-  },
   "negocio": {
    "emoji": "💼",
-   "nombre": "Negocio y dinero"
+   "nombre": "Negocio y empresas"
   },
   "otros": {
    "emoji": "•",
@@ -123,5 +135,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "19/11/2026 a las 16:00"
+ "sello": "20/11/2026 a las 14:43"
 }

@@ -1,15 +1,19 @@
-# Categorías del Radar IA — las define Juan, no la IA
+# Categorías (tipos) del Radar IA — rehechas el 20/11/2026 a petición de Juan
 #
 # formato:  clave | emoji | nombre visible | palabras clave (coma) — se buscan en el TITULAR
 #
+#   - Desde el 20/11/2026 el tipo lo pone Claude Haiku (clasifica.py) en clasificacion.tsv,
+#     junto con el interés (alto / medio / nada = morralla). Las palabras clave solo se usan
+#     para los titulares que aún no ha pasado el filtro.
 #   - Se aplica la PRIMERA que casa, de arriba abajo → el orden es la prioridad.
-#   - Si no casa ninguna, el titular cae en "otros".
-#   - Cambiar una categoría = editar esta línea. El próximo build reetiqueta todo el histórico.
 
-local     | 🖥️ | IA local          | ollama,llama.cpp,llama-server,vllm,gguf,cuantiz,quantiz,local llm,self-host,selfhost,rtx,vram,lm studio,localai,open webui,mlx,offline
-llm-eng   | 🔨 | LLM Engineering   | prompt,prompteng,prompt engineering,context,contexto,context window,in-context,evals,evaluation,fine-tun,lora,adapter,peft,dpo,sft,rlhf,instruction tuning
-modelos   | 🧠 | Modelos           | gpt,claude,gemini,llama,qwen,mistral,deepseek,kimi,grok,phi,gemma,modelo,model,release,lanza,presenta,launch,sota,benchmark
-datos     | 📊 | Datos y RAG       | rag,embedding,vector,pgvector,chroma,chunk,rerank,retrieval,base de datos,database,sql,text-to-sql,fine-tun,lora,dataset
-herram    | 🔧 | Herramientas      | mcp,agente,agent,n8n,langchain,llamaindex,api,sdk,cli,plugin,integra,workflow,automat,copilot,cursor,claude code
-legal     | ⚖️ | Legal y licencias | licencia,license,ai act,rgpd,gdpr,privacidad,privacy,regula,ley,demanda,lawsuit,copyright,derechos,open source,apache,mit
-negocio   | 💼 | Negocio y dinero  | financia,funding,millones,billion,precio,pricing,coste,cost,gratis,free,suscripci,openai,anthropic,nvidia,acuerdo,deal,ipo
+claude     | 🤖 | Claude y Claude Code | claude,anthropic,claude code,skill,mcp,subagent,codex,cursor
+agentes    | 🕹️ | Agentes y automatización | agente,agent,n8n,langchain,llamaindex,workflow,automat,computer use
+local      | 🖥️ | IA local | ollama,llama.cpp,llama-server,vllm,gguf,cuantiz,quantiz,local llm,self-host,selfhost,rtx,vram,lm studio,strix,ryzen ai,mlx,offline
+multimedia | 🎙️ | Voz, imagen y vídeo | tts,stt,whisper,voz,voice,speech,audio,imagen,image,vídeo,video,3d,avatar,flux,diffusion
+datos      | 📊 | Datos, RAG y documentos | rag,embedding,vector,pgvector,rerank,retrieval,sql,database,base de datos,ocr,pdf,document
+desarrollo | 🔨 | Desarrollo con IA | coding,program,code,developer,web,app,test,deploy,api,sdk
+publico    | ⚖️ | Leyes y sector público | ai act,rgpd,gdpr,privacidad,privacy,regula,ley,gobierno,administración,educación,education
+formacion  | 🎓 | Formación y fondo | guía,guide,tutorial,explica,explained,understanding,curso,course,how to
+modelos    | 🧠 | Modelos | gpt,gemini,llama,qwen,mistral,deepseek,kimi,grok,phi,gemma,modelo,model,release,lanza,benchmark
+negocio    | 💼 | Negocio y empresas | financia,funding,millones,billion,precio,pricing,openai,nvidia,acuerdo,deal,ipo,ceo

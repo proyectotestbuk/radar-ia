@@ -34,6 +34,7 @@ li:hover{border-color:var(--ac)}
 .txt a:hover{color:var(--ac)}
 .meta{font-size:.72rem;color:var(--dim);margin-top:3px;display:flex;gap:7px;flex-wrap:wrap}
 .cat{flex:0 0 auto;font-size:1.15rem;cursor:default}
+.alto{color:var(--ac);font-weight:600}
 .x{flex:0 0 auto;background:none;border:none;color:var(--dim);font-size:1.1rem;cursor:pointer;
  padding:2px 5px;border-radius:5px;line-height:1}
 .x:hover{background:var(--linea);color:var(--ac)}
@@ -47,7 +48,7 @@ footer button{background:none;border:1px solid var(--linea);color:var(--dim);fon
 footer button:hover{border-color:var(--ac);color:var(--ac)}
 h2{font-size:.76rem;text-transform:uppercase;letter-spacing:.09em;color:var(--dim);margin:26px 0 9px;font-weight:600}
 </style></head><body><div class="wrap">
-<header><h1>Radar <span>IA</span></h1><div class="sub">Lo que no abras, sigue aquí mañana · ⚠️ Feeds caídos hoy: IA en Español, r/LocalLLaMA, Import AI (Jack Clark), Ahead of AI (Raschka), One Useful Thing (Mollick), ChinAI (Jeffrey Ding)</div><nav><button data-v="pendientes" class="on">Bandeja</button><button data-v="leidos">Leídos</button><button data-v="borrados">Descartados</button><a href="archivo.html">Archivo por días</a></nav></header>
+<header><h1>Radar <span>IA</span></h1><div class="sub">Lo que no abras, sigue aquí mañana · ⚠️ Feeds caídos hoy: r/LocalLLaMA</div><nav><button data-v="pendientes" class="on">Bandeja</button><button data-v="leidos">Leídos</button><button data-v="borrados">Descartados</button><button data-v="morralla" title="Lo que Claude Haiku considera que no aporta">Morralla</button><a href="archivo.html">Archivo por días</a></nav></header>
 
 <div class="chips" id="chipsF"></div>
 <div class="chips" id="chipsC"></div>
@@ -148,7 +149,10 @@ function base(){
   const vivo=i=>i.dia>=M.corte;                      // marca de corte de config.txt
   if(vista==='leidos')   return D.filter(i=>vivo(i)&&E[i.url]?.est==='leido');
   if(vista==='borrados') return D.filter(i=>vivo(i)&&E[i.url]?.est==='descartado');
-  return D.filter(i=>vivo(i)&&!E[i.url]);            // la bandeja: lo que no tiene marca
+  if(vista==='morralla') return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes==='nada');
+  const orden={alto:0,medio:1,'?':2};
+  return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes!=='nada')   // la bandeja: sin marca y sin morralla
+          .sort((a,b)=>(orden[a.interes]??2)-(orden[b.interes]??2));
 }
 function visibles(){
   const q=document.getElementById('q').value.toLowerCase().trim();
@@ -162,23 +166,23 @@ function pinta(){
     const c=M.cats[i.cat]||{emoji:'\u2022',nombre:''};
     return `<li data-u="${esc(i.url)}">${icono(i)}
       <div class="txt"><a href="${esc(i.url)}" target="_blank" rel="noopener" class="abrir">${esc(i.titulo)}</a>
-      <div class="meta"><span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span></div></div>
+      <div class="meta">${i.interes==='alto'?'<span class="alto">★ interesa</span>':''}<span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span>${i.motivo?`<span>${esc(i.motivo)}</span>`:''}</div></div>
       <span class="cat" title="${esc(c.nombre)}">${c.emoji}</span>
-      <button class="x" title="${vista==='pendientes'?'Descartar':'Devolver a la bandeja'}">
-        ${vista==='pendientes'?'\u2715':'\u21ba'}</button></li>`;
+      <button class="x" title="${vista==='pendientes'||vista==='morralla'?'Descartar':'Devolver a la bandeja'}">
+        ${vista==='pendientes'||vista==='morralla'?'\u2715':'\u21ba'}</button></li>`;
   }).join('') : `<p class="vacio">${vista==='pendientes'
       ? 'Bandeja vacía. Todo leído \u2014 vuelve mañana.'
       : 'Nada por aquí.'}</p>`;
 
   // Abrir un titular = leerlo: sale de la bandeja y pasa a Leídos.
   document.querySelectorAll('.abrir').forEach(a=>a.onclick=e=>{
-    if(vista!=='pendientes') return;
+    if(vista!=='pendientes'&&vista!=='morralla') return;
     marca(e.target.closest('li').dataset.u,'leido');
     setTimeout(pinta,150);
   });
   document.querySelectorAll('.x').forEach(b=>b.onclick=e=>{
     const u=e.target.closest('li').dataset.u;
-    marca(u, vista==='pendientes' ? 'descartado' : null);   // en las otras vistas, devuelve
+    marca(u, vista==='pendientes'||vista==='morralla' ? 'descartado' : null);   // en las otras vistas, devuelve
     pinta();
   });
   chips();

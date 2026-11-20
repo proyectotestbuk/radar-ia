@@ -30,6 +30,7 @@ ICONOS = WEB / "iconos"
 ITEMS = WEB / "items.json"
 META = WEB / "meta.json"      # fuentes, categorias y config, para que la web las pinte
 ESTADO = WEB / "estado.tsv"   # la tabla de estado: la escribe la WEB, no el build
+CLASIF = RAIZ / "clasificacion.tsv"  # tipo e interes por URL: lo escribe clasifica.py (Claude Haiku), desde el 20/11/2026
 
 UA = "Mozilla/5.0 (compatible; RadarIA/1.0; +https://github.com/proyectotestbuk/radar-ia)"
 TIMEOUT = 25
@@ -98,6 +99,29 @@ def leer_categorias():
         })
     cats.append({"id": "otros", "emoji": "•", "nombre": "Otros", "claves": []})
     return cats
+
+
+def leer_clasificacion():
+    """url -> (tipo, interes, motivo). Si un titular esta aqui, manda sobre las palabras clave."""
+    d = {}
+    if CLASIF.exists():
+        for linea in CLASIF.read_text(encoding="utf-8").splitlines():
+            if linea.startswith("#") or not linea.strip():
+                continue
+            p = linea.split("\t")
+            if len(p) >= 3:
+                d[p[0]] = (p[1], p[2], p[3] if len(p) > 3 else "")
+    return d
+
+
+def etiquetar(item, cats, clasif):
+    c = clasif.get(item["url"])
+    if c and any(x["id"] == c[0] for x in cats):
+        item["cat"], item["interes"], item["motivo"] = c
+    else:
+        item["cat"] = categorizar(item["titulo"], cats)
+        item["interes"] = "?"          # aun sin pasar por el filtro
+        item.pop("motivo", None)
 
 
 def categorizar(titulo, cats):
@@ -231,8 +255,9 @@ def cosechar(fuentes, cats):
 def fusionar(cosecha, hoy, cats):
     """La URL es la identidad. Reetiqueta el historico por si cambiaron las categorias."""
     historico = json.loads(ITEMS.read_text(encoding="utf-8")) if ITEMS.exists() else []
+    clasif = leer_clasificacion()
     for viejo in historico:
-        viejo["cat"] = categorizar(viejo["titulo"], cats)
+        etiquetar(viejo, cats, clasif)
         viejo.setdefault("fuente_id", slug(viejo["fuente"]))   # items anteriores a las categorias
         viejo.setdefault("idioma", "es")
 
@@ -243,6 +268,7 @@ def fusionar(cosecha, hoy, cats):
             continue
         vistas.add(item["url"])
         item["dia"] = hoy                     # el dia en que ESTE radar lo vio por primera vez
+        etiquetar(item, cats, clasif)
         frescos.append(item)
 
     historico = frescos + historico
@@ -286,6 +312,7 @@ li:hover{border-color:var(--ac)}
 .txt a:hover{color:var(--ac)}
 .meta{font-size:.72rem;color:var(--dim);margin-top:3px;display:flex;gap:7px;flex-wrap:wrap}
 .cat{flex:0 0 auto;font-size:1.15rem;cursor:default}
+.alto{color:var(--ac);font-weight:600}
 .x{flex:0 0 auto;background:none;border:none;color:var(--dim);font-size:1.1rem;cursor:pointer;
  padding:2px 5px;border-radius:5px;line-height:1}
 .x:hover{background:var(--linea);color:var(--ac)}
@@ -456,7 +483,10 @@ function base(){
   const vivo=i=>i.dia>=M.corte;                      // marca de corte de config.txt
   if(vista==='leidos')   return D.filter(i=>vivo(i)&&E[i.url]?.est==='leido');
   if(vista==='borrados') return D.filter(i=>vivo(i)&&E[i.url]?.est==='descartado');
-  return D.filter(i=>vivo(i)&&!E[i.url]);            // la bandeja: lo que no tiene marca
+  if(vista==='morralla') return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes==='nada');
+  const orden={alto:0,medio:1,'?':2};
+  return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes!=='nada')   // la bandeja: sin marca y sin morralla
+          .sort((a,b)=>(orden[a.interes]??2)-(orden[b.interes]??2));
 }
 function visibles(){
   const q=document.getElementById('q').value.toLowerCase().trim();
@@ -470,23 +500,23 @@ function pinta(){
     const c=M.cats[i.cat]||{emoji:'\\u2022',nombre:''};
     return `<li data-u="${esc(i.url)}">${icono(i)}
       <div class="txt"><a href="${esc(i.url)}" target="_blank" rel="noopener" class="abrir">${esc(i.titulo)}</a>
-      <div class="meta"><span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span></div></div>
+      <div class="meta">${i.interes==='alto'?'<span class="alto">\u2605 interesa</span>':''}<span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span>${i.motivo?`<span>${esc(i.motivo)}</span>`:''}</div></div>
       <span class="cat" title="${esc(c.nombre)}">${c.emoji}</span>
-      <button class="x" title="${vista==='pendientes'?'Descartar':'Devolver a la bandeja'}">
-        ${vista==='pendientes'?'\\u2715':'\\u21ba'}</button></li>`;
+      <button class="x" title="${vista==='pendientes'||vista==='morralla'?'Descartar':'Devolver a la bandeja'}">
+        ${vista==='pendientes'||vista==='morralla'?'\\u2715':'\\u21ba'}</button></li>`;
   }).join('') : `<p class="vacio">${vista==='pendientes'
       ? 'Bandeja vacía. Todo leído \\u2014 vuelve mañana.'
       : 'Nada por aquí.'}</p>`;
 
   // Abrir un titular = leerlo: sale de la bandeja y pasa a Leídos.
   document.querySelectorAll('.abrir').forEach(a=>a.onclick=e=>{
-    if(vista!=='pendientes') return;
+    if(vista!=='pendientes'&&vista!=='morralla') return;
     marca(e.target.closest('li').dataset.u,'leido');
     setTimeout(pinta,150);
   });
   document.querySelectorAll('.x').forEach(b=>b.onclick=e=>{
     const u=e.target.closest('li').dataset.u;
-    marca(u, vista==='pendientes' ? 'descartado' : null);   // en las otras vistas, devuelve
+    marca(u, vista==='pendientes'||vista==='morralla' ? 'descartado' : null);   // en las otras vistas, devuelve
     pinta();
   });
   chips();
@@ -555,6 +585,7 @@ def pagina_app(historico, sello, caidos):
         '<button data-v="pendientes" class="on">Bandeja</button>'
         '<button data-v="leidos">Leídos</button>'
         '<button data-v="borrados">Descartados</button>'
+        '<button data-v="morralla" title="Lo que Claude Haiku considera que no aporta">Morralla</button>'
         '<a href="archivo.html">Archivo por días</a>'
         '</nav>'
     )

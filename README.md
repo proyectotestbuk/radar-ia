@@ -48,7 +48,7 @@ entero en el fichero, pero no se procesa ni se pinta. Subir la fecha = borrón y
 
 ## Categorías
 
-Las define Juan en `categorias.txt` (clave · emoji · nombre · palabras). El **script etiqueta al cosechar**,
+Desde el 20/11/2026 el tipo y el interés los pone **Claude Haiku** (`clasifica.py`, criterio en `prompt-clasifica.txt`, resultado en `clasificacion.tsv`); la morralla sale de la bandeja y queda en la pestaña **Morralla**. Las palabras clave de `categorias.txt` (clave · emoji · nombre · palabras). El **script etiqueta al cosechar**,
 no el navegador. Se aplica la primera regla que casa, así que **el orden del fichero es la prioridad**.
 Al cambiar una regla, el siguiente build **reetiqueta todo el histórico**.
 
