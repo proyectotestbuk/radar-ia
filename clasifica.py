@@ -18,6 +18,7 @@ RAIZ = Path(__file__).parent
 ITEMS, ESTADO, CLASIF = RAIZ / "docs/items.json", RAIZ / "docs/estado.tsv", RAIZ / "clasificacion.tsv"
 PROMPT = (RAIZ / "prompt-clasifica.txt").read_text(encoding="utf-8")
 LOTE = 80
+OFICIAL = re.compile(r"^(Anthropic|Claude)\b")   # fuentes oficiales: como mínimo interés medio
 CAB = "# Radar IA — clasificación por Claude Haiku.  url <TAB> tipo <TAB> interes (alto|medio|nada) <TAB> motivo\n"
 
 
@@ -42,6 +43,8 @@ def aplica(items, clasif):
         if c and len(c) >= 3:
             i["cat"], i["interes"] = c[1], c[2]
             i["motivo"] = c[3] if len(c) > 3 else ""
+            if i["interes"] == "nada" and OFICIAL.search(i["fuente"]):   # lo oficial de Anthropic nunca es morralla
+                i["interes"], i["cat"] = "medio", "claude"
             n += 1
     ITEMS.write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
     return n

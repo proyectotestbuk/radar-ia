@@ -1,28 +1,8 @@
 {
  "fuentes": [
   {
-   "id": "la-hora-maker-youtube",
-   "nombre": "La Hora Maker (YouTube)",
-   "idioma": "es"
-  },
-  {
    "id": "xataka-ia",
    "nombre": "Xataka — IA",
-   "idioma": "es"
-  },
-  {
-   "id": "genbeta",
-   "nombre": "Genbeta",
-   "idioma": "es"
-  },
-  {
-   "id": "microsiervos",
-   "nombre": "Microsiervos",
-   "idioma": "es"
-  },
-  {
-   "id": "ia-en-espa-ol",
-   "nombre": "IA en Español",
    "idioma": "es"
   },
   {
@@ -61,22 +41,28 @@
    "idioma": "en"
   },
   {
-   "id": "chinai-jeffrey-ding",
-   "nombre": "ChinAI (Jeffrey Ding)",
+   "id": "anthropic-youtube",
+   "nombre": "Anthropic (YouTube)",
    "idioma": "en"
   },
   {
-   "id": "the-gradient-stanford",
-   "nombre": "The Gradient (Stanford)",
+   "id": "claude-youtube",
+   "nombre": "Claude (YouTube)",
+   "idioma": "en"
+  },
+  {
+   "id": "claude-art-culos",
+   "nombre": "Claude — artículos",
+   "idioma": "en"
+  },
+  {
+   "id": "claude-code-versiones",
+   "nombre": "Claude Code — versiones",
    "idioma": "en"
   }
  ],
  "iconos": {
-  "la-hora-maker-youtube": "la-hora-maker-youtube.png",
   "xataka-ia": "xataka-ia.png",
-  "genbeta": "genbeta.png",
-  "microsiervos": "microsiervos.png",
-  "ia-en-espa-ol": "ia-en-espa-ol.png",
   "r-localllama": "",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
@@ -84,8 +70,10 @@
   "latent-space": "latent-space.png",
   "ahead-of-ai-raschka": "ahead-of-ai-raschka.png",
   "one-useful-thing-mollick": "one-useful-thing-mollick.png",
-  "chinai-jeffrey-ding": "chinai-jeffrey-ding.png",
-  "the-gradient-stanford": "the-gradient-stanford.png"
+  "anthropic-youtube": "anthropic-youtube.png",
+  "claude-youtube": "claude-youtube.png",
+  "claude-art-culos": "claude-art-culos.png",
+  "claude-code-versiones": "claude-code-versiones.png"
  },
  "cats": {
   "claude": {
@@ -135,5 +123,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "20/11/2026 a las 14:43"
+ "sello": "20/11/2026 a las 15:17"
 }

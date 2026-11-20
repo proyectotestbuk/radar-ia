@@ -118,6 +118,8 @@ def etiquetar(item, cats, clasif):
     c = clasif.get(item["url"])
     if c and any(x["id"] == c[0] for x in cats):
         item["cat"], item["interes"], item["motivo"] = c
+        if item["interes"] == "nada" and item["fuente"].startswith(("Anthropic", "Claude")):
+            item["interes"], item["cat"] = "medio", "claude"   # lo oficial de Anthropic nunca es morralla (Juan, 20/11/2026)
     else:
         item["cat"] = categorizar(item["titulo"], cats)
         item["interes"] = "?"          # aun sin pasar por el filtro
@@ -313,6 +315,8 @@ li:hover{border-color:var(--ac)}
 .meta{font-size:.72rem;color:var(--dim);margin-top:3px;display:flex;gap:7px;flex-wrap:wrap}
 .cat{flex:0 0 auto;font-size:1.15rem;cursor:default}
 .alto{color:var(--ac);font-weight:600}
+nav .n{font-size:.8em;opacity:.7;margin-left:2px}
+.fav{flex:0 0 auto;background:none;border:0;font-size:1.25rem;color:var(--ac);cursor:pointer;padding:4px}
 .x{flex:0 0 auto;background:none;border:none;color:var(--dim);font-size:1.1rem;cursor:pointer;
  padding:2px 5px;border-radius:5px;line-height:1}
 .x:hover{background:var(--linea);color:var(--ac)}
@@ -394,8 +398,8 @@ APP = """
     <button id="llave">🔑 Conectar con GitHub</button>
     <button id="salir" hidden>Desconectar</button>
   </div>
-  Titulares tal cual llegan de la fuente — nadie los resume ni los ordena por interés.
-  El estado (leído / descartado) vive en <code>docs/estado.tsv</code>, <b>dentro del repo</b>:
+  Titulares tal cual llegan de la fuente. Desde el 20/11/2026 Claude Haiku pone a cada uno su tipo, su interés y un motivo; la morralla sale de la bandeja y lo que interesa (★ interesa) va primero.
+  Abrir un titular lo pasa a Leídos; la estrella lo guarda en Guardados. El estado (leído / guardado / descartado) vive en <code>docs/estado.tsv</code>, <b>dentro del repo</b>:
   se sincroniza entre todos tus equipos. <span id="sello"></span>
 </footer>
 <script>
@@ -483,6 +487,7 @@ function base(){
   const vivo=i=>i.dia>=M.corte;                      // marca de corte de config.txt
   if(vista==='leidos')   return D.filter(i=>vivo(i)&&E[i.url]?.est==='leido');
   if(vista==='borrados') return D.filter(i=>vivo(i)&&E[i.url]?.est==='descartado');
+  if(vista==='guardados') return D.filter(i=>vivo(i)&&E[i.url]?.est==='guardado');
   if(vista==='morralla') return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes==='nada');
   const orden={alto:0,medio:1,'?':2};
   return D.filter(i=>vivo(i)&&!E[i.url]&&i.interes!=='nada')   // la bandeja: sin marca y sin morralla
@@ -494,7 +499,15 @@ function visibles(){
     && (q.length<2 || i.titulo.toLowerCase().includes(q)));
 }
 
+function cuentas(){   // número de titulares junto a cada pestaña
+  const v0=vista;
+  document.querySelectorAll('nav button[data-v]').forEach(b=>{
+    vista=b.dataset.v; b.innerHTML=`${b.dataset.t} <span class="n">${base().length}</span>`; });
+  vista=v0;
+}
+
 function pinta(){
+  cuentas();
   const items=visibles();
   document.getElementById('lista').innerHTML = items.length ? items.map(i=>{
     const c=M.cats[i.cat]||{emoji:'\\u2022',nombre:''};
@@ -502,6 +515,7 @@ function pinta(){
       <div class="txt"><a href="${esc(i.url)}" target="_blank" rel="noopener" class="abrir">${esc(i.titulo)}</a>
       <div class="meta">${i.interes==='alto'?'<span class="alto">\u2605 interesa</span>':''}<span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span>${i.motivo?`<span>${esc(i.motivo)}</span>`:''}</div></div>
       <span class="cat" title="${esc(c.nombre)}">${c.emoji}</span>
+      <button class="fav" title="${E[i.url]?.est==='guardado'?'Quitar de guardados':'Guardar como favorito'}">${E[i.url]?.est==='guardado'?'\\u2605':'\\u2606'}</button>
       <button class="x" title="${vista==='pendientes'||vista==='morralla'?'Descartar':'Devolver a la bandeja'}">
         ${vista==='pendientes'||vista==='morralla'?'\\u2715':'\\u21ba'}</button></li>`;
   }).join('') : `<p class="vacio">${vista==='pendientes'
@@ -513,6 +527,11 @@ function pinta(){
     if(vista!=='pendientes'&&vista!=='morralla') return;
     marca(e.target.closest('li').dataset.u,'leido');
     setTimeout(pinta,150);
+  });
+  document.querySelectorAll('.fav').forEach(b=>b.onclick=e=>{
+    const u=e.target.closest('li').dataset.u;
+    marca(u, E[u]?.est==='guardado' ? 'leido' : 'guardado');
+    pinta();
   });
   document.querySelectorAll('.x').forEach(b=>b.onclick=e=>{
     const u=e.target.closest('li').dataset.u;
@@ -582,10 +601,11 @@ Promise.all([fetch('items.json',{cache:'no-store'}).then(r=>r.json()),
 def pagina_app(historico, sello, caidos):
     nav = (
         '<nav>'
-        '<button data-v="pendientes" class="on">Bandeja</button>'
-        '<button data-v="leidos">Leídos</button>'
-        '<button data-v="borrados">Descartados</button>'
-        '<button data-v="morralla" title="Lo que Claude Haiku considera que no aporta">Morralla</button>'
+        '<button data-v="pendientes" data-t="Bandeja" class="on">Bandeja</button>'
+        '<button data-v="guardados" data-t="★ Guardados" title="Tus favoritos: pulsa la estrella de un titular">★ Guardados</button>'
+        '<button data-v="leidos" data-t="Leídos">Leídos</button>'
+        '<button data-v="borrados" data-t="Descartados">Descartados</button>'
+        '<button data-v="morralla" data-t="Morralla" title="Lo que Claude Haiku considera que no aporta">Morralla</button>'
         '<a href="archivo.html">Archivo por días</a>'
         '</nav>'
     )

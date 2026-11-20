@@ -9,11 +9,11 @@
 #   - Verificados el martes 14/07/2026 ejecutando build.py.
 
 # --- Español ---
-La Hora Maker (YouTube)  | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCUz9gFb4qX-FUZ03y2iEYBA |
+# QUITADA 20/11/2026 (sin vídeos desde marzo de 2026): La Hora Maker (YouTube)  | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCUz9gFb4qX-FUZ03y2iEYBA |
 Xataka — IA              | es | https://www.xataka.com/tag/inteligencia-artificial/rss2.xml |
-Genbeta                  | es | https://feeds.weblogssl.com/genbeta | ia,inteligencia artificial,llm,chatgpt,claude,gemini,ollama,modelo
-Microsiervos             | es | https://www.microsiervos.com/index.xml | ia,inteligencia artificial,llm,chatgpt,claude,modelo
-IA en Español            | es | https://iaenespanol.substack.com/feed |
+# QUITADA 20/11/2026 (1 de interés en 109): Genbeta                  | es | https://feeds.weblogssl.com/genbeta | ia,inteligencia artificial,llm,chatgpt,claude,gemini,ollama,modelo
+# QUITADA 20/11/2026 (0 de interés en 170): Microsiervos             | es | https://www.microsiervos.com/index.xml | ia,inteligencia artificial,llm,chatgpt,claude,modelo
+# QUITADA 20/11/2026 (0 de interés en 11): IA en Español            | es | https://iaenespanol.substack.com/feed |
 
 # --- Inglés (stack de análisis técnico) ---
 r/LocalLLaMA             | en | https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day |
@@ -23,8 +23,14 @@ Import AI (Jack Clark)   | en | https://importai.substack.com/feed |
 Latent Space             | en | https://latent.space/feed |
 Ahead of AI (Raschka)    | en | https://sebastianraschka.substack.com/feed |
 One Useful Thing (Mollick) | en | https://oneusefulthing.substack.com/feed |
-ChinAI (Jeffrey Ding)    | en | https://chinai.substack.com/feed |
-The Gradient (Stanford)  | en | https://thegradient.pub/feed/ |
+# QUITADA 20/11/2026 (0 de interés): ChinAI (Jeffrey Ding)    | en | https://chinai.substack.com/feed |
+# QUITADA 20/11/2026 (0 titulares desde julio): The Gradient (Stanford)  | en | https://thegradient.pub/feed/ |
 
 # --- Descartadas (no sirven) ---
 # IA en Español (newsletter.iatoday.ai/feed): devuelve HTML, no RSS. Sin feed utilizable (14/07).
+
+# --- Canales oficiales de Anthropic y Claude (añadidos el 20/11/2026 a petición de Juan)
+Anthropic (YouTube)      | en | https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA |
+Claude (YouTube)         | en | https://www.youtube.com/feeds/videos.xml?channel_id=UCV03SRZXJEz-hchIAogeJOg |
+Claude — artículos       | en | https://claude.com/resources/articles/rss.xml |
+Claude Code — versiones  | en | https://github.com/anthropics/claude-code/releases.atom |
