@@ -1,5 +1,27 @@
 [
  {
+  "titulo": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+  "url": "https://www.anthropic.com/news/ipo-close",
+  "fecha": "2026-11-20T00:00:00+00:00",
+  "fuente": "Anthropic — noticias",
+  "fuente_id": "anthropic-noticias",
+  "idioma": "en",
+  "cat": "claude",
+  "dia": "2026-11-20",
+  "interes": "?"
+ },
+ {
+  "titulo": "#106 Huang se fue, Anthropic salió de gira y ChatGPT sacó la cartera",
+  "url": "https://podcasters.spotify.com/pod/show/jos-carlos-cortizo-prez/episodes/106-Huang-se-fue--Anthropic-sali-de-gira-y-ChatGPT-sac-la-cartera-e3sgqm7",
+  "fecha": "2026-11-17T05:00:00+00:00",
+  "fuente": "La Tertul-IA (pódcast)",
+  "fuente_id": "la-tertul-ia-p-dcast",
+  "idioma": "es",
+  "cat": "claude",
+  "dia": "2026-11-20",
+  "interes": "?"
+ },
+ {
   "titulo": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
   "fecha": "2026-11-20T00:00:00+00:00",
