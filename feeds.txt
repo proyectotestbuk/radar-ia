@@ -33,4 +33,29 @@ One Useful Thing (Mollick) | en | https://oneusefulthing.substack.com/feed |
 Anthropic (YouTube)      | en | https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA |
 Claude (YouTube)         | en | https://www.youtube.com/feeds/videos.xml?channel_id=UCV03SRZXJEz-hchIAogeJOg |
 Claude — artículos       | en | https://claude.com/resources/articles/rss.xml |
-Claude Code — versiones  | en | https://github.com/anthropics/claude-code/releases.atom |
+Claude Code — versiones  | en | https://code.claude.com/docs/en/changelog/rss.xml |
+Claude — blog técnico     | en | https://claude.dev/rss.xml |
+Anthropic — ingeniería   | en | https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml |
+Anthropic — noticias     | en | https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml |
+
+# --- Fuentes en español propuestas por Gemini 3 Flash, Perplexity, Grok 4.5 y Qwen 3.7, comprobadas con curl el 20/11/2026
+monos estocásticos       | es | https://cuonda.com/monos-estocasticos/feed |
+Mordiendo Bytes          | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCbfFyE0PURPvtBMJPnTCm5w |
+Alpaca Tech              | es | https://www.youtube.com/feeds/videos.xml?channel_id=UC_o4yFRlKvFF4on_8TAi6tQ |
+El Rincón de Isma        | es | https://www.youtube.com/feeds/videos.xml?channel_id=UC-IxcQo3RGV6pAsmYpSKPEw |
+Benjamín Cordero         | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCpq8lHHliCS3oBt-gfL0bKQ |
+midudev                  | es | https://www.youtube.com/feeds/videos.xml?channel_id=UC8LeXCWOalN8SxlrPcG-PaQ | ia,inteligencia artificial,llm,claude,ollama,modelo,agente,mcp,cursor,codex,gpt,gemini,prompt
+MoureDev                 | es | https://www.youtube.com/feeds/videos.xml?channel_id=UCxPD7bsocoAMq8Dj18kmGyQ | ia,inteligencia artificial,llm,claude,ollama,modelo,agente,mcp,cursor,codex,gpt,gemini,prompt
+Codemancers (pódcast)    | es | https://feeds.ivoox.com/feed_fg_f12421146_filtro_1.xml |
+Tokenizados (pódcast)    | es | https://tokenizadospodcast.com/podcast.xml |
+La Tertul-IA (pódcast)   | es | https://anchor.fm/s/107b28204/podcast/rss |
+xHUB.AI (pódcast)        | es | https://rss.buzzsprout.com/1806055.rss |
+Inteligencia Artificial (Pocho Costa) | es | https://pochocosta.com/feed/podcast/inteligencia-artificial/ |
+Resumen IA de la mañana  | es | https://media.rss.com/resumen-ia-de-la-manana/feed.xml |
+IA al día (pódcast)      | es | https://anchor.fm/s/f3d02ef8/podcast/rss |
+Web Reactiva             | es | https://www.danielprimo.io/podcast/feed.xml | ia,inteligencia artificial,llm,claude,ollama,modelo,agente,mcp,cursor,codex,gpt,gemini,prompt
+atareao con Linux        | es | https://www.atareao.es/feed/ | ia,inteligencia artificial,llm,claude,ollama,modelo,agente,mcp,cursor,codex,gpt,gemini,prompt
+
+# --- En inglés, solo los dos canales centrados en Claude Code y agentes
+IndyDevDan               | en | https://www.youtube.com/feeds/videos.xml?channel_id=UC_x36zCEGilGpB1m-V4gmjg |
+Cole Medin               | en | https://www.youtube.com/feeds/videos.xml?channel_id=UCMwVTLZIRRUyyVrkjDpn4pA |

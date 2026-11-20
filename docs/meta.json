@@ -59,6 +59,111 @@
    "id": "claude-code-versiones",
    "nombre": "Claude Code — versiones",
    "idioma": "en"
+  },
+  {
+   "id": "claude-blog-t-cnico",
+   "nombre": "Claude — blog técnico",
+   "idioma": "en"
+  },
+  {
+   "id": "anthropic-ingenier-a",
+   "nombre": "Anthropic — ingeniería",
+   "idioma": "en"
+  },
+  {
+   "id": "anthropic-noticias",
+   "nombre": "Anthropic — noticias",
+   "idioma": "en"
+  },
+  {
+   "id": "monos-estoc-sticos",
+   "nombre": "monos estocásticos",
+   "idioma": "es"
+  },
+  {
+   "id": "mordiendo-bytes",
+   "nombre": "Mordiendo Bytes",
+   "idioma": "es"
+  },
+  {
+   "id": "alpaca-tech",
+   "nombre": "Alpaca Tech",
+   "idioma": "es"
+  },
+  {
+   "id": "el-rinc-n-de-isma",
+   "nombre": "El Rincón de Isma",
+   "idioma": "es"
+  },
+  {
+   "id": "benjam-n-cordero",
+   "nombre": "Benjamín Cordero",
+   "idioma": "es"
+  },
+  {
+   "id": "midudev",
+   "nombre": "midudev",
+   "idioma": "es"
+  },
+  {
+   "id": "mouredev",
+   "nombre": "MoureDev",
+   "idioma": "es"
+  },
+  {
+   "id": "codemancers-p-dcast",
+   "nombre": "Codemancers (pódcast)",
+   "idioma": "es"
+  },
+  {
+   "id": "tokenizados-p-dcast",
+   "nombre": "Tokenizados (pódcast)",
+   "idioma": "es"
+  },
+  {
+   "id": "la-tertul-ia-p-dcast",
+   "nombre": "La Tertul-IA (pódcast)",
+   "idioma": "es"
+  },
+  {
+   "id": "xhub-ai-p-dcast",
+   "nombre": "xHUB.AI (pódcast)",
+   "idioma": "es"
+  },
+  {
+   "id": "inteligencia-artificial-pocho-costa",
+   "nombre": "Inteligencia Artificial (Pocho Costa)",
+   "idioma": "es"
+  },
+  {
+   "id": "resumen-ia-de-la-ma-ana",
+   "nombre": "Resumen IA de la mañana",
+   "idioma": "es"
+  },
+  {
+   "id": "ia-al-d-a-p-dcast",
+   "nombre": "IA al día (pódcast)",
+   "idioma": "es"
+  },
+  {
+   "id": "web-reactiva",
+   "nombre": "Web Reactiva",
+   "idioma": "es"
+  },
+  {
+   "id": "atareao-con-linux",
+   "nombre": "atareao con Linux",
+   "idioma": "es"
+  },
+  {
+   "id": "indydevdan",
+   "nombre": "IndyDevDan",
+   "idioma": "en"
+  },
+  {
+   "id": "cole-medin",
+   "nombre": "Cole Medin",
+   "idioma": "en"
   }
  ],
  "iconos": {
@@ -73,7 +178,28 @@
   "anthropic-youtube": "anthropic-youtube.png",
   "claude-youtube": "claude-youtube.png",
   "claude-art-culos": "claude-art-culos.png",
-  "claude-code-versiones": "claude-code-versiones.png"
+  "claude-code-versiones": "claude-code-versiones.png",
+  "claude-blog-t-cnico": "claude-blog-t-cnico.png",
+  "anthropic-ingenier-a": "anthropic-ingenier-a.png",
+  "anthropic-noticias": "anthropic-noticias.png",
+  "monos-estoc-sticos": "monos-estoc-sticos.png",
+  "mordiendo-bytes": "mordiendo-bytes.png",
+  "alpaca-tech": "alpaca-tech.png",
+  "el-rinc-n-de-isma": "el-rinc-n-de-isma.png",
+  "benjam-n-cordero": "benjam-n-cordero.png",
+  "midudev": "midudev.png",
+  "mouredev": "mouredev.png",
+  "codemancers-p-dcast": "",
+  "tokenizados-p-dcast": "tokenizados-p-dcast.png",
+  "la-tertul-ia-p-dcast": "la-tertul-ia-p-dcast.png",
+  "xhub-ai-p-dcast": "xhub-ai-p-dcast.png",
+  "inteligencia-artificial-pocho-costa": "inteligencia-artificial-pocho-costa.png",
+  "resumen-ia-de-la-ma-ana": "resumen-ia-de-la-ma-ana.png",
+  "ia-al-d-a-p-dcast": "ia-al-d-a-p-dcast.png",
+  "web-reactiva": "web-reactiva.png",
+  "atareao-con-linux": "atareao-con-linux.png",
+  "indydevdan": "indydevdan.png",
+  "cole-medin": "cole-medin.png"
  },
  "cats": {
   "claude": {
@@ -123,5 +249,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "20/11/2026 a las 15:17"
+ "sello": "20/11/2026 a las 15:38"
 }
