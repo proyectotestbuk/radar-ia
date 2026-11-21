@@ -8,7 +8,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-20",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "Anthropic cierra su salida a bolsa; finanzas, no herramientas"
  },
  {
   "titulo": "#106 Huang se fue, Anthropic salió de gira y ChatGPT sacó la cartera",
@@ -17,9 +18,10 @@
   "fuente": "La Tertul-IA (pódcast)",
   "fuente_id": "la-tertul-ia-p-dcast",
   "idioma": "es",
-  "cat": "claude",
+  "cat": "negocio",
   "dia": "2026-11-20",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Pódcast de noticias, cartera y gira; sin utilidad"
  },
  {
   "titulo": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -28,9 +30,10 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "modelos",
+  "cat": "agentes",
   "dia": "2026-11-20",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "Adaptadores de harness para mejorar modelos y coste"
  },
  {
   "titulo": "2.1.329",
