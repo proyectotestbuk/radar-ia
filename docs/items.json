@@ -1,5 +1,126 @@
 [
  {
+  "titulo": "Sin cabeza y con 500 millones más: el robot de Genesis AI con el que Europa quiere dar un puñetazo en la robótica",
+  "url": "https://www.xataka.com/robotica-e-ia/cabeza-500-millones-robot-genesis-ai-que-europa-quiere-dar-punetazo-robotica",
+  "fecha": "2026-11-21T11:00:25+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "Quoting Ravi Vakil",
+  "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+  "fecha": "2026-11-20T19:21:49+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "Quoting Levent Alpöge",
+  "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+  "fecha": "2026-11-20T16:30:48+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "fecha": "2026-11-20T00:00:00+00:00",
+  "fuente": "Hugging Face — Blog",
+  "fuente_id": "hugging-face-blog",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "[AINews] Riemann Hypothesis proved...twice independently",
+  "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+  "fecha": "2026-11-21T05:02:13+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+  "url": "https://latent.space/p/formal-verification/",
+  "fecha": "2026-11-20T21:18:41+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "2.1.330",
+  "url": "https://code.claude.com/docs/en/changelog#2-1-330",
+  "fecha": "2026-11-20T22:38:51+00:00",
+  "fuente": "Claude Code — versiones",
+  "fuente_id": "claude-code-versiones",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "Resumen IA de la mañana – 20 de noviembre de 2026",
+  "url": "https://rss.com/podcasts/resumen-ia-de-la-manana/3339053",
+  "fecha": "2026-11-20T16:07:40+00:00",
+  "fuente": "Resumen IA de la mañana",
+  "fuente_id": "resumen-ia-de-la-ma-ana",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "IA al día · La semana que se cayó todo",
+  "url": "https://manugijon.com/podcast/la-semana-que-se-cayo-todo/",
+  "fecha": "2026-11-20T18:41:25+00:00",
+  "fuente": "IA al día (pódcast)",
+  "fuente_id": "ia-al-d-a-p-dcast",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "Watch My AI Software Factory Ship Your Ideas LIVE",
+  "url": "https://www.youtube.com/watch?v=IsWEWB-Ownk",
+  "fecha": "2026-11-20T23:08:43+00:00",
+  "fuente": "Cole Medin",
+  "fuente_id": "cole-medin",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
+  "titulo": "The Most Dangerous AI Agent Is an Overly Helpful One (It's Not Why You Think)",
+  "url": "https://www.youtube.com/watch?v=k87Iqft91j8",
+  "fecha": "2026-11-20T15:14:53+00:00",
+  "fuente": "Cole Medin",
+  "fuente_id": "cole-medin",
+  "idioma": "en",
+  "cat": "agentes",
+  "dia": "2026-11-21",
+  "interes": "?"
+ },
+ {
   "titulo": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
   "url": "https://www.anthropic.com/news/ipo-close",
   "fecha": "2026-11-20T00:00:00+00:00",

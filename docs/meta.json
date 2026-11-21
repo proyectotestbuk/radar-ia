@@ -171,10 +171,10 @@
   "r-localllama": "",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
-  "import-ai-jack-clark": "",
+  "import-ai-jack-clark": "import-ai-jack-clark.png",
   "latent-space": "latent-space.png",
-  "ahead-of-ai-raschka": "",
-  "one-useful-thing-mollick": "",
+  "ahead-of-ai-raschka": "ahead-of-ai-raschka.png",
+  "one-useful-thing-mollick": "one-useful-thing-mollick.png",
   "anthropic-youtube": "anthropic-youtube.png",
   "claude-youtube": "claude-youtube.png",
   "claude-art-culos": "claude-art-culos.png",
@@ -193,7 +193,7 @@
   "tokenizados-p-dcast": "tokenizados-p-dcast.png",
   "la-tertul-ia-p-dcast": "la-tertul-ia-p-dcast.png",
   "xhub-ai-p-dcast": "xhub-ai-p-dcast.png",
-  "inteligencia-artificial-pocho-costa": "",
+  "inteligencia-artificial-pocho-costa": "inteligencia-artificial-pocho-costa.png",
   "resumen-ia-de-la-ma-ana": "resumen-ia-de-la-ma-ana.png",
   "ia-al-d-a-p-dcast": "ia-al-d-a-p-dcast.png",
   "web-reactiva": "web-reactiva.png",
@@ -249,5 +249,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "20/11/2026 a las 15:43"
+ "sello": "21/11/2026 a las 15:08"
 }
