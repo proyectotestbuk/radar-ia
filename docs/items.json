@@ -8,7 +8,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "financiación de robótica, sin efecto práctico"
  },
  {
   "titulo": "Quoting Ravi Vakil",
@@ -19,7 +20,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "cita matemática sin contexto útil"
  },
  {
   "titulo": "Quoting Levent Alpöge",
@@ -30,7 +32,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "cita matemática sin contexto útil"
  },
  {
   "titulo": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
@@ -39,9 +42,10 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "local",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "modelo abierto pensado para uso local"
  },
  {
   "titulo": "[AINews] Riemann Hypothesis proved...twice independently",
@@ -52,7 +56,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "noticia matemática sin utilidad práctica"
  },
  {
   "titulo": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
@@ -61,9 +66,10 @@
   "fuente": "Latent Space",
   "fuente_id": "latent-space",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "desarrollo",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "verificación formal contra código generado por IA"
  },
  {
   "titulo": "2.1.330",
@@ -72,9 +78,10 @@
   "fuente": "Claude Code — versiones",
   "fuente_id": "claude-code-versiones",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "claude",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "nueva versión de Claude Code, sin detalles"
  },
  {
   "titulo": "Resumen IA de la mañana – 20 de noviembre de 2026",
@@ -85,7 +92,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen genérico sin contenido concreto"
  },
  {
   "titulo": "IA al día · La semana que se cayó todo",
@@ -96,7 +104,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "pódcast genérico sin detalle concreto"
  },
  {
   "titulo": "Watch My AI Software Factory Ship Your Ideas LIVE",
@@ -105,9 +114,10 @@
   "fuente": "Cole Medin",
   "fuente_id": "cole-medin",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "desarrollo",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "demo promocional de fábrica de software con agentes"
  },
  {
   "titulo": "The Most Dangerous AI Agent Is an Overly Helpful One (It's Not Why You Think)",
@@ -118,7 +128,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-21",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "seguridad de agentes, enfoque divulgativo"
  },
  {
   "titulo": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
