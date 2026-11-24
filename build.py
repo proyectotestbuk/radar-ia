@@ -281,60 +281,115 @@ def fusionar(cosecha, hoy, cats):
 # ---------------------------------------------------------------- html
 
 CSS = """
-:root{--bg:#fbfaf8;--fg:#1a1a19;--dim:#6b6a66;--linea:#e5e2dc;--card:#fff;--ac:#b4530a;--ok:#2f7d55}
-@media(prefers-color-scheme:dark){:root{--bg:#16161a;--fg:#e8e6e1;--dim:#918f89;--linea:#2c2c33;--card:#1d1d22;--ac:#e8945a;--ok:#6ac292}}
+/* Radar IA — rediseño del 24/11/2026: barra lateral con filtros, fondo claro, todo el ancho, 18 px. */
+:root{--bg:#f5f7f9;--panel:#ffffff;--fg:#16212b;--dim:#5a6672;--linea:#dbe1e7;
+ --ac:#0a6b86;--ac-suave:#e6f2f5;--estrella:#b57400;--lat:300px}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"Segoe UI",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-.wrap{max-width:900px;margin:0 auto;padding:24px 18px 80px}
-header{border-bottom:2px solid var(--fg);padding-bottom:12px;margin-bottom:18px}
-h1{font-size:1.45rem;margin:0;letter-spacing:-.02em}
-h1 span{color:var(--ac)}
-.sub{color:var(--dim);font-size:.84rem;margin-top:3px}
-nav{margin-top:12px;display:flex;gap:6px;flex-wrap:wrap}
-nav button,nav a{background:none;border:1px solid var(--linea);color:var(--fg);font:inherit;font-size:.82rem;
- padding:5px 12px;border-radius:20px;cursor:pointer;text-decoration:none}
-nav button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-nav button:hover,nav a:hover{border-color:var(--ac)}
-.chips{display:flex;gap:6px;flex-wrap:wrap;margin:14px 0}
-.chip{display:flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--linea);
- border-radius:20px;padding:4px 11px;font-size:.78rem;cursor:pointer;user-select:none}
-.chip:hover{border-color:var(--ac)}
-.chip.off{opacity:.35}
-.chip img{width:15px;height:15px;border-radius:3px}
-.chip .n{color:var(--dim);font-variant-numeric:tabular-nums}
-ul{list-style:none;margin:0;padding:0}
-li{display:flex;align-items:center;gap:12px;background:var(--card);border:1px solid var(--linea);
- border-radius:10px;padding:11px 13px;margin-bottom:7px}
-li:hover{border-color:var(--ac)}
-.ico{width:26px;height:26px;flex:0 0 26px;border-radius:5px;object-fit:contain;background:var(--bg)}
-.ini{width:26px;height:26px;flex:0 0 26px;border-radius:5px;display:grid;place-items:center;
- background:var(--linea);font-size:.72rem;font-weight:700;color:var(--dim)}
-.txt{flex:1;min-width:0}
-.txt a{color:var(--fg);text-decoration:none;font-weight:500;display:block}
-.txt a:hover{color:var(--ac)}
-.meta{font-size:.72rem;color:var(--dim);margin-top:3px;display:flex;gap:7px;flex-wrap:wrap}
-.cat{flex:0 0 auto;font-size:1.15rem;cursor:default}
-.alto{color:var(--ac);font-weight:600}
-nav .n{font-size:.8em;opacity:.7;margin-left:2px}
-.fav{flex:0 0 auto;background:none;border:0;font-size:1.25rem;color:var(--ac);cursor:pointer;padding:4px}
-.x{flex:0 0 auto;background:none;border:none;color:var(--dim);font-size:1.1rem;cursor:pointer;
- padding:2px 5px;border-radius:5px;line-height:1}
-.x:hover{background:var(--linea);color:var(--ac)}
-.vacio{color:var(--dim);font-style:italic;padding:34px 0;text-align:center}
-input[type=search]{width:100%;padding:11px 13px;font-size:1rem;border:1px solid var(--linea);
- border-radius:9px;background:var(--card);color:var(--fg);margin-bottom:10px}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:18px/1.5 "Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,sans-serif;
+ -webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+h1{font-size:1.15rem;margin:0;font-weight:700;letter-spacing:-.01em;white-space:nowrap}
+h1 .ping{display:inline-block;width:.62em;height:.62em;border-radius:50%;margin-right:.45em;vertical-align:.05em;
+ background:radial-gradient(circle,var(--ac) 32%,transparent 34%),radial-gradient(circle,transparent 58%,var(--ac) 60%,var(--ac) 66%,transparent 68%)}
+.sub{color:var(--dim);font-size:.85rem;margin:0}
+
+/* ---------- la app: cabecera fina + lateral fijo + lista */
+.top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:18px;height:52px;
+ padding:0 24px;background:var(--panel);border-bottom:1px solid var(--linea)}
+.top .sub{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top .sello{flex:0 0 auto;color:var(--dim);font-size:.8rem;white-space:nowrap}
+.marco{display:grid;grid-template-columns:var(--lat) minmax(0,1fr);min-height:calc(100vh - 52px)}
+#lateral{position:sticky;top:52px;align-self:start;height:calc(100vh - 52px);overflow-y:auto;
+ background:var(--panel);border-right:1px solid var(--linea);padding:16px 14px 28px;font-size:.86rem}
+#lateral h2{font-size:.86rem;font-weight:700;margin:22px 0 6px;color:var(--fg)}
+.cab-filtro{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.cab-filtro h2{margin:0}
+.cab-filtro button{background:none;border:0;color:var(--ac);font-size:.78rem;cursor:pointer;padding:2px 4px;text-decoration:underline;text-underline-offset:2px}
+.seccion{margin-top:20px}
+input[type=search]{width:100%;padding:9px 11px;font-size:.95rem;border:1px solid var(--linea);border-radius:6px;
+ background:var(--bg);color:var(--fg)}
 input[type=search]:focus{outline:2px solid var(--ac);border-color:transparent}
-footer{margin-top:44px;padding-top:14px;border-top:1px solid var(--linea);color:var(--dim);font-size:.76rem}
-footer button{background:none;border:1px solid var(--linea);color:var(--dim);font:inherit;font-size:.74rem;
- padding:3px 9px;border-radius:6px;cursor:pointer;margin-right:5px}
-footer button:hover{border-color:var(--ac);color:var(--ac)}
-h2{font-size:.76rem;text-transform:uppercase;letter-spacing:.09em;color:var(--dim);margin:26px 0 9px;font-weight:600}
+nav.vistas{display:flex;flex-direction:column;margin-top:14px}
+nav.vistas button,nav.vistas a{display:flex;justify-content:space-between;align-items:center;background:none;border:0;
+ border-left:3px solid transparent;text-align:left;padding:6px 10px;font-size:.92rem;cursor:pointer;text-decoration:none;color:var(--fg)}
+nav.vistas button:hover,nav.vistas a:hover{background:var(--bg)}
+nav.vistas button.on{border-left-color:var(--ac);background:var(--ac-suave);font-weight:600}
+nav.vistas .n,.filtros .n{color:var(--dim);font-variant-numeric:tabular-nums;font-weight:400}
+ul.filtros{list-style:none;margin:0;padding:0}
+ul.filtros li{display:flex;align-items:center;gap:6px;padding:2px 0;margin:0;border:0;background:none}
+ul.filtros label{flex:1;min-width:0;display:flex;align-items:center;gap:7px;cursor:pointer;padding:3px 4px;border-radius:4px}
+ul.filtros label:hover{background:var(--bg)}
+ul.filtros input{accent-color:var(--ac);margin:0;flex:0 0 auto}
+ul.filtros img{width:16px;height:16px;border-radius:3px;flex:0 0 16px}
+ul.filtros .nom{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ul.filtros li.cero .nom{color:var(--dim)}
+ul.filtros .solo{visibility:hidden;background:none;border:0;color:var(--ac);font-size:.74rem;cursor:pointer;padding:2px 4px}
+ul.filtros li:hover .solo,ul.filtros .solo:focus{visibility:visible}
+.acciones{margin-top:26px;padding-top:14px;border-top:1px solid var(--linea);display:flex;flex-direction:column;gap:6px}
+.acciones button,.acciones a{background:none;border:1px solid var(--linea);border-radius:6px;padding:6px 10px;
+ font-size:.82rem;cursor:pointer;text-align:left;text-decoration:none;color:var(--fg)}
+.acciones button:hover,.acciones a:hover{border-color:var(--ac);color:var(--ac)}
+main{min-width:0;padding:6px 28px 60px}
+.resumen{color:var(--dim);font-size:.85rem;margin:12px 0 4px}
+
+/* ---------- filas de titulares (app y páginas fijas) */
+ul{list-style:none;margin:0;padding:0}
+li{display:flex;align-items:center;gap:14px;padding:12px 10px;border-bottom:1px solid var(--linea);border-left:4px solid transparent}
+li:hover{background:var(--panel)}
+li.alto{background:var(--ac-suave);border-left-color:var(--ac)}
+.ico{width:26px;height:26px;flex:0 0 26px;border-radius:5px;object-fit:contain;background:var(--panel)}
+.ini{width:26px;height:26px;flex:0 0 26px;border-radius:5px;display:grid;place-items:center;
+ background:var(--linea);font-size:.7rem;font-weight:700;color:var(--dim)}
+.txt{flex:1;min-width:0}
+.txt a{color:var(--fg);text-decoration:none;font-weight:500;display:block;max-width:78ch}
+.txt a:hover{color:var(--ac);text-decoration:underline;text-underline-offset:3px}
+.txt a:visited{color:#4b5560}
+.meta{font-size:.78rem;color:var(--dim);margin-top:3px;display:flex;gap:4px 12px;flex-wrap:wrap}
+.alto-et{color:var(--ac);font-weight:600}
+.cat{flex:0 0 auto;font-size:1.1rem;cursor:default}
+.fav{flex:0 0 auto;background:none;border:0;font-size:1.3rem;color:var(--estrella);cursor:pointer;padding:4px;line-height:1}
+.x{flex:0 0 auto;background:none;border:0;color:var(--dim);font-size:1.05rem;cursor:pointer;padding:4px 7px;border-radius:5px;line-height:1}
+.x:hover{background:var(--linea);color:var(--fg)}
+.vacio{color:var(--dim);padding:40px 0;text-align:center}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--linea);color:var(--dim);font-size:.8rem;max-width:90ch}
+code{font-size:.9em}
+
+/* ---------- páginas fijas (archivo y días) */
+.wrap{max-width:1100px;margin:0 auto;padding:20px 24px 70px}
+.wrap header{display:flex;align-items:center;gap:18px;flex-wrap:wrap;border-bottom:1px solid var(--linea);padding-bottom:12px;margin-bottom:8px}
+.wrap header nav{display:flex;gap:14px}
+.wrap header nav a{color:var(--ac);font-size:.9rem}
+.wrap h2{font-size:.95rem;margin:20px 0 6px}
+
+/* ---------- móvil: el lateral se pliega */
+.solo-movil{display:none}
+#velo{display:none}
+@media (max-width:860px){
+ body{font-size:17px}
+ .top{padding:0 14px;gap:10px}
+ .top .sello{display:none}
+ .solo-movil{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--linea);
+  border-radius:6px;padding:5px 11px;font-size:.88rem;cursor:pointer}
+ .marco{display:block}
+ #lateral{position:fixed;top:0;left:0;bottom:0;height:auto;width:min(86vw,330px);z-index:40;
+  transform:translateX(-102%);transition:transform .2s ease;box-shadow:0 0 30px rgba(10,30,45,.18)}
+ body.abierto #lateral{transform:none}
+ body.abierto #velo{display:block;position:fixed;inset:0;background:rgba(10,30,45,.35);z-index:30}
+ main{padding:4px 12px 50px}
+ li{gap:10px;padding:11px 6px}
+ .cat{display:none}
+ ul.filtros .solo{visibility:visible}
+}
+@media (prefers-reduced-motion:reduce){#lateral{transition:none}}
 """
 
 CAB = """<!doctype html><html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{titulo}</title><style>{css}</style></head><body><div class="wrap">
-<header><h1>Radar <span>IA</span></h1><div class="sub">{sub}</div>{nav}</header>
+<header><h1><span class="ping" aria-hidden="true"></span>Radar IA</h1><p class="sub">{sub}</p>{nav}</header>
 """
 
 
@@ -388,20 +443,30 @@ def pagina_archivo(historico, sello):
 
 
 APP = """
-<div class="chips" id="chipsF"></div>
-<div class="chips" id="chipsC"></div>
-<input type="search" id="q" placeholder="Filtrar por texto: ollama, pgvector, licencia...">
-<ul id="lista"></ul>
-<footer>
-  <div style="margin-bottom:8px">
-    <button id="todo">Marcar todo como leído</button>
+  <div class="seccion cab-filtro"><h2>Fuentes</h2>
+    <span><button id="fTodas">todas</button><button id="fNinguna">ninguna</button></span></div>
+  <ul class="filtros" id="chipsF"></ul>
+  <div class="seccion cab-filtro"><h2>Temas</h2>
+    <span><button id="cTodas">todos</button><button id="cNinguna">ninguno</button></span></div>
+  <ul class="filtros" id="chipsC"></ul>
+  <div class="acciones">
+    <button id="todo">Marcar la bandeja como leída</button>
     <button id="llave">🔑 Conectar con GitHub</button>
     <button id="salir" hidden>Desconectar</button>
+    <a href="archivo.html">Archivo por días</a>
   </div>
+</aside>
+<main>
+<p class="resumen" id="resumen"></p>
+<ul id="lista"></ul>
+<footer>
   Titulares tal cual llegan de la fuente. Desde el 20/11/2026 Claude Haiku pone a cada uno su tipo, su interés y un motivo; la morralla sale de la bandeja y lo que interesa (★ interesa) va primero.
   Abrir un titular lo pasa a Leídos; la estrella lo guarda en Guardados. El estado (leído / guardado / descartado) vive en <code>docs/estado.tsv</code>, <b>dentro del repo</b>:
-  se sincroniza entre todos tus equipos. <span id="sello"></span>
+  se sincroniza entre todos tus equipos. Los filtros se recuerdan en este navegador.
 </footer>
+</main>
+</div>
+<div id="velo"></div>
 <script>
 // ---------------------------------------------------------------- estado
 // El repo ES la base de datos. estado.tsv es la tabla:  url <TAB> leido|descartado <TAB> fecha
@@ -511,9 +576,9 @@ function pinta(){
   const items=visibles();
   document.getElementById('lista').innerHTML = items.length ? items.map(i=>{
     const c=M.cats[i.cat]||{emoji:'\\u2022',nombre:''};
-    return `<li data-u="${esc(i.url)}">${icono(i)}
+    return `<li data-u="${esc(i.url)}"${i.interes==='alto'?' class="alto"':''}>${icono(i)}
       <div class="txt"><a href="${esc(i.url)}" target="_blank" rel="noopener" class="abrir">${esc(i.titulo)}</a>
-      <div class="meta">${i.interes==='alto'?'<span class="alto">\u2605 interesa</span>':''}<span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span>${i.motivo?`<span>${esc(i.motivo)}</span>`:''}</div></div>
+      <div class="meta">${i.interes==='alto'?'<span class="alto-et">\u2605 interesa</span>':''}<span>${esc(i.fuente)}</span><span>${bandera(i.idioma)}</span><span>${i.dia}</span>${i.motivo?`<span>${esc(i.motivo)}</span>`:''}</div></div>
       <span class="cat" title="${esc(c.nombre)}">${c.emoji}</span>
       <button class="fav" title="${E[i.url]?.est==='guardado'?'Quitar de guardados':'Guardar como favorito'}">${E[i.url]?.est==='guardado'?'\\u2605':'\\u2606'}</button>
       <button class="x" title="${vista==='pendientes'||vista==='morralla'?'Descartar':'Devolver a la bandeja'}">
@@ -541,21 +606,52 @@ function pinta(){
   chips();
 }
 
+// Filtros del lateral: casilla = quitar o poner; «solo» = dejar solo esa. Se recuerdan en este navegador.
+const FK='radarIA.filtros';
+function guardaFiltros(){ try{ localStorage.setItem(FK,JSON.stringify({f:[...fOff],c:[...cOff]})); }catch(e){} }
+function leeFiltros(){ try{ const o=JSON.parse(localStorage.getItem(FK)||'{}');
+  fOff=new Set(o.f||[]); cOff=new Set(o.c||[]); }catch(e){} }
+
+// Fuentes = las de feeds.txt más las retiradas que aún tienen titulares en el histórico.
+let FU=null;
+function fuentes(){
+  if(FU) return FU;
+  const ya=new Set(M.fuentes.map(f=>f.id)), extra={};
+  D.forEach(i=>{ if(!ya.has(i.fuente_id)) extra[i.fuente_id]=i.fuente; });
+  return FU=[...M.fuentes, ...Object.entries(extra).map(([id,nombre])=>({id,nombre:nombre+' (retirada)'}))];
+}
 function chips(){
   const b=base(), cuenta=(k,v)=>b.filter(i=>i[k]===v).length;
-  document.getElementById('chipsF').innerHTML=M.fuentes.map(f=>{
-    const ic=M.iconos[f.id]?`<img src="iconos/${M.iconos[f.id]}" alt="">`:'';
-    return `<span class="chip ${fOff.has(f.id)?'off':''}" data-f="${f.id}">${ic}
-      ${esc(f.nombre)} <span class="n">${cuenta('fuente_id',f.id)}</span></span>`;
-  }).join('');
-  document.getElementById('chipsC').innerHTML=Object.entries(M.cats).map(([id,c])=>
-    `<span class="chip ${cOff.has(id)?'off':''}" data-c="${id}">${c.emoji}
-      ${esc(c.nombre)} <span class="n">${cuenta('cat',id)}</span></span>`).join('');
-  document.querySelectorAll('[data-f]').forEach(el=>el.onclick=()=>{
-    const f=el.dataset.f; fOff.has(f)?fOff.delete(f):fOff.add(f); pinta(); });
-  document.querySelectorAll('[data-c]').forEach(el=>el.onclick=()=>{
-    const c=el.dataset.c; cOff.has(c)?cOff.delete(c):cOff.add(c); pinta(); });
+  const fila=(tipo,id,ic,nom,n,off)=>`<li class="${n?'':'cero'}"><label>
+      <input type="checkbox" data-${tipo}="${id}" ${off?'':'checked'}>${ic}<span class="nom">${nom}</span>
+      <span class="n">${n}</span></label><button class="solo" data-solo-${tipo}="${id}" title="Ver solo esta">solo</button></li>`;
+  document.getElementById('chipsF').innerHTML=fuentes()
+    .map(f=>({f,n:cuenta('fuente_id',f.id)})).sort((a,z)=>z.n-a.n||a.f.nombre.localeCompare(z.f.nombre))
+    .map(({f,n})=>fila('f',f.id,M.iconos[f.id]?`<img src="iconos/${M.iconos[f.id]}" alt="">`:'<span class="ini" style="width:16px;height:16px;flex-basis:16px;font-size:.55rem">'+esc(f.nombre.slice(0,1))+'</span>',
+      esc(f.nombre),n,fOff.has(f.id))).join('');
+  document.getElementById('chipsC').innerHTML=Object.entries(M.cats)
+    .map(([id,c])=>fila('c',id,`<span aria-hidden="true">${c.emoji}</span>`,esc(c.nombre),cuenta('cat',id),cOff.has(id))).join('');
+  document.querySelectorAll('input[data-f]').forEach(el=>el.onchange=()=>{
+    el.checked?fOff.delete(el.dataset.f):fOff.add(el.dataset.f); guardaFiltros(); pinta(); });
+  document.querySelectorAll('input[data-c]').forEach(el=>el.onchange=()=>{
+    el.checked?cOff.delete(el.dataset.c):cOff.add(el.dataset.c); guardaFiltros(); pinta(); });
+  document.querySelectorAll('[data-solo-f]').forEach(el=>el.onclick=()=>{
+    fOff=new Set(fuentes().map(f=>f.id).filter(x=>x!==el.dataset.soloF)); guardaFiltros(); pinta(); });
+  document.querySelectorAll('[data-solo-c]').forEach(el=>el.onclick=()=>{
+    cOff=new Set(Object.keys(M.cats).filter(x=>x!==el.dataset.soloC)); guardaFiltros(); pinta(); });
+  const filtrados=fOff.size+cOff.size, v=visibles().length;
+  document.getElementById('resumen').textContent=
+    `${v} titulares a la vista`+(filtrados?`; ${fOff.size} fuentes y ${cOff.size} temas quitados`:'');
+  document.getElementById('abreFiltros').textContent=filtrados?`Filtros (${filtrados})`:'Filtros';
 }
+document.getElementById('fTodas').onclick=()=>{fOff.clear();guardaFiltros();pinta();};
+document.getElementById('fNinguna').onclick=()=>{fOff=new Set(fuentes().map(f=>f.id));guardaFiltros();pinta();};
+document.getElementById('cTodas').onclick=()=>{cOff.clear();guardaFiltros();pinta();};
+document.getElementById('cNinguna').onclick=()=>{cOff=new Set(Object.keys(M.cats));guardaFiltros();pinta();};
+// Móvil: el lateral es un cajón que se abre con «Filtros» y se cierra tocando fuera o con Escape.
+document.getElementById('abreFiltros').onclick=()=>document.body.classList.toggle('abierto');
+document.getElementById('velo').onclick=()=>document.body.classList.remove('abierto');
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') document.body.classList.remove('abierto'); });
 
 // ---------------------------------------------------------------- controles
 
@@ -593,25 +689,35 @@ async function arranca(){
 
 Promise.all([fetch('items.json',{cache:'no-store'}).then(r=>r.json()),
              fetch('meta.json',{cache:'no-store'}).then(r=>r.json())])
-  .then(([d,m])=>{ D=d; M=m; arranca(); });
+  .then(([d,m])=>{ D=d; M=m; leeFiltros(); arranca(); });
 </script>
 """
 
 
 def pagina_app(historico, sello, caidos):
     nav = (
-        '<nav>'
+        '<nav class="vistas" aria-label="Vistas">'
         '<button data-v="pendientes" data-t="Bandeja" class="on">Bandeja</button>'
         '<button data-v="guardados" data-t="★ Guardados" title="Tus favoritos: pulsa la estrella de un titular">★ Guardados</button>'
         '<button data-v="leidos" data-t="Leídos">Leídos</button>'
         '<button data-v="borrados" data-t="Descartados">Descartados</button>'
         '<button data-v="morralla" data-t="Morralla" title="Lo que Claude Haiku considera que no aporta">Morralla</button>'
-        '<a href="archivo.html">Archivo por días</a>'
         '</nav>'
     )
-    aviso = f" · ⚠️ Feeds caídos hoy: {', '.join(caidos)}" if caidos else ""
-    sub = f"Lo que no abras, sigue aquí mañana{aviso}"
-    return CAB.format(titulo="Radar IA", css=CSS, sub=sub, nav=nav) + APP + "</div></body></html>"
+    aviso = f". ⚠️ Feeds caídos hoy: {html.escape(', '.join(caidos))}" if caidos else ""
+    sub = f"Lo que no abras sigue aquí mañana{aviso}"
+    cab = (
+        '<!doctype html><html lang="es"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        f'<title>Radar IA</title><style>{CSS}</style></head><body>'
+        '<header class="top"><button id="abreFiltros" class="solo-movil" aria-controls="lateral">Filtros</button>'
+        '<h1><span class="ping" aria-hidden="true"></span>Radar IA</h1>'
+        f'<p class="sub">{sub}</p><span class="sello" id="sello"></span></header>'
+        '<div class="marco"><aside id="lateral" aria-label="Filtros">'
+        '<input type="search" id="q" placeholder="Buscar en los titulares: ollama, pgvector…" aria-label="Buscar">'
+        + nav
+    )
+    return cab + APP + "</body></html>"
 
 
 # ---------------------------------------------------------------- main

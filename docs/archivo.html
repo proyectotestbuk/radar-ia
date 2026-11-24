@@ -1,56 +1,111 @@
 <!doctype html><html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Radar IA — Archivo</title><style>
-:root{--bg:#fbfaf8;--fg:#1a1a19;--dim:#6b6a66;--linea:#e5e2dc;--card:#fff;--ac:#b4530a;--ok:#2f7d55}
-@media(prefers-color-scheme:dark){:root{--bg:#16161a;--fg:#e8e6e1;--dim:#918f89;--linea:#2c2c33;--card:#1d1d22;--ac:#e8945a;--ok:#6ac292}}
+/* Radar IA — rediseño del 24/11/2026: barra lateral con filtros, fondo claro, todo el ancho, 18 px. */
+:root{--bg:#f5f7f9;--panel:#ffffff;--fg:#16212b;--dim:#5a6672;--linea:#dbe1e7;
+ --ac:#0a6b86;--ac-suave:#e6f2f5;--estrella:#b57400;--lat:300px}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"Segoe UI",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-.wrap{max-width:900px;margin:0 auto;padding:24px 18px 80px}
-header{border-bottom:2px solid var(--fg);padding-bottom:12px;margin-bottom:18px}
-h1{font-size:1.45rem;margin:0;letter-spacing:-.02em}
-h1 span{color:var(--ac)}
-.sub{color:var(--dim);font-size:.84rem;margin-top:3px}
-nav{margin-top:12px;display:flex;gap:6px;flex-wrap:wrap}
-nav button,nav a{background:none;border:1px solid var(--linea);color:var(--fg);font:inherit;font-size:.82rem;
- padding:5px 12px;border-radius:20px;cursor:pointer;text-decoration:none}
-nav button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-nav button:hover,nav a:hover{border-color:var(--ac)}
-.chips{display:flex;gap:6px;flex-wrap:wrap;margin:14px 0}
-.chip{display:flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--linea);
- border-radius:20px;padding:4px 11px;font-size:.78rem;cursor:pointer;user-select:none}
-.chip:hover{border-color:var(--ac)}
-.chip.off{opacity:.35}
-.chip img{width:15px;height:15px;border-radius:3px}
-.chip .n{color:var(--dim);font-variant-numeric:tabular-nums}
-ul{list-style:none;margin:0;padding:0}
-li{display:flex;align-items:center;gap:12px;background:var(--card);border:1px solid var(--linea);
- border-radius:10px;padding:11px 13px;margin-bottom:7px}
-li:hover{border-color:var(--ac)}
-.ico{width:26px;height:26px;flex:0 0 26px;border-radius:5px;object-fit:contain;background:var(--bg)}
-.ini{width:26px;height:26px;flex:0 0 26px;border-radius:5px;display:grid;place-items:center;
- background:var(--linea);font-size:.72rem;font-weight:700;color:var(--dim)}
-.txt{flex:1;min-width:0}
-.txt a{color:var(--fg);text-decoration:none;font-weight:500;display:block}
-.txt a:hover{color:var(--ac)}
-.meta{font-size:.72rem;color:var(--dim);margin-top:3px;display:flex;gap:7px;flex-wrap:wrap}
-.cat{flex:0 0 auto;font-size:1.15rem;cursor:default}
-.alto{color:var(--ac);font-weight:600}
-nav .n{font-size:.8em;opacity:.7;margin-left:2px}
-.fav{flex:0 0 auto;background:none;border:0;font-size:1.25rem;color:var(--ac);cursor:pointer;padding:4px}
-.x{flex:0 0 auto;background:none;border:none;color:var(--dim);font-size:1.1rem;cursor:pointer;
- padding:2px 5px;border-radius:5px;line-height:1}
-.x:hover{background:var(--linea);color:var(--ac)}
-.vacio{color:var(--dim);font-style:italic;padding:34px 0;text-align:center}
-input[type=search]{width:100%;padding:11px 13px;font-size:1rem;border:1px solid var(--linea);
- border-radius:9px;background:var(--card);color:var(--fg);margin-bottom:10px}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:18px/1.5 "Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,sans-serif;
+ -webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+h1{font-size:1.15rem;margin:0;font-weight:700;letter-spacing:-.01em;white-space:nowrap}
+h1 .ping{display:inline-block;width:.62em;height:.62em;border-radius:50%;margin-right:.45em;vertical-align:.05em;
+ background:radial-gradient(circle,var(--ac) 32%,transparent 34%),radial-gradient(circle,transparent 58%,var(--ac) 60%,var(--ac) 66%,transparent 68%)}
+.sub{color:var(--dim);font-size:.85rem;margin:0}
+
+/* ---------- la app: cabecera fina + lateral fijo + lista */
+.top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:18px;height:52px;
+ padding:0 24px;background:var(--panel);border-bottom:1px solid var(--linea)}
+.top .sub{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top .sello{flex:0 0 auto;color:var(--dim);font-size:.8rem;white-space:nowrap}
+.marco{display:grid;grid-template-columns:var(--lat) minmax(0,1fr);min-height:calc(100vh - 52px)}
+#lateral{position:sticky;top:52px;align-self:start;height:calc(100vh - 52px);overflow-y:auto;
+ background:var(--panel);border-right:1px solid var(--linea);padding:16px 14px 28px;font-size:.86rem}
+#lateral h2{font-size:.86rem;font-weight:700;margin:22px 0 6px;color:var(--fg)}
+.cab-filtro{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.cab-filtro h2{margin:0}
+.cab-filtro button{background:none;border:0;color:var(--ac);font-size:.78rem;cursor:pointer;padding:2px 4px;text-decoration:underline;text-underline-offset:2px}
+.seccion{margin-top:20px}
+input[type=search]{width:100%;padding:9px 11px;font-size:.95rem;border:1px solid var(--linea);border-radius:6px;
+ background:var(--bg);color:var(--fg)}
 input[type=search]:focus{outline:2px solid var(--ac);border-color:transparent}
-footer{margin-top:44px;padding-top:14px;border-top:1px solid var(--linea);color:var(--dim);font-size:.76rem}
-footer button{background:none;border:1px solid var(--linea);color:var(--dim);font:inherit;font-size:.74rem;
- padding:3px 9px;border-radius:6px;cursor:pointer;margin-right:5px}
-footer button:hover{border-color:var(--ac);color:var(--ac)}
-h2{font-size:.76rem;text-transform:uppercase;letter-spacing:.09em;color:var(--dim);margin:26px 0 9px;font-weight:600}
+nav.vistas{display:flex;flex-direction:column;margin-top:14px}
+nav.vistas button,nav.vistas a{display:flex;justify-content:space-between;align-items:center;background:none;border:0;
+ border-left:3px solid transparent;text-align:left;padding:6px 10px;font-size:.92rem;cursor:pointer;text-decoration:none;color:var(--fg)}
+nav.vistas button:hover,nav.vistas a:hover{background:var(--bg)}
+nav.vistas button.on{border-left-color:var(--ac);background:var(--ac-suave);font-weight:600}
+nav.vistas .n,.filtros .n{color:var(--dim);font-variant-numeric:tabular-nums;font-weight:400}
+ul.filtros{list-style:none;margin:0;padding:0}
+ul.filtros li{display:flex;align-items:center;gap:6px;padding:2px 0;margin:0;border:0;background:none}
+ul.filtros label{flex:1;min-width:0;display:flex;align-items:center;gap:7px;cursor:pointer;padding:3px 4px;border-radius:4px}
+ul.filtros label:hover{background:var(--bg)}
+ul.filtros input{accent-color:var(--ac);margin:0;flex:0 0 auto}
+ul.filtros img{width:16px;height:16px;border-radius:3px;flex:0 0 16px}
+ul.filtros .nom{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ul.filtros li.cero .nom{color:var(--dim)}
+ul.filtros .solo{visibility:hidden;background:none;border:0;color:var(--ac);font-size:.74rem;cursor:pointer;padding:2px 4px}
+ul.filtros li:hover .solo,ul.filtros .solo:focus{visibility:visible}
+.acciones{margin-top:26px;padding-top:14px;border-top:1px solid var(--linea);display:flex;flex-direction:column;gap:6px}
+.acciones button,.acciones a{background:none;border:1px solid var(--linea);border-radius:6px;padding:6px 10px;
+ font-size:.82rem;cursor:pointer;text-align:left;text-decoration:none;color:var(--fg)}
+.acciones button:hover,.acciones a:hover{border-color:var(--ac);color:var(--ac)}
+main{min-width:0;padding:6px 28px 60px}
+.resumen{color:var(--dim);font-size:.85rem;margin:12px 0 4px}
+
+/* ---------- filas de titulares (app y páginas fijas) */
+ul{list-style:none;margin:0;padding:0}
+li{display:flex;align-items:center;gap:14px;padding:12px 10px;border-bottom:1px solid var(--linea);border-left:4px solid transparent}
+li:hover{background:var(--panel)}
+li.alto{background:var(--ac-suave);border-left-color:var(--ac)}
+.ico{width:26px;height:26px;flex:0 0 26px;border-radius:5px;object-fit:contain;background:var(--panel)}
+.ini{width:26px;height:26px;flex:0 0 26px;border-radius:5px;display:grid;place-items:center;
+ background:var(--linea);font-size:.7rem;font-weight:700;color:var(--dim)}
+.txt{flex:1;min-width:0}
+.txt a{color:var(--fg);text-decoration:none;font-weight:500;display:block;max-width:78ch}
+.txt a:hover{color:var(--ac);text-decoration:underline;text-underline-offset:3px}
+.txt a:visited{color:#4b5560}
+.meta{font-size:.78rem;color:var(--dim);margin-top:3px;display:flex;gap:4px 12px;flex-wrap:wrap}
+.alto-et{color:var(--ac);font-weight:600}
+.cat{flex:0 0 auto;font-size:1.1rem;cursor:default}
+.fav{flex:0 0 auto;background:none;border:0;font-size:1.3rem;color:var(--estrella);cursor:pointer;padding:4px;line-height:1}
+.x{flex:0 0 auto;background:none;border:0;color:var(--dim);font-size:1.05rem;cursor:pointer;padding:4px 7px;border-radius:5px;line-height:1}
+.x:hover{background:var(--linea);color:var(--fg)}
+.vacio{color:var(--dim);padding:40px 0;text-align:center}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--linea);color:var(--dim);font-size:.8rem;max-width:90ch}
+code{font-size:.9em}
+
+/* ---------- páginas fijas (archivo y días) */
+.wrap{max-width:1100px;margin:0 auto;padding:20px 24px 70px}
+.wrap header{display:flex;align-items:center;gap:18px;flex-wrap:wrap;border-bottom:1px solid var(--linea);padding-bottom:12px;margin-bottom:8px}
+.wrap header nav{display:flex;gap:14px}
+.wrap header nav a{color:var(--ac);font-size:.9rem}
+.wrap h2{font-size:.95rem;margin:20px 0 6px}
+
+/* ---------- móvil: el lateral se pliega */
+.solo-movil{display:none}
+#velo{display:none}
+@media (max-width:860px){
+ body{font-size:17px}
+ .top{padding:0 14px;gap:10px}
+ .top .sello{display:none}
+ .solo-movil{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--linea);
+  border-radius:6px;padding:5px 11px;font-size:.88rem;cursor:pointer}
+ .marco{display:block}
+ #lateral{position:fixed;top:0;left:0;bottom:0;height:auto;width:min(86vw,330px);z-index:40;
+  transform:translateX(-102%);transition:transform .2s ease;box-shadow:0 0 30px rgba(10,30,45,.18)}
+ body.abierto #lateral{transform:none}
+ body.abierto #velo{display:block;position:fixed;inset:0;background:rgba(10,30,45,.35);z-index:30}
+ main{padding:4px 12px 50px}
+ li{gap:10px;padding:11px 6px}
+ .cat{display:none}
+ ul.filtros .solo{visibility:visible}
+}
+@media (prefers-reduced-motion:reduce){#lateral{transition:none}}
 </style></head><body><div class="wrap">
-<header><h1>Radar <span>IA</span></h1><div class="sub">133 días · 4765 titulares</div><nav><a href="index.html">← Bandeja</a></nav></header>
+<header><h1><span class="ping" aria-hidden="true"></span>Radar IA</h1><p class="sub">133 días · 4765 titulares</p><nav><a href="index.html">← Bandeja</a></nav></header>
 <h2>Histórico por días</h2><ul><li><div class="txt"><a href="2026-11-23.html">2026-11-23</a></div><span class="meta">16 titulares</span></li>
 <li><div class="txt"><a href="2026-11-22.html">2026-11-22</a></div><span class="meta">4 titulares</span></li>
 <li><div class="txt"><a href="2026-11-21.html">2026-11-21</a></div><span class="meta">11 titulares</span></li>
