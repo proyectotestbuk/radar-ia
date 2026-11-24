@@ -8,7 +8,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "cargos directivos de Nvidia, sin efecto práctico"
  },
  {
   "titulo": "Qué es Artex, la IA principal sospechosa del ciberataque a la Comisión Europea que tiene en alerta al FBI",
@@ -17,9 +18,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "publico",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "ciberataque con IA a la Comisión Europea"
  },
  {
   "titulo": "Le he pedido a Instinct que vigile el precio de un móvil hasta Black Friday. Si baja 200 euros, lo compra él",
@@ -28,9 +30,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "negocio",
+  "cat": "otros",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "compra de móvil por consumo, sin relevancia"
  },
  {
   "titulo": "OpenAI le ha puesto un número a la inteligencia de sus modelos. Y quiere que toda la industria pacte dónde parar",
@@ -41,7 +44,8 @@
   "idioma": "es",
   "cat": "modelos",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "anuncio vago sobre clasificar inteligencia"
  },
  {
   "titulo": "Google multiplica sus modelos de Gemini y deja a los programadores sin saber cuál elegir",
@@ -50,9 +54,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "desarrollo",
+  "cat": "modelos",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "panorama de modelos Gemini, contexto útil"
  },
  {
   "titulo": "Select Styling Specimens",
@@ -61,9 +66,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "desarrollo",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "título sin contenido técnico visible"
  },
  {
   "titulo": "How to build and maintain an agentic evaluation",
@@ -72,9 +78,10 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "agentes",
+  "cat": "formacion",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "guía práctica para evaluar agentes"
  },
  {
   "titulo": "Así Maté Mi Aplicación Sin Darme Cuenta",
@@ -83,9 +90,10 @@
   "fuente": "Alpaca Tech",
   "fuente_id": "alpaca-tech",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "desarrollo",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "anécdota genérica sin contenido técnico"
  },
  {
   "titulo": "Tremendo bug en PHP. Si escribías httpS:// con la S mayúscula en file_get_contents()... ¡Enviaba to",
@@ -94,9 +102,10 @@
   "fuente": "midudev",
   "fuente_id": "midudev",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "desarrollo",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "bug de PHP útil si hay código legacy"
  },
  {
   "titulo": "JENSEN HUANG VUELVE A NVIDIA + bug histórico PHP + roban prompts + Gemini Neon es salvaje",
@@ -105,9 +114,10 @@
   "fuente": "midudev",
   "fuente_id": "midudev",
   "idioma": "es",
-  "cat": "modelos",
+  "cat": "otros",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen que repite titulares anteriores"
  },
  {
   "titulo": "El mundo se está volviendo loco: Qoder, IA y ciberataques",
@@ -118,7 +128,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "opinión de pódcast sin datos"
  },
  {
   "titulo": "Resumen IA de la mañana – 23 de noviembre de 2026",
@@ -129,7 +140,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen genérico sin contenido propio"
  },
  {
   "titulo": "Resumen IA de la mañana – 22 de noviembre de 2026",
@@ -140,7 +152,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen genérico sin contenido propio"
  },
  {
   "titulo": "El self-hosting es más fácil que nunca (gracias a la IA)",
@@ -149,9 +162,10 @@
   "fuente": "atareao con Linux",
   "fuente_id": "atareao-con-linux",
   "idioma": "es",
-  "cat": "local",
+  "cat": "formacion",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "self-hosting asistido por IA, contexto útil"
  },
  {
   "titulo": "The Meta Software Factory: Advanced Agentic Engineering",
@@ -162,7 +176,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "ingeniería agéntica, herramienta poco concreta"
  },
  {
   "titulo": "Hackers Are Coming for Your AI Coding Agent (Lock It Down Now)",
@@ -173,7 +188,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-23",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "seguridad de agentes de código, práctica útil"
  },
  {
   "titulo": "¿Es GTA VI el último juego a gran escala desarrollado sin usar IA?",
@@ -184,7 +200,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-22",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "videojuegos, sin efecto aquí"
  },
  {
   "titulo": "Muru",
@@ -195,7 +212,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-22",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "título sin contenido útil"
  },
  {
   "titulo": "llm-gemini 0.38.1",
@@ -204,9 +222,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "modelos",
+  "cat": "desarrollo",
   "dia": "2026-11-22",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "versión menor de plugin sin cambios relevantes"
  },
  {
   "titulo": "Resumen IA de la mañana – 21 de noviembre de 2026",
@@ -217,7 +236,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-22",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen genérico sin contenido propio"
  },
  {
   "titulo": "Sin cabeza y con 500 millones más: el robot de Genesis AI con el que Europa quiere dar un puñetazo en la robótica",
