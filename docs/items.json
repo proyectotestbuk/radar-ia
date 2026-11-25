@@ -6,9 +6,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "modelos",
+  "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "opinión sin datos, polémica sobre superinteligencia"
  },
  {
   "titulo": "Ahorrar dinero no es lo único que importa, el tiempo también es valioso. Con ChatGPT espero conseguir ambos este Black Friday",
@@ -17,9 +18,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "modelos",
+  "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "marketing de consumo, Black Friday"
  },
  {
   "titulo": "Carl Pei, CEO de Nothing: \"No veo ningún momento tipo iPhone para la IA de consumo a corto plazo\"",
@@ -30,7 +32,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "opinión de CEO sobre IA de consumo"
  },
  {
   "titulo": "Geoffrey Hinton, Nobel y \"padre\" de la IA: \"Si la historia de la humanidad fuera un día, probablemente estaríamos en el último segundo\"",
@@ -41,7 +44,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "cita genérica sin datos ni aplicación"
  },
  {
   "titulo": "Una empresa española que programa el firmware de media banca dice ir 3,6 veces más rápido con IA. La pregunta es cómo lo sabe",
@@ -52,7 +56,8 @@
   "idioma": "es",
   "cat": "desarrollo",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "afirmación sin datos, clickbait"
  },
  {
   "titulo": "datasette-charts 0.2a0",
@@ -61,9 +66,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "datos",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "versión alfa de plugin sin cambios relevantes"
  },
  {
   "titulo": "datasette-agent 0.7a1",
@@ -74,7 +80,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "versión alfa de plugin sin detalle"
  },
  {
   "titulo": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
@@ -83,9 +90,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "desarrollo",
+  "cat": "modelos",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "nuevo modelo de código con arquitectura distinta"
  },
  {
   "titulo": "Ladybird's first alpha release",
@@ -94,9 +102,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "modelos",
+  "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "navegador, sin relación con IA"
  },
  {
   "titulo": "datasette-charts 0.1a0",
@@ -105,9 +114,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "datos",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "versión alfa repetida de plugin"
  },
  {
   "titulo": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -118,7 +128,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "investigación en robótica, poco aplicable"
  },
  {
   "titulo": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
@@ -129,7 +140,8 @@
   "idioma": "en",
   "cat": "negocio",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen corporativo, poco accionable"
  },
  {
   "titulo": "Explaining Claude’s CRISPR-like discovery",
@@ -140,7 +152,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "vídeo sobre investigación de Claude, sin detalle"
  },
  {
   "titulo": "Everything new in Claude this month",
@@ -151,7 +164,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "novedades mensuales de Claude"
  },
  {
   "titulo": "Everything new in Claude this month",
@@ -162,7 +176,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "repetición exacta del titular anterior"
  },
  {
   "titulo": "The enterprise guide to securing coding agents",
@@ -171,9 +186,10 @@
   "fuente": "Claude — artículos",
   "fuente_id": "claude-art-culos",
   "idioma": "en",
-  "cat": "agentes",
+  "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "guía práctica para asegurar agentes de código"
  },
  {
   "titulo": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
@@ -182,9 +198,10 @@
   "fuente": "Claude — artículos",
   "fuente_id": "claude-art-culos",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "retención cero de datos, útil para RGPD"
  },
  {
   "titulo": "2.1.331",
@@ -193,9 +210,10 @@
   "fuente": "Claude Code — versiones",
   "fuente_id": "claude-code-versiones",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "claude",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "nueva versión de Claude Code, sin detalles"
  },
  {
   "titulo": "¡Jensen Huang vuelve a Nvidia!",
@@ -206,7 +224,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "fichaje y cargos en Nvidia"
  },
  {
   "titulo": "¡Jensen Huang vuelve como CEO de Nvidia!",
@@ -217,7 +236,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "repetición de noticia sobre cargos en Nvidia"
  },
  {
   "titulo": "#107 Vuelve Jensen, vuelve Lu y lo humano se pone de moda",
@@ -226,9 +246,10 @@
   "fuente": "La Tertul-IA (pódcast)",
   "fuente_id": "la-tertul-ia-p-dcast",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "negocio",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "pódcast sobre fichajes y actualidad"
  },
  {
   "titulo": "Resumen IA de la mañana – 24 de noviembre de 2026",
@@ -239,7 +260,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-24",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "agregador de noticias sin contenido propio"
  },
  {
   "titulo": "La junta de accionistas de Nvidia reincorpora a Jensen Huang como CEO",
