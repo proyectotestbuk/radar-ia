@@ -6,9 +6,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "negocio",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "ads y acuerdos de Meta/Amazon, sin efecto práctico"
  },
  {
   "titulo": "Por qué vale la pena tener acceso a un modelo de IA ‘sin censura’: yo me reservo uno para las tareas más delicadas",
@@ -19,7 +20,8 @@
   "idioma": "es",
   "cat": "modelos",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "opinión sin datos sobre modelos sin censura"
  },
  {
   "titulo": "\"Demasiado grande para caer\": EEUU ha trazado una línea clarísima salvando a Jensen Huang y, por tanto, a Nvidia",
@@ -30,7 +32,8 @@
   "idioma": "es",
   "cat": "negocio",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "política económica sobre Nvidia, no técnica"
  },
  {
   "titulo": "He vivido en el futuro de la IA para todos gracias al MSI EdgeMesa con la RTX Spark de Nvidia y 128 GB de memoria",
@@ -41,7 +44,8 @@
   "idioma": "es",
   "cat": "local",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "hardware 128 GB para IA local, reseña de producto"
  },
  {
   "titulo": "China se hizo un hueco regalando sus modelos de IA. Para competir con OpenAI y Anthropic, Z.ai lanza GLM-5.4 primero de pago",
@@ -50,9 +54,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "claude",
+  "cat": "modelos",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "lanzamiento de GLM-5.4 de pago, contexto de mercado"
  },
  {
   "titulo": "Three LLM inflection points in twelve months",
@@ -63,7 +68,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "reflexión genérica sin datos concretos"
  },
  {
   "titulo": "GPT 6.2 Astra Solves a Historical Mystery",
@@ -74,7 +80,8 @@
   "idioma": "en",
   "cat": "modelos",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "titular clickbait sobre un modelo sin detalles"
  },
  {
   "titulo": "An Indic Voice Agent with CUGA",
@@ -85,7 +92,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "agente de voz para idiomas indios, poco aplicable"
  },
  {
   "titulo": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -94,9 +102,10 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "agentes",
+  "cat": "otros",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "robótica sim2real, fuera de su interés"
  },
  {
   "titulo": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
@@ -107,7 +116,8 @@
   "idioma": "en",
   "cat": "modelos",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "lanzamiento de Gemini 4, contexto de frontera"
  },
  {
   "titulo": "Lessons from building agents on the Claude Platform",
@@ -118,7 +128,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "lecciones prácticas para construir agentes con Claude"
  },
  {
   "titulo": "Dance as Waves with Claude",
@@ -129,7 +140,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "demo creativa sin utilidad práctica"
  },
  {
   "titulo": "Turn artifacts into Mac and Windows apps",
@@ -138,9 +150,10 @@
   "fuente": "Claude — artículos",
   "fuente_id": "claude-art-culos",
   "idioma": "en",
-  "cat": "desarrollo",
+  "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "artefactos de Claude convertibles en apps de escritorio"
  },
  {
   "titulo": "MCP servers can now ship skills, run tasks, and more with Claude",
@@ -151,7 +164,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "MCP con skills y tareas, directo a su uso de Claude Code"
  },
  {
   "titulo": "KPMG's Todd Lohr on AI when your data is also your clients' data",
@@ -160,9 +174,10 @@
   "fuente": "Claude — artículos",
   "fuente_id": "claude-art-culos",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "caso empresarial de consultora, sin aplicación práctica"
  },
  {
   "titulo": "Introducing Claude Ship",
@@ -173,7 +188,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "nueva herramienta de Anthropic, conviene revisarla"
  },
  {
   "titulo": "2.1.332",
@@ -182,9 +198,10 @@
   "fuente": "Claude Code — versiones",
   "fuente_id": "claude-code-versiones",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "nueva versión de Claude Code, cambios no detallados"
  },
  {
   "titulo": "A practical guide to shipping with Claude Code",
@@ -195,7 +212,8 @@
   "idioma": "en",
   "cat": "claude",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "guía práctica para desplegar con Claude Code"
  },
  {
   "titulo": "Dame 7 Minutos y PROGRAMAR Volverá a Ser TU ADICCIÓN",
@@ -204,9 +222,10 @@
   "fuente": "Alpaca Tech",
   "fuente_id": "alpaca-tech",
   "idioma": "es",
-  "cat": "desarrollo",
+  "cat": "otros",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "clickbait sin contenido concreto"
  },
  {
   "titulo": "Hemos automatizado el código pero todavía falta que le pongas criterio. #software #claudecode #info",
@@ -215,9 +234,10 @@
   "fuente": "midudev",
   "fuente_id": "midudev",
   "idioma": "es",
-  "cat": "claude",
+  "cat": "desarrollo",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "opinión genérica sin datos ni novedad"
  },
  {
   "titulo": "Resumen IA de la mañana – 25 de noviembre de 2026",
@@ -228,7 +248,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-25",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "resumen agregado de otras noticias, sin contenido propio"
  },
  {
   "titulo": "El jefe de IA de Meta duda de que podamos controlar una superinteligencia \"1.000 veces más inteligente\". Hay quien lo llama \"locura de mierda\"",

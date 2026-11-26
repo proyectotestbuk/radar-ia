@@ -4552,3 +4552,24 @@ https://www.youtube.com/watch?v=_Jx-O4WEl3I	negocio	nada	fichaje y cargos en Nvi
 https://www.youtube.com/shorts/QnDiAu7XsNE	negocio	nada	repetición de noticia sobre cargos en Nvidia
 https://podcasters.spotify.com/pod/show/tertul-ia/episodes/107-Vuelve-Jensen--vuelve-Lu-y-lo-humano-se-pone-de-moda-e3st735	negocio	nada	pódcast sobre fichajes y actualidad
 https://rss.com/podcasts/resumen-ia-de-la-manana/3349843	otros	nada	agregador de noticias sin contenido propio
+https://www.xataka.com/robotica-e-ia/amazon-esta-negociando-meta-abrirle-puerta-a-muse-verdadero-problema-que-ia-no-se-para-a-ver-anuncios	negocio	nada	ads y acuerdos de Meta/Amazon, sin efecto práctico
+https://www.xataka.com/robotica-e-ia/que-vale-pena-tener-acceso-a-modelo-ia-censura-yo-me-reservo-uno-para-tareas-delicadas	modelos	nada	opinión sin datos sobre modelos sin censura
+https://www.xataka.com/empresas-y-economia/nvidia-demasiado-grande-como-para-caer-riesgo-que-todo-ecosistema-ia-eeuu-dependa-sola-empresa	negocio	nada	política económica sobre Nvidia, no técnica
+https://www.xataka.com/analisis/msi-edgemesa-n1x-nvidia-rtx-spark-analisis-caracteristicas-precio-especificaciones	local	medio	hardware 128 GB para IA local, reseña de producto
+https://www.xataka.com/robotica-e-ia/china-se-hizo-hueco-regalando-sus-modelos-ia-para-competir-openai-anthropic-z-ai-lanza-glm-5-4-primero-pago	modelos	medio	lanzamiento de GLM-5.4 de pago, contexto de mercado
+https://simonwillison.net/2026/Nov/24/llm-inflection-points/	otros	nada	reflexión genérica sin datos concretos
+https://simonwillison.net/2026/Nov/24/astra-historical-mystery/	modelos	nada	titular clickbait sobre un modelo sin detalles
+https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga	agentes	nada	agente de voz para idiomas indios, poco aplicable
+https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance	otros	nada	robótica sim2real, fuera de su interés
+https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/	modelos	medio	lanzamiento de Gemini 4, contexto de frontera
+https://www.youtube.com/watch?v=8Aoq6mJeAXI	claude	alto	lecciones prácticas para construir agentes con Claude
+https://www.youtube.com/shorts/Fp1P03610wM	otros	nada	demo creativa sin utilidad práctica
+https://claude.com/resources/articles/install-as-app	claude	alto	artefactos de Claude convertibles en apps de escritorio
+https://claude.com/resources/articles/skills-over-mcp-tasks-and-more	claude	alto	MCP con skills y tareas, directo a su uso de Claude Code
+https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data	negocio	nada	caso empresarial de consultora, sin aplicación práctica
+https://claude.com/resources/articles/introducing-claude-ship	claude	alto	nueva herramienta de Anthropic, conviene revisarla
+https://code.claude.com/docs/en/changelog#2-1-332	claude	medio	nueva versión de Claude Code, cambios no detallados
+https://claude.dev/blog/the-work-after-you-open-a-pr/	claude	alto	guía práctica para desplegar con Claude Code
+https://www.youtube.com/watch?v=7nG3oxlz3Aw	otros	nada	clickbait sin contenido concreto
+https://www.youtube.com/shorts/RbzUtjdXECo	desarrollo	nada	opinión genérica sin datos ni novedad
+https://rss.com/podcasts/resumen-ia-de-la-manana/3354406	otros	nada	resumen agregado de otras noticias, sin contenido propio
