@@ -8,7 +8,8 @@
   "idioma": "es",
   "cat": "agentes",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Opinión personal sin datos ni novedades"
  },
  {
   "titulo": "Hay un modelo de IA local que está causando furor. Se llama Inkling 2 Mini y tenemos sorpresa: no es chino",
@@ -19,7 +20,8 @@
   "idioma": "es",
   "cat": "modelos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Modelo local nuevo; titular sensacionalista sin datos técnicos"
  },
  {
   "titulo": "Dos amigos hacen la misma pregunta electoral a una IA. La diferencia puede estar en lo que le contaron antes",
@@ -30,7 +32,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Clickbait sobre IA y elecciones, sin datos"
  },
  {
   "titulo": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -41,7 +44,8 @@
   "idioma": "en",
   "cat": "datos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Herramienta útil para copiar bases SQLite; no PostgreSQL"
  },
  {
   "titulo": "Quoting Scott Aaronson",
@@ -52,7 +56,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Cita suelta sin contexto práctico"
  },
  {
   "titulo": "datasette-charts 0.3a0",
@@ -61,9 +66,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "datos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Versión alfa menor de plugin; poco relevante"
  },
  {
   "titulo": "datasette-charts 0.2a1",
@@ -72,9 +78,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "datos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Versión alfa anterior del mismo plugin, redundante"
  },
  {
   "titulo": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -85,7 +92,8 @@
   "idioma": "en",
   "cat": "local",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "Benchmarks llama.cpp en AMD; útil para Strix Halo"
  },
  {
   "titulo": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -94,9 +102,10 @@
   "fuente": "Hugging Face — Blog",
   "fuente_id": "hugging-face-blog",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "datos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Parser abierto de documentos; útil para PDFs"
  },
  {
   "titulo": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
@@ -107,7 +116,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Guía de sistemas multiagente; útil para subagentes"
  },
  {
   "titulo": "Where scientists draw the line on AI agents",
@@ -118,7 +128,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Debate general sobre límites de agentes en ciencia"
  },
  {
   "titulo": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
@@ -129,7 +140,8 @@
   "idioma": "en",
   "cat": "local",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Inferencia optimizada en GPU de 96 GB"
  },
  {
   "titulo": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
@@ -138,9 +150,10 @@
   "fuente": "Latent Space",
   "fuente_id": "latent-space",
   "idioma": "en",
-  "cat": "negocio",
+  "cat": "agentes",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Charla de opinión, sin detalles prácticos"
  },
  {
   "titulo": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
@@ -149,9 +162,10 @@
   "fuente": "Latent Space",
   "fuente_id": "latent-space",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "modelos",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Noticia de matemáticas; sin efecto práctico aquí"
  },
  {
   "titulo": "Why Linear says Issue Tracking is Dead — Cristina Cordova, COO",
@@ -160,9 +174,10 @@
   "fuente": "Latent Space",
   "fuente_id": "latent-space",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "negocio",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Opinión empresarial sobre un gestor de tareas"
  },
  {
   "titulo": "Migrating our Messages API to Rust",
@@ -171,9 +186,10 @@
   "fuente": "Anthropic — ingeniería",
   "fuente_id": "anthropic-ingenier-a",
   "idioma": "en",
-  "cat": "desarrollo",
+  "cat": "claude",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Ingeniería interna de Anthropic sobre la API"
  },
  {
   "titulo": "Una IA demuestra la hipótesis de Riemann mientras Jensen Huang se depilaba en GTA VI",
@@ -184,7 +200,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Titular sensacionalista; afirmación dudosa sin fuentes"
  },
  {
   "titulo": "Docker cambia de imagen y apuesta todo por la inteligencia artificial",
@@ -193,9 +210,10 @@
   "fuente": "midudev",
   "fuente_id": "midudev",
   "idioma": "es",
-  "cat": "multimedia",
+  "cat": "desarrollo",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Docker apuesta por la IA; contexto útil"
  },
  {
   "titulo": "Resumen IA de la mañana – 26 de noviembre de 2026",
@@ -206,7 +224,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Resumen genérico sin contenido concreto"
  },
  {
   "titulo": "The Best Defense Against This Wave of AI Attacks: Hack Yourself First (Try This Now)",
@@ -215,9 +234,10 @@
   "fuente": "Cole Medin",
   "fuente_id": "cole-medin",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "agentes",
   "dia": "2026-11-26",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Defensa práctica frente a ataques de IA"
  },
  {
   "titulo": "Amazon está negociando con Meta abrirle la puerta a Muse: el verdadero problema es que una IA no se para a ver anuncios",

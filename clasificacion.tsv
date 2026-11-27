@@ -4573,3 +4573,23 @@ https://claude.dev/blog/the-work-after-you-open-a-pr/	claude	alto	guía práctic
 https://www.youtube.com/watch?v=7nG3oxlz3Aw	otros	nada	clickbait sin contenido concreto
 https://www.youtube.com/shorts/RbzUtjdXECo	desarrollo	nada	opinión genérica sin datos ni novedad
 https://rss.com/podcasts/resumen-ia-de-la-manana/3354406	otros	nada	resumen agregado de otras noticias, sin contenido propio
+https://www.xataka.com/robotica-e-ia/hace-ano-instale-openclaw-he-matado-agentes-que-tamagotchis-sigo-convencido-que-cambio-ia	agentes	nada	Opinión personal sin datos ni novedades
+https://www.xataka.com/robotica-e-ia/hay-modelo-ia-local-que-esta-causando-furor-se-llama-inkling-2-mini-tenemos-sorpresa-no-chino	modelos	medio	Modelo local nuevo; titular sensacionalista sin datos técnicos
+https://www.xataka.com/robotica-e-ia/consultar-voto-ia-que-pesa-respuesta-no-programa-electoral-eres-tu	otros	nada	Clickbait sobre IA y elecciones, sin datos
+https://simonwillison.net/2026/Nov/26/sqlite3-rsync/	datos	medio	Herramienta útil para copiar bases SQLite; no PostgreSQL
+https://simonwillison.net/2026/Nov/25/scott-aaronson/	otros	nada	Cita suelta sin contexto práctico
+https://simonwillison.net/2026/Nov/25/datasette-charts/	datos	nada	Versión alfa menor de plugin; poco relevante
+https://simonwillison.net/2026/Nov/24/datasette-charts-2/	datos	nada	Versión alfa anterior del mismo plugin, redundante
+https://huggingface.co/blog/ggml-org/llamacpp-amd-bench	local	alto	Benchmarks llama.cpp en AMD; útil para Strix Halo
+https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin	datos	medio	Parser abierto de documentos; útil para PDFs
+https://huggingface.co/blog/training-swarms	agentes	medio	Guía de sistemas multiagente; útil para subagentes
+https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents	agentes	nada	Debate general sobre límites de agentes en ciencia
+https://huggingface.co/blog/inkling-2-mini-inference-hillclimb	local	medio	Inferencia optimizada en GPU de 96 GB
+https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/	agentes	nada	Charla de opinión, sin detalles prácticos
+https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/	modelos	nada	Noticia de matemáticas; sin efecto práctico aquí
+https://latent.space/p/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo/	negocio	nada	Opinión empresarial sobre un gestor de tareas
+https://www.anthropic.com/research/migrating-api-to-rust	claude	medio	Ingeniería interna de Anthropic sobre la API
+https://cuonda.com/monos-estocasticos/una-ia-demuestra-la-hipotesis-de-riemann-mientras-jensen-huang-se-depilaba-en-gta-vi	otros	nada	Titular sensacionalista; afirmación dudosa sin fuentes
+https://www.youtube.com/watch?v=KzgRYnjtn4Q	desarrollo	medio	Docker apuesta por la IA; contexto útil
+https://rss.com/podcasts/resumen-ia-de-la-manana/3358986	otros	nada	Resumen genérico sin contenido concreto
+https://www.youtube.com/watch?v=f1gAilgILeI	agentes	medio	Defensa práctica frente a ataques de IA
