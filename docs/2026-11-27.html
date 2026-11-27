@@ -1,0 +1,126 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Radar IA — 2026-11-27</title><style>
+/* Radar IA — rediseño del 24/11/2026: barra lateral con filtros, fondo claro, todo el ancho, 18 px. */
+:root{--bg:#f5f7f9;--panel:#ffffff;--fg:#16212b;--dim:#5a6672;--linea:#dbe1e7;
+ --ac:#0a6b86;--ac-suave:#e6f2f5;--estrella:#b57400;--lat:300px}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:18px/1.5 "Segoe UI Variable Text","Segoe UI",system-ui,-apple-system,sans-serif;
+ -webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+h1{font-size:1.15rem;margin:0;font-weight:700;letter-spacing:-.01em;white-space:nowrap}
+h1 .ping{display:inline-block;width:.62em;height:.62em;border-radius:50%;margin-right:.45em;vertical-align:.05em;
+ background:radial-gradient(circle,var(--ac) 32%,transparent 34%),radial-gradient(circle,transparent 58%,var(--ac) 60%,var(--ac) 66%,transparent 68%)}
+.sub{color:var(--dim);font-size:.85rem;margin:0}
+
+/* ---------- la app: cabecera fina + lateral fijo + lista */
+.top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:18px;height:52px;
+ padding:0 24px;background:var(--panel);border-bottom:1px solid var(--linea)}
+.top .sub{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top .sello{flex:0 0 auto;color:var(--dim);font-size:.8rem;white-space:nowrap}
+.marco{display:grid;grid-template-columns:var(--lat) minmax(0,1fr);min-height:calc(100vh - 52px)}
+#lateral{position:sticky;top:52px;align-self:start;height:calc(100vh - 52px);overflow-y:auto;
+ background:var(--panel);border-right:1px solid var(--linea);padding:16px 14px 28px;font-size:.86rem}
+#lateral h2{font-size:.86rem;font-weight:700;margin:22px 0 6px;color:var(--fg)}
+.cab-filtro{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.cab-filtro h2{margin:0}
+.cab-filtro button{background:none;border:0;color:var(--ac);font-size:.78rem;cursor:pointer;padding:2px 4px;text-decoration:underline;text-underline-offset:2px}
+.seccion{margin-top:20px}
+input[type=search]{width:100%;padding:9px 11px;font-size:.95rem;border:1px solid var(--linea);border-radius:6px;
+ background:var(--bg);color:var(--fg)}
+input[type=search]:focus{outline:2px solid var(--ac);border-color:transparent}
+nav.vistas{display:flex;flex-direction:column;margin-top:14px}
+nav.vistas button,nav.vistas a{display:flex;justify-content:space-between;align-items:center;background:none;border:0;
+ border-left:3px solid transparent;text-align:left;padding:6px 10px;font-size:.92rem;cursor:pointer;text-decoration:none;color:var(--fg)}
+nav.vistas button:hover,nav.vistas a:hover{background:var(--bg)}
+nav.vistas button.on{border-left-color:var(--ac);background:var(--ac-suave);font-weight:600}
+nav.vistas .n,.filtros .n{color:var(--dim);font-variant-numeric:tabular-nums;font-weight:400}
+ul.filtros{list-style:none;margin:0;padding:0}
+ul.filtros li{display:flex;align-items:center;gap:6px;padding:2px 0;margin:0;border:0;background:none}
+ul.filtros label{flex:1;min-width:0;display:flex;align-items:center;gap:7px;cursor:pointer;padding:3px 4px;border-radius:4px}
+ul.filtros label:hover{background:var(--bg)}
+ul.filtros input{accent-color:var(--ac);margin:0;flex:0 0 auto}
+ul.filtros img{width:16px;height:16px;border-radius:3px;flex:0 0 16px}
+ul.filtros .nom{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ul.filtros li.cero .nom{color:var(--dim)}
+ul.filtros .solo{visibility:hidden;background:none;border:0;color:var(--ac);font-size:.74rem;cursor:pointer;padding:2px 4px}
+ul.filtros li:hover .solo,ul.filtros .solo:focus{visibility:visible}
+.acciones{margin-top:26px;padding-top:14px;border-top:1px solid var(--linea);display:flex;flex-direction:column;gap:6px}
+.acciones button,.acciones a{background:none;border:1px solid var(--linea);border-radius:6px;padding:6px 10px;
+ font-size:.82rem;cursor:pointer;text-align:left;text-decoration:none;color:var(--fg)}
+.acciones button:hover,.acciones a:hover{border-color:var(--ac);color:var(--ac)}
+main{min-width:0;padding:6px 28px 60px}
+.resumen{color:var(--dim);font-size:.85rem;margin:12px 0 4px}
+
+/* ---------- filas de titulares (app y páginas fijas) */
+ul{list-style:none;margin:0;padding:0}
+li{display:flex;align-items:center;gap:14px;padding:12px 10px;border-bottom:1px solid var(--linea);border-left:4px solid transparent}
+li:hover{background:var(--panel)}
+li.alto{background:var(--ac-suave);border-left-color:var(--ac)}
+.ico{width:26px;height:26px;flex:0 0 26px;border-radius:5px;object-fit:contain;background:var(--panel)}
+.ini{width:26px;height:26px;flex:0 0 26px;border-radius:5px;display:grid;place-items:center;
+ background:var(--linea);font-size:.7rem;font-weight:700;color:var(--dim)}
+.txt{flex:1;min-width:0}
+.txt a{color:var(--fg);text-decoration:none;font-weight:500;display:block;max-width:78ch}
+.txt a:hover{color:var(--ac);text-decoration:underline;text-underline-offset:3px}
+.txt a:visited{color:#4b5560}
+.meta{font-size:.78rem;color:var(--dim);margin-top:3px;display:flex;gap:4px 12px;flex-wrap:wrap}
+.alto-et{color:var(--ac);font-weight:600}
+.cat{flex:0 0 auto;font-size:1.1rem;cursor:default}
+.fav{flex:0 0 auto;background:none;border:0;font-size:1.3rem;color:var(--estrella);cursor:pointer;padding:4px;line-height:1}
+.x{flex:0 0 auto;background:none;border:0;color:var(--dim);font-size:1.05rem;cursor:pointer;padding:4px 7px;border-radius:5px;line-height:1}
+.x:hover{background:var(--linea);color:var(--fg)}
+.vacio{color:var(--dim);padding:40px 0;text-align:center}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--linea);color:var(--dim);font-size:.8rem;max-width:90ch}
+code{font-size:.9em}
+
+/* ---------- páginas fijas (archivo y días) */
+.wrap{max-width:1100px;margin:0 auto;padding:20px 24px 70px}
+.wrap header{display:flex;align-items:center;gap:18px;flex-wrap:wrap;border-bottom:1px solid var(--linea);padding-bottom:12px;margin-bottom:8px}
+.wrap header nav{display:flex;gap:14px}
+.wrap header nav a{color:var(--ac);font-size:.9rem}
+.wrap h2{font-size:.95rem;margin:20px 0 6px}
+
+/* ---------- móvil: el lateral se pliega */
+.solo-movil{display:none}
+#velo{display:none}
+@media (max-width:860px){
+ body{font-size:17px}
+ .top{padding:0 14px;gap:10px}
+ .top .sello{display:none}
+ .solo-movil{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--linea);
+  border-radius:6px;padding:5px 11px;font-size:.88rem;cursor:pointer}
+ .marco{display:block}
+ #lateral{position:fixed;top:0;left:0;bottom:0;height:auto;width:min(86vw,330px);z-index:40;
+  transform:translateX(-102%);transition:transform .2s ease;box-shadow:0 0 30px rgba(10,30,45,.18)}
+ body.abierto #lateral{transform:none}
+ body.abierto #velo{display:block;position:fixed;inset:0;background:rgba(10,30,45,.35);z-index:30}
+ main{padding:4px 12px 50px}
+ li{gap:10px;padding:11px 6px}
+ .cat{display:none}
+ ul.filtros .solo{visibility:visible}
+}
+@media (prefers-reduced-motion:reduce){#lateral{transition:none}}
+</style></head><body><div class="wrap">
+<header><h1><span class="ping" aria-hidden="true"></span>Radar IA</h1><p class="sub">15 titulares · 2026-11-27</p><nav><a href="index.html">← Bandeja</a><a href="archivo.html">Archivo</a></nav></header>
+<h2>Titulares vistos por primera vez este día</h2>
+<ul>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/empresas-y-economia/taiwan-sufre-mayor-fuga-capital-extranjero-su-historia-ia-gran-sospechosa" target="_blank" rel="noopener">Taiwán sufre la mayor fuga de capital extranjero de su historia y la IA es la gran sospechosa</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Desarrollo con IA">🔨</span></li>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/robotica-e-ia/gptzero-pangram-se-pelean-ser-mejor-detector-textos-hechos-ia-he-probado-basta-cambiar-unas-frases-para-enganarlos" target="_blank" rel="noopener">GPTZero y Pangram se pelean por ser el mejor detector de textos hechos con IA. Los he probado y basta cambiar unas frases para engañarlos</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Modelos">🧠</span></li>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/robotica-e-ia/revuelo-t3-code-programar-ia-explicado-software-open-source-que-usa-telemetria-para-identificar-al-usuario" target="_blank" rel="noopener">El revuelo con T3 Code y programar con IA, explicado: un software open source que usa telemetría para identificar al usuario</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Desarrollo con IA">🔨</span></li>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/espacio/carrera-inteligencia-artificial-no-se-libra-solo-tierra-china-acaba-dar-otro-paso-espacio" target="_blank" rel="noopener">La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/seguridad/tenemos-que-prepararnos-para-proximos-meses-presidente-microsoft-alerta-riesgo-caidas-ligado-a-ia" target="_blank" rel="noopener">&quot;Tenemos que prepararnos para los próximos meses&quot;: el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/xataka-ia.png" alt="" loading="lazy"><div class="txt"><a href="https://www.xataka.com/opinion/inseguridad-se-ha-convertido-condicion-estructural-internet" target="_blank" rel="noopener">La inseguridad se ha convertido en una condición estructural de Internet</a><div class="meta"><span>Xataka — IA</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/simon-willison.png" alt="" loading="lazy"><div class="txt"><a href="https://simonwillison.net/2026/Nov/26/jack-despain-zhou/" target="_blank" rel="noopener">Quoting Jack Despain Zhou</a><div class="meta"><span>Simon Willison</span><span>🇬🇧</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/simon-willison.png" alt="" loading="lazy"><div class="txt"><a href="https://simonwillison.net/2026/Nov/26/hn-50651685/" target="_blank" rel="noopener">The New York Times warns photographers not to update Photoshop over AI features</a><div class="meta"><span>Simon Willison</span><span>🇬🇧</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/hugging-face-blog.png" alt="" loading="lazy"><div class="txt"><a href="https://huggingface.co/blog/video-trainium3" target="_blank" rel="noopener">Taking Trainium3 to the Track: Generating Videos with LTX-2.5</a><div class="meta"><span>Hugging Face — Blog</span><span>🇬🇧</span></div></div><span class="cat" title="Voz, imagen y vídeo">🎙️</span></li>
+<li><img class="ico" src="iconos/latent-space.png" alt="" loading="lazy"><div class="txt"><a href="https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/" target="_blank" rel="noopener">How Clay Builds GTM Agents — Jeff Barg, Head of AI</a><div class="meta"><span>Latent Space</span><span>🇬🇧</span></div></div><span class="cat" title="Agentes y automatización">🕹️</span></li>
+<li><img class="ico" src="iconos/alpaca-tech.png" alt="" loading="lazy"><div class="txt"><a href="https://www.youtube.com/watch?v=tGemPy845i0" target="_blank" rel="noopener">Ya No Contratan Frontends. Contratan ESTO</a><div class="meta"><span>Alpaca Tech</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/benjam-n-cordero.png" alt="" loading="lazy"><div class="txt"><a href="https://www.youtube.com/watch?v=PMnxDlD7mVw" target="_blank" rel="noopener">Anthropic acaba de lanzar 12 funciones de Claude</a><div class="meta"><span>Benjamín Cordero</span><span>🇪🇸</span></div></div><span class="cat" title="Claude y Claude Code">🤖</span></li>
+<li><img class="ico" src="iconos/midudev.png" alt="" loading="lazy"><div class="txt"><a href="https://www.youtube.com/watch?v=nLCablil1Cc" target="_blank" rel="noopener">¿Por qué usar IA gratis puede salirte caro?</a><div class="meta"><span>midudev</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/mouredev.png" alt="" loading="lazy"><div class="txt"><a href="https://www.youtube.com/watch?v=zPqsB5UWYYg" target="_blank" rel="noopener">¿Es el fin de los Juniors? La nueva realidad de la IA</a><div class="meta"><span>MoureDev</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+<li><img class="ico" src="iconos/resumen-ia-de-la-ma-ana.png" alt="" loading="lazy"><div class="txt"><a href="https://rss.com/podcasts/resumen-ia-de-la-manana/3361459" target="_blank" rel="noopener">Resumen IA de la mañana – 27 de noviembre de 2026</a><div class="meta"><span>Resumen IA de la mañana</span><span>🇪🇸</span></div></div><span class="cat" title="Otros">•</span></li>
+</ul><footer>Página de archivo (inmutable). Generada el 27/11/2026 a las 16:30. ⚠️ Feeds caídos: r/LocalLLaMA, Import AI (Jack Clark), Ahead of AI (Raschka), One Useful Thing (Mollick), Inteligencia Artificial (Pocho Costa).</footer></div></body></html>
