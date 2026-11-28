@@ -171,10 +171,10 @@
   "r-localllama": "",
   "simon-willison": "simon-willison.png",
   "hugging-face-blog": "hugging-face-blog.png",
-  "import-ai-jack-clark": "",
+  "import-ai-jack-clark": "import-ai-jack-clark.png",
   "latent-space": "latent-space.png",
-  "ahead-of-ai-raschka": "",
-  "one-useful-thing-mollick": "",
+  "ahead-of-ai-raschka": "ahead-of-ai-raschka.png",
+  "one-useful-thing-mollick": "one-useful-thing-mollick.png",
   "anthropic-youtube": "anthropic-youtube.png",
   "claude-youtube": "claude-youtube.png",
   "claude-art-culos": "claude-art-culos.png",
@@ -249,5 +249,5 @@
  },
  "repo": "proyectotestbuk/radar-ia",
  "corte": "2026-07-01",
- "sello": "27/11/2026 a las 16:30"
+ "sello": "28/11/2026 a las 15:45"
 }

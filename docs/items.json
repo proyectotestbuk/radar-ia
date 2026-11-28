@@ -1,5 +1,148 @@
 [
  {
+  "titulo": "China ya fabrica casi una de cada once memorias DRAM del mundo y la IA le está pagando la fábrica",
+  "url": "https://www.xataka.com/componentes/china-fabrica-casi-cada-once-memorias-dram-mundo-ia-le-esta-pagando-fabrica",
+  "fecha": "2026-11-28T11:00:26+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Tras arrasar en matemáticas y ciberseguridad, la IA tiene nuevo objetivo: liberar las funciones capadas de tu cámara de fotos",
+  "url": "https://www.xataka.com/robotica-e-ia/arrasar-matematicas-ciberseguridad-ia-tiene-nuevo-objetivo-liberar-funciones-capadas-tu-camara-fotos",
+  "fecha": "2026-11-28T09:30:31+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Los chips Blackwell de Nvidia no deberían estar en China, pero han aparecido en un centro de datos de Shanghái vinculado a Alice Huang",
+  "url": "https://www.xataka.com/empresas-y-economia/chips-blackwell-nvidia-aparecen-centro-datos-shanghai-vinculado-a-alice-huang",
+  "fecha": "2026-11-27T16:18:00+00:00",
+  "fuente": "Xataka — IA",
+  "fuente_id": "xataka-ia",
+  "idioma": "es",
+  "cat": "negocio",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "datasette-charts 0.4a0",
+  "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+  "fecha": "2026-11-27T23:57:17+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "datasette-mcp 0.4",
+  "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+  "fecha": "2026-11-27T00:26:17+00:00",
+  "fuente": "Simon Willison",
+  "fuente_id": "simon-willison",
+  "idioma": "en",
+  "cat": "claude",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+  "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+  "fecha": "2026-11-23T14:11:17+00:00",
+  "fuente": "Import AI (Jack Clark)",
+  "fuente_id": "import-ai-jack-clark",
+  "idioma": "en",
+  "cat": "modelos",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "[AINews] Inside the exploding Coding Data Market",
+  "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+  "fecha": "2026-11-28T03:45:59+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "desarrollo",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+  "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+  "fecha": "2026-11-27T22:19:18+00:00",
+  "fuente": "Latent Space",
+  "fuente_id": "latent-space",
+  "idioma": "en",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Hacer videos con IA ya no es caro",
+  "url": "https://www.youtube.com/watch?v=MDiLmfYfIus",
+  "fecha": "2026-11-27T19:25:48+00:00",
+  "fuente": "Benjamín Cordero",
+  "fuente_id": "benjam-n-cordero",
+  "idioma": "es",
+  "cat": "multimedia",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Probando Gemini 4 Neon para controlar mi servidor",
+  "url": "https://www.youtube.com/watch?v=LgUdabOpwaE",
+  "fecha": "2026-11-27T20:10:19+00:00",
+  "fuente": "midudev",
+  "fuente_id": "midudev",
+  "idioma": "es",
+  "cat": "modelos",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "Los dominios no son lo que parecen. Los .ai no tienen NADA que ver con Inteligencia Artificial. ¿Lo",
+  "url": "https://www.youtube.com/shorts/TynU3PGGZDU",
+  "fecha": "2026-11-27T14:34:35+00:00",
+  "fuente": "midudev",
+  "fuente_id": "midudev",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "La IA abierta está volviendo: GLM 5.4 e Inkling 2 Mini en local",
+  "url": "https://www.youtube.com/watch?v=BkqKWTLpk6g",
+  "fecha": "2026-11-27T14:32:46+00:00",
+  "fuente": "midudev",
+  "fuente_id": "midudev",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
+  "titulo": "IA al día · El Black Friday de la IA",
+  "url": "https://manugijon.com/podcast/el-black-friday-de-la-ia/",
+  "fecha": "2026-11-27T18:40:11+00:00",
+  "fuente": "IA al día (pódcast)",
+  "fuente_id": "ia-al-d-a-p-dcast",
+  "idioma": "es",
+  "cat": "otros",
+  "dia": "2026-11-28",
+  "interes": "?"
+ },
+ {
   "titulo": "Taiwán sufre la mayor fuga de capital extranjero de su historia y la IA es la gran sospechosa",
   "url": "https://www.xataka.com/empresas-y-economia/taiwan-sufre-mayor-fuga-capital-extranjero-su-historia-ia-gran-sospechosa",
   "fecha": "2026-11-27T14:02:20+00:00",
