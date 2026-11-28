@@ -6,9 +6,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "desarrollo",
+  "cat": "negocio",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Fuga de capital y economía de Taiwán"
  },
  {
   "titulo": "GPTZero y Pangram se pelean por ser el mejor detector de textos hechos con IA. Los he probado y basta cambiar unas frases para engañarlos",
@@ -17,9 +18,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "modelos",
+  "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Detectores de texto IA; fácilmente engañables"
  },
  {
   "titulo": "El revuelo con T3 Code y programar con IA, explicado: un software open source que usa telemetría para identificar al usuario",
@@ -28,9 +30,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "desarrollo",
+  "cat": "claude",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "medio",
+  "motivo": "Herramienta de programación IA con telemetría polémica"
  },
  {
   "titulo": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio",
@@ -41,7 +44,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Carrera espacial china; geopolítica sin efecto aquí"
  },
  {
   "titulo": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
@@ -50,9 +54,10 @@
   "fuente": "Xataka — IA",
   "fuente_id": "xataka-ia",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "negocio",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Alerta corporativa de caídas; opinión sin datos"
  },
  {
   "titulo": "La inseguridad se ha convertido en una condición estructural de Internet",
@@ -63,7 +68,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Opinión genérica sobre seguridad en Internet"
  },
  {
   "titulo": "Quoting Jack Despain Zhou",
@@ -74,7 +80,8 @@
   "idioma": "en",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Cita sin contexto suficiente"
  },
  {
   "titulo": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -83,9 +90,10 @@
   "fuente": "Simon Willison",
   "fuente_id": "simon-willison",
   "idioma": "en",
-  "cat": "otros",
+  "cat": "multimedia",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Política de Photoshop para fotógrafos; poco relevante"
  },
  {
   "titulo": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -96,7 +104,8 @@
   "idioma": "en",
   "cat": "multimedia",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Vídeo con hardware AWS Trainium; no aplicable"
  },
  {
   "titulo": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
@@ -107,7 +116,8 @@
   "idioma": "en",
   "cat": "agentes",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Agentes comerciales para ventas; poco aplicable"
  },
  {
   "titulo": "Ya No Contratan Frontends. Contratan ESTO",
@@ -118,7 +128,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Clickbait sobre contratación de frontends"
  },
  {
   "titulo": "Anthropic acaba de lanzar 12 funciones de Claude",
@@ -129,7 +140,8 @@
   "idioma": "es",
   "cat": "claude",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "alto",
+  "motivo": "Doce novedades de Claude; revisar si aplican"
  },
  {
   "titulo": "¿Por qué usar IA gratis puede salirte caro?",
@@ -140,7 +152,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Opinión genérica sobre IA gratuita"
  },
  {
   "titulo": "¿Es el fin de los Juniors? La nueva realidad de la IA",
@@ -149,9 +162,10 @@
   "fuente": "MoureDev",
   "fuente_id": "mouredev",
   "idioma": "es",
-  "cat": "otros",
+  "cat": "negocio",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Opinión sobre empleo junior; sin datos"
  },
  {
   "titulo": "Resumen IA de la mañana – 27 de noviembre de 2026",
@@ -162,7 +176,8 @@
   "idioma": "es",
   "cat": "otros",
   "dia": "2026-11-27",
-  "interes": "?"
+  "interes": "nada",
+  "motivo": "Resumen diario agregado; sin novedad concreta"
  },
  {
   "titulo": "Hace un año instalé OpenClaw y he matado más agentes que Tamagotchis. Sigo convencido de que cambió la IA",
